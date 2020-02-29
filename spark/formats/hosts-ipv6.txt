@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.060
-# Release: 060
-# Entries: 61,503
+# Version: 20.03.061
+# Release: 061
+# Entries: 61,502
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 29 Feb 20 18:10:43
+# Updated: Sun, 01 Mar 20 00:10:37
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -20228,7 +20228,6 @@ ff02::3 ip6-allhosts
 :: el-lada.com
 :: elabalar.pw
 :: elamyar.pw
-:: elanatality.info
 :: elasticad.com
 :: elasticad.net
 :: elasticchange.com
