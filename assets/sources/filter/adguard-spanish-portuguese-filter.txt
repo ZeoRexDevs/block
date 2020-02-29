@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/9.txt
 # Last Converted - 29.02.2020
-# Total Domains - 211
+# Total Domains - 176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10,41 +10,27 @@
 0.0.0.0 actualtrade.eu
 0.0.0.0 ad-pub.terra.com.br
 0.0.0.0 ad.batanga.com
-0.0.0.0 ad.correioweb.com.br
-0.0.0.0 ad.harrenmedianetwork.com
 0.0.0.0 ad.jamba.pt
 0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.terra.com
-0.0.0.0 ad.terra.com.mx
 0.0.0.0 adbasket.net
 0.0.0.0 adcell.de
-0.0.0.0 adclient-uol.lp.uol.com.br
 0.0.0.0 adfueling.com
 0.0.0.0 adnetwork.com.br
-0.0.0.0 ads.adpv.com
-0.0.0.0 ads.celldorado.com
 0.0.0.0 ads.dgabcsolutions.com.br
 0.0.0.0 ads.elpais.com.uy
 0.0.0.0 ads.eorezo.com
-0.0.0.0 ads.gamavirtual.com
-0.0.0.0 ads.gazetaesportiva.net
 0.0.0.0 ads.grupozeta.es
 0.0.0.0 ads.lomadee.com
 0.0.0.0 ads.mercadoclics.com
 0.0.0.0 ads.olx.com
-0.0.0.0 ads.periodistadigital.com
 0.0.0.0 ads.prisacom.com
-0.0.0.0 ads.regiedepub.com
-0.0.0.0 ads.sapo.pt
 0.0.0.0 ads.terra.es
-0.0.0.0 ads.tvtuga.com
 0.0.0.0 ads.webme.com
-0.0.0.0 ads.xl.pt
 0.0.0.0 adserver.clix.pt
 0.0.0.0 adsmwt.com
 0.0.0.0 adsnetworkbr.ml
 0.0.0.0 adsroute.com
-0.0.0.0 adultoafiliados.com.br
 0.0.0.0 adw.sapo.pt
 0.0.0.0 affilired.com
 0.0.0.0 afiliados.hostgator.com.br
@@ -54,15 +40,12 @@
 0.0.0.0 antevenio.com
 0.0.0.0 anunciospatrocinados.com
 0.0.0.0 astrolabio.net
-0.0.0.0 banners.emol.com
 0.0.0.0 banners.todoconsolas.com
-0.0.0.0 bit.ly
 0.0.0.0 bn.imguol.com
 0.0.0.0 boudja.com
 0.0.0.0 box.zap.com.br
 0.0.0.0 bpiexpressoimobiliario.pt
 0.0.0.0 bserver.gp-guia.net
-0.0.0.0 buscape.com.br
 0.0.0.0 buxim.com
 0.0.0.0 c9p7at3pctmprvb5ecq66vvd.ml
 0.0.0.0 cameraprive.com
@@ -70,15 +53,12 @@
 0.0.0.0 cliccabanner.com
 0.0.0.0 clicks.abril.com.br
 0.0.0.0 cliquemidia.com
-0.0.0.0 codigobarras.net
 0.0.0.0 coguan.com
 0.0.0.0 comandosfilmes.org
 0.0.0.0 compras.periodistadigital.com
-0.0.0.0 contadordevisitas.es
 0.0.0.0 contadores.miarroba.es
 0.0.0.0 contadorgratis.com
 0.0.0.0 contadorgratis.es
-0.0.0.0 contadorgratis.web-kit.org
 0.0.0.0 controlsgc.prisacom.com
 0.0.0.0 coolmobile.es
 0.0.0.0 cowcash.net
@@ -100,13 +80,8 @@
 0.0.0.0 grupoemidia.com.br
 0.0.0.0 habboin.com
 0.0.0.0 hilariouszinc.com
-0.0.0.0 hit.copesa.cl
 0.0.0.0 hitopadxdo.xyz
-0.0.0.0 hits.e.cl
 0.0.0.0 hospedagembarata.ml
-0.0.0.0 hotwords.com.br
-0.0.0.0 hotwords.com.mx
-0.0.0.0 hotwords.es
 0.0.0.0 hoy21.com
 0.0.0.0 idealista.com
 0.0.0.0 ieurop.net
@@ -118,13 +93,10 @@
 0.0.0.0 kontextua.com
 0.0.0.0 linkeasy.org
 0.0.0.0 literaturanocinema.com.br
-0.0.0.0 logs.eresmas.com
 0.0.0.0 lojapremio.com.br
 0.0.0.0 lomadee.com
 0.0.0.0 lzrikate.com
 0.0.0.0 m-aeti-bocieva.info
-0.0.0.0 maik.ff-bt.net
-0.0.0.0 maispremium.com.br
 0.0.0.0 manuaisadultos.com.br
 0.0.0.0 metaffiliation.com
 0.0.0.0 metododinheiro.pt
@@ -155,12 +127,10 @@
 0.0.0.0 pmssrv.mercadolibre.com.ve
 0.0.0.0 pmssrv.mercadolivre.com.br
 0.0.0.0 potu.xyz
-0.0.0.0 ppi.terra.com.br
 0.0.0.0 premiumads.com.br
 0.0.0.0 probabilidades.net
 0.0.0.0 proxytools.us
 0.0.0.0 pub.lacuerda.net
-0.0.0.0 publi.forum.ad
 0.0.0.0 publicidad.net
 0.0.0.0 publicidees.com
 0.0.0.0 publipagos.com
@@ -181,13 +151,11 @@
 0.0.0.0 spublicidad.net
 0.0.0.0 stats.adn.es
 0.0.0.0 stats.folha.com.br
-0.0.0.0 stats.milenio.com
 0.0.0.0 subdo.torrentrapid.com
 0.0.0.0 subdo.tumejortorrent.com
 0.0.0.0 sunmedia.tv
 0.0.0.0 swi-adserver.com
 0.0.0.0 sworatio.co
-0.0.0.0 t.co
 0.0.0.0 tags.orquideassp.com
 0.0.0.0 tckn-code.com
 0.0.0.0 templates.buscape.com
@@ -202,15 +170,12 @@
 0.0.0.0 tufos.com.br
 0.0.0.0 tutonovip.com
 0.0.0.0 urlcash.net
-0.0.0.0 uv.terra.com.br
 0.0.0.0 ver-pelis.net
 0.0.0.0 vitrine.lugarcerto.com.br
 0.0.0.0 vitrines.globo.com
 0.0.0.0 voitto.com.br
 0.0.0.0 waycash.net
-0.0.0.0 webstats.sapo.pt
 0.0.0.0 widgets.informars.com
-0.0.0.0 xclk-integracion.com
 0.0.0.0 xstronger.com
 0.0.0.0 yestorrents.org
 0.0.0.0 ymonetize.com

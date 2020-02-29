@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
 # Last Converted - 29.02.2020
-# Total Domains - 83
+# Total Domains - 75
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -40,8 +40,6 @@
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hit.interia.pl
 0.0.0.0 hitslink.interia.com.pl
-0.0.0.0 int.sitestat.com
-0.0.0.0 intrack.pl
 0.0.0.0 kapi.dev
 0.0.0.0 legenhit.com
 0.0.0.0 mautic.sfanews.pl
@@ -50,8 +48,6 @@
 0.0.0.0 netmng.com
 0.0.0.0 nextclick.pl
 0.0.0.0 nsaudience.pl
-0.0.0.0 p.typekit.net
-0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.wp.pl
 0.0.0.0 pixel6.wp.pl
 0.0.0.0 plugin.management
@@ -59,7 +55,6 @@
 0.0.0.0 ps.polt.pl
 0.0.0.0 px.wp.pl
 0.0.0.0 quantserve.com
-0.0.0.0 revsci.net
 0.0.0.0 salesbee.pl
 0.0.0.0 salesbeehive.com
 0.0.0.0 salesmanago.pl
@@ -72,7 +67,6 @@
 0.0.0.0 stat.onestat.com
 0.0.0.0 stat.pl
 0.0.0.0 stat24.com
-0.0.0.0 statcounter.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 stats-srv.rp.pl
 0.0.0.0 stats.goldenline.pl
@@ -80,10 +74,8 @@
 0.0.0.0 sylaba.net
 0.0.0.0 track.buybox.click
 0.0.0.0 track.omgpl.com
-0.0.0.0 track.reinvigorate.net
 0.0.0.0 tracker.twenga.pl
 0.0.0.0 tracking.affiliate44.com.pl
-0.0.0.0 tracking.quisma.com
 0.0.0.0 traq.li
 0.0.0.0 unknow.now.sh
 0.0.0.0 ut.o2.pl
