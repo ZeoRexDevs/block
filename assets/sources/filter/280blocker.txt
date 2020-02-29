@@ -1,8 +1,8 @@
 # Title: 280blocker Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_domain.txt
-# Last Converted - 28.02.2020
-# Total Domains - 945
+# Last Converted - 29.02.2020
+# Total Domains - 1047
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16,6 +16,7 @@
 0.0.0.0 82b9d6273154e7cbf.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-c-engine.com
+0.0.0.0 a-cast.jp
 0.0.0.0 a.cookpad-ads.com
 0.0.0.0 a1.goo.ne.jp
 0.0.0.0 aa.agkn.com
@@ -24,6 +25,7 @@
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 abema-adx.ameba.jp
 0.0.0.0 accessup.goldcows.com
+0.0.0.0 act.ameba.jp
 0.0.0.0 ad-alp.net
 0.0.0.0 ad-analyze.jp
 0.0.0.0 ad-arata.com
@@ -49,6 +51,7 @@
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-trip.com
+0.0.0.0 ad-v.jp
 0.0.0.0 ad-vanx.com
 0.0.0.0 ad.2ch.live
 0.0.0.0 ad.886644.com
@@ -60,6 +63,8 @@
 0.0.0.0 ad.angel-live.com
 0.0.0.0 ad.api.fello.net
 0.0.0.0 ad.atdmt.com
+0.0.0.0 ad.auditude.com
+0.0.0.0 ad.axyzconductor.jp
 0.0.0.0 ad.brainer.jp
 0.0.0.0 ad.cq-andc.jp
 0.0.0.0 ad.ddo.jp
@@ -71,24 +76,32 @@
 0.0.0.0 ad.goodad.jp
 0.0.0.0 ad.gunosy.com
 0.0.0.0 ad.heypo.com
+0.0.0.0 ad.impressbm.co.jp
 0.0.0.0 ad.internetcom.jp
 0.0.0.0 ad.jognote.com
 0.0.0.0 ad.jorudan.co.jp
 0.0.0.0 ad.mediba.jp
 0.0.0.0 ad.netowl.jp
+0.0.0.0 ad.pitta.ne.jp
 0.0.0.0 ad.plus-a.net
 0.0.0.0 ad.rarure.com
+0.0.0.0 ad.response.jp
+0.0.0.0 ad.smaato.net
 0.0.0.0 ad.somewrite.jp
 0.0.0.0 ad.sp.mbga.jp
+0.0.0.0 ad.tokyo-tube-ad.com
 0.0.0.0 ad.unispire.jp
 0.0.0.0 ad.val.jp
 0.0.0.0 ad.webdice.jp
+0.0.0.0 ad.wiredvision.jp
 0.0.0.0 ad.xdomain.ne.jp
 0.0.0.0 ad2.fm-p.jp
 0.0.0.0 ad2.maho.jp
 0.0.0.0 adap.tv
 0.0.0.0 adapf.com
 0.0.0.0 adapi.gunosy.com
+0.0.0.0 adaptv.advertising.com
+0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adc.shinobi.jp
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adck.crooz.jp
@@ -97,6 +110,7 @@
 0.0.0.0 adcolony.com
 0.0.0.0 adcrops.net
 0.0.0.0 adcv.jp
+0.0.0.0 addelivery-engine-api.voodoo-ads.io
 0.0.0.0 addelivery.seedapp.jp
 0.0.0.0 addeluxe.jp
 0.0.0.0 adexchangeguru.com
@@ -111,8 +125,12 @@
 0.0.0.0 adimg.net
 0.0.0.0 adimp.excite.co.jp
 0.0.0.0 adingo.jp
+0.0.0.0 adingo.jp.eimg.jp
 0.0.0.0 adinte.jp
+0.0.0.0 adjust-net.jp
+0.0.0.0 adjust-sp.jp
 0.0.0.0 adk2x.com
+0.0.0.0 adlantis.jp
 0.0.0.0 adlib.cptv.jp
 0.0.0.0 adlpo.com
 0.0.0.0 adm.fwmrm.net
@@ -139,6 +157,7 @@
 0.0.0.0 adprovider.maru.jp
 0.0.0.0 adrcf.com
 0.0.0.0 adresult-sp.jp
+0.0.0.0 adresult.jp
 0.0.0.0 adroll.com
 0.0.0.0 ads-api.hackadoll.com
 0.0.0.0 ads-i2i.jp
@@ -151,15 +170,21 @@
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.altema.jp
 0.0.0.0 ads.bulldogcpi.com
+0.0.0.0 ads.chartboosts.com
+0.0.0.0 ads.doko.jp
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.gold
+0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.mediams.mb.softbank.jp
+0.0.0.0 ads.mediasmart.es
+0.0.0.0 ads.mixi.jp
 0.0.0.0 ads.mobring.co
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mulan.cloud
 0.0.0.0 ads.newsdigest.jp
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
+0.0.0.0 ads.nikkeibp.co.jp
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.stickyadstv.com
@@ -174,11 +199,13 @@
 0.0.0.0 adserver.cxad.cxense.com
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.com
+0.0.0.0 adsk2.co
 0.0.0.0 adsnative.com
 0.0.0.0 adstore.jp
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtc.daum.net
 0.0.0.0 adtdp.com
+0.0.0.0 adtech.advertising.com
 0.0.0.0 adtech.de
 0.0.0.0 adtechjp.com
 0.0.0.0 adticker.net
@@ -194,9 +221,11 @@
 0.0.0.0 adv.mobsmart.net
 0.0.0.0 advbanners.global.ssl.fastly.net
 0.0.0.0 advertising.jp.msn.com
+0.0.0.0 advimg.ad-mapps.com
 0.0.0.0 advisionclick.yicha.jp
 0.0.0.0 advisionweb.yicha.jp
 0.0.0.0 advisionwebp.yicha.jp
+0.0.0.0 advnet.xyz
 0.0.0.0 advpic.yicha.jp
 0.0.0.0 advtrack.yicha.jp
 0.0.0.0 adw.addlv.smt.docomo.ne.jp
@@ -247,13 +276,17 @@
 0.0.0.0 api.adxcorp.kr
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.cho-ro.club
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.kaiu-marketing.com
 0.0.0.0 api.popin.cc
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.repro.io
+0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.webpush.jp
 0.0.0.0 app-c.net
 0.0.0.0 app-install-world.com
+0.0.0.0 app-measurement.com
 0.0.0.0 appad.click
 0.0.0.0 appad02.mbsp.jp
 0.0.0.0 appier.mobi
@@ -285,9 +318,12 @@
 0.0.0.0 avdm.mobi
 0.0.0.0 axia-hakusan.com
 0.0.0.0 azvjudwr.info
+0.0.0.0 b.grvcdn.com
 0.0.0.0 b.smartnews.be
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
+0.0.0.0 ba.afl.rakuten.co.jp
+0.0.0.0 banner.blogranking.net
 0.0.0.0 bannerbridge.net
 0.0.0.0 bannerfarm.aolp.jp
 0.0.0.0 bc.atleit.com
@@ -310,11 +346,14 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bnserving.com
 0.0.0.0 bongacams.com
+0.0.0.0 bootstrapcdn.jdorfman.netdna-cdn.com
 0.0.0.0 boudja.com
 0.0.0.0 boxadstop.com
 0.0.0.0 brandscreen.biz
 0.0.0.0 broadstreetads.com
 0.0.0.0 brucelead.com
+0.0.0.0 btstatic.com
+0.0.0.0 bufferapp.com
 0.0.0.0 bvezznurwekr.com
 0.0.0.0 bypass.jp
 0.0.0.0 c.betrad.com
@@ -326,12 +365,14 @@
 0.0.0.0 caprofitx.adtop.com
 0.0.0.0 caprofitx.com
 0.0.0.0 carbonads.com
+0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-guile.akamaized.net
 0.0.0.0 cdn.ad1-click.com
 0.0.0.0 cdn.adpicker.net
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.alistcloud.com
 0.0.0.0 cdn.bigmining.com
+0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 cdn.neppa-ad.com
@@ -349,6 +390,7 @@
 0.0.0.0 chikayo-dsp.shinobi.jp
 0.0.0.0 cint.com
 0.0.0.0 click-plus.net
+0.0.0.0 click.adv.livedoor.com
 0.0.0.0 click.duga.jp
 0.0.0.0 click.speee-ad.jp
 0.0.0.0 clickadu.com
@@ -364,9 +406,11 @@
 0.0.0.0 code.orange-jelly.net
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
+0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
 0.0.0.0 comic-promotion.com
 0.0.0.0 coremetrics.com
@@ -383,16 +427,21 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 crosspartners.net
+0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.com
 0.0.0.0 cs.r-ad.ne.jp
+0.0.0.0 csi.gstatic.com
 0.0.0.0 ct2.shinobi.jp
 0.0.0.0 cube.jpn.com
+0.0.0.0 cyberwing.co.jp
 0.0.0.0 d.5.to
 0.0.0.0 d.agkn.com
 0.0.0.0 d.image-ad.jp
+0.0.0.0 d.pixiv.org
 0.0.0.0 d.somewrite.jp
 0.0.0.0 d1miuq6afqay8u.cloudfront.net
+0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d28nwox1gdjlve.cloudfront.net
 0.0.0.0 d2c.ne.jp
 0.0.0.0 d2swpuhpwp3khd.cloudfront.net
@@ -401,6 +450,7 @@
 0.0.0.0 delivery.locari.jp
 0.0.0.0 deloplen.com
 0.0.0.0 deloton.com
+0.0.0.0 demand.supply
 0.0.0.0 deqwas-dsp.net
 0.0.0.0 deqwas.net
 0.0.0.0 directlink.jp
@@ -421,6 +471,7 @@
 0.0.0.0 dtscout.com
 0.0.0.0 dynalyst.jp
 0.0.0.0 eb2.3lift.com
+0.0.0.0 eco-tag.jp
 0.0.0.0 effectivemeasure.net
 0.0.0.0 emailretargeting.com
 0.0.0.0 emp.aiasahi.jp
@@ -457,6 +508,7 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 fsitel.com
 0.0.0.0 fullrss.net
+0.0.0.0 g2.gumgum.com
 0.0.0.0 gad.shinobi.jp
 0.0.0.0 gamefeat.net
 0.0.0.0 garss.tv
@@ -464,6 +516,7 @@
 0.0.0.0 geniee.jp
 0.0.0.0 genieedmp.com
 0.0.0.0 genieesspv.jp
+0.0.0.0 geo.yahoo.com
 0.0.0.0 get.mobu.jp
 0.0.0.0 gigazine.asia
 0.0.0.0 glam.com
@@ -475,12 +528,14 @@
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.bebi.com
+0.0.0.0 go.megabanners.cf
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.onclasrv.com
 0.0.0.0 goliath.bi.miniclippt.com
 0.0.0.0 goodlifess.jp
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 gravity.com
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
@@ -502,6 +557,7 @@
 0.0.0.0 i.connectad.io
 0.0.0.0 i.image-ad.jp
 0.0.0.0 i.popincdn.com
+0.0.0.0 i.tapit.com
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.com
 0.0.0.0 i2i.jp
@@ -514,6 +570,7 @@
 0.0.0.0 igp06.gameloft.com
 0.0.0.0 im-apps.net
 0.0.0.0 im.gmo.ov.yahoo.co.jp
+0.0.0.0 im.ov.yahoo.co.jp
 0.0.0.0 im.seesaa.ov.yahoo.co.jp
 0.0.0.0 image.d-064.com
 0.0.0.0 img-space.net
@@ -523,6 +580,7 @@
 0.0.0.0 img.macromill.com
 0.0.0.0 img.mobee2.jp
 0.0.0.0 imgcdn01.formulas.jp
+0.0.0.0 imp.asahi.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 in.treasuredata.com
@@ -530,12 +588,16 @@
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingameads2.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
+0.0.0.0 ingest.crittercism.com
 0.0.0.0 inmobi-jp.com
 0.0.0.0 inmobi.com
+0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 innovate-blog.info
 0.0.0.0 inpagepush.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 inter1ads.com
+0.0.0.0 intergi.com
+0.0.0.0 interstitial.fyber.com
 0.0.0.0 intertakekuhy.info
 0.0.0.0 invocation.cheqzone.com
 0.0.0.0 io.narrative.io
@@ -544,9 +606,12 @@
 0.0.0.0 j.gmodmp.jp
 0.0.0.0 j.image-ad.jp
 0.0.0.0 j.somewrite.jp
+0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 j.zucks.net.zimg.jp.cdngc.net
+0.0.0.0 japanmetrix.jp
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js-sdk-crossmedia.ec-concier.com
+0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.8-starssp.net
 0.0.0.0 js.ad-trive.jp
 0.0.0.0 js.agkn.com
@@ -570,12 +635,14 @@
 0.0.0.0 juicyads.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 k77hof1z7k.com
+0.0.0.0 kau.li
 0.0.0.0 kdowqlpt.info
 0.0.0.0 ketchapp.org
 0.0.0.0 kiosked.com
 0.0.0.0 kochava.com
 0.0.0.0 koindut.com
 0.0.0.0 koukoku.red
+0.0.0.0 krxd.net
 0.0.0.0 ktai.pw
 0.0.0.0 l.betrad.com
 0.0.0.0 ladsp.com
@@ -584,16 +651,20 @@
 0.0.0.0 leadin.com
 0.0.0.0 leaffi.jp
 0.0.0.0 line-cross.com
+0.0.0.0 listat.biz
 0.0.0.0 live.chartboost.com
 0.0.0.0 livead.jp
 0.0.0.0 liveads.jp
 0.0.0.0 livelog.biz
+0.0.0.0 livelyoffers.club
 0.0.0.0 liverail.com
+0.0.0.0 lmodr.biz
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loadmill.com
 0.0.0.0 localytics.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log000.goo.ne.jp
+0.0.0.0 logly.co.jp
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logv2.r-oo.jp
 0.0.0.0 lp.vasta.co.jp
@@ -607,12 +678,15 @@
 0.0.0.0 mahimeta.com
 0.0.0.0 maist.jp
 0.0.0.0 manga.boy.jp
+0.0.0.0 mataharirama.xyz
 0.0.0.0 match.adsrvr.org
 0.0.0.0 mathtag.com
 0.0.0.0 mb-click.jp
 0.0.0.0 mdn2015x1.com
 0.0.0.0 mdpl-jp.com
 0.0.0.0 measure.ameblo.jp
+0.0.0.0 med-api.admost.com
+0.0.0.0 med.heyzap.com
 0.0.0.0 medi-8.net
 0.0.0.0 media-api.maio.jp
 0.0.0.0 media-b.jp
@@ -625,10 +699,16 @@
 0.0.0.0 mediaid.click
 0.0.0.0 mediaweaver.jp
 0.0.0.0 medibaad.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 mgid.com
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 minemytraffic.com
+0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 minero.pw
 0.0.0.0 misawa-antenna.link
 0.0.0.0 mmaaxx.com
 0.0.0.0 mmoframes.com
@@ -641,6 +721,7 @@
 0.0.0.0 monerominer.rocks
 0.0.0.0 moopoemoe.com
 0.0.0.0 moradu.com
+0.0.0.0 moras.jp
 0.0.0.0 mov-c.appli-info.com
 0.0.0.0 mreco0.jp
 0.0.0.0 msg.simeji.baidu.jp
@@ -693,11 +774,14 @@
 0.0.0.0 optad360.io
 0.0.0.0 orangemovie.link
 0.0.0.0 osiete-k.com
+0.0.0.0 ot.ca-mpr.jp
 0.0.0.0 otaimg.com
 0.0.0.0 otapict.com
 0.0.0.0 outbrain.com
 0.0.0.0 overlay.top
 0.0.0.0 owldata.com
+0.0.0.0 p.rfihub.com
+0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pascal5.science
 0.0.0.0 patiland.co
@@ -707,6 +791,7 @@
 0.0.0.0 pippio.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.wp.com
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 play.entretenimientolz.com
 0.0.0.0 polymorphicads.jp
@@ -722,6 +807,7 @@
 0.0.0.0 preaf-ad.jp
 0.0.0.0 preaf.jp
 0.0.0.0 primead.jp
+0.0.0.0 prism.pandora.tv
 0.0.0.0 projectpoi.com
 0.0.0.0 promo.verajohn.com
 0.0.0.0 proparm.jp
@@ -748,6 +834,7 @@
 0.0.0.0 rdp.pro.ne.jp
 0.0.0.0 reajyu.net
 0.0.0.0 reargooduches.pro
+0.0.0.0 reasedoper.pw
 0.0.0.0 rec1.smt.docomo.ne.jp
 0.0.0.0 red.hatena.ne.jp
 0.0.0.0 red.st-hatena.com
@@ -758,6 +845,7 @@
 0.0.0.0 reporo.net
 0.0.0.0 ressp.net
 0.0.0.0 resultplus.jp
+0.0.0.0 revsci.net
 0.0.0.0 rihzsedipaqq.com
 0.0.0.0 rinad.jp
 0.0.0.0 rocks.io
@@ -767,12 +855,15 @@
 0.0.0.0 rss-loader.com
 0.0.0.0 rss.rssad.jp
 0.0.0.0 rtb.appintop.com
+0.0.0.0 rtb.nativeads.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 run-syndicate.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s.206ads.com
 0.0.0.0 s.pagoda56.com
+0.0.0.0 s.pubmine.com
 0.0.0.0 s.storage-ad.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.yicha.jp
@@ -791,6 +882,7 @@
 0.0.0.0 searchteria.co.jp
 0.0.0.0 seedapp-creative.s3.amazonaws.com
 0.0.0.0 serve.richmediaads.com
+0.0.0.0 servedby.openxmarket.jp
 0.0.0.0 services-rakutencard.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sharethrough.com
@@ -813,6 +905,7 @@
 0.0.0.0 smopy.com
 0.0.0.0 socdm.com
 0.0.0.0 solty.biz
+0.0.0.0 soma.smaato.net
 0.0.0.0 someapp.me
 0.0.0.0 soraad.jp
 0.0.0.0 sp-click2.jp
@@ -839,6 +932,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 static.zucks.net.zimg.jp
 0.0.0.0 stats.atrl.co
+0.0.0.0 stats.unity3d.com
 0.0.0.0 stats.wp.com
 0.0.0.0 statsforads.com
 0.0.0.0 statsp.fpop.net
@@ -853,10 +947,12 @@
 0.0.0.0 swcs.jp
 0.0.0.0 syaseigangan.club
 0.0.0.0 sync-tapi.admatrix.jp
+0.0.0.0 sync.aralego.com
 0.0.0.0 sync.shinobi.jp
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.net-ap19.stream
 0.0.0.0 taboola.com
+0.0.0.0 tacoda.net
 0.0.0.0 tags.h12-media.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
@@ -880,6 +976,7 @@
 0.0.0.0 track.somewrite.jp
 0.0.0.0 track.tenjin.io
 0.0.0.0 tracker.mca-analytics.com
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackfeed.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.yohoads.com
@@ -890,6 +987,7 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficstars.com
 0.0.0.0 trans-ad.jp
+0.0.0.0 trax-ad.jp
 0.0.0.0 trc.pitadtag.jp
 0.0.0.0 trends.revcontent.com
 0.0.0.0 tsyndicate.com
@@ -916,6 +1014,7 @@
 0.0.0.0 wa-track.com
 0.0.0.0 wearelovelive.com
 0.0.0.0 web-analysis.click
+0.0.0.0 web.stati.bid
 0.0.0.0 webmasterjs.com
 0.0.0.0 webmine.cz
 0.0.0.0 webpush-cdn.mobify.net
@@ -930,6 +1029,7 @@
 0.0.0.0 www.agkn.com
 0.0.0.0 www.rakuten-contect-japan-servicc.com
 0.0.0.0 www3.smartadserver.com
+0.0.0.0 wwwpromoter.com
 0.0.0.0 x-lift.jp
 0.0.0.0 x-storage-a1.cir.io
 0.0.0.0 x3.shinobi.jp
@@ -947,8 +1047,10 @@
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 ylx-1.com
+0.0.0.0 zbtqpkimkjcr.com
 0.0.0.0 zedo.com
 0.0.0.0 zemanta.com
 0.0.0.0 zenback.jp
 0.0.0.0 ziyu.net
+0.0.0.0 zmnqoymznwng.com
 0.0.0.0 zucks.net

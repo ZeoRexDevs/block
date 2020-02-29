@@ -1,13 +1,14 @@
 # Title: adblock-iran Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
-# Last Converted - 28.02.2020
-# Total Domains - 58
+# Last Converted - 29.02.2020
+# Total Domains - 59
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
 
 0.0.0.0 1000click.ir
+0.0.0.0 ad.utop.ir
 0.0.0.0 adment.space
 0.0.0.0 adnegah.net
 0.0.0.0 ads.rzb.ir

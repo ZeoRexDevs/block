@@ -1,13 +1,14 @@
 # Title: uassets-badware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-# Last Converted - 28.02.2020
-# Total Domains - 217
+# Last Converted - 29.02.2020
+# Total Domains - 226
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
 
 0.0.0.0 1hos.cf
+0.0.0.0 1hosts.cf
 0.0.0.0 36512300.com
 0.0.0.0 5qg9ibt1a6.com
 0.0.0.0 7zip.es
@@ -55,6 +56,7 @@
 0.0.0.0 channel-7-news.com
 0.0.0.0 check-now.net
 0.0.0.0 check-prize-here3.life
+0.0.0.0 check-prizes-now2.life
 0.0.0.0 checkisreal.com
 0.0.0.0 circlerabbits.info
 0.0.0.0 clickenhanced.com
@@ -64,6 +66,7 @@
 0.0.0.0 clonezilla.it
 0.0.0.0 cobalten.com
 0.0.0.0 com-guest.info
+0.0.0.0 com.com
 0.0.0.0 comparetvs.net
 0.0.0.0 crvtck.com
 0.0.0.0 cyberduck.de
@@ -88,6 +91,7 @@
 0.0.0.0 filezilla.net
 0.0.0.0 filezilla.pl
 0.0.0.0 filezilla.pt
+0.0.0.0 find-me-now.com
 0.0.0.0 findthebestoffer.com
 0.0.0.0 flexytalk.net
 0.0.0.0 forwrdnow.com
@@ -129,6 +133,7 @@
 0.0.0.0 inkscape.fr
 0.0.0.0 inkscape.it
 0.0.0.0 install.convertmyvid.com
+0.0.0.0 internet-security-73bd67kl.tk
 0.0.0.0 izarc.fr
 0.0.0.0 jackielovedogs.com
 0.0.0.0 jdownloader.fr
@@ -177,13 +182,16 @@
 0.0.0.0 quickdomainfwd.com
 0.0.0.0 recessmask.pw
 0.0.0.0 redsittalvetoft.pro
+0.0.0.0 reimageplus.com
 0.0.0.0 rewardrey.net
 0.0.0.0 rilenews.com
+0.0.0.0 roughted.com
 0.0.0.0 s3blog.org
 0.0.0.0 scribus.fr
 0.0.0.0 scribus.it
 0.0.0.0 searchdimension.com
 0.0.0.0 securecloud-smart.com
+0.0.0.0 securemecca.com
 0.0.0.0 securetoolext.com
 0.0.0.0 senuti.org
 0.0.0.0 sharex.es
@@ -207,6 +215,7 @@
 0.0.0.0 truecrypt.fr
 0.0.0.0 truecrypt.it
 0.0.0.0 truecrypt.pl
+0.0.0.0 ublock.org
 0.0.0.0 ublockerext.com
 0.0.0.0 undings.biz
 0.0.0.0 unetbootin.net

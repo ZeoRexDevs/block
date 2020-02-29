@@ -1,17 +1,19 @@
 # Title: adguard-safari Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/12.txt
-# Last Converted - 28.02.2020
-# Total Domains - 13
+# Last Converted - 29.02.2020
+# Total Domains - 17
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
 
 0.0.0.0 adfox.ru
 0.0.0.0 adition.com
+0.0.0.0 assets.adobedtm.com
 0.0.0.0 cnbole.net
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 directadvert.ru
+0.0.0.0 goo.gl
 0.0.0.0 i-vengo.com
 0.0.0.0 jisucn.com
 0.0.0.0 partner.mediametrics.ru
@@ -20,3 +22,5 @@
 0.0.0.0 skycdnhost.com
 0.0.0.0 smilered.com
 0.0.0.0 tapcreatives.net
+0.0.0.0 v.fwmrm.net
+0.0.0.0 vip.sc386.com

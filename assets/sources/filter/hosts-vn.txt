@@ -1,8 +1,8 @@
 # Title: hosts-vn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-# Last Converted - 28.02.2020
-# Total Domains - 1035
+# Last Converted - 29.02.2020
+# Total Domains - 1048
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -28,6 +28,7 @@
 0.0.0.0 ad.ants.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.lavanetwork.net
+0.0.0.0 ad.mwork.vn
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.sunflower.vn
 0.0.0.0 ad.vatgia.com
@@ -50,6 +51,7 @@
 0.0.0.0 admicro.vcmedia.com
 0.0.0.0 admicro.vn
 0.0.0.0 admicro1.vcmedia.vn
+0.0.0.0 admicro2.vcmedia.vn
 0.0.0.0 admicro3.vcmedia.vn
 0.0.0.0 admicro4.vcmedia.vn
 0.0.0.0 admicro5.vcmedia.vn
@@ -84,14 +86,17 @@
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads.fptplay.net.vn
 0.0.0.0 ads.home.vn
+0.0.0.0 ads.hosting.vcmedia.vn
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.itsgroup.vn
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.novanet.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.vclick.vn
 0.0.0.0 ads.vietad.vn
 0.0.0.0 ads.zaloapp.com
+0.0.0.0 ads.zdn.vn
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adsota.com
@@ -131,6 +136,7 @@
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
 0.0.0.0 ambient-platform.com
+0.0.0.0 ambientplatform.vn
 0.0.0.0 amcdn.vn
 0.0.0.0 amobi.vn
 0.0.0.0 an.dongphim.net
@@ -211,6 +217,7 @@
 0.0.0.0 c.cokhach.com
 0.0.0.0 c.d.eclick.vn
 0.0.0.0 c.eclick.vn
+0.0.0.0 c.logging.admicro.vn
 0.0.0.0 c0-vcdn.anthill.vn
 0.0.0.0 c0.anthill.vn
 0.0.0.0 c0.st.anthill.vn
@@ -295,6 +302,7 @@
 0.0.0.0 creative.mediaz.vn
 0.0.0.0 creatives.lavanetwork.net
 0.0.0.0 crm.ants.vn
+0.0.0.0 crm.cleverads.vn
 0.0.0.0 crm.fff.com.vn
 0.0.0.0 crm.mangoads.vn
 0.0.0.0 crm.novaonx.com
@@ -740,6 +748,7 @@
 0.0.0.0 s.eclick.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
+0.0.0.0 s.tuoitre.vn
 0.0.0.0 s.vclick.vn
 0.0.0.0 s3.adpia.vn
 0.0.0.0 sale.dsmartvietnam.com
@@ -835,6 +844,7 @@
 0.0.0.0 static.younetmedia.com
 0.0.0.0 static2.adtimaserver.vn
 0.0.0.0 staticad.thethao247.vn
+0.0.0.0 stats.bidgear.com
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.cityadstrack.com
 0.0.0.0 stats.dongphim.net
@@ -927,6 +937,7 @@
 0.0.0.0 vclick.vn
 0.0.0.0 viam.com.vn
 0.0.0.0 video.lavanetwork.net
+0.0.0.0 vietad.vn
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnamhouse.mangoads.vn
@@ -963,6 +974,7 @@
 0.0.0.0 www.adasiaholdings.com
 0.0.0.0 www.admicro.vn
 0.0.0.0 www.adnetwork.vn
+0.0.0.0 www.adpia.vn
 0.0.0.0 www.adsota.com
 0.0.0.0 www.adsplay.net
 0.0.0.0 www.adt.com.vn
@@ -1013,6 +1025,7 @@
 0.0.0.0 www.vads.vn
 0.0.0.0 www.vclick.vn
 0.0.0.0 www.viam.com.vn
+0.0.0.0 www.vietad.vn
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vietnamnetad.vn

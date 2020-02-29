@@ -1,12 +1,13 @@
 # Title: easylist-korea Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/koreanlist.txt
-# Last Converted - 28.02.2020
-# Total Domains - 39
+# Last Converted - 29.02.2020
+# Total Domains - 44
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
 
+0.0.0.0 a.wyzmob.com
 0.0.0.0 ad.3dpop.kr
 0.0.0.0 ad.autoview.co.kr
 0.0.0.0 ad.cgv.co.kr
@@ -31,13 +32,16 @@
 0.0.0.0 dd-adkpf.newscloud.or.kr
 0.0.0.0 dsp.adzon.net
 0.0.0.0 gamey.ad.wich.kr
+0.0.0.0 i.imgur.com
 0.0.0.0 i68.tinypic.com
 0.0.0.0 img.gsspat.jp
 0.0.0.0 innorame.comsubdocument
 0.0.0.0 io1.innorame.com
 0.0.0.0 keywordsconnect.com
+0.0.0.0 media.tumblr.com
 0.0.0.0 mediacategory.com
 0.0.0.0 mobon.net
+0.0.0.0 mymyad.co.kr
 0.0.0.0 nd-adimage.newdaily.co.kr
 0.0.0.0 nd-adkpf.newdaily.co.kr
 0.0.0.0 piclick.me
@@ -46,3 +50,4 @@
 0.0.0.0 pr-adimage.newscloud.or.kr
 0.0.0.0 ssl.logger.co.kr
 0.0.0.0 torrentshow.me
+0.0.0.0 youtube.com
