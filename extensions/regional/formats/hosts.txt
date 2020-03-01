@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.061
 # Release: 061
-# Entries: 63,897
+# Entries: 63,898
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 01 Mar 20 00:15:01
+# Updated: Sun, 01 Mar 20 06:15:25
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -35752,6 +35752,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szdzbx.com
 0.0.0.0 szfaq.com
 0.0.0.0 szggdw.com
+0.0.0.0 szh6.xyz
 0.0.0.0 szimh.com
 0.0.0.0 szjgylwamcxo.com
 0.0.0.0 szjianxin.net
