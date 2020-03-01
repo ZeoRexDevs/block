@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.03.061
-; Release: 061
-; Entries: 61,510
+; Version: 20.03.062
+; Release: 062
+; Entries: 61,509
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 01 Mar 20 18:10:09
+; Updated: Mon, 02 Mar 20 00:10:17
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -35859,7 +35859,6 @@ ns-dnstest.spyoff.com CNAME .
 ns-r01.mopub.com CNAME .
 ns-r02.mopub.com CNAME .
 ns-r04.mopub.com CNAME .
-ns.exitgames.com CNAME .
 ns.mgid.com CNAME .
 ns1.addthis.com CNAME .
 ns1.audienceinsights.net CNAME .

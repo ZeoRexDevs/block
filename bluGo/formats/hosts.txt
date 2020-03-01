@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.03.061
-# Release: 061
-# Entries: 125,826
+# Version: 20.03.062
+# Release: 062
+# Entries: 125,804
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 01 Mar 20 18:10:15
+# Updated: Mon, 02 Mar 20 00:10:21
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -13566,7 +13566,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.1mobile.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api.24kidea.com
-0.0.0.0 api.3-dolphins.com
 0.0.0.0 api.53.localytics.com
 0.0.0.0 api.6block.com
 0.0.0.0 api.99miners.com
@@ -13969,7 +13968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 api.meerpool.com
 0.0.0.0 api.megacool.co
-0.0.0.0 api.metrics.heroku.com
 0.0.0.0 api.mgid.com
 0.0.0.0 api.minergate.com
 0.0.0.0 api.minero.cc
@@ -14746,11 +14744,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 app2.mopub.com
 0.0.0.0 app2744.smackgates31.life
 0.0.0.0 app3.makeitworkfaster.life
-0.0.0.0 app3.prd.telematics.uconnectcar.com
 0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app4.letslowbefast.today
-0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 app553348890online.000webhostapp.com
 0.0.0.0 app5766463432646.000webhostapp.com
@@ -21524,7 +21520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 btx.pickaxe.pro
 0.0.0.0 btx.poolgpu.com
 0.0.0.0 btx.suprnova.cc
-0.0.0.0 btx.virginia.elitehash.net
 0.0.0.0 btxoeiisonxh.com
 0.0.0.0 btxyusxfbx.com
 0.0.0.0 btzuecidcshmmv.com
@@ -24907,7 +24902,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 channel4.com.ssl.sc.omtrdc.net
 0.0.0.0 channelintelligence.com
 0.0.0.0 channels.one
-0.0.0.0 channelwebsdks.azureedge.net
 0.0.0.0 chansteqindia.com
 0.0.0.0 chantal.parrable.com
 0.0.0.0 chaorenxin.com
@@ -46337,7 +46331,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gozmioancm.bid
 0.0.0.0 gozovipsite.50webs.com
 0.0.0.0 gp-lottery.wsq.umeng.com
-0.0.0.0 gp.iegservers.com
 0.0.0.0 gp.jstv.com
 0.0.0.0 gp.zaiyunli.cn
 0.0.0.0 gpacwxynxluey.bid
@@ -58775,7 +58768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 khachaturova.vipcentr.ru
 0.0.0.0 khachhang.fff.com.vn
 0.0.0.0 khaicoojypokng.com
-0.0.0.0 khaihkd.tomopool.com
 0.0.0.0 khailabaila.com
 0.0.0.0 khaklikrt.com
 0.0.0.0 khaliskoppar.info
@@ -62606,7 +62598,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lojafnac.com
 0.0.0.0 lojqfrcipvoo.bid
 0.0.0.0 lojuxbnt.com
-0.0.0.0 lok.cryptopool.space
 0.0.0.0 lokalavisendk.nuggad.net
 0.0.0.0 lokalfed.ml
 0.0.0.0 lokhlp.com
@@ -63052,7 +63043,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ltauatualiza30hrs.com
 0.0.0.0 ltbnvsfzevox.com
 0.0.0.0 ltc-airdrop.org
-0.0.0.0 ltc-e.live
 0.0.0.0 ltc-eu.s.dpool.top
 0.0.0.0 ltc.batpool.com
 0.0.0.0 ltc.btc.com
@@ -64105,7 +64095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ma307-r.analytics.edgekey.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
-0.0.0.0 ma345-r.analytics.edgekey.net
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma512-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
@@ -69915,7 +69904,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mx.biquge.info
 0.0.0.0 mx.btcpool24.com
 0.0.0.0 mx.coinsolver.com
-0.0.0.0 mx.conference.3-dolphins.com
 0.0.0.0 mx.cryptopool.eu
 0.0.0.0 mx.cryptopool.net
 0.0.0.0 mx.dinastycoin.com
@@ -72120,7 +72108,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ni1951833-2.web11.nitrado.hosting
 0.0.0.0 ni3454754-1.web05.nitrado.hosting
 0.0.0.0 ni3454754-2.web15.nitrado.hosting
-0.0.0.0 ni6.btcc.com
 0.0.0.0 nia.nanopool.org
 0.0.0.0 nia.vn
 0.0.0.0 niaa.org.au
@@ -77123,7 +77110,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 papoto.com
 0.0.0.0 pappatango.com
 0.0.0.0 paqtnspb.com
-0.0.0.0 par1.ether1pool.org
 0.0.0.0 para-pemainterbaik.com
 0.0.0.0 para-sante-moins-cher.com
 0.0.0.0 parabrisasfavasil.cl
@@ -80383,7 +80369,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool06.gethash.cc
 0.0.0.0 pool08.btc.com
 0.0.0.0 pool08.gethash.cc
-0.0.0.0 pool1.3-dolphins.com
 0.0.0.0 pool1.bis-pool.io
 0.0.0.0 pool1.crypto-me.com
 0.0.0.0 pool1.ethpool.net
@@ -92339,7 +92324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smtp.unipool.pro
 0.0.0.0 smtp.wlink-net.com
 0.0.0.0 smtp.wowne.ro
-0.0.0.0 smtp1.hpool.com
 0.0.0.0 smtp1.stex.com
 0.0.0.0 smtp1.younetmedia.com
 0.0.0.0 smtp2.bitcoin.cz
@@ -96646,7 +96630,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 supuv2.com
 0.0.0.0 suqa.coinblockers.com
 0.0.0.0 suqa.helsinki.elitehash.net
-0.0.0.0 suqa.virginia.elitehash.net
 0.0.0.0 suqufucjzffhay.bid
 0.0.0.0 sur-navigator.srv43.ru
 0.0.0.0 sur.auto43.srv43.ru
@@ -105523,7 +105506,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 usdlgonjnzpu.com
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 usdpdown.game.uodoo.com
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 use-sync.adhese.com
 0.0.0.0 use-sync.adhese.com				
@@ -110604,6 +110586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wt.o.nytimes.com
 0.0.0.0 wt.sexsearch.com
 0.0.0.0 wt.sexsearchcom.com
+0.0.0.0 wt.soundestlink.com
 0.0.0.0 wt1.pc6.com
 0.0.0.0 wt7dzbn78.homepage.t-online.de
 0.0.0.0 wta.ero-advertising.com
@@ -116655,7 +116638,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lprshcsmijfovp.com
 0.0.0.0 www.lptrack.co
 0.0.0.0 www.lrworld.com
-0.0.0.0 www.ltc-e.live
 0.0.0.0 www.ltc.bubblemine.com
 0.0.0.0 www.ltc.mastermining.net
 0.0.0.0 www.ltc.top
@@ -120236,7 +120218,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.techieschoice.com
 0.0.0.0 www.techiex.net
 0.0.0.0 www.techiwant.com
-0.0.0.0 www.techlinxpakistan.com
 0.0.0.0 www.techneolus.com
 0.0.0.0 www.technicprogress.pl
 0.0.0.0 www.techninov.fr
@@ -120778,7 +120759,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.unblockfacebook.co.uk
 0.0.0.0 www.underarmourbuty.com
 0.0.0.0 www.undertonenetworks.com
-0.0.0.0 www.underwear4u.pl
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.unhallowed.pl
@@ -121717,7 +121697,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zanox.com
 0.0.0.0 www.zap396609-2.plesk08.zap-webspace.com
 0.0.0.0 www.zapto.org
-0.0.0.0 www.zarabativaisazartom.net
 0.0.0.0 www.zarabiajwsieci.5v.pl
 0.0.0.0 www.zarget.com
 0.0.0.0 www.zarobek4u.com
@@ -122880,7 +122859,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xmaswrite.com
 0.0.0.0 xmax.jp
 0.0.0.0 xmazvzvbqli.com
-0.0.0.0 xmc.btcc.com
 0.0.0.0 xmc.easyhash.de
 0.0.0.0 xmc.fairhash.org
 0.0.0.0 xmc.leafpool.com
