@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.03.061
 ; Release: 061
-; Entries: 125,840
+; Entries: 125,826
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 01 Mar 20 12:10:06
+; Updated: Sun, 01 Mar 20 18:10:15
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -425,7 +425,6 @@ $TTL 2h
 106242.hittail.com CNAME .
 107008.speead.jp CNAME .
 108.177.15.108.cryptopool.eu CNAME .
-108.177.15.108.hpool.com CNAME .
 10896.engine.mobileapptracking.com CNAME .
 108shot.com CNAME .
 10a053584f01fcaeab1.com CNAME .
@@ -609,7 +608,6 @@ $TTL 2h
 1353.api.swrve.com CNAME .
 1353.content.swrve.com CNAME .
 136710.txtplug.com CNAME .
-1370.btcc.com CNAME .
 1373.api.swrve.com CNAME .
 1373.content.swrve.com CNAME .
 137311.com CNAME .
@@ -617,7 +615,6 @@ $TTL 2h
 13895df59d98cc.com CNAME .
 138shenbosbo.com CNAME .
 13903825045.com CNAME .
-13ce9.btcc.com CNAME .
 13tabs.com CNAME .
 13vm73vbmp.com CNAME .
 13xbtc.com CNAME .
@@ -649,7 +646,6 @@ $TTL 2h
 14bb52zfzi.h81yxqatzf.madpendesign.com.au CNAME .
 14daily.com CNAME .
 14ed4.btcc.com CNAME .
-14f7b.btcc.com CNAME .
 14fff0b3-6b39-4b71-afe5-5bb193f1f0d4.htmlpasta.com CNAME .
 14teen.com CNAME .
 15.minercircle.com CNAME .
@@ -18513,6 +18509,7 @@ bebreloomr.com CNAME .
 bebufuspldzh.com CNAME .
 bebxxrgjigz.com CNAME .
 becanium.com CNAME .
+becauseared.site CNAME .
 becconet.com CNAME .
 becfoundation.org CNAME .
 beck-architekt.de CNAME .
@@ -28382,7 +28379,6 @@ copay.tecracoin.io CNAME .
 cope.it CNAME .
 copicvarianuty.info CNAME .
 copob.ru CNAME .
-copper.coincave.nl CNAME .
 copperchickens.com CNAME .
 copperegg.com CNAME .
 coppers.sytes.net CNAME .
@@ -29583,7 +29579,6 @@ cryptopools.akroma.wattpool.net CNAME .
 cryptopools.com CNAME .
 cryptopools.info CNAME .
 cryptopowered.club CNAME .
-cryptoprizepool.com CNAME .
 cryptoprofit.best CNAME .
 cryptopros.com CNAME .
 cryptopros.us CNAME .
@@ -36689,6 +36684,7 @@ edvforeveretest.info CNAME .
 edvlegv1faamdta.ru CNAME .
 edvme.de CNAME .
 edw.edmunds.com CNAME .
+edwhitnes.info CNAME .
 edws.duckdns.org CNAME .
 edwywpsufuda.com CNAME .
 edxosrcvydn.com CNAME .
@@ -38054,6 +38050,7 @@ erdekesvilag.eu CNAME .
 erdemirsurucukursu.com CNAME .
 erebor.douban.com CNAME .
 erebor.dwarfpool.com CNAME .
+erecommerchh.info CNAME .
 erectile.byethost33.com CNAME .
 eredexpendin.com CNAME .
 eremedia.112.2o7.net CNAME .
@@ -39459,6 +39456,7 @@ ewebanalytics.com CNAME .
 ewebcounter.com CNAME .
 eweibo.ru CNAME .
 ewelinaplanuje.pl CNAME .
+ewerhodub.com CNAME .
 ewgnexykqnyoun.com CNAME .
 ewgtanybkkch.com CNAME .
 ewlnukukkca.com CNAME .
@@ -41029,6 +41027,7 @@ ferring.com.ar CNAME .
 ferrokim.com.tr CNAME .
 fervortracer.com CNAME .
 fesrsxtmkjgms.com CNAME .
+fessmegilscha.info CNAME .
 fessoovy.com CNAME .
 festads.com CNAME .
 festaporno.com CNAME .
@@ -46938,7 +46937,6 @@ grupozeta.pushwoosh.com CNAME .
 grv.leafpool.com CNAME .
 grvoflsctenq.bid CNAME .
 grvspn.com CNAME .
-grw.acidpool.com CNAME .
 grxpaizsvdzw.com CNAME .
 grxzcfdcxu.com CNAME .
 grybow24.pl CNAME .
@@ -47882,7 +47880,6 @@ haproxy2.ad4game.com CNAME .
 haptontnerota.info CNAME .
 haqable.com CNAME .
 haqbllmvpbqc.com CNAME .
-har.btcc.com CNAME .
 harasiuki.com.pl CNAME .
 harasmorrodoipe.com.br CNAME .
 harconsumer.112.2o7.net CNAME .
@@ -47971,7 +47968,6 @@ hashgate.eu CNAME .
 hashhot.com CNAME .
 hashicorp-fhh9vebjrx.xid.segment.com CNAME .
 hashigosha.com CNAME .
-hashing-docker-litecoind-staging.staging.hashing.com CNAME .
 hashing.center CNAME .
 hashing.com CNAME .
 hashing.mine.nu CNAME .
@@ -51887,7 +51883,6 @@ hu.hit.gemius.pl CNAME .
 hu.nanopool.org CNAME .
 hu.search.etargetnet.com CNAME .
 hu.static.etargetnet.com CNAME .
-hu8.btcc.com CNAME .
 huadn.hit.gemius.pl CNAME .
 huakaile88.com CNAME .
 huangjintawujin.cn CNAME .
@@ -61329,6 +61324,7 @@ likefreehack.com CNAME .
 likekopi.com CNAME .
 likeportal.com CNAME .
 likespike.com CNAME .
+liketube.xyz CNAME .
 likeventy.com CNAME .
 likeviet.top CNAME .
 likingyetsnarl.com CNAME .
@@ -69902,7 +69898,6 @@ mx.admaym.com CNAME .
 mx.admin.3-dolphins.com CNAME .
 mx.ads.justpremium.com CNAME .
 mx.adserver.yahoo.com CNAME .
-mx.api.3-dolphins.com CNAME .
 mx.auth.3-dolphins.com CNAME .
 mx.bank.3-dolphins.com CNAME .
 mx.base.3-dolphins.com CNAME .
@@ -72065,7 +72060,6 @@ nhbay.com CNAME .
 nhbklvpswckx.com CNAME .
 nhbot-api.hashing.com CNAME .
 nhbot.hashing.com CNAME .
-nhbottest.hashing.com CNAME .
 nhcalc.hashing.com CNAME .
 nhealth-beauty.coinfoundry.org CNAME .
 nheanvabodkw.com CNAME .
@@ -73172,7 +73166,6 @@ nov.nanopool.org CNAME .
 nova.adswizz.com CNAME .
 nova.collect.igodigital.com CNAME .
 nova.deliveryengine.adswizz.com CNAME .
-nova.ltc-e.live CNAME .
 nova.mastermining.net CNAME .
 novablock.com CNAME .
 novaco.in CNAME .
@@ -73484,7 +73477,6 @@ ns5.coinminingpool.org CNAME .
 ns5.ucweb.com CNAME .
 ns511849.ip-192-99-19.net CNAME .
 ns513726.ip-192-99-148.net CNAME .
-ns5m.btcc.com CNAME .
 ns6.ucweb.com CNAME .
 ns7.ucweb.com CNAME .
 ns74.appservestar.com CNAME .
@@ -80499,7 +80491,6 @@ pop.fastlasermouses.com CNAME .
 pop.fastpool.xyz CNAME .
 pop.godd.s3.lolekemail.net CNAME .
 pop.helpico.tech CNAME .
-pop.hpool.com CNAME .
 pop.kissmetrics.com CNAME .
 pop.lotus.blognet.in CNAME .
 pop.mail1.twitpost.info CNAME .
@@ -105165,7 +105156,6 @@ urfdvrrg.com CNAME .
 urgwritishimpos.info CNAME .
 urhvlgfnbdhlf.com CNAME .
 urifiel.pw CNAME .
-uripool.net CNAME .
 uriqirelle.xyz CNAME .
 uriren.pw CNAME .
 uriuridfg.com CNAME .
@@ -110004,6 +109994,7 @@ wizard101codes.org CNAME .
 wizard101giveaway.com CNAME .
 wizardsbd.com CNAME .
 wizbongre.co.uk CNAME .
+wizliebeg.com CNAME .
 wizwarsum.site CNAME .
 wizzogames-sdk.wappier.com CNAME .
 wj.jiancai365.cn CNAME .
@@ -110836,7 +110827,6 @@ ww234.smartadserver.com CNAME .
 ww24.dedicatedpool.com CNAME .
 ww2468.smartadserver.com CNAME .
 ww25.bitcoin.cz CNAME .
-ww25.bitcoinmonkey.com CNAME .
 ww25.cryptonotepool.org.uk CNAME .
 ww251.smartadserver.com CNAME .
 ww264.smartadserver.com CNAME .
@@ -113567,7 +113557,6 @@ www.cryptopoolclub.com CNAME .
 www.cryptopoolmining.com CNAME .
 www.cryptopools.info CNAME .
 www.cryptopowered.club CNAME .
-www.cryptoprizepool.com CNAME .
 www.cryptoprofit.best CNAME .
 www.cryptopros.com CNAME .
 www.cryptopros.us CNAME .
@@ -117707,7 +117696,6 @@ www.notoaharmony.com CNAME .
 www.notonlywork.com CNAME .
 www.notostaphy.com.ph CNAME .
 www.nourpool.net CNAME .
-www.nova.ltc-e.live CNAME .
 www.nova.mastermining.net CNAME .
 www.novablock.com CNAME .
 www.novaco.in CNAME .
@@ -120832,7 +120820,6 @@ www.urbani.com.au CNAME .
 www.urbantelling.pl CNAME .
 www.urchintelemetry.com CNAME .
 www.urdnz.cf CNAME .
-www.uripool.net CNAME .
 www.uriyuri.com CNAME .
 www.urlcash.net CNAME .
 www.urldelivery.com CNAME .
@@ -124700,7 +124687,6 @@ z6vmw.top CNAME .
 z7.cnzz.com CNAME .
 z8.cnzz.com CNAME .
 z888.izhufu.net CNAME .
-z9.btcc.com CNAME .
 z9.cnzz.com CNAME .
 za-cdn.effectivemeasure.net CNAME .
 za-gmtdmp.mookie1.com CNAME .
