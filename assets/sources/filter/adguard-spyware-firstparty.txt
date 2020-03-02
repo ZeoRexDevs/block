@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
 # Last Converted - 02.03.2020
-# Total Domains - 1067
+# Total Domains - 1068
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -450,6 +450,7 @@
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.outbrain.com
+0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.rutube.ru

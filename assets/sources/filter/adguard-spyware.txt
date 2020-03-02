@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
 # Last Converted - 02.03.2020
-# Total Domains - 4173
+# Total Domains - 4174
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1951,6 +1951,7 @@
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.outbrain.com
+0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.popin.cc
 0.0.0.0 log.prezi.com
