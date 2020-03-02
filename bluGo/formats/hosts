@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.03.062
-# Release: 062
-# Entries: 125,731
+# Version: 20.03.063
+# Release: 063
+# Entries: 125,722
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 02 Mar 20 18:10:26
+# Updated: Tue, 03 Mar 20 00:10:32
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -703,7 +703,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1607.123unlock.nl
 0.0.0.0 161028.engine.mobileapptracking.com
 0.0.0.0 161118.engine.mobileapptracking.com
-0.0.0.0 164-45.btcc.com
 0.0.0.0 16565.hittail.com
 0.0.0.0 165a7c15380874ef3.com
 0.0.0.0 166e61.com
@@ -8580,7 +8579,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver-toy.adtechjp.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver-voice-online.co.uk
-0.0.0.0 adserver.100free.com
 0.0.0.0 adserver.4clicks.org
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.a24.com.tr
@@ -20687,6 +20685,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 boratestfishke.info
 0.0.0.0 borazita.com
 0.0.0.0 bord.casaalgarviadog.com
+0.0.0.0 bordeded.pro
 0.0.0.0 borders.112.2o7.net
 0.0.0.0 borderview.org
 0.0.0.0 bordobank.net
@@ -27777,6 +27776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 composer.adcolony.com
 0.0.0.0 composit.vtrbandaancha.net
 0.0.0.0 compositefarming.com
+0.0.0.0 composivel.pro
 0.0.0.0 comprabanner.it
 0.0.0.0 comprafacil.com.br
 0.0.0.0 compras.periodistadigital.com
@@ -28905,7 +28905,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpanel.bubblemine.com
 0.0.0.0 cpanel.coinevo.tech
 0.0.0.0 cpanel.cominers.org
-0.0.0.0 cpanel.cryptoprizepool.com
 0.0.0.0 cpanel.dash.bubblemine.com
 0.0.0.0 cpanel.dero.bubblemine.com
 0.0.0.0 cpanel.eth.bubblemine.com
@@ -51418,7 +51417,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hostmaster.stratum.triplemining.com
 0.0.0.0 hostmaster.stripes.triplemining.com
 0.0.0.0 hostmaster.suchpool.pw
-0.0.0.0 hostmaster.sumcoinpool.org
 0.0.0.0 hostmaster.sumo.cpufan.club
 0.0.0.0 hostmaster.super.v2.dedicatedpool.com
 0.0.0.0 hostmaster.svr.v2.dedicatedpool.com
@@ -55970,6 +55968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 itrechtsanwalt.at
 0.0.0.0 itrendshow.com
 0.0.0.0 itri49.modernsailorclothes.com
+0.0.0.0 itrustzone.site
 0.0.0.0 its-that-easy.com
 0.0.0.0 its.eastworldwest.com
 0.0.0.0 its.fugetech.com
@@ -64440,11 +64439,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.debutech.de
 0.0.0.0 mail.deltapool.net
 0.0.0.0 mail.dero.bubblemine.com
-0.0.0.0 mail.dgb.ltc-e.live
 0.0.0.0 mail.dgb256.online
 0.0.0.0 mail.dmz10.twitpost.info
 0.0.0.0 mail.dmz3.blognet.in
-0.0.0.0 mail.doge.ltc-e.live
 0.0.0.0 mail.dpool.top
 0.0.0.0 mail.dwarfpool.com
 0.0.0.0 mail.easyhash.de
@@ -68587,7 +68584,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 monero.dark-mine.su
 0.0.0.0 monero.dwarfpool.com
 0.0.0.0 monero.fairhash.org
-0.0.0.0 monero.farm
 0.0.0.0 monero.flooder.org
 0.0.0.0 monero.flypool.com
 0.0.0.0 monero.fungibly.xyz
@@ -69884,7 +69880,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 mx.auth.3-dolphins.com
 0.0.0.0 mx.bank.3-dolphins.com
-0.0.0.0 mx.base.3-dolphins.com
 0.0.0.0 mx.biquge.info
 0.0.0.0 mx.btcpool24.com
 0.0.0.0 mx.coinsolver.com
@@ -69903,7 +69898,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mx.mx.mx.mx.cryptopool.net
 0.0.0.0 mx.mz.blognet.in
 0.0.0.0 mx.pirl.space
-0.0.0.0 mx.pool1.3-dolphins.com
 0.0.0.0 mx.pool2.3-dolphins.com
 0.0.0.0 mx.pool3.3-dolphins.com
 0.0.0.0 mx.simplycoin.eu
@@ -74895,7 +74889,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 on.exiix.com
 0.0.0.0 on.freog.com
 0.0.0.0 on.maxspeedcdn.com
-0.0.0.0 on.nimp.org
 0.0.0.0 on.toddard.com
 0.0.0.0 on.trillania.com
 0.0.0.0 onads.com
@@ -81318,6 +81311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacy-guard.tk
 0.0.0.0 privacy.adcolony.com
 0.0.0.0 privacy.claytonhomes.com
+0.0.0.0 privacy.clion.agency
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.purch.com
 0.0.0.0 privacy.schibsted.com
@@ -108852,7 +108846,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 webdisk.bold.bubblemine.com
 0.0.0.0 webdisk.btc.bubblemine.com
 0.0.0.0 webdisk.bubblemine.com
-0.0.0.0 webdisk.cryptoprizepool.com
 0.0.0.0 webdisk.dash.bubblemine.com
 0.0.0.0 webdisk.dero.bubblemine.com
 0.0.0.0 webdisk.eth.bubblemine.com
@@ -113627,7 +113620,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dascoingroup.com
 0.0.0.0 www.dascoininvest.com
 0.0.0.0 www.dash.bubblemine.com
-0.0.0.0 www.dash.ltc-e.live
 0.0.0.0 www.dash88.club
 0.0.0.0 www.dashminer.com
 0.0.0.0 www.dassystem.eu
@@ -122744,7 +122736,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xl-partenariat.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xl.btcc.com
-0.0.0.0 xla.cryptopool.space
 0.0.0.0 xla.pool.gntl.co.uk
 0.0.0.0 xlbbhdarc.com
 0.0.0.0 xlc.codpool.com

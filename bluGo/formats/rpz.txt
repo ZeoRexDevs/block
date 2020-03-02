@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.03.062
-; Release: 062
-; Entries: 125,731
+; Version: 20.03.063
+; Release: 063
+; Entries: 125,722
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 02 Mar 20 18:10:26
+; Updated: Tue, 03 Mar 20 00:10:32
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -692,7 +692,6 @@ $TTL 2h
 1607.123unlock.nl CNAME .
 161028.engine.mobileapptracking.com CNAME .
 161118.engine.mobileapptracking.com CNAME .
-164-45.btcc.com CNAME .
 16565.hittail.com CNAME .
 165a7c15380874ef3.com CNAME .
 166e61.com CNAME .
@@ -8569,7 +8568,6 @@ adserver-qcmtc.adtechus.com CNAME .
 adserver-toy.adtechjp.com CNAME .
 adserver-us.adtech.advertising.com CNAME .
 adserver-voice-online.co.uk CNAME .
-adserver.100free.com CNAME .
 adserver.4clicks.org CNAME .
 adserver.71i.de CNAME .
 adserver.a24.com.tr CNAME .
@@ -20676,6 +20674,7 @@ boranapipes.com CNAME .
 boratestfishke.info CNAME .
 borazita.com CNAME .
 bord.casaalgarviadog.com CNAME .
+bordeded.pro CNAME .
 borders.112.2o7.net CNAME .
 borderview.org CNAME .
 bordobank.net CNAME .
@@ -27766,6 +27765,7 @@ componentesgil.es CNAME .
 composer.adcolony.com CNAME .
 composit.vtrbandaancha.net CNAME .
 compositefarming.com CNAME .
+composivel.pro CNAME .
 comprabanner.it CNAME .
 comprafacil.com.br CNAME .
 compras.periodistadigital.com CNAME .
@@ -28894,7 +28894,6 @@ cpanel.btc.bubblemine.com CNAME .
 cpanel.bubblemine.com CNAME .
 cpanel.coinevo.tech CNAME .
 cpanel.cominers.org CNAME .
-cpanel.cryptoprizepool.com CNAME .
 cpanel.dash.bubblemine.com CNAME .
 cpanel.dero.bubblemine.com CNAME .
 cpanel.eth.bubblemine.com CNAME .
@@ -51407,7 +51406,6 @@ hostmaster.stergium.triplemining.com CNAME .
 hostmaster.stratum.triplemining.com CNAME .
 hostmaster.stripes.triplemining.com CNAME .
 hostmaster.suchpool.pw CNAME .
-hostmaster.sumcoinpool.org CNAME .
 hostmaster.sumo.cpufan.club CNAME .
 hostmaster.super.v2.dedicatedpool.com CNAME .
 hostmaster.svr.v2.dedicatedpool.com CNAME .
@@ -55959,6 +55957,7 @@ itracmediav4.com CNAME .
 itrechtsanwalt.at CNAME .
 itrendshow.com CNAME .
 itri49.modernsailorclothes.com CNAME .
+itrustzone.site CNAME .
 its-that-easy.com CNAME .
 its.eastworldwest.com CNAME .
 its.fugetech.com CNAME .
@@ -64429,11 +64428,9 @@ mail.dc-heater.com CNAME .
 mail.debutech.de CNAME .
 mail.deltapool.net CNAME .
 mail.dero.bubblemine.com CNAME .
-mail.dgb.ltc-e.live CNAME .
 mail.dgb256.online CNAME .
 mail.dmz10.twitpost.info CNAME .
 mail.dmz3.blognet.in CNAME .
-mail.doge.ltc-e.live CNAME .
 mail.dpool.top CNAME .
 mail.dwarfpool.com CNAME .
 mail.easyhash.de CNAME .
@@ -68576,7 +68573,6 @@ monero.crypto4you.ch CNAME .
 monero.dark-mine.su CNAME .
 monero.dwarfpool.com CNAME .
 monero.fairhash.org CNAME .
-monero.farm CNAME .
 monero.flooder.org CNAME .
 monero.flypool.com CNAME .
 monero.fungibly.xyz CNAME .
@@ -69873,7 +69869,6 @@ mx.ads.justpremium.com CNAME .
 mx.adserver.yahoo.com CNAME .
 mx.auth.3-dolphins.com CNAME .
 mx.bank.3-dolphins.com CNAME .
-mx.base.3-dolphins.com CNAME .
 mx.biquge.info CNAME .
 mx.btcpool24.com CNAME .
 mx.coinsolver.com CNAME .
@@ -69892,7 +69887,6 @@ mx.mx.mx.cryptopool.net CNAME .
 mx.mx.mx.mx.cryptopool.net CNAME .
 mx.mz.blognet.in CNAME .
 mx.pirl.space CNAME .
-mx.pool1.3-dolphins.com CNAME .
 mx.pool2.3-dolphins.com CNAME .
 mx.pool3.3-dolphins.com CNAME .
 mx.simplycoin.eu CNAME .
@@ -74884,7 +74878,6 @@ on.blognet.in CNAME .
 on.exiix.com CNAME .
 on.freog.com CNAME .
 on.maxspeedcdn.com CNAME .
-on.nimp.org CNAME .
 on.toddard.com CNAME .
 on.trillania.com CNAME .
 onads.com CNAME .
@@ -81307,6 +81300,7 @@ privacy-center.org CNAME .
 privacy-guard.tk CNAME .
 privacy.adcolony.com CNAME .
 privacy.claytonhomes.com CNAME .
+privacy.clion.agency CNAME .
 privacy.commander1.com CNAME .
 privacy.purch.com CNAME .
 privacy.schibsted.com CNAME .
@@ -108841,7 +108835,6 @@ webdisk.bkc.bubblemine.com CNAME .
 webdisk.bold.bubblemine.com CNAME .
 webdisk.btc.bubblemine.com CNAME .
 webdisk.bubblemine.com CNAME .
-webdisk.cryptoprizepool.com CNAME .
 webdisk.dash.bubblemine.com CNAME .
 webdisk.dero.bubblemine.com CNAME .
 webdisk.eth.bubblemine.com CNAME .
@@ -113616,7 +113609,6 @@ www.dascoin.prowly.com CNAME .
 www.dascoingroup.com CNAME .
 www.dascoininvest.com CNAME .
 www.dash.bubblemine.com CNAME .
-www.dash.ltc-e.live CNAME .
 www.dash88.club CNAME .
 www.dashminer.com CNAME .
 www.dassystem.eu CNAME .
@@ -122733,7 +122725,6 @@ xl-counti.com CNAME .
 xl-partenariat.com CNAME .
 xl-trk.com CNAME .
 xl.btcc.com CNAME .
-xla.cryptopool.space CNAME .
 xla.pool.gntl.co.uk CNAME .
 xlbbhdarc.com CNAME .
 xlc.codpool.com CNAME .
