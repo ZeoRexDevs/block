@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.062
 # Release: 062
-# Entries: 125,749
+# Entries: 125,731
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 02 Mar 20 12:10:20
+# Updated: Mon, 02 Mar 20 18:10:26
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -646,7 +646,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 144.gulfcoastmining.com
 0.0.0.0 1445.btgpool.pro
 0.0.0.0 145-ct.c3tag.com
-0.0.0.0 1452073537.btcc.com
 0.0.0.0 1456.api.swrve.com
 0.0.0.0 1456.content.swrve.com
 0.0.0.0 145639-4902.link.iwanttodeliver.com
@@ -1234,7 +1233,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 23243.xc.05cg.com
 0.0.0.0 23315.hittail.com
 0.0.0.0 2334ea708ab6d79.com
-0.0.0.0 234.adru.net
 0.0.0.0 234.media.lbn.ru
 0.0.0.0 2345.api.swrve.com
 0.0.0.0 2345.content.swrve.com
@@ -6596,7 +6594,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.mobadvent.com
 0.0.0.0 admin.monerominer.rocks
 0.0.0.0 admin.nbhpa.com
-0.0.0.0 admin.new.hashing.com
 0.0.0.0 admin.nicehash.com
 0.0.0.0 admin.ninebox.cn
 0.0.0.0 admin.nnext.in
@@ -8751,7 +8748,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver01.vertismedia.co.uk
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
-0.0.0.0 adserver1.lokitorrent.com
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.atman.pl
 0.0.0.0 adserver2.creative.com
@@ -13829,7 +13825,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.eostribe.io
 0.0.0.0 api.eosvenezuela.io
 0.0.0.0 api.eqmob.com
-0.0.0.0 api.ergopool.io
 0.0.0.0 api.ero-advertising.com
 0.0.0.0 api.eroadvertising.com
 0.0.0.0 api.esn.gonspool.com
@@ -17553,7 +17548,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bankhapoalim-online.com
 0.0.0.0 banking.bancofalabella-clientes.com.pe.lafarmed.com
 0.0.0.0 bankivsamare.ru
-0.0.0.0 bankmillennium.fun
 0.0.0.0 bankmillennium.site
 0.0.0.0 bankofamerica.cob-eg.com
 0.0.0.0 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz
@@ -29729,7 +29723,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 csgohop.com
 0.0.0.0 csgoid.com
 0.0.0.0 csgoincome.com
-0.0.0.0 csgoinrate.com
 0.0.0.0 csgoitemsprices.com
 0.0.0.0 csgojust.ru
 0.0.0.0 csgolaw.com
@@ -34014,7 +34007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmu20vut.com
 0.0.0.0 dmv-org-d.openx.net
 0.0.0.0 dmv-written-test.h-bid.com
-0.0.0.0 dmvbdfblevxvx.com
 0.0.0.0 dmvegzsxaxn.com
 0.0.0.0 dmvguidecom.112.2o7.net
 0.0.0.0 dmvmnafx.com
@@ -34082,7 +34074,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dns.mastermining.net
 0.0.0.0 dns.minerpool.net
 0.0.0.0 dns.novaonx.com
-0.0.0.0 dns.sumcoinpool.org
 0.0.0.0 dns.turtlecoin.lol
 0.0.0.0 dns.union.uc.cn
 0.0.0.0 dns0.coinfoundry.org
@@ -37017,7 +37008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eiwdnygfwl.com
 0.0.0.0 eiygqumgrobos.com
 0.0.0.0 eizzndhkvl.bid
-0.0.0.0 ej.btcc.com
 0.0.0.0 ejayne.net
 0.0.0.0 ejbvrgespr.bid
 0.0.0.0 ejdcjjcqcnzhre.bid
@@ -76762,7 +76752,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pa-oa.com
 0.0.0.0 pa-stats.origin-cogent.kaltura.com
 0.0.0.0 pa.ads.justpremium.com
-0.0.0.0 pa.btcc.com
 0.0.0.0 pa.nanopool.org
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 paads.dk
@@ -80376,7 +80365,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool2.serverpower.net
 0.0.0.0 pool2.spotmecoin.com
 0.0.0.0 pool2.spurri.com
-0.0.0.0 pool2.uripool.net
 0.0.0.0 pool2.webchain.network
 0.0.0.0 pool2mine.com
 0.0.0.0 pool3.moatads.com
@@ -80920,7 +80908,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ppl-puls.gloryft.com
 0.0.0.0 pplns.gethash.cc
 0.0.0.0 pplsupj1.beget.tech
-0.0.0.0 ppoi.org
 0.0.0.0 ppoofff.000webhostapp.com
 0.0.0.0 ppp10.nanopool.org
 0.0.0.0 ppp15.nanopool.org
@@ -86028,7 +86015,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 riecnepal.com
 0.0.0.0 riedlinger47.italiancarairbags.com
 0.0.0.0 rientgallacecapt.info
-0.0.0.0 riepool.ovh
 0.0.0.0 riera4.aquadivingaccessories.com
 0.0.0.0 rieyjzuyhigobg.bid
 0.0.0.0 rifansi.net
@@ -88155,7 +88141,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 salesviewer.com
 0.0.0.0 salesviewer.org
 0.0.0.0 salesxpert.noip.us
-0.0.0.0 salewablock.pl
 0.0.0.0 salhbbkvs.com
 0.0.0.0 saligopasr.com
 0.0.0.0 salime.ru
@@ -94446,7 +94431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stash.by
 0.0.0.0 stash.revcontent.com
-0.0.0.0 staskostanislaw.pl
 0.0.0.0 staswiselka.pl
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-parser02.aatkit.com
@@ -96682,6 +96666,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 surveywriter.net
 0.0.0.0 survicate.com
 0.0.0.0 survivalandcrossfitness.com
+0.0.0.0 survivalservers.com
 0.0.0.0 surwillo.tastyarabicacoffee.com
 0.0.0.0 susanapt.000webhostapp.com
 0.0.0.0 susandeland.com
@@ -111008,7 +110993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.168pool.com
 0.0.0.0 www.17zhaole.com
 0.0.0.0 www.1800banners.com
-0.0.0.0 www.18access.com
 0.0.0.0 www.1933000.com
 0.0.0.0 www.1channelhd.xyz
 0.0.0.0 www.1ds.us
@@ -113845,7 +113829,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dmp.adblade.com
 0.0.0.0 www.dmpools.com
 0.0.0.0 www.dnotes.mastermining.net
-0.0.0.0 www.dns.sumcoinpool.org
 0.0.0.0 www.dnsseed.italocoin.com
 0.0.0.0 www.dnsseed.vinumeris.com
 0.0.0.0 www.dntx.com
@@ -114230,7 +114213,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.eo8vs.voluumtrk.com
 0.0.0.0 www.eon.hashhot.com
 0.0.0.0 www.eonline.pl
-0.0.0.0 www.eopbflgmxcr.com
 0.0.0.0 www.ep66.com.tw
 0.0.0.0 www.epicgameads.com
 0.0.0.0 www.epicreact.pl

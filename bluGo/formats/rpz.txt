@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.03.062
 ; Release: 062
-; Entries: 125,749
+; Entries: 125,731
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 02 Mar 20 12:10:20
+; Updated: Mon, 02 Mar 20 18:10:26
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -635,7 +635,6 @@ $TTL 2h
 144.gulfcoastmining.com CNAME .
 1445.btgpool.pro CNAME .
 145-ct.c3tag.com CNAME .
-1452073537.btcc.com CNAME .
 1456.api.swrve.com CNAME .
 1456.content.swrve.com CNAME .
 145639-4902.link.iwanttodeliver.com CNAME .
@@ -1223,7 +1222,6 @@ $TTL 2h
 23243.xc.05cg.com CNAME .
 23315.hittail.com CNAME .
 2334ea708ab6d79.com CNAME .
-234.adru.net CNAME .
 234.media.lbn.ru CNAME .
 2345.api.swrve.com CNAME .
 2345.content.swrve.com CNAME .
@@ -6585,7 +6583,6 @@ admin.minerpool.net CNAME .
 admin.mobadvent.com CNAME .
 admin.monerominer.rocks CNAME .
 admin.nbhpa.com CNAME .
-admin.new.hashing.com CNAME .
 admin.nicehash.com CNAME .
 admin.ninebox.cn CNAME .
 admin.nnext.in CNAME .
@@ -8740,7 +8737,6 @@ adserver01.de CNAME .
 adserver01.vertismedia.co.uk CNAME .
 adserver1-images.backbeatmedia.com CNAME .
 adserver1.backbeatmedia.com CNAME .
-adserver1.lokitorrent.com CNAME .
 adserver1.mindshare.de CNAME .
 adserver2.atman.pl CNAME .
 adserver2.creative.com CNAME .
@@ -13818,7 +13814,6 @@ api.eosmetal.io CNAME .
 api.eostribe.io CNAME .
 api.eosvenezuela.io CNAME .
 api.eqmob.com CNAME .
-api.ergopool.io CNAME .
 api.ero-advertising.com CNAME .
 api.eroadvertising.com CNAME .
 api.esn.gonspool.com CNAME .
@@ -17542,7 +17537,6 @@ bankhapoailm.com CNAME .
 bankhapoalim-online.com CNAME .
 banking.bancofalabella-clientes.com.pe.lafarmed.com CNAME .
 bankivsamare.ru CNAME .
-bankmillennium.fun CNAME .
 bankmillennium.site CNAME .
 bankofamerica.cob-eg.com CNAME .
 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz CNAME .
@@ -29718,7 +29712,6 @@ csgohaste.com CNAME .
 csgohop.com CNAME .
 csgoid.com CNAME .
 csgoincome.com CNAME .
-csgoinrate.com CNAME .
 csgoitemsprices.com CNAME .
 csgojust.ru CNAME .
 csgolaw.com CNAME .
@@ -34003,7 +33996,6 @@ dmtw0i4zln92b.cloudfront.net CNAME .
 dmu20vut.com CNAME .
 dmv-org-d.openx.net CNAME .
 dmv-written-test.h-bid.com CNAME .
-dmvbdfblevxvx.com CNAME .
 dmvegzsxaxn.com CNAME .
 dmvguidecom.112.2o7.net CNAME .
 dmvmnafx.com CNAME .
@@ -34071,7 +34063,6 @@ dns.m.sm.cn CNAME .
 dns.mastermining.net CNAME .
 dns.minerpool.net CNAME .
 dns.novaonx.com CNAME .
-dns.sumcoinpool.org CNAME .
 dns.turtlecoin.lol CNAME .
 dns.union.uc.cn CNAME .
 dns0.coinfoundry.org CNAME .
@@ -37006,7 +36997,6 @@ eiwcqowbowqo.com CNAME .
 eiwdnygfwl.com CNAME .
 eiygqumgrobos.com CNAME .
 eizzndhkvl.bid CNAME .
-ej.btcc.com CNAME .
 ejayne.net CNAME .
 ejbvrgespr.bid CNAME .
 ejdcjjcqcnzhre.bid CNAME .
@@ -76751,7 +76741,6 @@ p_third.advertmedias.com CNAME .
 pa-oa.com CNAME .
 pa-stats.origin-cogent.kaltura.com CNAME .
 pa.ads.justpremium.com CNAME .
-pa.btcc.com CNAME .
 pa.nanopool.org CNAME .
 pa.tns-ua.com CNAME .
 paads.dk CNAME .
@@ -80365,7 +80354,6 @@ pool2.scrypt.ovh CNAME .
 pool2.serverpower.net CNAME .
 pool2.spotmecoin.com CNAME .
 pool2.spurri.com CNAME .
-pool2.uripool.net CNAME .
 pool2.webchain.network CNAME .
 pool2mine.com CNAME .
 pool3.moatads.com CNAME .
@@ -80909,7 +80897,6 @@ ppk889888-com.preview-domain.com CNAME .
 ppl-puls.gloryft.com CNAME .
 pplns.gethash.cc CNAME .
 pplsupj1.beget.tech CNAME .
-ppoi.org CNAME .
 ppoofff.000webhostapp.com CNAME .
 ppp10.nanopool.org CNAME .
 ppp15.nanopool.org CNAME .
@@ -86017,7 +86004,6 @@ riebe.refurbishedlaserscanners.com CNAME .
 riecnepal.com CNAME .
 riedlinger47.italiancarairbags.com CNAME .
 rientgallacecapt.info CNAME .
-riepool.ovh CNAME .
 riera4.aquadivingaccessories.com CNAME .
 rieyjzuyhigobg.bid CNAME .
 rifansi.net CNAME .
@@ -88144,7 +88130,6 @@ salesunglasses07.pw CNAME .
 salesviewer.com CNAME .
 salesviewer.org CNAME .
 salesxpert.noip.us CNAME .
-salewablock.pl CNAME .
 salhbbkvs.com CNAME .
 saligopasr.com CNAME .
 salime.ru CNAME .
@@ -94435,7 +94420,6 @@ starz.122.2o7.net CNAME .
 stas.outbrain.com CNAME .
 stash.by CNAME .
 stash.revcontent.com CNAME .
-staskostanislaw.pl CNAME .
 staswiselka.pl CNAME .
 stat-analytics.mediavitrina.ru CNAME .
 stat-parser02.aatkit.com CNAME .
@@ -96671,6 +96655,7 @@ surveywriter.com CNAME .
 surveywriter.net CNAME .
 survicate.com CNAME .
 survivalandcrossfitness.com CNAME .
+survivalservers.com CNAME .
 surwillo.tastyarabicacoffee.com CNAME .
 susanapt.000webhostapp.com CNAME .
 susandeland.com CNAME .
@@ -110997,7 +110982,6 @@ www.163ren.com CNAME .
 www.168pool.com CNAME .
 www.17zhaole.com CNAME .
 www.1800banners.com CNAME .
-www.18access.com CNAME .
 www.1933000.com CNAME .
 www.1channelhd.xyz CNAME .
 www.1ds.us CNAME .
@@ -113834,7 +113818,6 @@ www.dmdamedia.hu CNAME .
 www.dmp.adblade.com CNAME .
 www.dmpools.com CNAME .
 www.dnotes.mastermining.net CNAME .
-www.dns.sumcoinpool.org CNAME .
 www.dnsseed.italocoin.com CNAME .
 www.dnsseed.vinumeris.com CNAME .
 www.dntx.com CNAME .
@@ -114219,7 +114202,6 @@ www.envy-labs.com CNAME .
 www.eo8vs.voluumtrk.com CNAME .
 www.eon.hashhot.com CNAME .
 www.eonline.pl CNAME .
-www.eopbflgmxcr.com CNAME .
 www.ep66.com.tw CNAME .
 www.epicgameads.com CNAME .
 www.epicreact.pl CNAME .
