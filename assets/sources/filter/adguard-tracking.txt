@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
 # Last Converted - 03.03.2020
-# Total Domains - 2832
+# Total Domains - 2834
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -98,6 +98,7 @@
 0.0.0.0 actuallysnake.com
 0.0.0.0 acxiom-online.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.gt
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -2507,6 +2508,7 @@
 0.0.0.0 triggeredmessaging.com
 0.0.0.0 triggit.com
 0.0.0.0 trk.olnl.net
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trkjmp.com
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us

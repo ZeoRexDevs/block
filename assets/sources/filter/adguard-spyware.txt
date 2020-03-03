@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
 # Last Converted - 03.03.2020
-# Total Domains - 4175
+# Total Domains - 4176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3798,6 +3798,7 @@
 0.0.0.0 trk.performanceplay.co.kr
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.stroeermediabrands.de
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trkjmp.com
 0.0.0.0 trkme.net

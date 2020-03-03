@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.03.063
 ; Release: 063
-; Entries: 125,383
+; Entries: 125,385
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 03 Mar 20 12:10:34
+; Updated: Tue, 03 Mar 20 18:10:41
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1993,7 +1993,6 @@ $TTL 2h
 3c06b86c4147745b.com CNAME .
 3c34083bda22d8.com CNAME .
 3c513c1d3255c.com CNAME .
-3c9f.btcc.com CNAME .
 3ca28642b714623b2.com CNAME .
 3cd99930e27056f89.com CNAME .
 3cinteractive.com CNAME .
@@ -10780,6 +10779,7 @@ ajose56.italiancarairbags.com CNAME .
 ajrwmjdbey.com CNAME .
 ajsfbajkaf-aslfknafla.ml CNAME .
 ajszcymkv.com CNAME .
+ajtctiiiaz.com CNAME .
 ajttqxeqg.com CNAME .
 aju0gy85xp.s.ad6media.fr CNAME .
 ajuegtbkqnh.com CNAME .
@@ -16527,6 +16527,7 @@ automair.com CNAME .
 automair.pt CNAME .
 automatad.com CNAME .
 automate-prod.s3.amazonaws.com CNAME .
+automatedcomputers.com CNAME .
 automatedtraffic.com CNAME .
 automateyourlist.com CNAME .
 automaticbitcome.com CNAME .
@@ -18120,7 +18121,6 @@ bcn.vip.pool.minergate.com CNAME .
 bcngvwvewfvw.com CNAME .
 bcnhnekodmdniu.com CNAME .
 bcnikicdi.bid CNAME .
-bco.hpool.com CNAME .
 bcoavtimgn.bid CNAME .
 bcobmmozfan.com CNAME .
 bcode.zhantai.com CNAME .
@@ -19522,6 +19522,7 @@ bitcoincash.securepayment.cc CNAME .
 bitcoincodesverigerecension.com CNAME .
 bitcoindark.ca CNAME .
 bitcoiner.win CNAME .
+bitcoines.com CNAME .
 bitcoinethereum.eu CNAME .
 bitcoinfast.mastermining.net CNAME .
 bitcoingenerator.club CNAME .
@@ -21911,6 +21912,7 @@ bws3.midasplayer.com CNAME .
 bwsru.com CNAME .
 bwssvome.com CNAME .
 bwstest.zel.cash CNAME .
+bwtsrv.com CNAME .
 bwuqqnxubseq.com CNAME .
 bwuxrzvr.bid CNAME .
 bwvigmkn.com CNAME .
@@ -29615,6 +29617,7 @@ csdzhoku.com CNAME .
 cse3.chausport.com CNAME .
 csegurosural.com CNAME .
 csetournament.info CNAME .
+csfkhqzegycmux.com CNAME .
 csfreshskins.com CNAME .
 csgo-drop.com CNAME .
 csgo-finder.com CNAME .
@@ -31108,6 +31111,7 @@ dadsimz.com CNAME .
 dadsipz.com CNAME .
 dadskis.com CNAME .
 dadsoks.com CNAME .
+dadsokz.com CNAME .
 dadspms.com CNAME .
 daea.ero-advertising.com CNAME .
 daecan.xyz CNAME .
@@ -33930,7 +33934,6 @@ dmzgames.com CNAME .
 dn-growing.qbox.me CNAME .
 dn-se.c.richmetrics.com CNAME .
 dn-ssl.vidible.tv CNAME .
-dn.btcc.com CNAME .
 dn.c.richmetrics.com CNAME .
 dn.cryptobrowser.site CNAME .
 dn.livefyre.com CNAME .
@@ -43092,6 +43095,7 @@ fst.cryptominer.net CNAME .
 fst.mastermining.net CNAME .
 fst.securefastoffers.com CNAME .
 fstatic.iadvize.com CNAME .
+fstats.xyz CNAME .
 fstrk.net CNAME .
 fstuoao.com CNAME .
 fsuhjykihmqpt.bid CNAME .
@@ -64369,7 +64373,6 @@ mail.mnshare.info CNAME .
 mail.moatads.com CNAME .
 mail.moriaxmr.com CNAME .
 mail.mu.blognet.in CNAME .
-mail.mue.ltc-e.live CNAME .
 mail.mupool.com CNAME .
 mail.musipool.ru CNAME .
 mail.my-mining-pool.de CNAME .
@@ -69652,7 +69655,6 @@ mx.admaym.com CNAME .
 mx.admin.3-dolphins.com CNAME .
 mx.ads.justpremium.com CNAME .
 mx.adserver.yahoo.com CNAME .
-mx.auth.3-dolphins.com CNAME .
 mx.biquge.info CNAME .
 mx.btcpool24.com CNAME .
 mx.coinsolver.com CNAME .
@@ -69671,7 +69673,6 @@ mx.mx.mx.mx.cryptopool.net CNAME .
 mx.mz.blognet.in CNAME .
 mx.pirl.space CNAME .
 mx.pool2.3-dolphins.com CNAME .
-mx.pool3.3-dolphins.com CNAME .
 mx.simplycoin.eu CNAME .
 mx.switchercoin.com CNAME .
 mx.tbdice.org CNAME .
@@ -76458,7 +76459,6 @@ p69523.clksite.com CNAME .
 p69578.retdaz.fun CNAME .
 p7.appearch.info CNAME .
 p7.firrectly.top CNAME .
-p70318392.btcc.com CNAME .
 p7560.cdaz.icu CNAME .
 p7560.retdaz.fun CNAME .
 p76134.clksite.com CNAME .
@@ -94238,6 +94238,7 @@ stat.synergy-e.com CNAME .
 stat.teleport.media CNAME .
 stat.tf.360.cn CNAME .
 stat.thestartmagazine.com CNAME .
+stat.tiara.daum.net CNAME .
 stat.tiara.kakao.com CNAME .
 stat.tildacdn.com CNAME .
 stat.tongji.today CNAME .
@@ -106353,6 +106354,7 @@ vgdikad9oqww.appspot.com CNAME .
 vgf.zuihuixuan.com CNAME .
 vgfree.com CNAME .
 vghd.com CNAME .
+vghjsrae.com CNAME .
 vgjwkjinwkud.com CNAME .
 vglpukrekfij.com CNAME .
 vgnlhfdkmcdc.com CNAME .
@@ -106637,6 +106639,7 @@ videosp.pro CNAME .
 videostat-new.index.hu CNAME .
 videostat.com CNAME .
 videostat.index.hu CNAME .
+videostats.kakao.com CNAME .
 videotracker.washingtonpost.com CNAME .
 videotroncom.112.2o7.net CNAME .
 vidfile.net CNAME .
@@ -106847,7 +106850,6 @@ viralgag.net CNAME .
 viralmediatech.com CNAME .
 viralninjas.com CNAME .
 viralnook.com CNAME .
-viralsweep.com CNAME .
 viraltungsten.com CNAME .
 viralture.com CNAME .
 viralupdatestoday.com CNAME .
@@ -116703,7 +116705,6 @@ www.minin.bitcoin.cz CNAME .
 www.minine.bitcoin.cz CNAME .
 www.mining-bios.eu CNAME .
 www.mining-pool.io CNAME .
-www.mining.best CNAME .
 www.mining.cafe CNAME .
 www.mining.eligius.st CNAME .
 www.mining.usa.hypernova.pw CNAME .
@@ -122827,6 +122828,7 @@ xpyyrkwpcpwf.com CNAME .
 xq0wju848zr.ga CNAME .
 xq1.net CNAME .
 xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au CNAME .
+xqankuajhtdehe.com CNAME .
 xqgjtzushomki.com CNAME .
 xqilrhnce.com CNAME .
 xqjhszpussoeur.com CNAME .
