@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.03.063
-# Release: 063
-# Entries: 125,385
+# Version: 20.03.064
+# Release: 064
+# Entries: 125,373
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 03 Mar 20 18:10:41
+# Updated: Wed, 04 Mar 20 00:12:02
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -82,7 +82,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0-100.burst-team.us
 0.0.0.0 0-100.burst.wickedmine.com
 0.0.0.0 0-100pool.burstcoin.ro
-0.0.0.0 0-132.btcc.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 00.video-ak.cdn.spotify.com
@@ -150,7 +149,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 03.video-ak.cdn.spotify.com
 0.0.0.0 03284db.netsolhost.com
 0.0.0.0 03383bd.netsolhost.com
-0.0.0.0 03654.btcc.com
 0.0.0.0 0374adc8c6a6a56.com
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03e.info
@@ -366,7 +364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 100-0-bhd.foxypool.cf
 0.0.0.0 100-0-lhd.foxypool.cf
 0.0.0.0 100-0-pool.burst-alliance.org
-0.0.0.0 100-185.btcc.com
 0.0.0.0 100-btc.com
 0.0.0.0 100.1qingdao.com
 0.0.0.0 100.pncdn.cn
@@ -388,7 +385,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 100291.adnico.jp
 0.0.0.0 100602.advision-adnw.jp
 0.0.0.0 100651.advision-adnw.jp
-0.0.0.0 10073.btcc.com
 0.0.0.0 100800.advision-adnw.jp
 0.0.0.0 10086hyl.com
 0.0.0.0 100ass.com
@@ -468,7 +464,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1147.org
 0.0.0.0 114oldest.com
 0.0.0.0 114study.adsame.com
-0.0.0.0 11582.btcc.com
 0.0.0.0 1170.api.swrve.com
 0.0.0.0 1170.content.swrve.com
 0.0.0.0 1178.shucong.com
@@ -7894,7 +7889,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.persgroep.adhese.com
 0.0.0.0 ads.persgroep.net
-0.0.0.0 ads.peteava.ro
 0.0.0.0 ads.petspot-gmbh.com
 0.0.0.0 ads.petvet.bg
 0.0.0.0 ads.phillipsdata.us
@@ -17504,7 +17498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 banianspaddi.info
 0.0.0.0 banik.redigy.cz
 0.0.0.0 bank-100.ads.mp.mydas.mobi
-0.0.0.0 bank.3-dolphins.com
 0.0.0.0 bank.barclays.co.uk.olb.auth.loginlink.action.loginlink.action.loginlink.action.loginlink.action.galatamp.com
 0.0.0.0 bank.ligaqq.online
 0.0.0.0 bank.nabilabbas.top
@@ -19083,7 +19076,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bhd.hpool.com
 0.0.0.0 bhd.poolx.com
 0.0.0.0 bhd.voiplanparty.com
-0.0.0.0 bhde-hk.hpool.com
 0.0.0.0 bhde.awpool.com
 0.0.0.0 bhde.hpool.com
 0.0.0.0 bhejacry.com
@@ -29234,7 +29226,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 creativitygap.com
 0.0.0.0 creator.zmags.com
 0.0.0.0 creatrixads.com
-0.0.0.0 crebel.poolswitch.pw
 0.0.0.0 credbgvhijbcj.com
 0.0.0.0 credibleartstherapies.org
 0.0.0.0 crediko.pl
@@ -32262,7 +32253,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dego-explorer.bot.tips
 0.0.0.0 dego-nodes.bot.tips
 0.0.0.0 dego.bot.tips
-0.0.0.0 dego.muxdux.com
 0.0.0.0 degowallet.llama.horse
 0.0.0.0 degreat.host56.com
 0.0.0.0 degreat.ye.vc
@@ -65266,6 +65256,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 matrix.getmonero.org
 0.0.0.0 matrix.xmr.pt
 0.0.0.0 matrouh1973.myftp.biz
+0.0.0.0 mattempts.info
 0.0.0.0 mattermost.cryptobro.eu
 0.0.0.0 matthewleecorp.com
 0.0.0.0 matthi5w.beget.tech
@@ -69279,6 +69270,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtnreztslx.com
 0.0.0.0 mtnysmosgmp.bid
 0.0.0.0 mtp.capitalrtv.com
+0.0.0.0 mtp.spaces.im
 0.0.0.0 mtp.spaces.ru
 0.0.0.0 mtp.spcs.me
 0.0.0.0 mtpgame.com
@@ -79953,7 +79945,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool.levcoin.net
 0.0.0.0 pool.llama.horse
 0.0.0.0 pool.loki.frackingminer.com
-0.0.0.0 pool.ltc-e.live
 0.0.0.0 pool.ltfn.org
 0.0.0.0 pool.luckyaltcoin.com
 0.0.0.0 pool.magical.coffee
@@ -80093,7 +80084,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool1.phi-phi-pool.com
 0.0.0.0 pool1.spotmecoin.com
 0.0.0.0 pool137.com
-0.0.0.0 pool2.3-dolphins.com
 0.0.0.0 pool2.50btc.com
 0.0.0.0 pool2.crypto-pool.fr
 0.0.0.0 pool2.gethash.cc
@@ -98610,7 +98600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tf-con.com
 0.0.0.0 tf-host-03.trafficfabrik.com
 0.0.0.0 tf.360.cn
-0.0.0.0 tf.btcc.com
 0.0.0.0 tf.caohua.com
 0.0.0.0 tf.jucydate.com
 0.0.0.0 tf2legendary.com
@@ -112037,7 +112026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.benesserelab.com
 0.0.0.0 www.berkano-koty.pl
 0.0.0.0 www.berryen.com
-0.0.0.0 www.bert24.com
 0.0.0.0 www.beskidzkasala.pl
 0.0.0.0 www.besstbuy.com
 0.0.0.0 www.best-rated-offers.com

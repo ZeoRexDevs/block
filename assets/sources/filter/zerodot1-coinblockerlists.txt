@@ -1,8 +1,8 @@
 # Title: zerodot1-coinblockerlists Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Last Converted - 03.03.2020
-# Total Domains - 16582
+# Last Converted - 04.03.2020
+# Total Domains - 16570
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12,14 +12,12 @@
 0.0.0.0 0-100.burst-team.us
 0.0.0.0 0-100.burst.wickedmine.com
 0.0.0.0 0-100pool.burstcoin.ro
-0.0.0.0 0-132.btcc.com
 0.0.0.0 01.btc.top
 0.0.0.0 01.nanopool.org
 0.0.0.0 01crypto.net
 0.0.0.0 01sm-ws.pandasecurity.comindex.bitcoin.com
 0.0.0.0 02.gethash.cc
 0.0.0.0 03.easyhash.de
-0.0.0.0 03654.btcc.com
 0.0.0.0 05.easyhash.de
 0.0.0.0 05.gethash.cc
 0.0.0.0 0629.123unlock.nl
@@ -46,10 +44,8 @@
 0.0.0.0 100-0-bhd.foxypool.cf
 0.0.0.0 100-0-lhd.foxypool.cf
 0.0.0.0 100-0-pool.burst-alliance.org
-0.0.0.0 100-185.btcc.com
 0.0.0.0 100-btc.com
 0.0.0.0 1000expert.com
-0.0.0.0 10073.btcc.com
 0.0.0.0 100bitco.in
 0.0.0.0 100btc.com
 0.0.0.0 100pb.online
@@ -67,7 +63,6 @@
 0.0.0.0 11.0769.it
 0.0.0.0 11.easyhash.de
 0.0.0.0 11.minercircle.com
-0.0.0.0 11582.btcc.com
 0.0.0.0 12.minercircle.com
 0.0.0.0 120bit.com
 0.0.0.0 120bitcoins.com
@@ -1248,7 +1243,6 @@
 0.0.0.0 baltic.bloc.money
 0.0.0.0 ban4na.triplemining.com
 0.0.0.0 bandaomodel.com
-0.0.0.0 bank.3-dolphins.com
 0.0.0.0 barrelc.wtf
 0.0.0.0 base.hackerknowledge.de
 0.0.0.0 basementpool.org
@@ -1410,7 +1404,6 @@
 0.0.0.0 bhd.hpool.com
 0.0.0.0 bhd.poolx.com
 0.0.0.0 bhd.voiplanparty.com
-0.0.0.0 bhde-hk.hpool.com
 0.0.0.0 bhde.awpool.com
 0.0.0.0 bhde.hpool.com
 0.0.0.0 biblepay.org
@@ -2637,7 +2630,6 @@
 0.0.0.0 creat.cryptopool.eu
 0.0.0.0 creat.suchpool.pw
 0.0.0.0 create.suchpool.pw
-0.0.0.0 crebel.poolswitch.pw
 0.0.0.0 creepster67.bitcoinwallet.com
 0.0.0.0 crep.4miner.me
 0.0.0.0 crevacoin.miningpoolhub.com
@@ -2972,7 +2964,6 @@
 0.0.0.0 dego-explorer.bot.tips
 0.0.0.0 dego-nodes.bot.tips
 0.0.0.0 dego.bot.tips
-0.0.0.0 dego.muxdux.com
 0.0.0.0 degowallet.llama.horse
 0.0.0.0 deipool.xyz
 0.0.0.0 dekoder.ws
@@ -10525,7 +10516,6 @@
 0.0.0.0 pool.levcoin.net
 0.0.0.0 pool.llama.horse
 0.0.0.0 pool.loki.frackingminer.com
-0.0.0.0 pool.ltc-e.live
 0.0.0.0 pool.ltfn.org
 0.0.0.0 pool.luckyaltcoin.com
 0.0.0.0 pool.magical.coffee
@@ -10650,7 +10640,6 @@
 0.0.0.0 pool1.phi-phi-pool.com
 0.0.0.0 pool1.spotmecoin.com
 0.0.0.0 pool137.com
-0.0.0.0 pool2.3-dolphins.com
 0.0.0.0 pool2.50btc.com
 0.0.0.0 pool2.crypto-pool.fr
 0.0.0.0 pool2.gethash.cc
@@ -12696,7 +12685,6 @@
 0.0.0.0 tex.bitember.com
 0.0.0.0 texas.nanopool.org
 0.0.0.0 texplorer.bitcoinrh.org
-0.0.0.0 tf.btcc.com
 0.0.0.0 tfaucet.bitcoinrh.org
 0.0.0.0 tfun.ethosdistro.com
 0.0.0.0 tg-profit.hashvault.pro

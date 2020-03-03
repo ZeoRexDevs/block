@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 03.03.2020
-# Total Domains - 4176
+# Last Converted - 04.03.2020
+# Total Domains - 4181
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -112,6 +112,7 @@
 0.0.0.0 acxiom-online.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.gt
 0.0.0.0 ad.kinozal.website
 0.0.0.0 adblade.com
@@ -2220,6 +2221,7 @@
 0.0.0.0 mstop.ru
 0.0.0.0 mstracker.net
 0.0.0.0 mtlog.droid4x.cn
+0.0.0.0 mtp.spaces.im
 0.0.0.0 mtp.spaces.ru
 0.0.0.0 mtp.spcs.me
 0.0.0.0 mtrack.nl
@@ -3205,6 +3207,7 @@
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.teleport.media
 0.0.0.0 stat.thestartmagazine.com
+0.0.0.0 stat.tiara.daum.net
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 stat.uitools.space
@@ -3917,6 +3920,7 @@
 0.0.0.0 videos.oms.eu
 0.0.0.0 videostat.com
 0.0.0.0 videostat.meta.ua
+0.0.0.0 videostats.kakao.com
 0.0.0.0 vidigital.ru
 0.0.0.0 viewar.org
 0.0.0.0 vihtori-analytics.fi
@@ -4014,6 +4018,7 @@
 0.0.0.0 webgozar.com
 0.0.0.0 webgozar.ir
 0.0.0.0 webhits.de
+0.0.0.0 webid.ad.daum.net
 0.0.0.0 webiqonline.com
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de

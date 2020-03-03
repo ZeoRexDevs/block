@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.03.063
-# Release: 063
+# Version: 20.03.064
+# Release: 064
 # Entries: 61,650
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 03 Mar 20 18:10:36
+# Updated: Wed, 04 Mar 20 00:11:58
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -5027,7 +5027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.persgroep.adhese.com
 0.0.0.0 ads.persgroep.net
-0.0.0.0 ads.peteava.ro
 0.0.0.0 ads.petspot-gmbh.com
 0.0.0.0 ads.phillipsdata.us
 0.0.0.0 ads.phillyadclub.com
@@ -32292,6 +32291,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matomy.com
 0.0.0.0 matrix-cash.com
+0.0.0.0 mattempts.info
 0.0.0.0 mattressusa.122.2o7.net
 0.0.0.0 mature.xxxcounter.com
 0.0.0.0 mau.mobincube.com

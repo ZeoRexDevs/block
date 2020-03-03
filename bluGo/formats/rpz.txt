@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.03.063
-; Release: 063
-; Entries: 125,385
+; Version: 20.03.064
+; Release: 064
+; Entries: 125,373
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 03 Mar 20 18:10:41
+; Updated: Wed, 04 Mar 20 00:12:02
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -71,7 +71,6 @@ $TTL 2h
 0-100.burst-team.us CNAME .
 0-100.burst.wickedmine.com CNAME .
 0-100pool.burstcoin.ro CNAME .
-0-132.btcc.com CNAME .
 0.nextyourcontent.com CNAME .
 0.up.qingdaonews.com CNAME .
 00.video-ak.cdn.spotify.com CNAME .
@@ -139,7 +138,6 @@ $TTL 2h
 03.video-ak.cdn.spotify.com CNAME .
 03284db.netsolhost.com CNAME .
 03383bd.netsolhost.com CNAME .
-03654.btcc.com CNAME .
 0374adc8c6a6a56.com CNAME .
 039ad0897e6da.com CNAME .
 03e.info CNAME .
@@ -355,7 +353,6 @@ $TTL 2h
 100-0-bhd.foxypool.cf CNAME .
 100-0-lhd.foxypool.cf CNAME .
 100-0-pool.burst-alliance.org CNAME .
-100-185.btcc.com CNAME .
 100-btc.com CNAME .
 100.1qingdao.com CNAME .
 100.pncdn.cn CNAME .
@@ -377,7 +374,6 @@ $TTL 2h
 100291.adnico.jp CNAME .
 100602.advision-adnw.jp CNAME .
 100651.advision-adnw.jp CNAME .
-10073.btcc.com CNAME .
 100800.advision-adnw.jp CNAME .
 10086hyl.com CNAME .
 100ass.com CNAME .
@@ -457,7 +453,6 @@ $TTL 2h
 1147.org CNAME .
 114oldest.com CNAME .
 114study.adsame.com CNAME .
-11582.btcc.com CNAME .
 1170.api.swrve.com CNAME .
 1170.content.swrve.com CNAME .
 1178.shucong.com CNAME .
@@ -7883,7 +7878,6 @@ ads.peoplespharmacy.com CNAME .
 ads.perfectaudience.com CNAME .
 ads.persgroep.adhese.com CNAME .
 ads.persgroep.net CNAME .
-ads.peteava.ro CNAME .
 ads.petspot-gmbh.com CNAME .
 ads.petvet.bg CNAME .
 ads.phillipsdata.us CNAME .
@@ -17493,7 +17487,6 @@ bangortalk.org.uk CNAME .
 banianspaddi.info CNAME .
 banik.redigy.cz CNAME .
 bank-100.ads.mp.mydas.mobi CNAME .
-bank.3-dolphins.com CNAME .
 bank.barclays.co.uk.olb.auth.loginlink.action.loginlink.action.loginlink.action.loginlink.action.galatamp.com CNAME .
 bank.ligaqq.online CNAME .
 bank.nabilabbas.top CNAME .
@@ -19072,7 +19065,6 @@ bhd.hdpool.com CNAME .
 bhd.hpool.com CNAME .
 bhd.poolx.com CNAME .
 bhd.voiplanparty.com CNAME .
-bhde-hk.hpool.com CNAME .
 bhde.awpool.com CNAME .
 bhde.hpool.com CNAME .
 bhejacry.com CNAME .
@@ -29223,7 +29215,6 @@ creativita.gsf.rcs.it CNAME .
 creativitygap.com CNAME .
 creator.zmags.com CNAME .
 creatrixads.com CNAME .
-crebel.poolswitch.pw CNAME .
 credbgvhijbcj.com CNAME .
 credibleartstherapies.org CNAME .
 crediko.pl CNAME .
@@ -32251,7 +32242,6 @@ dego-data-dir.bot.tips CNAME .
 dego-explorer.bot.tips CNAME .
 dego-nodes.bot.tips CNAME .
 dego.bot.tips CNAME .
-dego.muxdux.com CNAME .
 degowallet.llama.horse CNAME .
 degreat.host56.com CNAME .
 degreat.ye.vc CNAME .
@@ -65255,6 +65245,7 @@ matrix.eu.sk CNAME .
 matrix.getmonero.org CNAME .
 matrix.xmr.pt CNAME .
 matrouh1973.myftp.biz CNAME .
+mattempts.info CNAME .
 mattermost.cryptobro.eu CNAME .
 matthewleecorp.com CNAME .
 matthi5w.beget.tech CNAME .
@@ -69268,6 +69259,7 @@ mtnobdfcgylhuj.com CNAME .
 mtnreztslx.com CNAME .
 mtnysmosgmp.bid CNAME .
 mtp.capitalrtv.com CNAME .
+mtp.spaces.im CNAME .
 mtp.spaces.ru CNAME .
 mtp.spcs.me CNAME .
 mtpgame.com CNAME .
@@ -79942,7 +79934,6 @@ pool.lanacoin.com CNAME .
 pool.levcoin.net CNAME .
 pool.llama.horse CNAME .
 pool.loki.frackingminer.com CNAME .
-pool.ltc-e.live CNAME .
 pool.ltfn.org CNAME .
 pool.luckyaltcoin.com CNAME .
 pool.magical.coffee CNAME .
@@ -80082,7 +80073,6 @@ pool1.moatads.com CNAME .
 pool1.phi-phi-pool.com CNAME .
 pool1.spotmecoin.com CNAME .
 pool137.com CNAME .
-pool2.3-dolphins.com CNAME .
 pool2.50btc.com CNAME .
 pool2.crypto-pool.fr CNAME .
 pool2.gethash.cc CNAME .
@@ -98599,7 +98589,6 @@ teyuzyrjmrdi.com CNAME .
 tf-con.com CNAME .
 tf-host-03.trafficfabrik.com CNAME .
 tf.360.cn CNAME .
-tf.btcc.com CNAME .
 tf.caohua.com CNAME .
 tf.jucydate.com CNAME .
 tf2legendary.com CNAME .
@@ -112026,7 +112015,6 @@ www.bemydate.mobi CNAME .
 www.benesserelab.com CNAME .
 www.berkano-koty.pl CNAME .
 www.berryen.com CNAME .
-www.bert24.com CNAME .
 www.beskidzkasala.pl CNAME .
 www.besstbuy.com CNAME .
 www.best-rated-offers.com CNAME .
