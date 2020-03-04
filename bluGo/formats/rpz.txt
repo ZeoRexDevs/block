@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.03.064
 ; Release: 064
-; Entries: 125,387
+; Entries: 125,390
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 04 Mar 20 12:10:29
+; Updated: Wed, 04 Mar 20 18:11:46
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2060,7 +2060,6 @@ $TTL 2h
 4.mcnt.jp CNAME .
 4.minercircle.com CNAME .
 4.newstart.online CNAME .
-4.program-iq.com CNAME .
 4.redirect.appmetrica.yandex.com CNAME .
 4.up.qingdaonews.com CNAME .
 4.whereinitaly.com CNAME .
@@ -4981,7 +4980,6 @@ ad.eg.doubleclick.net CNAME .
 ad.eglenced.com CNAME .
 ad.egloos.com CNAME .
 ad.egou.com CNAME .
-ad.ekonomikticaret.com CNAME .
 ad.eluosi.cn CNAME .
 ad.entgroup.cn CNAME .
 ad.epochtimes.com CNAME .
@@ -6456,7 +6454,6 @@ admeld.com CNAME .
 admeme.net CNAME .
 admention.adspirit.de CNAME .
 admeridianads.com CNAME .
-admerize.be CNAME .
 admessage.support CNAME .
 admeta.com CNAME .
 admetcheck.atwebpages.com CNAME .
@@ -7032,6 +7029,7 @@ ads-corelio.adhese.com CNAME .
 ads-d.viber.com CNAME .
 ads-dazn.adhese.com CNAME .
 ads-delivery.gameforge.com CNAME .
+ads-delivery.gunosy.com CNAME .
 ads-deltatv-x64zcsqq.netdna-ssl.com CNAME .
 ads-demo.adhese.com CNAME .
 ads-doc.adhese.com CNAME .
@@ -22960,6 +22958,7 @@ canvashub.com CNAME .
 canwest.112.2o7.net CNAME .
 canwestcom.112.2o7.net CNAME .
 canwestglobal.112.2o7.net CNAME .
+canyboysho.info CNAME .
 caohavan.ezimar.com CNAME .
 cap-cap-pop.com CNAME .
 cap.cyberlink.com CNAME .
@@ -24056,6 +24055,7 @@ cdn.ndapp.com CNAME .
 cdn.nearbyad.com CNAME .
 cdn.neomobile.net CNAME .
 cdn.neppa-ad.com CNAME .
+cdn.neppa-adsv.com CNAME .
 cdn.newapi.com CNAME .
 cdn.niumobi.com CNAME .
 cdn.nmcdn.us CNAME .
@@ -29192,6 +29192,7 @@ creativesceneses.com CNAME .
 creativesparkz.co.in CNAME .
 creativestate-fy2010.leftbankcompanies.com CNAME .
 creativeteam.it CNAME .
+creativetv.pro CNAME .
 creativita.gsf.rcs.it CNAME .
 creativitygap.com CNAME .
 creator.zmags.com CNAME .
@@ -33386,6 +33387,7 @@ dis.us.criteo.com CNAME .
 dis.va.us.criteo.com CNAME .
 disablerightclick.upsell-apps.com.herokudns.com CNAME .
 disablesaccount.000webhostapp.com CNAME .
+disappenedy.site CNAME .
 disc.b3pool.com CNAME .
 disc.foxypool.cf CNAME .
 disc.nanopool.org CNAME .
@@ -56143,6 +56145,7 @@ jadeitite.com CNAME .
 jadeitwoman.pl CNAME .
 jadesprings.in CNAME .
 jads.co CNAME .
+jads.co$third-party CNAME .
 jadserve.postrelease.com.akadns.net CNAME .
 jafarma.com CNAME .
 jafiles.net CNAME .
@@ -58364,6 +58367,7 @@ kegpoihat.club CNAME .
 keguh.ru CNAME .
 kehalim.com CNAME .
 kei.su CNAME .
+keighleynews-gb.keighleynews.co.uk CNAME .
 keiko.whalesburg.com CNAME .
 keikomimura.com CNAME .
 keimolankaiku.fi CNAME .
@@ -71083,6 +71087,7 @@ nepalhimalayantrekking.com CNAME .
 nepalhtml.com CNAME .
 nephef.com CNAME .
 nepohita.com CNAME .
+neppa-dsp-ad.com CNAME .
 neptun-vm.mgid.com CNAME .
 neptune.twitpost.info CNAME .
 neptune.webchain.network CNAME .
@@ -88962,7 +88967,6 @@ search.cryptobrowser.site CNAME .
 search.effectivebrand.com CNAME .
 search.etargetnet.com CNAME .
 search.feedvertizus.com CNAME .
-search.freeonline.com CNAME .
 search.funsafetabsearch.com CNAME .
 search.in CNAME .
 search.info.com CNAME .
@@ -93314,6 +93318,7 @@ springserve.net CNAME .
 sprinklecontent.com CNAME .
 sprint-srs-appopen.asapp.com CNAME .
 sprint.asapp.com CNAME .
+sprintainokeg.site CNAME .
 sprintcollector.tealeaf.ibmcloud.com CNAME .
 sprintglobal.112.2o7.net CNAME .
 sprintjogsi.hu CNAME .
@@ -99096,6 +99101,7 @@ thoaltie.net CNAME .
 thoatran.000webhostapp.com CNAME .
 thodsserentlya.info CNAME .
 thoennes44.ceramiccoffecups.com CNAME .
+thofigdot.club CNAME .
 thogethoffic.co CNAME .
 thoidai.ongruotgaloithep.com CNAME .
 thomagejut.site CNAME .
@@ -111571,7 +111577,6 @@ www.anners.ero-advertising.com CNAME .
 www.annonce-legale.top CNAME .
 www.annoncelegalepascher.fr CNAME .
 www.annuaire-autosurf.com CNAME .
-www.annualconsumersurvey.com CNAME .
 www.anodyneimaging.com CNAME .
 www.anomp.com CNAME .
 www.anonlancer.com CNAME .
@@ -115183,7 +115188,6 @@ www.hotellaconchiglialmd.com CNAME .
 www.hotellwowlublin.lubuskie.lu CNAME .
 www.hotelnatali.ru CNAME .
 www.hotelnidodaquila.it CNAME .
-www.hotgiftzone.com CNAME .
 www.hothub.pl CNAME .
 www.hotjar.com CNAME .
 www.hotlinkie.com CNAME .
@@ -121215,7 +121219,6 @@ www.yotefiles.com CNAME .
 www.youarepartofour.club CNAME .
 www.youaresogay.com CNAME .
 www.youcrazy.me CNAME .
-www.youfck.com CNAME .
 www.youfiletor.com CNAME .
 www.youho.com CNAME .
 www.youka.la CNAME .
