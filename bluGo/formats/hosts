@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.03.064
-# Release: 064
-# Entries: 125,390
+# Version: 20.03.065
+# Release: 065
+# Entries: 125,389
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 04 Mar 20 18:11:46
+# Updated: Thu, 05 Mar 20 00:10:47
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -56156,7 +56156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jadeitwoman.pl
 0.0.0.0 jadesprings.in
 0.0.0.0 jads.co
-0.0.0.0 jads.co$third-party
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jafarma.com
 0.0.0.0 jafiles.net
@@ -93775,6 +93774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssp.lkgd.net
 0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 ssp.ops.sparkpool.com
+0.0.0.0 ssp.otm-r.com
 0.0.0.0 ssp.pro.cn
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.send.microadinc.com
@@ -111922,7 +111922,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.badassjv.com
 0.0.0.0 www.badboys.network
 0.0.0.0 www.bagana.net
-0.0.0.0 www.bagazowkapoznan.pl
 0.0.0.0 www.bagstory.pl
 0.0.0.0 www.bahar.shop
 0.0.0.0 www.baidu-pc-faster.en.softonic.com

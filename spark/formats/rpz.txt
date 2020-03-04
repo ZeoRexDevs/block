@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.03.064
-; Release: 064
-; Entries: 61,596
+; Version: 20.03.065
+; Release: 065
+; Entries: 61,597
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 04 Mar 20 18:11:42
+; Updated: Thu, 05 Mar 20 00:10:42
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -47054,6 +47054,7 @@ ssp.hadarone.com CNAME .
 ssp.imedia.cz CNAME .
 ssp.lkgd.net CNAME .
 ssp.mediation.trnox.com CNAME .
+ssp.otm-r.com CNAME .
 ssp.rambler.ru CNAME .
 ssp.send.microadinc.com CNAME .
 ssp.videostat.com CNAME .

@@ -1,8 +1,8 @@
 # Title: lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 04.03.2020
-# Total Domains - 102258
+# Last Converted - 05.03.2020
+# Total Domains - 102302
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -27566,6 +27566,7 @@
 0.0.0.0 cc.reachlocal.com
 0.0.0.0 cc.ssacdn.com
 0.0.0.0 cc.stroeer.de
+0.0.0.0 cc.swiftype.com
 0.0.0.0 cc15.mta.exacttarget.com
 0.0.0.0 cc2.midasplayer.com
 0.0.0.0 cc2223.dotomi.com
@@ -33657,6 +33658,7 @@
 0.0.0.0 d951-us.api.decibelinsight.net
 0.0.0.0 d996-us.api.decibelinsight.net
 0.0.0.0 d9apmjpa.emltrk.com
+0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 da-10923-proxy.decibelinsight.net
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da.adbrix.igaworks.com
@@ -50105,6 +50107,7 @@
 0.0.0.0 in.info.lgsmartad.com
 0.0.0.0 in.jwpltx.com
 0.0.0.0 in.mediamath.com
+0.0.0.0 in.ml314.com
 0.0.0.0 in.ord.geo.yahoo.com
 0.0.0.0 in.player.h-cdn.com
 0.0.0.0 in.rsel.geo.yahoo.com
@@ -55820,6 +55823,7 @@
 0.0.0.0 lmulrz.eu.qualtrics.com
 0.0.0.0 lmw1k-alternate.app.link
 0.0.0.0 lmweekly.silveregg.net
+0.0.0.0 ln.upapi.net
 0.0.0.0 ln8g.adj.st
 0.0.0.0 lncc.onesignal.com
 0.0.0.0 lncustomerdiscovery.qualtrics.com
@@ -59920,6 +59924,7 @@
 0.0.0.0 ml.ia.thunderhead.com
 0.0.0.0 ml.listrakbi.com
 0.0.0.0 ml.optimizely.com
+0.0.0.0 ml314.com
 0.0.0.0 ml6mgw.edvfwlacluo.com
 0.0.0.0 mlab.blueconic.net
 0.0.0.0 mlb-ci-secure2.app.link
@@ -60623,6 +60628,7 @@
 0.0.0.0 mrb-d1.returnpath.net
 0.0.0.0 mrb-d2.returnpath.net
 0.0.0.0 mrb-fbl.returnpath.net
+0.0.0.0 mrb.upapi.net
 0.0.0.0 mrb7.adj.st
 0.0.0.0 mrcool.ecorebates.com
 0.0.0.0 mreg.hit.gemius.pl
@@ -68072,6 +68078,36 @@
 0.0.0.0 permatabank.sc.omtrdc.net
 0.0.0.0 permissions.security.intercom.io
 0.0.0.0 permutive.com
+0.0.0.0 perpro01-uw2a.ml314.com
+0.0.0.0 perpro02-uw2a.ml314.com
+0.0.0.0 perpro05-uw2b.ml314.com
+0.0.0.0 perpro06-uw2b.ml314.com
+0.0.0.0 perpro07-as1a.ml314.com
+0.0.0.0 perpro08-as1a.ml314.com
+0.0.0.0 perpro09-ew1a.ml314.com
+0.0.0.0 perpro10-ew1a.ml314.com
+0.0.0.0 perpro11-ew1a.ml314.com
+0.0.0.0 perpro12-ue1b.ml314.com
+0.0.0.0 perpro13-ue1b.ml314.com
+0.0.0.0 perpro14-ue1c.ml314.com
+0.0.0.0 perpro15-ue1c.ml314.com
+0.0.0.0 perpro16-ew1b.ml314.com
+0.0.0.0 perpro17-ew1b.ml314.com
+0.0.0.0 perpro18-ue1b.ml314.com
+0.0.0.0 perpro19-ue1b.ml314.com
+0.0.0.0 perpro20-ue1c.ml314.com
+0.0.0.0 perpro21-ue1c.ml314.com
+0.0.0.0 perpro22-as1a.ml314.com
+0.0.0.0 perpro23-ue1b.ml314.com
+0.0.0.0 perpro24-ue1b.ml314.com
+0.0.0.0 perpro25-as1a.ml314.com
+0.0.0.0 perpro26-ew1a.ml314.com
+0.0.0.0 perpro27-ew1a.ml314.com
+0.0.0.0 perpro28-ue1c.ml314.com
+0.0.0.0 perpro29-ue1c.ml314.com
+0.0.0.0 perpro30-ue1c.ml314.com
+0.0.0.0 perpro31-ue1b.ml314.com
+0.0.0.0 perpro36-an2c.ml314.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perrispawn.rtrk.com
 0.0.0.0 perscdn.taboola.com
@@ -74897,6 +74933,7 @@
 0.0.0.0 rtg.boostadvtrack.com
 0.0.0.0 rtg.clickpoint.com
 0.0.0.0 rtg.madisonlogic.com
+0.0.0.0 rtg.ml314.com
 0.0.0.0 rtg01.solocpm.com
 0.0.0.0 rtg028.solocpm.com
 0.0.0.0 rtg03.solocpm.com
@@ -75572,6 +75609,7 @@
 0.0.0.0 s.staging.idio.co
 0.0.0.0 s.static.ads-twitter.com
 0.0.0.0 s.supersonicads.com
+0.0.0.0 s.swiftypecdn.com
 0.0.0.0 s.sync.viewdeos.com
 0.0.0.0 s.t4ft.de
 0.0.0.0 s.tac.stfile.com
@@ -80391,6 +80429,7 @@
 0.0.0.0 sp.escapicon.net
 0.0.0.0 sp.fastclick.net
 0.0.0.0 sp.sellpoint.net
+0.0.0.0 sp.upapi.net
 0.0.0.0 sp09-gigigo-coke-de-prod-2018.rpxnow.com
 0.0.0.0 sp10044311.guided.ss-omtrdc.net
 0.0.0.0 sp1004ced0.guided.ss-omtrdc.net
@@ -80902,6 +80941,7 @@
 0.0.0.0 srv.jt.ms
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.semanticontext.com
+0.0.0.0 srv.upapi.net
 0.0.0.0 srv.zorosrv.com
 0.0.0.0 srv1.adpiano.com
 0.0.0.0 srv10.adpiano.com
@@ -82475,6 +82515,7 @@
 0.0.0.0 stats.bluekai.com
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.count.ly
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.df-srv.de
 0.0.0.0 stats.dynamicyield.com
 0.0.0.0 stats.ethn.io
@@ -82963,6 +83004,7 @@
 0.0.0.0 streamkey-inv-eus.admixer.net
 0.0.0.0 streamline.engine.adglare.net
 0.0.0.0 streamlyn-d.openx.net
+0.0.0.0 streamlyn-tagan.adlightning.com
 0.0.0.0 streamon.adswizz.com
 0.0.0.0 streamon.deliveryengine.adswizz.com
 0.0.0.0 streamrail.net
@@ -89185,6 +89227,7 @@
 0.0.0.0 up.xml.adx1.com
 0.0.0.0 upa-prp.syndication.kbb.com
 0.0.0.0 upa.syndication.kbb.com
+0.0.0.0 upapi.net
 0.0.0.0 upbeatdancestudio.leadpages.co
 0.0.0.0 upc.d2.sc.omtrdc.net
 0.0.0.0 upc.sc.omtrdc.net
@@ -97893,6 +97936,7 @@
 0.0.0.0 www.mkto-sj090022.com
 0.0.0.0 www.mkto-test.com
 0.0.0.0 www.mktossl.com
+0.0.0.0 www.ml314.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mlsat04.de
 0.0.0.0 www.mm.marketo.com

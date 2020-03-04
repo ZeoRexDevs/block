@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts IPV6
-# Version: 20.03.064
-# Release: 064
-# Entries: 61,596
+# Version: 20.03.065
+# Release: 065
+# Entries: 61,597
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 04 Mar 20 18:11:42
+# Updated: Thu, 05 Mar 20 00:10:42
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -47065,6 +47065,7 @@ ff02::3 ip6-allhosts
 :: ssp.imedia.cz
 :: ssp.lkgd.net
 :: ssp.mediation.trnox.com
+:: ssp.otm-r.com
 :: ssp.rambler.ru
 :: ssp.send.microadinc.com
 :: ssp.videostat.com

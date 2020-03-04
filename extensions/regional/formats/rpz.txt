@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.03.064
-; Release: 064
-; Entries: 64,028
+; Version: 20.03.065
+; Release: 065
+; Entries: 64,047
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 04 Mar 20 18:16:43
+; Updated: Thu, 05 Mar 20 00:15:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -103,6 +103,7 @@ $TTL 2h
 02jffu242n.com CNAME .
 02m5j.cn CNAME .
 03-res.ru CNAME .
+0302woeuxcbrnxcvsdfghu.xyz CNAME .
 0313413.com CNAME .
 03196688.com CNAME .
 033.com CNAME .
@@ -777,6 +778,7 @@ $TTL 2h
 2bbb379103988619ef.com CNAME .
 2bd3c9da116ed2907.com CNAME .
 2beon.co.kr CNAME .
+2byuf.cn CNAME .
 2c0dad36bdb9eb859f0.com CNAME .
 2c3a97984f45.com CNAME .
 2c64b3d551b3.com CNAME .
@@ -1620,6 +1622,7 @@ $TTL 2h
 729dcbaa57e80c1e.com CNAME .
 72b8869dfc34690.com CNAME .
 72by5spj.top CNAME .
+733xs.top CNAME .
 736f35dde67b7da2976.com CNAME .
 739c49a8c68917.com CNAME .
 73c6c063b238097.com CNAME .
@@ -7227,6 +7230,7 @@ behe.com CNAME .
 beholder.xyz CNAME .
 behybmunweid.com CNAME .
 beifmu.com CNAME .
+beigeiros.pw CNAME .
 beijing.buzhi5.com CNAME .
 beijinglvyou.net.cn CNAME .
 beineiros.xyz CNAME .
@@ -9265,6 +9269,7 @@ cettenus.com CNAME .
 cevd0tnyvecontent.net CNAME .
 cevwkduhwbuc.com CNAME .
 cewaugaz.net CNAME .
+cewbeyy.com CNAME .
 cexetchy.net CNAME .
 ceycwphrp.com CNAME .
 ceyimthpmrct.com CNAME .
@@ -10779,6 +10784,7 @@ cs12d.com CNAME .
 cs6hm.com CNAME .
 csad.cc CNAME .
 csaimall.com CNAME .
+csalsylqx.com CNAME .
 csbew.com CNAME .
 csbthyhh.com CNAME .
 csdzhoku.com CNAME .
@@ -11778,6 +11784,7 @@ dawwx.com CNAME .
 dax3x3wqpt2q3.cloudfront.net CNAME .
 daxishi.com CNAME .
 daxueshengqiandai.com CNAME .
+dayadopen.site CNAME .
 daybox.net CNAME .
 daylogs.com CNAME .
 daynews.support CNAME .
@@ -19683,6 +19690,7 @@ ipaypay.cn CNAME .
 ipbiydocgvllrg.com CNAME .
 ipbsgpm4.top CNAME .
 ipcdigital.co.uk CNAME .
+ipchinatelecom.com CNAME .
 ipehunxxyir.com CNAME .
 iperbanner.com CNAME .
 ipesdpqmq.com CNAME .
@@ -20278,6 +20286,7 @@ jgstny.com CNAME .
 jguczdjzvfp.com CNAME .
 jgvjzbrnjmxoq.com CNAME .
 jgwsmqx.com CNAME .
+jh76fy.xyz CNAME .
 jh99s.cn CNAME .
 jhakie.com CNAME .
 jhbrc.xyz CNAME .
@@ -20343,6 +20352,7 @@ jiiyddosyv.com CNAME .
 jijyubjf.com CNAME .
 jikottnbg.com CNAME .
 jilabukurlabu.com CNAME .
+jilinxinfukeji.com CNAME .
 jiliw.com CNAME .
 jillsclickcorner.com CNAME .
 jim86d.cn CNAME .
@@ -26867,6 +26877,7 @@ nxtuaeko.com CNAME .
 nxwly.com CNAME .
 nxwzfz.com CNAME .
 nxypz.com CNAME .
+nxyycsyy.com CNAME .
 ny5159.com CNAME .
 nyacampwk.com CNAME .
 nyadmcncserve-05y06a.com CNAME .
@@ -34281,6 +34292,7 @@ sin114.com CNAME .
 sina-img.club CNAME .
 sinaalicdn.com CNAME .
 sinaaliyun.cn CNAME .
+sinabuy.cn CNAME .
 sinaimg.com CNAME .
 sinawbimg.com CNAME .
 sincetrade.com CNAME .
@@ -34408,6 +34420,7 @@ skymedia.co.uk CNAME .
 skypromotion.ru CNAME .
 skyscrappear.com CNAME .
 skyscrpr.com CNAME .
+skyttt.com CNAME .
 skytvonline.tv CNAME .
 skyvideo1.ru CNAME .
 skzpsnpp.com CNAME .
@@ -38321,6 +38334,7 @@ ugyuyuccjgrtht.com CNAME .
 ugzpvflxa.com CNAME .
 uh.nakanohito.jp CNAME .
 uh3ye6ux.com CNAME .
+uh64b.cn CNAME .
 uhabab.com CNAME .
 uhappine.com CNAME .
 uharded.com CNAME .
@@ -38334,6 +38348,7 @@ uhor8.cn CNAME .
 uhpnngxvuvwtd.com CNAME .
 uhvbjjse.com CNAME .
 uhyyacioq.com CNAME .
+ui91q.cn CNAME .
 uigruwtql.com CNAME .
 uiiswaeojpfee.com CNAME .
 uimrmuoztkoia.com CNAME .
@@ -63246,6 +63261,7 @@ zamok911.com CNAME .
 zampda.net CNAME .
 zampdsp.com CNAME .
 zanena.ru CNAME .
+zanghaihua.org CNAME .
 zangocash.com CNAME .
 zanox-affiliate.de CNAME .
 zanox.com CNAME .
@@ -63779,6 +63795,7 @@ zoom-film.ru CNAME .
 zoom.zshu.net CNAME .
 zoomclick.info CNAME .
 zoonoapt.net CNAME .
+zopeynxv.top CNAME .
 zopodta.ru CNAME .
 zorango.com CNAME .
 zorbikala.com CNAME .
@@ -63842,6 +63859,7 @@ zqqyhcqf.com CNAME .
 zqseasmu.com CNAME .
 zqswmyzlkcvrtu.com CNAME .
 zqwjpxow7boc.ru CNAME .
+zqwlkj.cn CNAME .
 zqworks.com CNAME .
 zqxmeahcm.com CNAME .
 zqzuiomba.com CNAME .
@@ -63863,6 +63881,7 @@ zricmrcrlmdeg.com CNAME .
 zridsfev.com CNAME .
 zrlcr.com CNAME .
 zrlxjcsvib.com CNAME .
+zrmxswrl.com CNAME .
 zrnedsainsteady.info CNAME .
 zrosbqwecw.com CNAME .
 zrpfk.com CNAME .

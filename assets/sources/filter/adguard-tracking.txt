@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 04.03.2020
-# Total Domains - 2835
+# Last Converted - 05.03.2020
+# Total Domains - 2838
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -747,6 +747,7 @@
 0.0.0.0 dwin2.com
 0.0.0.0 dynameex.com
 0.0.0.0 dynatrace.com
+0.0.0.0 e-contenta.com
 0.0.0.0 e-kaiseki.com
 0.0.0.0 e-pagerank.net
 0.0.0.0 e-referrer.com
@@ -1139,6 +1140,7 @@
 0.0.0.0 hurra.com
 0.0.0.0 hwpub.com
 0.0.0.0 hxtrack.com
+0.0.0.0 hybrid.ai
 0.0.0.0 hydr.work
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
@@ -2105,6 +2107,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
+0.0.0.0 shopnetic.com
 0.0.0.0 showroomlogic.com
 0.0.0.0 shrinktheweb.com
 0.0.0.0 sicksmash.com
