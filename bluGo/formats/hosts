@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.064
 # Release: 064
-# Entries: 125,373
+# Entries: 125,364
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 04 Mar 20 00:12:02
+# Updated: Wed, 04 Mar 20 06:11:04
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -626,7 +626,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 14.minercircle.com
 0.0.0.0 14.thor.cryptopool.eu
 0.0.0.0 14.video-ak.cdn.spotify.com
-0.0.0.0 140-232.btcc.com
 0.0.0.0 140.minercircle.com
 0.0.0.0 14012.deeplink.mobileapptracking.com
 0.0.0.0 14012.engine.mobileapptracking.com
@@ -648,7 +647,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 14b41d7ec7766122d.com
 0.0.0.0 14bb52zfzi.h81yxqatzf.madpendesign.com.au
 0.0.0.0 14daily.com
-0.0.0.0 14ed4.btcc.com
 0.0.0.0 14fff0b3-6b39-4b71-afe5-5bb193f1f0d4.htmlpasta.com
 0.0.0.0 14nuzznszbdp.com
 0.0.0.0 14teen.com
@@ -656,7 +654,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 15.taboola.com
 0.0.0.0 15.video-ak.cdn.spotify.com
 0.0.0.0 15.wowne.ro
-0.0.0.0 15057.btcc.com
 0.0.0.0 150601.fc2rs.com
 0.0.0.0 15141.hittail.com
 0.0.0.0 15143ab5b83.com
@@ -671,7 +668,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1543b1db8a0825760.com
 0.0.0.0 15486.engine.mobileapptracking.com
 0.0.0.0 154pack.com
-0.0.0.0 155-59.btcc.com
 0.0.0.0 156.uw.to
 0.0.0.0 156002.com
 0.0.0.0 15628.hittail.com
@@ -711,9 +707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 168dianpu.com
 0.0.0.0 168logger.com
 0.0.0.0 168pool.com
-0.0.0.0 169-19.btcc.com
 0.0.0.0 16948.engine.mobileapptracking.com
-0.0.0.0 16998.btcc.com
 0.0.0.0 16e2ae8f200d975b.com
 0.0.0.0 16games.it
 0.0.0.0 16yp1ji92a.com
@@ -737,8 +731,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 17818ea400.iok.la
 0.0.0.0 1782.engine.mobileapptracking.com
 0.0.0.0 1788111.com
-0.0.0.0 179-184.btcc.com
-0.0.0.0 179.btcc.com
 0.0.0.0 17908.engine.mobileapptracking.com
 0.0.0.0 1792.api.swrve.com
 0.0.0.0 17990.vicp.net
@@ -771,7 +763,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1868.link.swrve.com
 0.0.0.0 1873083787.rsc.cdn77.org
 0.0.0.0 18744.com
-0.0.0.0 188-30.btcc.com
 0.0.0.0 1883.api.swrve.com
 0.0.0.0 188386.engine.mobileapptracking.com
 0.0.0.0 188640.engine.mobileapptracking.com
@@ -805,7 +796,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 18xtube.com
 0.0.0.0 19.gethash.cc
 0.0.0.0 19.video-ak.cdn.spotify.com
-0.0.0.0 190-124.btcc.com
 0.0.0.0 190107.engine.mobileapptracking.com
 0.0.0.0 190115.engine.mobileapptracking.com
 0.0.0.0 190163.engine.mobileapptracking.com
@@ -813,7 +803,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 190771.engine.mobileapptracking.com
 0.0.0.0 190829.engine.mobileapptracking.com
 0.0.0.0 19097.hittail.com
-0.0.0.0 191-231.btcc.com
 0.0.0.0 191307.engine.mobileapptracking.com
 0.0.0.0 191311.engine.mobileapptracking.com
 0.0.0.0 191661.engine.mobileapptracking.com
@@ -843,7 +832,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 197876.engine.mobileapptracking.com
 0.0.0.0 198135.engine.mobileapptracking.com
 0.0.0.0 198166.engine.mobileapptracking.com
-0.0.0.0 19841.btcc.com
 0.0.0.0 198935.engine.mobileapptracking.com
 0.0.0.0 198973.engine.mobileapptracking.com
 0.0.0.0 1990.duckdns.org
@@ -1144,7 +1132,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 20200329.logic.cpm.cm.kankan.com
 0.0.0.0 20200330.logic.cpm.cm.kankan.com
 0.0.0.0 20200331.logic.cpm.cm.kankan.com
-0.0.0.0 2026.btcc.com
 0.0.0.0 202ch.com
 0.0.0.0 204.scloud.lfengmobile.com
 0.0.0.0 20552817p.rfihub.com
@@ -1233,7 +1220,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 2345jiasu.com
 0.0.0.0 2346.api.swrve.com
 0.0.0.0 2346.content.swrve.com
-0.0.0.0 235-32.btcc.com
 0.0.0.0 2359.api.swrve.com
 0.0.0.0 2359.content.swrve.com
 0.0.0.0 23606.xc.wenpie.com
@@ -1393,7 +1379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 284419414.log.optimizely.com
 0.0.0.0 2862.api.swrve.com
 0.0.0.0 2862.content.swrve.com
-0.0.0.0 28680.btcc.com
 0.0.0.0 289931.com
 0.0.0.0 28feb2020secure.secure4confirm.com
 0.0.0.0 29.video-ak.cdn.spotify.com
@@ -1640,7 +1625,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 30747.api.swrve.com
 0.0.0.0 30747.content.swrve.com
 0.0.0.0 30747.identity.swrve.com
-0.0.0.0 30750.btcc.com
 0.0.0.0 3077.api.swrve.com
 0.0.0.0 30811.hittail.com
 0.0.0.0 30819.api.swrve.com
@@ -2103,7 +2087,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 4.whereintoscana.com
 0.0.0.0 4.whereintrentinoaltoadige.com
 0.0.0.0 40.97.160.2.cryptopool.eu
-0.0.0.0 40.97.160.2.hpool.com
 0.0.0.0 40.nu
 0.0.0.0 40.video-ak.cdn.spotify.com
 0.0.0.0 4006868488.cn
@@ -2592,7 +2575,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 5bde1.v.fwmrm.net
 0.0.0.0 5bee90e0ee.com
 0.0.0.0 5bir9vuqcq.com
-0.0.0.0 5bit.biz
 0.0.0.0 5bw.ru
 0.0.0.0 5c.video-ak.cdn.spotify.com
 0.0.0.0 5c5757df82c.com
@@ -2801,7 +2783,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 6c37f8a12dede103bf7.com
 0.0.0.0 6c7105f4aa34.com
 0.0.0.0 6ce0a8be8375b.com
-0.0.0.0 6ce88.btcc.com
 0.0.0.0 6d.video-ak.cdn.spotify.com
 0.0.0.0 6d1e5583-763f-46a4-9a31-03ae545dfc1e.htmlpasta.com
 0.0.0.0 6d25c5a1bb9e821f3b7.com
@@ -18051,6 +18032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bc.qunar.com
 0.0.0.0 bc.video-ak.cdn.spotify.com
+0.0.0.0 bc0a.com
 0.0.0.0 bc3d3fb3774ba.com
 0.0.0.0 bcajjtbzmdrl.com
 0.0.0.0 bcash-give.net
@@ -33848,6 +33830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmdmn.miningfield.com
 0.0.0.0 dmemobile.g2afse.com
 0.0.0.0 dmg-mobile.com
+0.0.0.0 dmg.demdex.net
 0.0.0.0 dmgcxznqmmiek.com
 0.0.0.0 dmgexalrtsqrvx.com
 0.0.0.0 dmgmediaprivacy.co.uk
@@ -46890,6 +46873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gsthstreturns.com
 0.0.0.0 gstota.musin.de
 0.0.0.0 gstpgbhqzia.bid
+0.0.0.0 gstralpolita.info
 0.0.0.0 gsueoeigaq.com
 0.0.0.0 gswaelxxh.com
 0.0.0.0 gswiegmikzh.com
@@ -64097,6 +64081,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 magnetrack.klangoo.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 magnificentpool.com
+0.0.0.0 magnificohec.site
 0.0.0.0 magnify-app.s3.eu-west-2.amazonaws.com
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
 0.0.0.0 magnify360.com
@@ -72931,6 +72916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 novellcom.112.2o7.net
 0.0.0.0 novelmail.ww.twitpost.info
 0.0.0.0 novelsns.html5.qq.com
+0.0.0.0 novelty-media-us-d.openx.net
 0.0.0.0 novelty.media
 0.0.0.0 novem.onet.pl
 0.0.0.0 novem.pl
@@ -74229,6 +74215,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ogyhsyuhczvjg.com
 0.0.0.0 ogzivkwjhrs.com
 0.0.0.0 oh-oehringen.de
+0.0.0.0 ohbayersbur.pro
 0.0.0.0 ohchat.net
 0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 ohdoxowrbkyd.com
@@ -75905,6 +75892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ox-d.sporcle.servedbyopenx.com
 0.0.0.0 ox-d.viumbe.servedbyopenx.com
 0.0.0.0 ox-data.adsrvr.org
+0.0.0.0 ox-delivery-prod-1-us-east1.openx.net
 0.0.0.0 ox-i.cordillera.tv
 0.0.0.0 ox-i.ebayus.servedbyopenx.com
 0.0.0.0 ox-i.quebecor.servedbyopenx.com
@@ -88178,6 +88166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saveupto20.com
 0.0.0.0 saveyourholiday.com
 0.0.0.0 savingforshelter.com
+0.0.0.0 savoryorange.com
 0.0.0.0 savorystructure.com
 0.0.0.0 savvyads.com
 0.0.0.0 sawdfbwxqcpcs.com
@@ -94978,6 +94967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.systemres.com.re.getclicky.com
 0.0.0.0 stats.teledyski.info
 0.0.0.0 stats.thoughtcatalog.com
+0.0.0.0 stats.tiebreaker.com
 0.0.0.0 stats.tipser.com
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.townnews.com
@@ -96117,6 +96107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superiorgaragedoorsystems.com
 0.0.0.0 superiorperformancepetroleum.com
 0.0.0.0 superippo.com
+0.0.0.0 superjuryger.site
 0.0.0.0 superlative-proffer.com
 0.0.0.0 superlogout.github.io
 0.0.0.0 superloofy.com

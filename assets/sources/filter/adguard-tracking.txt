@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
 # Last Converted - 04.03.2020
-# Total Domains - 2834
+# Total Domains - 2835
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -200,6 +200,7 @@
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
 0.0.0.0 analytics.datahc.com
+0.0.0.0 analytics.getaim.info
 0.0.0.0 analytics.servogram.io
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytk.com

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.03.064
 ; Release: 064
-; Entries: 125,373
+; Entries: 125,364
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 04 Mar 20 00:12:02
+; Updated: Wed, 04 Mar 20 06:11:04
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -615,7 +615,6 @@ $TTL 2h
 14.minercircle.com CNAME .
 14.thor.cryptopool.eu CNAME .
 14.video-ak.cdn.spotify.com CNAME .
-140-232.btcc.com CNAME .
 140.minercircle.com CNAME .
 14012.deeplink.mobileapptracking.com CNAME .
 14012.engine.mobileapptracking.com CNAME .
@@ -637,7 +636,6 @@ $TTL 2h
 14b41d7ec7766122d.com CNAME .
 14bb52zfzi.h81yxqatzf.madpendesign.com.au CNAME .
 14daily.com CNAME .
-14ed4.btcc.com CNAME .
 14fff0b3-6b39-4b71-afe5-5bb193f1f0d4.htmlpasta.com CNAME .
 14nuzznszbdp.com CNAME .
 14teen.com CNAME .
@@ -645,7 +643,6 @@ $TTL 2h
 15.taboola.com CNAME .
 15.video-ak.cdn.spotify.com CNAME .
 15.wowne.ro CNAME .
-15057.btcc.com CNAME .
 150601.fc2rs.com CNAME .
 15141.hittail.com CNAME .
 15143ab5b83.com CNAME .
@@ -660,7 +657,6 @@ $TTL 2h
 1543b1db8a0825760.com CNAME .
 15486.engine.mobileapptracking.com CNAME .
 154pack.com CNAME .
-155-59.btcc.com CNAME .
 156.uw.to CNAME .
 156002.com CNAME .
 15628.hittail.com CNAME .
@@ -700,9 +696,7 @@ $TTL 2h
 168dianpu.com CNAME .
 168logger.com CNAME .
 168pool.com CNAME .
-169-19.btcc.com CNAME .
 16948.engine.mobileapptracking.com CNAME .
-16998.btcc.com CNAME .
 16e2ae8f200d975b.com CNAME .
 16games.it CNAME .
 16yp1ji92a.com CNAME .
@@ -726,8 +720,6 @@ $TTL 2h
 17818ea400.iok.la CNAME .
 1782.engine.mobileapptracking.com CNAME .
 1788111.com CNAME .
-179-184.btcc.com CNAME .
-179.btcc.com CNAME .
 17908.engine.mobileapptracking.com CNAME .
 1792.api.swrve.com CNAME .
 17990.vicp.net CNAME .
@@ -760,7 +752,6 @@ $TTL 2h
 1868.link.swrve.com CNAME .
 1873083787.rsc.cdn77.org CNAME .
 18744.com CNAME .
-188-30.btcc.com CNAME .
 1883.api.swrve.com CNAME .
 188386.engine.mobileapptracking.com CNAME .
 188640.engine.mobileapptracking.com CNAME .
@@ -794,7 +785,6 @@ $TTL 2h
 18xtube.com CNAME .
 19.gethash.cc CNAME .
 19.video-ak.cdn.spotify.com CNAME .
-190-124.btcc.com CNAME .
 190107.engine.mobileapptracking.com CNAME .
 190115.engine.mobileapptracking.com CNAME .
 190163.engine.mobileapptracking.com CNAME .
@@ -802,7 +792,6 @@ $TTL 2h
 190771.engine.mobileapptracking.com CNAME .
 190829.engine.mobileapptracking.com CNAME .
 19097.hittail.com CNAME .
-191-231.btcc.com CNAME .
 191307.engine.mobileapptracking.com CNAME .
 191311.engine.mobileapptracking.com CNAME .
 191661.engine.mobileapptracking.com CNAME .
@@ -832,7 +821,6 @@ $TTL 2h
 197876.engine.mobileapptracking.com CNAME .
 198135.engine.mobileapptracking.com CNAME .
 198166.engine.mobileapptracking.com CNAME .
-19841.btcc.com CNAME .
 198935.engine.mobileapptracking.com CNAME .
 198973.engine.mobileapptracking.com CNAME .
 1990.duckdns.org CNAME .
@@ -1133,7 +1121,6 @@ $TTL 2h
 20200329.logic.cpm.cm.kankan.com CNAME .
 20200330.logic.cpm.cm.kankan.com CNAME .
 20200331.logic.cpm.cm.kankan.com CNAME .
-2026.btcc.com CNAME .
 202ch.com CNAME .
 204.scloud.lfengmobile.com CNAME .
 20552817p.rfihub.com CNAME .
@@ -1222,7 +1209,6 @@ $TTL 2h
 2345jiasu.com CNAME .
 2346.api.swrve.com CNAME .
 2346.content.swrve.com CNAME .
-235-32.btcc.com CNAME .
 2359.api.swrve.com CNAME .
 2359.content.swrve.com CNAME .
 23606.xc.wenpie.com CNAME .
@@ -1382,7 +1368,6 @@ $TTL 2h
 284419414.log.optimizely.com CNAME .
 2862.api.swrve.com CNAME .
 2862.content.swrve.com CNAME .
-28680.btcc.com CNAME .
 289931.com CNAME .
 28feb2020secure.secure4confirm.com CNAME .
 29.video-ak.cdn.spotify.com CNAME .
@@ -1629,7 +1614,6 @@ $TTL 2h
 30747.api.swrve.com CNAME .
 30747.content.swrve.com CNAME .
 30747.identity.swrve.com CNAME .
-30750.btcc.com CNAME .
 3077.api.swrve.com CNAME .
 30811.hittail.com CNAME .
 30819.api.swrve.com CNAME .
@@ -2092,7 +2076,6 @@ $TTL 2h
 4.whereintoscana.com CNAME .
 4.whereintrentinoaltoadige.com CNAME .
 40.97.160.2.cryptopool.eu CNAME .
-40.97.160.2.hpool.com CNAME .
 40.nu CNAME .
 40.video-ak.cdn.spotify.com CNAME .
 4006868488.cn CNAME .
@@ -2581,7 +2564,6 @@ $TTL 2h
 5bde1.v.fwmrm.net CNAME .
 5bee90e0ee.com CNAME .
 5bir9vuqcq.com CNAME .
-5bit.biz CNAME .
 5bw.ru CNAME .
 5c.video-ak.cdn.spotify.com CNAME .
 5c5757df82c.com CNAME .
@@ -2790,7 +2772,6 @@ $TTL 2h
 6c37f8a12dede103bf7.com CNAME .
 6c7105f4aa34.com CNAME .
 6ce0a8be8375b.com CNAME .
-6ce88.btcc.com CNAME .
 6d.video-ak.cdn.spotify.com CNAME .
 6d1e5583-763f-46a4-9a31-03ae545dfc1e.htmlpasta.com CNAME .
 6d25c5a1bb9e821f3b7.com CNAME .
@@ -18040,6 +18021,7 @@ bc.iensar.com CNAME .
 bc.marfeel.com CNAME .
 bc.qunar.com CNAME .
 bc.video-ak.cdn.spotify.com CNAME .
+bc0a.com CNAME .
 bc3d3fb3774ba.com CNAME .
 bcajjtbzmdrl.com CNAME .
 bcash-give.net CNAME .
@@ -33837,6 +33819,7 @@ dmdigbrzjbmso.cloudfront.net CNAME .
 dmdmn.miningfield.com CNAME .
 dmemobile.g2afse.com CNAME .
 dmg-mobile.com CNAME .
+dmg.demdex.net CNAME .
 dmgcxznqmmiek.com CNAME .
 dmgexalrtsqrvx.com CNAME .
 dmgmediaprivacy.co.uk CNAME .
@@ -46879,6 +46862,7 @@ gstaticadssl.l.google.com CNAME .
 gsthstreturns.com CNAME .
 gstota.musin.de CNAME .
 gstpgbhqzia.bid CNAME .
+gstralpolita.info CNAME .
 gsueoeigaq.com CNAME .
 gswaelxxh.com CNAME .
 gswiegmikzh.com CNAME .
@@ -64086,6 +64070,7 @@ magnetobiz.net CNAME .
 magnetrack.klangoo.com CNAME .
 magnificentmist.com CNAME .
 magnificentpool.com CNAME .
+magnificohec.site CNAME .
 magnify-app.s3.eu-west-2.amazonaws.com CNAME .
 magnify360-cdn.s3.amazonaws.com CNAME .
 magnify360.com CNAME .
@@ -72920,6 +72905,7 @@ novell.pi.blognet.in CNAME .
 novellcom.112.2o7.net CNAME .
 novelmail.ww.twitpost.info CNAME .
 novelsns.html5.qq.com CNAME .
+novelty-media-us-d.openx.net CNAME .
 novelty.media CNAME .
 novem.onet.pl CNAME .
 novem.pl CNAME .
@@ -74218,6 +74204,7 @@ ogwykjkqbhf.com CNAME .
 ogyhsyuhczvjg.com CNAME .
 ogzivkwjhrs.com CNAME .
 oh-oehringen.de CNAME .
+ohbayersbur.pro CNAME .
 ohchat.net CNAME .
 ohcohz.stroeerdp.de CNAME .
 ohdoxowrbkyd.com CNAME .
@@ -75894,6 +75881,7 @@ ox-d.sparksnetworks.servedbyopenx.com CNAME .
 ox-d.sporcle.servedbyopenx.com CNAME .
 ox-d.viumbe.servedbyopenx.com CNAME .
 ox-data.adsrvr.org CNAME .
+ox-delivery-prod-1-us-east1.openx.net CNAME .
 ox-i.cordillera.tv CNAME .
 ox-i.ebayus.servedbyopenx.com CNAME .
 ox-i.quebecor.servedbyopenx.com CNAME .
@@ -88167,6 +88155,7 @@ saversites.com CNAME .
 saveupto20.com CNAME .
 saveyourholiday.com CNAME .
 savingforshelter.com CNAME .
+savoryorange.com CNAME .
 savorystructure.com CNAME .
 savvyads.com CNAME .
 sawdfbwxqcpcs.com CNAME .
@@ -94967,6 +94956,7 @@ stats.sxp.smartclip.net CNAME .
 stats.systemres.com.re.getclicky.com CNAME .
 stats.teledyski.info CNAME .
 stats.thoughtcatalog.com CNAME .
+stats.tiebreaker.com CNAME .
 stats.tipser.com CNAME .
 stats.topofblogs.com CNAME .
 stats.townnews.com CNAME .
@@ -96106,6 +96096,7 @@ superiorcoin.my-mining-pool.de CNAME .
 superiorgaragedoorsystems.com CNAME .
 superiorperformancepetroleum.com CNAME .
 superippo.com CNAME .
+superjuryger.site CNAME .
 superlative-proffer.com CNAME .
 superlogout.github.io CNAME .
 superloofy.com CNAME .
