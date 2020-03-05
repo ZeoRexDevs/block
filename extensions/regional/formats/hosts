@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.065
 # Release: 065
-# Entries: 64,067
+# Entries: 64,069
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 05 Mar 20 12:14:11
+# Updated: Thu, 05 Mar 20 18:14:43
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -22224,6 +22224,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ldzqhq.biz
 0.0.0.0 le123.cn
 0.0.0.0 le4le.com
+0.0.0.0 leabd.douguo.com
 0.0.0.0 lead-ad.jp
 0.0.0.0 leadadvert.info
 0.0.0.0 leadadvert.ru
@@ -33431,6 +33432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sboite.cn
 0.0.0.0 sbopaitvwpzilp.com
 0.0.0.0 sbornix.ru
+0.0.0.0 sbpb1.qulishi.com
 0.0.0.0 sbrqp.com
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbscribeme.com
