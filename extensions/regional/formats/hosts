@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.03.065
 # Release: 065
-# Entries: 64,047
+# Entries: 64,052
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 05 Mar 20 00:15:22
+# Updated: Thu, 05 Mar 20 06:14:31
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -13489,6 +13489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ec.atdmt.com
 0.0.0.0 ec.bankier.pl
 0.0.0.0 ec.hub2.com.pl
+0.0.0.0 ec2-44-233-143-239.us-west-2.compute.amazonaws.com
 0.0.0.0 ec2f1xubcblb.ru
 0.0.0.0 eca1d7792ad5de43.com
 0.0.0.0 ecadikenaz.com
@@ -20698,6 +20699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.gouhei.top
 0.0.0.0 js.grt02.com
 0.0.0.0 js.gsspcln.jp
+0.0.0.0 js.hdzog.com
 0.0.0.0 js.hkslg520.com
 0.0.0.0 js.hotlog.ru
 0.0.0.0 js.isboost.co.jp
@@ -22951,6 +22953,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lodoxfwite.com
 0.0.0.0 lodqycbq.com
 0.0.0.0 loftlm.ru
+0.0.0.0 lofv.xyz
 0.0.0.0 log.adsplay.net
 0.0.0.0 log.adsplay.xyz
 0.0.0.0 log.adtimaserver.vn
@@ -33172,6 +33175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s06th.cn
 0.0.0.0 s1-a4.ifun.tv
 0.0.0.0 s1.adguard.com
+0.0.0.0 s1.anybunny.tv
 0.0.0.0 s1.dapenti.com
 0.0.0.0 s1.dugoogle.com
 0.0.0.0 s1.hualaoye.com
@@ -36530,6 +36534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thehomo.org
 0.0.0.0 theiphaeraer.info
 0.0.0.0 theirsvendor.com
+0.0.0.0 thekat.nl
 0.0.0.0 thekupdom.com
 0.0.0.0 thekupidom.ru
 0.0.0.0 theliverugby.com
