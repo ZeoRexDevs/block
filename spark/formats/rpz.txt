@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.03.065
-; Release: 065
-; Entries: 61,608
+; Version: 20.03.066
+; Release: 066
+; Entries: 61,616
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 05 Mar 20 18:10:33
+; Updated: Fri, 06 Mar 20 00:10:05
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -161,6 +161,7 @@ $TTL 2h
 0pixl.com CNAME .
 0ql3xxre2h.com CNAME .
 0s0vn.bemobtrk.com CNAME .
+0s9dxlr07huu.com CNAME .
 0stats.com CNAME .
 0sywjs4r1x.com CNAME .
 0x.x.gg CNAME .
@@ -2020,6 +2021,7 @@ $TTL 2h
 8e.video-ak.cdn.spotify.com CNAME .
 8f.video-ak.cdn.spotify.com CNAME .
 8ff01bde37db289d5.com CNAME .
+8gngbx58.wytxdtpxot.website CNAME .
 8ixrxa2tnr.com CNAME .
 8jeyy.bemobtrk.com CNAME .
 8lh5f.bemobtrk.com CNAME .
@@ -9182,6 +9184,7 @@ apips.pubmatic.com CNAME .
 apir.direct-tap.com CNAME .
 apiryrkxkhil.com CNAME .
 apis.adbro.me CNAME .
+apis.appnxt.net CNAME .
 apis.com.br CNAME .
 apis.ihg.com.edgekey.net CNAME .
 apis.murdoog.com CNAME .
@@ -12533,6 +12536,7 @@ build.livefyre.com CNAME .
 build.pubguard.com CNAME .
 buildange.com CNAME .
 builderonlinecom.112.2o7.net CNAME .
+builderredirect.com CNAME .
 buildtrafficx.com CNAME .
 buildviet.info CNAME .
 buitxcrnucyi.com CNAME .
@@ -23102,6 +23106,7 @@ gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
 gadskis.com CNAME .
+gadsoks.com CNAME .
 gadsokz.com CNAME .
 gaee.hit.gemius.pl CNAME .
 gaf-company.clean.to CNAME .
@@ -24871,6 +24876,7 @@ hakuba.janis.or.jp CNAME .
 halaru.com CNAME .
 halc.iadvize.com CNAME .
 halfpriceozarks.com CNAME .
+halfpriceredirect.com CNAME .
 halileo.com CNAME .
 halleyperson.pro CNAME .
 hallmarkibmcom.112.2o7.net CNAME .
@@ -25082,6 +25088,7 @@ hdgrears.com CNAME .
 hdimfhptnjgm.bid CNAME .
 hdj.baidu.com CNAME .
 hdn03.infolinks.com CNAME .
+hdnewporn.com CNAME .
 hdnvtfyvyhq.com CNAME .
 hdoabbjyyebca.com CNAME .
 hdosaoxfcogpl.com CNAME .
@@ -49467,6 +49474,7 @@ theappguruz.com CNAME .
 thearcitonseveng.pro CNAME .
 thebannerexchange.com CNAME .
 thebeatlesbeat.com CNAME .
+thebestgame2020.com CNAME .
 thebestjacket.club CNAME .
 thebestleadbit.com CNAME .
 thebestplayer.mobi CNAME .

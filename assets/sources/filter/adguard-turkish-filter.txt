@@ -1,8 +1,8 @@
 # Title: adguard-turkish-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/13.txt
-# Last Converted - 05.03.2020
-# Total Domains - 271
+# Last Converted - 06.03.2020
+# Total Domains - 272
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -86,6 +86,7 @@
 0.0.0.0 bcvc.mobi
 0.0.0.0 bcvcrdr.xyz
 0.0.0.0 betburdaaffiliates.com
+0.0.0.0 betcdn.biz
 0.0.0.0 betcdn.net
 0.0.0.0 betitbet2.com
 0.0.0.0 betkanyon100.com

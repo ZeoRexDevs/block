@@ -1,8 +1,8 @@
 # Title: adguard-mobile-ads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last Converted - 05.03.2020
-# Total Domains - 803
+# Last Converted - 06.03.2020
+# Total Domains - 807
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -185,12 +185,14 @@
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.appfireworks.com
+0.0.0.0 api.appnxt.net
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.kiip.me
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.tapsell.ir
+0.0.0.0 apis.appnxt.net
 0.0.0.0 appads.com
 0.0.0.0 appclick.co
 0.0.0.0 appclick.net
@@ -279,6 +281,7 @@
 0.0.0.0 cdn.88-f.net
 0.0.0.0 cdn.adbert.info
 0.0.0.0 cdn.ads.fotoable.net
+0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.hdat.xyz
 0.0.0.0 cdn1.ettoday.net
@@ -383,6 +386,7 @@
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 geede.info
 0.0.0.0 geocdn.unityads.unity3d.com
+0.0.0.0 global.appnext.com
 0.0.0.0 go.mobstitial.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.mobtrks.com

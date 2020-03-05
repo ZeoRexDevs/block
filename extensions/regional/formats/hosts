@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.03.065
-# Release: 065
-# Entries: 64,069
+# Version: 20.03.066
+# Release: 066
+# Entries: 64,086
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 05 Mar 20 18:14:43
+# Updated: Fri, 06 Mar 20 00:15:05
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -108,6 +108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 022aifang.com
 0.0.0.0 0234408.cn
 0.0.0.0 023hysj.com
+0.0.0.0 024chaoren.cn
 0.0.0.0 025suyu.com
 0.0.0.0 026404e350.com
 0.0.0.0 02aa19117f396e9.com
@@ -1258,6 +1259,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4y3vbu5bxql6177n.pro
 0.0.0.0 4yonder.net
 0.0.0.0 4z5o27.cn
+0.0.0.0 5.gzfenda.com
 0.0.0.0 500969adcf7ae838.com
 0.0.0.0 50258bd2b243b24df.com
 0.0.0.0 5081.site
@@ -1283,6 +1285,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 51jumintong.com
 0.0.0.0 51junpin.net
 0.0.0.0 51nlno7cgy.com
+0.0.0.0 51posj.cn
 0.0.0.0 51posuiji.org.cn
 0.0.0.0 51sxzz.com
 0.0.0.0 51weidashi.com
@@ -2362,6 +2365,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a9udvkepm2z.ru
 0.0.0.0 a9v8.cn
 0.0.0.0 aa.gushiwen.org
+0.0.0.0 aa.ideng.com
 0.0.0.0 aa.voice2page.com
 0.0.0.0 aa24h.com
 0.0.0.0 aa53df329975c325.com
@@ -7379,6 +7383,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 betamedia.biz
 0.0.0.0 betanews.me
 0.0.0.0 betburdaaffiliates.com
+0.0.0.0 betcdn.biz
 0.0.0.0 betcdn.net
 0.0.0.0 betclick.com
 0.0.0.0 betegy.com
@@ -10110,6 +10115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 codejumps.com
 0.0.0.0 codelnet.com
 0.0.0.0 codemediarich.ru
+0.0.0.0 codenew.kanshuhai.com
 0.0.0.0 codeonclick.com
 0.0.0.0 coderturk.com
 0.0.0.0 codes-media.ru
@@ -20731,6 +20737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.union123.me
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.xz6d.com
+0.0.0.0 js.yanyue.cn
 0.0.0.0 js1.sxptfw.com
 0.0.0.0 js862.anreson.net
 0.0.0.0 js88895.net
@@ -22395,6 +22402,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lezai.com
 0.0.0.0 leztc.com
 0.0.0.0 lfahycetwt.com
+0.0.0.0 lfcepgb.cn
 0.0.0.0 lfd-media.ru
 0.0.0.0 lfdydk.com
 0.0.0.0 lfg5jnbi.com
@@ -22515,6 +22523,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liex.ru
 0.0.0.0 lifeads.ru
 0.0.0.0 lifebloggersz.ru
+0.0.0.0 lifecooktv.com
 0.0.0.0 lifeideas.site
 0.0.0.0 lifemeet.biz
 0.0.0.0 lifenewblog.ru
@@ -23729,6 +23738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 malysheva.ru
 0.0.0.0 mama.foor-zik.com
 0.0.0.0 mama.land
+0.0.0.0 mamaailmjz.cn
 0.0.0.0 mamamiyu.com
 0.0.0.0 mamavika.com
 0.0.0.0 mambo.kiev.ua
@@ -25249,6 +25259,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mrzpfpgh.com
 0.0.0.0 ms.awqsaged.cn
 0.0.0.0 ms.cmcm.com
+0.0.0.0 ms.cnbanbao.com
 0.0.0.0 ms758.com
 0.0.0.0 msads.net
 0.0.0.0 msbftyajwu.com
@@ -28767,6 +28778,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pennynetwork.com
 0.0.0.0 pennyotcstock.com
 0.0.0.0 pennzxycrdmw.com
+0.0.0.0 pentaxaws.cn
 0.0.0.0 pentoch.com
 0.0.0.0 penuma.com
 0.0.0.0 penxiangge.com
@@ -35000,6 +35012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spwssohsyqgq.com
 0.0.0.0 spxnet.com
 0.0.0.0 spykemediatrack.com
+0.0.0.0 spylees.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 spynigeria.com
@@ -38391,6 +38404,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uiqwtgcp.com
 0.0.0.0 uiru1ie.top
 0.0.0.0 uisdjvwytl.com
+0.0.0.0 uislkdxx.com
 0.0.0.0 uisrihozphejjt.com
 0.0.0.0 uissm.com
 0.0.0.0 uitopadxdo.com
@@ -61483,6 +61497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.sare25.com
 0.0.0.0 x.technic3d.biz
 0.0.0.0 x0r.urlgalleries.net
+0.0.0.0 x1.52aoteman.com
 0.0.0.0 x1.kantu.com
 0.0.0.0 x19network.com
 0.0.0.0 x268dl0k.top
@@ -61744,6 +61759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xiansenmeng.cn
 0.0.0.0 xiaobiaoucai.cn
 0.0.0.0 xiaohui2.cn
+0.0.0.0 xiaoling.ixiunv.com
 0.0.0.0 xiaomiaoquan.com
 0.0.0.0 xiaopangtao.com
 0.0.0.0 xiaoyang.mobi
@@ -63035,6 +63051,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yuebofa.cc
 0.0.0.0 yueduyy.com
 0.0.0.0 yuehosgcoq.com
+0.0.0.0 yueqiangss.cn
 0.0.0.0 yueyelive.com
 0.0.0.0 yueyetiyu.com
 0.0.0.0 yuga.ru

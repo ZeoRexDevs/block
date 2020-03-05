@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.03.065
-; Release: 065
-; Entries: 64,069
+; Version: 20.03.066
+; Release: 066
+; Entries: 64,086
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 05 Mar 20 18:14:43
+; Updated: Fri, 06 Mar 20 00:15:05
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -97,6 +97,7 @@ $TTL 2h
 022aifang.com CNAME .
 0234408.cn CNAME .
 023hysj.com CNAME .
+024chaoren.cn CNAME .
 025suyu.com CNAME .
 026404e350.com CNAME .
 02aa19117f396e9.com CNAME .
@@ -1247,6 +1248,7 @@ $TTL 2h
 4y3vbu5bxql6177n.pro CNAME .
 4yonder.net CNAME .
 4z5o27.cn CNAME .
+5.gzfenda.com CNAME .
 500969adcf7ae838.com CNAME .
 50258bd2b243b24df.com CNAME .
 5081.site CNAME .
@@ -1272,6 +1274,7 @@ $TTL 2h
 51jumintong.com CNAME .
 51junpin.net CNAME .
 51nlno7cgy.com CNAME .
+51posj.cn CNAME .
 51posuiji.org.cn CNAME .
 51sxzz.com CNAME .
 51weidashi.com CNAME .
@@ -2351,6 +2354,7 @@ a9nf3hg5c2.com CNAME .
 a9udvkepm2z.ru CNAME .
 a9v8.cn CNAME .
 aa.gushiwen.org CNAME .
+aa.ideng.com CNAME .
 aa.voice2page.com CNAME .
 aa24h.com CNAME .
 aa53df329975c325.com CNAME .
@@ -7368,6 +7372,7 @@ beta.younetmedia.com CNAME .
 betamedia.biz CNAME .
 betanews.me CNAME .
 betburdaaffiliates.com CNAME .
+betcdn.biz CNAME .
 betcdn.net CNAME .
 betclick.com CNAME .
 betegy.com CNAME .
@@ -10099,6 +10104,7 @@ codefund.io CNAME .
 codejumps.com CNAME .
 codelnet.com CNAME .
 codemediarich.ru CNAME .
+codenew.kanshuhai.com CNAME .
 codeonclick.com CNAME .
 coderturk.com CNAME .
 codes-media.ru CNAME .
@@ -20720,6 +20726,7 @@ js.ubaike.cn CNAME .
 js.union123.me CNAME .
 js.xiao7cdn.com CNAME .
 js.xz6d.com CNAME .
+js.yanyue.cn CNAME .
 js1.sxptfw.com CNAME .
 js862.anreson.net CNAME .
 js88895.net CNAME .
@@ -22384,6 +22391,7 @@ lexus-krakow.com.pl CNAME .
 lezai.com CNAME .
 leztc.com CNAME .
 lfahycetwt.com CNAME .
+lfcepgb.cn CNAME .
 lfd-media.ru CNAME .
 lfdydk.com CNAME .
 lfg5jnbi.com CNAME .
@@ -22504,6 +22512,7 @@ lievr.cc CNAME .
 liex.ru CNAME .
 lifeads.ru CNAME .
 lifebloggersz.ru CNAME .
+lifecooktv.com CNAME .
 lifeideas.site CNAME .
 lifemeet.biz CNAME .
 lifenewblog.ru CNAME .
@@ -23718,6 +23727,7 @@ malusheva.ru CNAME .
 malysheva.ru CNAME .
 mama.foor-zik.com CNAME .
 mama.land CNAME .
+mamaailmjz.cn CNAME .
 mamamiyu.com CNAME .
 mamavika.com CNAME .
 mambo.kiev.ua CNAME .
@@ -25238,6 +25248,7 @@ mrzikj.com CNAME .
 mrzpfpgh.com CNAME .
 ms.awqsaged.cn CNAME .
 ms.cmcm.com CNAME .
+ms.cnbanbao.com CNAME .
 ms758.com CNAME .
 msads.net CNAME .
 msbftyajwu.com CNAME .
@@ -28756,6 +28767,7 @@ pennvillemuscoda.com CNAME .
 pennynetwork.com CNAME .
 pennyotcstock.com CNAME .
 pennzxycrdmw.com CNAME .
+pentaxaws.cn CNAME .
 pentoch.com CNAME .
 penuma.com CNAME .
 penxiangge.com CNAME .
@@ -34989,6 +35001,7 @@ spwms.com CNAME .
 spwssohsyqgq.com CNAME .
 spxnet.com CNAME .
 spykemediatrack.com CNAME .
+spylees.com CNAME .
 spynet2.microsoft.com CNAME .
 spynetalt.microsoft.com CNAME .
 spynigeria.com CNAME .
@@ -38380,6 +38393,7 @@ uiqefowmmxciwe.com CNAME .
 uiqwtgcp.com CNAME .
 uiru1ie.top CNAME .
 uisdjvwytl.com CNAME .
+uislkdxx.com CNAME .
 uisrihozphejjt.com CNAME .
 uissm.com CNAME .
 uitopadxdo.com CNAME .
@@ -61472,6 +61486,7 @@ x.porn.fr CNAME .
 x.sare25.com CNAME .
 x.technic3d.biz CNAME .
 x0r.urlgalleries.net CNAME .
+x1.52aoteman.com CNAME .
 x1.kantu.com CNAME .
 x19network.com CNAME .
 x268dl0k.top CNAME .
@@ -61733,6 +61748,7 @@ xiangshiw.net CNAME .
 xiansenmeng.cn CNAME .
 xiaobiaoucai.cn CNAME .
 xiaohui2.cn CNAME .
+xiaoling.ixiunv.com CNAME .
 xiaomiaoquan.com CNAME .
 xiaopangtao.com CNAME .
 xiaoyang.mobi CNAME .
@@ -63024,6 +63040,7 @@ yudu.co.nz CNAME .
 yuebofa.cc CNAME .
 yueduyy.com CNAME .
 yuehosgcoq.com CNAME .
+yueqiangss.cn CNAME .
 yueyelive.com CNAME .
 yueyetiyu.com CNAME .
 yuga.ru CNAME .
