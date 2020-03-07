@@ -1,8 +1,8 @@
 # Title: polish-privacy-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
-# Last Converted - 07.03.2020
-# Total Domains - 75
+# Last Converted - 08.03.2020
+# Total Domains - 76
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -74,6 +74,7 @@
 0.0.0.0 sylaba.net
 0.0.0.0 track.buybox.click
 0.0.0.0 track.omgpl.com
+0.0.0.0 track.trojmiasto.pl
 0.0.0.0 tracker.twenga.pl
 0.0.0.0 tracking.affiliate44.com.pl
 0.0.0.0 traq.li
