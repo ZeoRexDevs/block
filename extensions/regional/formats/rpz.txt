@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.03.069
-; Release: 069
-; Entries: 64,168
+; Version: 20.03.070
+; Release: 070
+; Entries: 64,181
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 09 Mar 20 00:14:58
+; Updated: Tue, 10 Mar 20 00:16:11
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1271,6 +1271,7 @@ $TTL 2h
 51ads.com CNAME .
 51db27feff.com CNAME .
 51dengshan.cn CNAME .
+51dmn.top CNAME .
 51fishplace.com CNAME .
 51fuliwang.cn CNAME .
 51gpt.com CNAME .
@@ -5164,7 +5165,6 @@ aleja.lt CNAME .
 alemobile.ru CNAME .
 alemon.ru CNAME .
 alephd.com CNAME .
-alert-iphone.club CNAME .
 alertpay.com CNAME .
 alexajstrack.com CNAME .
 alexey.blog21.ru CNAME .
@@ -5562,6 +5562,7 @@ anonymousads.com CNAME .
 anonymousdemographics.com CNAME .
 anorrecenturybr.info CNAME .
 anothere.club CNAME .
+anotherederi.site CNAME .
 anothinga.com CNAME .
 anovbqzmit.com CNAME .
 anpwsppugpu.com CNAME .
@@ -5845,6 +5846,7 @@ apsntakwzycu.com CNAME .
 apsukho.ru CNAME .
 aptaleant.club CNAME .
 aptalebow.site CNAME .
+aptantasp.site CNAME .
 aptapebog.online CNAME .
 aptashark.club CNAME .
 aptausad.com CNAME .
@@ -8200,6 +8202,7 @@ brightilight.ru CNAME .
 brightonclick.com CNAME .
 brightshare.com CNAME .
 brilliantbc9.club CNAME .
+brinarynuker.site CNAME .
 brinein.com CNAME .
 bringmesports.com CNAME .
 bristlyapace.com CNAME .
@@ -9344,6 +9347,7 @@ cgaij.com CNAME .
 cgamyfohry.com CNAME .
 cgbqzfjf.com CNAME .
 cgcukmix.com CNAME .
+cghc87.cn CNAME .
 cgjbizumzm.com CNAME .
 cgjyesqhxzzm.com CNAME .
 cgkeasqkzfpepr.com CNAME .
@@ -9390,6 +9394,7 @@ changeip.name CNAME .
 changement.pro CNAME .
 changhehengqi.com CNAME .
 chango.com CNAME .
+changxiukj.com CNAME .
 chanicut.com CNAME .
 chanluu.ru CNAME .
 channeldate.com CNAME .
@@ -16015,6 +16020,8 @@ gadgetresearch.net CNAME .
 gadhx.cn CNAME .
 gadnape.ru CNAME .
 gads.pubmatic.com CNAME .
+gadsabs.com CNAME .
+gadsabz.com CNAME .
 gadsans.com CNAME .
 gadsanz.com CNAME .
 gadsats.com CNAME .
@@ -16498,6 +16505,7 @@ ggohobe.com CNAME .
 ggouh.com CNAME .
 ggprfmbbl.com CNAME .
 ggsaffiliates.com CNAME .
+ggskt.com CNAME .
 ggstreaming.azurewebsites.net CNAME .
 ggtg8.com CNAME .
 ggtp-1255424916.cos.ap-chengdu.myqcloud.com CNAME .
@@ -22128,6 +22136,7 @@ lanistaconcepts.com CNAME .
 lanktydm.com CNAME .
 lanmogu.net CNAME .
 lansdaleweare.com CNAME .
+lanshi021.com CNAME .
 lant.pro CNAME .
 lantocha.ru CNAME .
 lanxiangji.com CNAME .
@@ -22295,6 +22304,7 @@ leadtopays.com CNAME .
 leadzu.com CNAME .
 leadzupc.com CNAME .
 leadzutw.com CNAME .
+leagent.info CNAME .
 league-of-legends.ru CNAME .
 leagueplayoff.com CNAME .
 leamain.net CNAME .
@@ -24623,6 +24633,7 @@ migrandof.com CNAME .
 mihqbmugg.com CNAME .
 miiuv.com CNAME .
 mikas.win CNAME .
+mikecrm.com CNAME .
 mikpumwbahkx.com CNAME .
 mikrairs.com CNAME .
 milabra.com CNAME .
@@ -29006,7 +29017,6 @@ phoaksiw.com CNAME .
 phobosdeimos.net CNAME .
 phoenix-widget.com CNAME .
 phokukse.com CNAME .
-phone-notification.com CNAME .
 phonejapan.com CNAME .
 phonespybubble.com CNAME .
 phonograph2.voxmedia.com CNAME .
@@ -32827,6 +32837,7 @@ rove.cl CNAME .
 roverinvolv.bid CNAME .
 rovion.com CNAME .
 rowketly.com CNAME .
+rowoardog.com CNAME .
 rowthetresparhed.net CNAME .
 roxby.org CNAME .
 roxedltd.co.id CNAME .
@@ -34176,6 +34187,7 @@ shgnts.net CNAME .
 shgvuhvf.com CNAME .
 shhngaasah.com CNAME .
 shiah.ru CNAME .
+shibagongfang.com CNAME .
 shicao.icantv.cn CNAME .
 shidailw.com CNAME .
 shidvvvhi.com CNAME .
@@ -61949,6 +61961,7 @@ xlbz.com CNAME .
 xlcun.com CNAME .
 xleebhxalb.com CNAME .
 xlhhbtve.com CNAME .
+xlhm88.cn CNAME .
 xliansheng.com CNAME .
 xlingdi.com CNAME .
 xlldzsgt.com CNAME .

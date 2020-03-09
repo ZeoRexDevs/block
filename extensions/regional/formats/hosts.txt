@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.03.069
-# Release: 069
-# Entries: 64,168
+# Version: 20.03.070
+# Release: 070
+# Entries: 64,181
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 09 Mar 20 00:14:58
+# Updated: Tue, 10 Mar 20 00:16:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -1282,6 +1282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 51ads.com
 0.0.0.0 51db27feff.com
 0.0.0.0 51dengshan.cn
+0.0.0.0 51dmn.top
 0.0.0.0 51fishplace.com
 0.0.0.0 51fuliwang.cn
 0.0.0.0 51gpt.com
@@ -5175,7 +5176,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alemobile.ru
 0.0.0.0 alemon.ru
 0.0.0.0 alephd.com
-0.0.0.0 alert-iphone.club
 0.0.0.0 alertpay.com
 0.0.0.0 alexajstrack.com
 0.0.0.0 alexey.blog21.ru
@@ -5573,6 +5573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 anorrecenturybr.info
 0.0.0.0 anothere.club
+0.0.0.0 anotherederi.site
 0.0.0.0 anothinga.com
 0.0.0.0 anovbqzmit.com
 0.0.0.0 anpwsppugpu.com
@@ -5856,6 +5857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apsukho.ru
 0.0.0.0 aptaleant.club
 0.0.0.0 aptalebow.site
+0.0.0.0 aptantasp.site
 0.0.0.0 aptapebog.online
 0.0.0.0 aptashark.club
 0.0.0.0 aptausad.com
@@ -8211,6 +8213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 brightonclick.com
 0.0.0.0 brightshare.com
 0.0.0.0 brilliantbc9.club
+0.0.0.0 brinarynuker.site
 0.0.0.0 brinein.com
 0.0.0.0 bringmesports.com
 0.0.0.0 bristlyapace.com
@@ -9355,6 +9358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cgamyfohry.com
 0.0.0.0 cgbqzfjf.com
 0.0.0.0 cgcukmix.com
+0.0.0.0 cghc87.cn
 0.0.0.0 cgjbizumzm.com
 0.0.0.0 cgjyesqhxzzm.com
 0.0.0.0 cgkeasqkzfpepr.com
@@ -9401,6 +9405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 changement.pro
 0.0.0.0 changhehengqi.com
 0.0.0.0 chango.com
+0.0.0.0 changxiukj.com
 0.0.0.0 chanicut.com
 0.0.0.0 chanluu.ru
 0.0.0.0 channeldate.com
@@ -16026,6 +16031,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadhx.cn
 0.0.0.0 gadnape.ru
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 gadsabs.com
+0.0.0.0 gadsabz.com
 0.0.0.0 gadsans.com
 0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
@@ -16509,6 +16516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ggouh.com
 0.0.0.0 ggprfmbbl.com
 0.0.0.0 ggsaffiliates.com
+0.0.0.0 ggskt.com
 0.0.0.0 ggstreaming.azurewebsites.net
 0.0.0.0 ggtg8.com
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
@@ -22139,6 +22147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lanktydm.com
 0.0.0.0 lanmogu.net
 0.0.0.0 lansdaleweare.com
+0.0.0.0 lanshi021.com
 0.0.0.0 lant.pro
 0.0.0.0 lantocha.ru
 0.0.0.0 lanxiangji.com
@@ -22306,6 +22315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leadzu.com
 0.0.0.0 leadzupc.com
 0.0.0.0 leadzutw.com
+0.0.0.0 leagent.info
 0.0.0.0 league-of-legends.ru
 0.0.0.0 leagueplayoff.com
 0.0.0.0 leamain.net
@@ -24634,6 +24644,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mihqbmugg.com
 0.0.0.0 miiuv.com
 0.0.0.0 mikas.win
+0.0.0.0 mikecrm.com
 0.0.0.0 mikpumwbahkx.com
 0.0.0.0 mikrairs.com
 0.0.0.0 milabra.com
@@ -29017,7 +29028,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 phobosdeimos.net
 0.0.0.0 phoenix-widget.com
 0.0.0.0 phokukse.com
-0.0.0.0 phone-notification.com
 0.0.0.0 phonejapan.com
 0.0.0.0 phonespybubble.com
 0.0.0.0 phonograph2.voxmedia.com
@@ -32838,6 +32848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roverinvolv.bid
 0.0.0.0 rovion.com
 0.0.0.0 rowketly.com
+0.0.0.0 rowoardog.com
 0.0.0.0 rowthetresparhed.net
 0.0.0.0 roxby.org
 0.0.0.0 roxedltd.co.id
@@ -34187,6 +34198,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shgvuhvf.com
 0.0.0.0 shhngaasah.com
 0.0.0.0 shiah.ru
+0.0.0.0 shibagongfang.com
 0.0.0.0 shicao.icantv.cn
 0.0.0.0 shidailw.com
 0.0.0.0 shidvvvhi.com
@@ -61960,6 +61972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xlcun.com
 0.0.0.0 xleebhxalb.com
 0.0.0.0 xlhhbtve.com
+0.0.0.0 xlhm88.cn
 0.0.0.0 xliansheng.com
 0.0.0.0 xlingdi.com
 0.0.0.0 xlldzsgt.com

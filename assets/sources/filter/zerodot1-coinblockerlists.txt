@@ -1,8 +1,8 @@
 # Title: zerodot1-coinblockerlists Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Last Converted - 09.03.2020
-# Total Domains - 16546
+# Last Converted - 10.03.2020
+# Total Domains - 16531
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16,10 +16,8 @@
 0.0.0.0 01.nanopool.org
 0.0.0.0 01crypto.net
 0.0.0.0 01sm-ws.pandasecurity.comindex.bitcoin.com
-0.0.0.0 02.gethash.cc
 0.0.0.0 03.easyhash.de
 0.0.0.0 05.easyhash.de
-0.0.0.0 05.gethash.cc
 0.0.0.0 0629.123unlock.nl
 0.0.0.0 07.easyhash.de
 0.0.0.0 0769.it
@@ -39,7 +37,6 @@
 0.0.0.0 10-5.poolerino.com
 0.0.0.0 10-5.suchpool.pw
 0.0.0.0 10.0769.it
-0.0.0.0 10.litecoinrain.org
 0.0.0.0 10.minercircle.com
 0.0.0.0 100-0-bhd.foxypool.cf
 0.0.0.0 100-0-lhd.foxypool.cf
@@ -75,7 +72,6 @@
 0.0.0.0 13.minercircle.com
 0.0.0.0 1337pool.net
 0.0.0.0 13xbtc.com
-0.0.0.0 14.gethash.cc
 0.0.0.0 14.minercircle.com
 0.0.0.0 14.thor.cryptopool.eu
 0.0.0.0 140.minercircle.com
@@ -90,14 +86,12 @@
 0.0.0.0 15charliescene15.myjino.ru
 0.0.0.0 15coin.com
 0.0.0.0 16.easyhash.de
-0.0.0.0 16.gethash.cc
 0.0.0.0 16.minercircle.com
 0.0.0.0 1607.123unlock.nl
 0.0.0.0 168pool.com
 0.0.0.0 17.easyhash.de
 0.0.0.0 17.minercircle.com
 0.0.0.0 180tradeoption.com
-0.0.0.0 19.gethash.cc
 0.0.0.0 1centbtc.com
 0.0.0.0 1ds.us
 0.0.0.0 1explorer.sugarchain.org
@@ -113,7 +107,6 @@
 0.0.0.0 1stpool.com
 0.0.0.0 1stpool.org
 0.0.0.0 1thash.top
-0.0.0.0 2.coinminers.net
 0.0.0.0 2.minercircle.com
 0.0.0.0 2.nanopool.org
 0.0.0.0 20.actinium.org
@@ -124,8 +117,6 @@
 0.0.0.0 20.bitcoin-pool.de
 0.0.0.0 20.bitcoin.com
 0.0.0.0 20.bitcoin.cz
-0.0.0.0 20.gethash.cc
-0.0.0.0 20.litecoinrain.org
 0.0.0.0 20dailycoin.biz
 0.0.0.0 20dailycoin.com
 0.0.0.0 20local.bitcoin.com
@@ -160,7 +151,6 @@
 0.0.0.0 2miners.com
 0.0.0.0 2miners.ru
 0.0.0.0 2passiveincome.com
-0.0.0.0 2pool.gethash.cc
 0.0.0.0 2pool.sugarchain.org
 0.0.0.0 2speedymatrix.com
 0.0.0.0 2x2club.com
@@ -202,11 +192,9 @@
 0.0.0.0 52hash.com
 0.0.0.0 58coin.com
 0.0.0.0 5b6b7b.ru
-0.0.0.0 5pool.gethash.cc
 0.0.0.0 5satoshi.bitcoin.com
 0.0.0.0 5smining.com
 0.0.0.0 6.0769.it
-0.0.0.0 6.gethash.cc
 0.0.0.0 6.minercircle.com
 0.0.0.0 6.nanopool.org
 0.0.0.0 64.12.88.161.cryptopool.eu
@@ -214,9 +202,7 @@
 0.0.0.0 666pool.cn
 0.0.0.0 6block.com
 0.0.0.0 6n01.goodzen.space
-0.0.0.0 6pool.gethash.cc
 0.0.0.0 6union.net
-0.0.0.0 7.gethash.cc
 0.0.0.0 7.minercircle.com
 0.0.0.0 703n.ltc.top
 0.0.0.0 703new.ltc.top
@@ -308,7 +294,6 @@
 0.0.0.0 admin-test.minerall.io
 0.0.0.0 admin-test.nicehash.com
 0.0.0.0 admin.0769.it
-0.0.0.0 admin.3-dolphins.com
 0.0.0.0 admin.amoveopool.com
 0.0.0.0 admin.angrypool.com
 0.0.0.0 admin.antpool.com

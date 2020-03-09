@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.03.069
-; Release: 069
-; Entries: 61,654
+; Version: 20.03.070
+; Release: 070
+; Entries: 61,658
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 09 Mar 20 00:10:41
+; Updated: Tue, 10 Mar 20 00:11:37
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1568,7 +1568,6 @@ $TTL 2h
 50websads.com CNAME .
 51.video-ak.cdn.spotify.com CNAME .
 511fc7a56936.com CNAME .
-51af72.r.axf8.net CNAME .
 51yes.com CNAME .
 52.video-ak.cdn.spotify.com CNAME .
 52131e24f3c8f.com CNAME .
@@ -8467,6 +8466,7 @@ anonymousdemographics.com CNAME .
 anonymousproxy.tk CNAME .
 anonymousstats.keefox.org CNAME .
 anorrecenturybr.info CNAME .
+anotherederi.site CNAME .
 anouslab.cmail20.com CNAME .
 anovbqzmit.com CNAME .
 anpush.pushcrew.com CNAME .
@@ -12360,6 +12360,7 @@ brightroll-partners.tremorhub.com CNAME .
 brightroll.com CNAME .
 brightroll.fastclick.net CNAME .
 brightshare.com CNAME .
+brinarynuker.site CNAME .
 brinein.com CNAME .
 briqsnyafmmkxr.com CNAME .
 brisandals.shop CNAME .
@@ -13151,6 +13152,7 @@ cadsats.com CNAME .
 cadsatz.com CNAME .
 cadsecs.com CNAME .
 cadsecz.com CNAME .
+cadsimz.com CNAME .
 cadsips.com CNAME .
 cadsipz.com CNAME .
 cadskis.com CNAME .
@@ -17369,6 +17371,7 @@ d144jmuhz9kvbq.cloudfront.net CNAME .
 d169bbxks24g2u.cloudfront.net CNAME .
 d16mywcv459m8e.cloudfront.net CNAME .
 d16s8pqtk4uodx.cloudfront.net CNAME .
+d18mealirgdbbz.cloudfront.net CNAME .
 d194f913ee63.com CNAME .
 d19f0dp1dh77jq.cloudfront.net CNAME .
 d19xf4taj229i8.cloudfront.net CNAME .
@@ -23110,6 +23113,7 @@ gadqgqkdexwspxdc.com CNAME .
 gads.pubmatic.com CNAME .
 gads44000.pubmatic.com CNAME .
 gadsabs.com CNAME .
+gadsabz.com CNAME .
 gadsans.com CNAME .
 gadsanz.com CNAME .
 gadsats.com CNAME .
@@ -30353,6 +30357,7 @@ leadzuaf.com CNAME .
 leadzupc.com CNAME .
 leadzutw.com CNAME .
 leaflet.cloudmade.com CNAME .
+leagent.info CNAME .
 leaitworldprod.112.2o7.net CNAME .
 lean.com CNAME .
 leancoding.co CNAME .
@@ -56171,7 +56176,6 @@ www.0stats.com CNAME .
 www.0uk.net CNAME .
 www.1-1ads.com CNAME .
 www.1.pc8.us CNAME .
-www.1001movies.com CNAME .
 www.10g92fy87vzi.xyz CNAME .
 www.11hour.com CNAME .
 www.1220057982.world CNAME .
