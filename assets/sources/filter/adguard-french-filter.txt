@@ -1,8 +1,8 @@
 # Title: adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/16.txt
-# Last Converted - 10.03.2020
-# Total Domains - 5573
+# Last Converted - 11.03.2020
+# Total Domains - 5574
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2081,6 +2081,7 @@
 0.0.0.0 edgexads.com
 0.0.0.0 edinfo.ma
 0.0.0.0 edintorni.net
+0.0.0.0 edmi.nextinpact.com
 0.0.0.0 edomz.com
 0.0.0.0 edua29146y.com
 0.0.0.0 ee312a01eb2ebce.com

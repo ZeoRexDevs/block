@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.03.070
-; Release: 070
-; Entries: 64,181
+; Version: 20.03.071
+; Release: 071
+; Entries: 64,199
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 10 Mar 20 00:16:11
+; Updated: Wed, 11 Mar 20 00:17:13
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -983,6 +983,7 @@ $TTL 2h
 369bd3a861d8c27.com CNAME .
 36a387a94cf.com CNAME .
 36adb24f7c1c573a6380.date CNAME .
+36ia2.cn CNAME .
 36pn.com CNAME .
 3761fcd24ef9281f5.com CNAME .
 376zf.com CNAME .
@@ -3734,6 +3735,7 @@ adrolays.de CNAME .
 adroll.com CNAME .
 adrotate.se CNAME .
 adrotator.se CNAME .
+adroute.focas.jp CNAME .
 adrow.ru CNAME .
 adrs.sdo.com CNAME .
 adrsp.net CNAME .
@@ -4163,6 +4165,8 @@ adsvidsdouble.com CNAME .
 adsvidss.com CNAME .
 adsviet.info CNAME .
 adsvlad.info CNAME .
+adsvolum.com CNAME .
+adsvolume.com CNAME .
 adswam.com CNAME .
 adswinner.com CNAME .
 adswrapme.click CNAME .
@@ -7114,6 +7118,7 @@ bdbdqdkibb.com CNAME .
 bdbdqdxkdb.com CNAME .
 bdbdqexkdb.com CNAME .
 bdbdqfdkdb.com CNAME .
+bdbdqfkibb.com CNAME .
 bdbdqfxkdb.com CNAME .
 bdbdqidkdb.com CNAME .
 bdbdqixkdb.com CNAME .
@@ -7500,6 +7505,7 @@ bianxianwu.com CNAME .
 biaoshipai.net CNAME .
 biasdo.com CNAME .
 biavgmpz.com CNAME .
+bibi91.com CNAME .
 biboi.cn CNAME .
 bicarepterone.net CNAME .
 bichhuyetkiem.net CNAME .
@@ -9084,7 +9090,6 @@ cdn.j.gs CNAME .
 cdn.klasseo.com CNAME .
 cdn.leadbit.com CNAME .
 cdn.m.ambientplatform.vn CNAME .
-cdn.m.okdd.net CNAME .
 cdn.malokacha.club CNAME .
 cdn.masoffer.net CNAME .
 cdn.mdigital.co.il CNAME .
@@ -9112,6 +9117,7 @@ cdn.q.gs CNAME .
 cdn.qc.coccoc.com CNAME .
 cdn.raygun.io CNAME .
 cdn.rungrinh.vn CNAME .
+cdn.sa168vip.com CNAME .
 cdn.sagame66.com CNAME .
 cdn.savage.nu CNAME .
 cdn.sendpulse.com CNAME .
@@ -9554,6 +9560,7 @@ choolslot.info CNAME .
 choongou.com CNAME .
 choorgiw.net CNAME .
 choose-a-lady.biz CNAME .
+chooseyour26.live CNAME .
 chootsod.net CNAME .
 chopstick16.com CNAME .
 chordeez.net CNAME .
@@ -10716,6 +10723,7 @@ creatives.lavanetwork.net CNAME .
 creatives.livejasmin.com CNAME .
 creatives.pichunter.com CNAME .
 creativesrv.com CNAME .
+creativesumo.com CNAME .
 creativetv.pro CNAME .
 creativita.gsf.rcs.it CNAME .
 credible.com CNAME .
@@ -13599,6 +13607,7 @@ edirect.efind.ru CNAME .
 ediun.com CNAME .
 edkaduy.ru CNAME .
 edlsdyhll.com CNAME .
+edmi.nextinpact.com CNAME .
 edncui.net CNAME .
 ednplus.com CNAME .
 edo5.com CNAME .
@@ -14781,6 +14790,7 @@ fasyth3fqiurqq.ru CNAME .
 fat1domain1.com CNAME .
 fatads.toldya.com CNAME .
 fatafeeet.com CNAME .
+fatbuydoc.com CNAME .
 fate-xy.com CNAME .
 fatrvclgpnb.com CNAME .
 fattepush.com CNAME .
@@ -14927,6 +14937,7 @@ feelupdatingperfect.info CNAME .
 feesocrald.com CNAME .
 feewoajy.net CNAME .
 fegmamy.ru CNAME .
+fegortius.com CNAME .
 fehsnwiem.com CNAME .
 feidalu.com CNAME .
 feidhartaime.pro CNAME .
@@ -15149,6 +15160,7 @@ fireb2.com CNAME .
 firebanner.com CNAME .
 firefang.cn CNAME .
 firefeeder.com CNAME .
+fireflyengagement.com CNAME .
 firefoxprotect.me CNAME .
 firelove.ru CNAME .
 firepic.org CNAME .
@@ -16557,6 +16569,7 @@ gigacu.com CNAME .
 gigaflat.com CNAME .
 gigamega.ru CNAME .
 gigapromo.de CNAME .
+gigbc.net CNAME .
 gigvyvqe.com CNAME .
 giinmwnwsid.com CNAME .
 gilfordboyers.com CNAME .
@@ -20954,6 +20967,7 @@ jvs.price.ru CNAME .
 jvvqm.us CNAME .
 jvyigg.biquge.lu CNAME .
 jvyigg.biqumo.com CNAME .
+jvyigg.zbzw.la CNAME .
 jvykohlq.com CNAME .
 jvzwcgobd.com CNAME .
 jwaavsze.com CNAME .
@@ -29920,6 +29934,7 @@ prcfiopms.bid CNAME .
 prctxexizzpp.com CNAME .
 prcymjchczmbjj.com CNAME .
 prdrmcwuawjwjl.bid CNAME .
+preaf-ad.jp CNAME .
 preated.com CNAME .
 prebid.ants.vn CNAME .
 prebid.org CNAME .
@@ -33605,6 +33620,7 @@ sd5doozry8.com CNAME .
 sda.online-systemy.cz CNAME .
 sda.quinews.net CNAME .
 sdabfw.cn CNAME .
+sdadxz.xyz CNAME .
 sdagxz.xyz CNAME .
 sdahxz.xyz CNAME .
 sdaiv.com CNAME .
@@ -34858,6 +34874,7 @@ somatodrol.club CNAME .
 sombes.com CNAME .
 somdi.date CNAME .
 some-things.ru CNAME .
+somecdn.bid CNAME .
 somelandingpage.com CNAME .
 somennew.com CNAME .
 sometired.com CNAME .
@@ -34924,6 +34941,7 @@ sov-inform-buro.ru CNAME .
 sovch.ru CNAME .
 sovetnik.market.yandex.ru CNAME .
 sovetnik.yandex.net CNAME .
+sovetnikdam.ru CNAME .
 sovietit.com CNAME .
 sowkhntq.com CNAME .
 sowlobptfzfh.com CNAME .

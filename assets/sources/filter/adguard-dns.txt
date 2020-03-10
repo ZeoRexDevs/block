@@ -1,8 +1,8 @@
 # Title: adguard-dns Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - 10.03.2020
-# Total Domains - 26276
+# Last Converted - 11.03.2020
+# Total Domains - 26277
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -20791,6 +20791,7 @@
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 stat.media
+0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.mixi.media
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.moonwalk.co
