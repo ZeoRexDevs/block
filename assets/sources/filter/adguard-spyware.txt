@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 11.03.2020
-# Total Domains - 4187
+# Last Converted - 12.03.2020
+# Total Domains - 4190
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1519,6 +1519,7 @@
 0.0.0.0 gixmo.dk
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.uc.cn
 0.0.0.0 glanceguide.com
 0.0.0.0 glbtracker.com
@@ -1563,7 +1564,6 @@
 0.0.0.0 grfz.de
 0.0.0.0 gridsum.com
 0.0.0.0 grmtech.net
-0.0.0.0 group-ib.ru
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
@@ -1732,6 +1732,7 @@
 0.0.0.0 inquisition.goguardian.com
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 inside-graph.com
+0.0.0.0 insight.ucweb.com
 0.0.0.0 insightera.com
 0.0.0.0 insightgrit.com
 0.0.0.0 insigit.com
@@ -3178,6 +3179,7 @@
 0.0.0.0 spylog.com
 0.0.0.0 spylog.ru
 0.0.0.0 spywords.com
+0.0.0.0 sq.requestads.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squidanalytics.com
 0.0.0.0 squirrelhands.com
@@ -3252,6 +3254,7 @@
 0.0.0.0 statpipe.ru
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-analytics.info
+0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.aplus.com

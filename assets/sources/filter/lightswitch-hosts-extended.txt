@@ -1,8 +1,8 @@
 # Title: lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 11.03.2020
-# Total Domains - 99366
+# Last Converted - 12.03.2020
+# Total Domains - 99368
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -9449,6 +9449,7 @@
 0.0.0.0 a-dev.traefik.df-srv.de
 0.0.0.0 a-edge.tribalfusion.com.akadns.net
 0.0.0.0 a-emea.rfihub.com.akadns.net
+0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-iad.1rx.io
 0.0.0.0 a-iad02.e-planning.net
 0.0.0.0 a-la1.tribalfusion.com.akadns.net
@@ -98101,6 +98102,7 @@
 0.0.0.0 you.163.com
 0.0.0.0 you.visualdna.com
 0.0.0.0 you2sef28-app.clickfunnels.com
+0.0.0.0 youborafds01.com
 0.0.0.0 youdao.bidagent.xadchina.cn
 0.0.0.0 youdata.163.com
 0.0.0.0 youfone.blueconic.net

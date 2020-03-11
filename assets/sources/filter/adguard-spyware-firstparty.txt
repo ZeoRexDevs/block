@@ -1,8 +1,8 @@
 # Title: adguard-spyware-firstparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - 11.03.2020
-# Total Domains - 1072
+# Last Converted - 12.03.2020
+# Total Domains - 1073
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -789,6 +789,7 @@
 0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.mailerlite.com
 0.0.0.0 statistics.news1.kr
+0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats.aplus.com
 0.0.0.0 stats.avg.com

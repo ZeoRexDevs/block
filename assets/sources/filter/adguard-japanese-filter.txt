@@ -1,8 +1,8 @@
 # Title: adguard-japanese-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/7.txt
-# Last Converted - 11.03.2020
-# Total Domains - 209
+# Last Converted - 12.03.2020
+# Total Domains - 210
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -129,6 +129,7 @@
 0.0.0.0 jetrun.jp
 0.0.0.0 jpassport.jp
 0.0.0.0 jpg-server.com
+0.0.0.0 js.colo2.jp
 0.0.0.0 js.gsspcln.jp
 0.0.0.0 js.isboost.co.jp
 0.0.0.0 juicyads.com
