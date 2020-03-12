@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 12.03.2020
-# Total Domains - 4190
+# Last Converted - 13.03.2020
+# Total Domains - 4193
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -333,6 +333,7 @@
 0.0.0.0 analytics.unister-gmbh.de
 0.0.0.0 analytics.us.archive.org
 0.0.0.0 analytics.vadio.com
+0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.vooxe.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wetpaint.me
@@ -1167,6 +1168,7 @@
 0.0.0.0 e.dr-zh.com
 0.0.0.0 e.reddit.com
 0.0.0.0 e.tw.cx
+0.0.0.0 e2e.mashable.com
 0.0.0.0 ea.auchantelecom.fr
 0.0.0.0 ea.aujourdhui.com
 0.0.0.0 ea.deguisetoi.fr
@@ -4169,6 +4171,7 @@
 0.0.0.0 ymtracking.com
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 yoochoose.net
+0.0.0.0 youborafds01.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com

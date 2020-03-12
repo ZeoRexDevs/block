@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 12.03.2020
-# Total Domains - 2837
+# Last Converted - 13.03.2020
+# Total Domains - 2839
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -202,6 +202,7 @@
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.getaim.info
 0.0.0.0 analytics.servogram.io
+0.0.0.0 analytics.vodgc.net
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytk.com
 0.0.0.0 anametrix.com
@@ -2817,6 +2818,7 @@
 0.0.0.0 ymetrica.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoochoose.net
+0.0.0.0 youborafds01.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com

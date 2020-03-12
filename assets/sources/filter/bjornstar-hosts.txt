@@ -1,8 +1,8 @@
 # Title: bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 12.03.2020
-# Total Domains - 5229
+# Last Converted - 13.03.2020
+# Total Domains - 5257
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -218,6 +218,7 @@
 0.0.0.0 ad.tw.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.wsod.com
+0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ad.yonhapnews.co.kr
 0.0.0.0 ad.z5x.net
@@ -999,6 +1000,7 @@
 0.0.0.0 cdn.doublepimpssl.com
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 cdn.emetriq.de
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn.engine.pgmediaserve.com
 0.0.0.0 cdn.engine.phn.doublepimp.com
@@ -1113,6 +1115,7 @@
 0.0.0.0 cdn1ht.traffichaus.com
 0.0.0.0 cdn2.glyde.com
 0.0.0.0 cdn2.lockerdome.com
+0.0.0.0 cdn2.lockerdomecdn.com
 0.0.0.0 cdn2.specificmedia.com
 0.0.0.0 cdn2sitescout.edgesuite.net
 0.0.0.0 cdn3.adbrau.com
@@ -1495,7 +1498,9 @@
 0.0.0.0 dmmres.dotomi.com
 0.0.0.0 dmp.brand-display.com
 0.0.0.0 dmp.im-apps.net
+0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.truoptik.com
+0.0.0.0 dmpstorage.adalliance.io
 0.0.0.0 dn.yourfiledownloader.com
 0.0.0.0 dnetwork-media.com
 0.0.0.0 dnld.winsecuritydl.com
@@ -1558,6 +1563,7 @@
 0.0.0.0 dxdunwcdfrdqm.com
 0.0.0.0 dxfqs.com
 0.0.0.0 dylasklmlxige.cloudfront.net
+0.0.0.0 dyn.emetriq.de
 0.0.0.0 dzcx04lyk9hjp.cloudfront.net
 0.0.0.0 e-wolff-tools.de
 0.0.0.0 e.70e.com
@@ -2163,6 +2169,7 @@
 0.0.0.0 images.xdating.com
 0.0.0.0 images01.iqoption.com
 0.0.0.0 imagespicy.site
+0.0.0.0 imagesrv.adition.com
 0.0.0.0 imagetopng.club
 0.0.0.0 imageup.sakuralive.com
 0.0.0.0 imagevenue.advertserve.com
@@ -2567,6 +2574,7 @@
 0.0.0.0 mads.bluecava.com
 0.0.0.0 mads.cnet.com
 0.0.0.0 maebtjn.com
+0.0.0.0 mafo.adalliance.io
 0.0.0.0 magiciary.com
 0.0.0.0 main-adssystem.ssl-lolipop.jp
 0.0.0.0 main-im-game-1.gamewise.co
@@ -2579,6 +2587,7 @@
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 main.oggifinogi.com
+0.0.0.0 main.pubexchange.com
 0.0.0.0 main.trafficfactory.biz
 0.0.0.0 majoritishbettes.info
 0.0.0.0 mam.acloudweb.com
@@ -2645,6 +2654,7 @@
 0.0.0.0 mediaserver.ewellerinteractive.com
 0.0.0.0 mediawhirl.net
 0.0.0.0 medleyads.com
+0.0.0.0 meetrics.net
 0.0.0.0 mega.mlt01.com
 0.0.0.0 mekadr.com
 0.0.0.0 mekoto.com
@@ -2687,6 +2697,7 @@
 0.0.0.0 mirror.nbstatic.com
 0.0.0.0 mirs-st.cdn.ngenix.net
 0.0.0.0 misslk.com
+0.0.0.0 mixi.media
 0.0.0.0 mkt.betboo.com
 0.0.0.0 mkzllhqhsgq.com
 0.0.0.0 ml314.com
@@ -2740,6 +2751,7 @@
 0.0.0.0 munchkin.brightfunnel.com
 0.0.0.0 music.blpmovies.com
 0.0.0.0 mwms.static.zynga.com
+0.0.0.0 mxcdn.net
 0.0.0.0 mxq9cw.gff6166tdt2i4fc155zi11.info
 0.0.0.0 mxzxeersjv.com
 0.0.0.0 my-stats.info
@@ -2885,6 +2897,7 @@
 0.0.0.0 optimized.by.vitalads.net
 0.0.0.0 optimizedby.brealtime.com
 0.0.0.0 optimizedby.rmxads.com
+0.0.0.0 optout.adalliance.io
 0.0.0.0 optout.ib-ibi.com
 0.0.0.0 oqaghvocticy.com
 0.0.0.0 organizedvloggers.org
@@ -3150,6 +3163,7 @@
 0.0.0.0 proffigurufast.com
 0.0.0.0 profilecreeper.info
 0.0.0.0 profilehits.info
+0.0.0.0 profiles.tagger.opecloud.com
 0.0.0.0 profilethemer.info
 0.0.0.0 programresolver.net
 0.0.0.0 projectapiscall.com
@@ -3247,6 +3261,7 @@
 0.0.0.0 qsearch.media.net
 0.0.0.0 qswotrk.com
 0.0.0.0 qtdml.net
+0.0.0.0 quanta-wave.com
 0.0.0.0 quantserve.com
 0.0.0.0 questionmarket.com
 0.0.0.0 quicktask.xyz
@@ -3291,6 +3306,7 @@
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcp.c.appier.ne
 0.0.0.0 rcws.eyereturn.com
+0.0.0.0 rddywd.com
 0.0.0.0 rdmntry.com
 0.0.0.0 reacherinst.com
 0.0.0.0 readme.ru
@@ -3338,6 +3354,7 @@
 0.0.0.0 req.connect.wunderloop.net
 0.0.0.0 request-information-api.ext.nile.works
 0.0.0.0 res.union.yeyou.com
+0.0.0.0 research.de.com
 0.0.0.0 reseguiden-external.expressen.se
 0.0.0.0 resources.ea.com
 0.0.0.0 resources.eyereturn.com
@@ -3768,6 +3785,7 @@
 0.0.0.0 stat.asdf.com
 0.0.0.0 stat.deuscash.com
 0.0.0.0 stat.komoona.com
+0.0.0.0 stat.media
 0.0.0.0 stat.vidcr.com
 0.0.0.0 stat2.web.yy.com
 0.0.0.0 static-cdn.spot.im
@@ -3776,6 +3794,7 @@
 0.0.0.0 static-v.tawk.to
 0.0.0.0 static.4chan-ads.org
 0.0.0.0 static.addtoany.com
+0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adlantis.jp
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.ads.crakmedia.com
@@ -3805,6 +3824,7 @@
 0.0.0.0 static.downloadprovider.me
 0.0.0.0 static.doyoo.net
 0.0.0.0 static.dynamicyield.com
+0.0.0.0 static.emsservice.de
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.exosrv.com
@@ -3825,6 +3845,7 @@
 0.0.0.0 static.jobthread.com
 0.0.0.0 static.localsnapsext.com
 0.0.0.0 static.luminate.com
+0.0.0.0 static.mixi.media
 0.0.0.0 static.mmotraffic.com
 0.0.0.0 static.oktopost.com
 0.0.0.0 static.olark.com
@@ -4016,6 +4037,7 @@
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.userreport.com
 0.0.0.0 tagbucket.cc
+0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
@@ -4028,6 +4050,7 @@
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 targaryen.unrulymedia.com
+0.0.0.0 target.mixi.media
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 tata-bitgravity.cedexis.com
 0.0.0.0 taunk.vo.llnwd.net
@@ -4038,11 +4061,13 @@
 0.0.0.0 tds.tuberl.com
 0.0.0.0 tdsjsext.com
 0.0.0.0 tdsjsext2.com
+0.0.0.0 te.technical-service.net
 0.0.0.0 tech-life.life
 0.0.0.0 tech.affiliation-int.com
 0.0.0.0 techfindjp.org
 0.0.0.0 techfocus.activehosted.com
 0.0.0.0 techfocusmedia.net
+0.0.0.0 technical-service.net
 0.0.0.0 techsave.jp
 0.0.0.0 techyahoo.info
 0.0.0.0 teenwhores.me
@@ -4182,6 +4207,7 @@
 0.0.0.0 trady.io
 0.0.0.0 traffic.adexprtz.com
 0.0.0.0 traffic.adxprtz.com
+0.0.0.0 traffic.emsservice.de
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trafficmp.com
@@ -4211,6 +4237,7 @@
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk10.com
 0.0.0.0 trrkk.com
+0.0.0.0 tru.am
 0.0.0.0 trust.zone
 0.0.0.0 trustaffs.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
@@ -4312,6 +4339,7 @@
 0.0.0.0 update.aproblem.net
 0.0.0.0 uploads.cdn.getfeedback.com
 0.0.0.0 upnow2app.checkfreeupdates.net
+0.0.0.0 ups.xplosion.de
 0.0.0.0 uptimecdn.com
 0.0.0.0 upwritish.info
 0.0.0.0 urgent-computer-warning.com
