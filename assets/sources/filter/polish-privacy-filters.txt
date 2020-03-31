@@ -1,8 +1,8 @@
 # Title: polish-privacy-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
-# Last Converted - 13.03.2020
-# Total Domains - 76
+# Last Converted - 31.03.2020
+# Total Domains - 77
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -37,6 +37,7 @@
 0.0.0.0 gcontent.services.tvn.pl
 0.0.0.0 gemius.pl
 0.0.0.0 histats.com
+0.0.0.0 hit-pool.upscore.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hit.interia.pl
 0.0.0.0 hitslink.interia.com.pl

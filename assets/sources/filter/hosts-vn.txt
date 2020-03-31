@@ -1,8 +1,8 @@
 # Title: hosts-vn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-# Last Converted - 13.03.2020
-# Total Domains - 1110
+# Last Converted - 31.03.2020
+# Total Domains - 1173
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -24,6 +24,7 @@
 0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad-log.dable.io
+0.0.0.0 ad-vanx.fuseplatform.net
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.ants.vn
@@ -37,13 +38,17 @@
 0.0.0.0 ad.zing.vn
 0.0.0.0 ad1.lavanetwork.net
 0.0.0.0 ad360.vn
+0.0.0.0 adasia.fuseplatform.net
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adbro.me
+0.0.0.0 adc.quantrimang.com
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
 0.0.0.0 adclient.vietnamnetjsc.vn
+0.0.0.0 adfill.fuseplatform.net
 0.0.0.0 adfox.vn
 0.0.0.0 adi.admicro.vn
+0.0.0.0 adireto.fuseplatform.net
 0.0.0.0 admail.admicro.vn
 0.0.0.0 admarket.admicro.vn
 0.0.0.0 admatic.admicro.vn
@@ -58,6 +63,7 @@
 0.0.0.0 admicro7.vcmedia.vn
 0.0.0.0 admicro8.vcmedia.vn
 0.0.0.0 admicro9.vcmedia.vn
+0.0.0.0 admin-portal.fuseplatform.net
 0.0.0.0 admin.adsplay.net
 0.0.0.0 admin.adsplay.xyz
 0.0.0.0 admin.billing.adtima.vn
@@ -73,10 +79,12 @@
 0.0.0.0 adnetwork.adasiaholdings.com
 0.0.0.0 adnetwork.admicro.vn
 0.0.0.0 adnetwork.vn
+0.0.0.0 adop.fuseplatform.net
 0.0.0.0 adopt.admicro.vn
 0.0.0.0 adpa-dooh-prod-vpn.adasiaholdings.com
 0.0.0.0 adpa.adasiaholdings.com
 0.0.0.0 adpia.vn
+0.0.0.0 adrealclick.com
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 ads.adasiaholdings.com
@@ -91,13 +99,17 @@
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.novanet.vn
 0.0.0.0 ads.phunuonline.com.vn
+0.0.0.0 ads.sporttv.today
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.vietad.vn
+0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adsdemo.admicro.vn
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adsota.com
+0.0.0.0 adsparc.com
 0.0.0.0 adsplay.net
 0.0.0.0 adsplay.xyz
 0.0.0.0 adsplus.vn
@@ -111,6 +123,7 @@
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtimes.admicro.vn
 0.0.0.0 adv.admicro.vn
+0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adv.cityads.com
 0.0.0.0 adv.klick.vn
 0.0.0.0 adv.lavanetwork.net
@@ -138,6 +151,7 @@
 0.0.0.0 amcdn.vn
 0.0.0.0 amobi.vn
 0.0.0.0 an.dongphim.net
+0.0.0.0 an.motphim.net
 0.0.0.0 an.xemvtv.net
 0.0.0.0 analytics.admicro.vn
 0.0.0.0 analytics.ambient-platform.com
@@ -163,6 +177,7 @@
 0.0.0.0 api.autoads.asia
 0.0.0.0 api.cityads.com
 0.0.0.0 api.dable.io
+0.0.0.0 api.fuseplatform.net
 0.0.0.0 api.ladipage.com
 0.0.0.0 api.ladipage.vn
 0.0.0.0 api.laydata.com
@@ -245,6 +260,7 @@
 0.0.0.0 cdn.autoads.asia
 0.0.0.0 cdn.cityads.com
 0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 cdn.hbplatform.com
 0.0.0.0 cdn.m.ambientplatform.vn
 0.0.0.0 cdn.masoffer.net
@@ -254,6 +270,7 @@
 0.0.0.0 cdn.surfcountor.com
 0.0.0.0 cdn1.rungrinh.vn
 0.0.0.0 cdn77.cityads.com
+0.0.0.0 celerantatters.com
 0.0.0.0 challenge.cityads.com
 0.0.0.0 chamcong.admicro.vn
 0.0.0.0 chamcongtest.admicro.vn
@@ -263,6 +280,7 @@
 0.0.0.0 chatbot.novaonx.com
 0.0.0.0 chatbotthoitrang.novaonx.com
 0.0.0.0 chatbottudong.novaonx.com
+0.0.0.0 cheap-ads.net
 0.0.0.0 checker.cityads.com
 0.0.0.0 cityads.com
 0.0.0.0 cityadstrack.com
@@ -278,6 +296,7 @@
 0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
 0.0.0.0 client-pages.adnetwork.vn
+0.0.0.0 client-portal.fuseplatform.net
 0.0.0.0 client.fff.com.vn
 0.0.0.0 client.vads.net.vn
 0.0.0.0 client.vietnamnetad.vn
@@ -318,6 +337,7 @@
 0.0.0.0 cpm.eclick.vn
 0.0.0.0 cpm.j.eclick.vn
 0.0.0.0 cpm.novanet.vn
+0.0.0.0 cpm.vidoomy.com
 0.0.0.0 cpx.polyad.net
 0.0.0.0 cpx.vnecdn.com
 0.0.0.0 creative.mediaz.vn
@@ -326,6 +346,7 @@
 0.0.0.0 crm.fff.com.vn
 0.0.0.0 crm.mangoads.vn
 0.0.0.0 crm.novaonx.com
+0.0.0.0 crocopop.com
 0.0.0.0 crowd.novaon.asia
 0.0.0.0 customer.mangoads.vn
 0.0.0.0 d.adsplay.net
@@ -357,6 +378,7 @@
 0.0.0.0 delivery.m.ambientplatform.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.sharks.vn
+0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 delivery.vungtv.com
 0.0.0.0 delivery.yomedia.vn
 0.0.0.0 delivery1.lavanetwork.net
@@ -366,6 +388,7 @@
 0.0.0.0 demo.admicro.vn
 0.0.0.0 demo.adtima.vn
 0.0.0.0 demo.dable.io
+0.0.0.0 demo.fuseplatform.net
 0.0.0.0 demo.klick.vn
 0.0.0.0 demo.pinetech.vn
 0.0.0.0 demo.yomedia.vn
@@ -393,6 +416,7 @@
 0.0.0.0 dns.novaonx.com
 0.0.0.0 dnsbak.mediaz.vn
 0.0.0.0 doitac.ladipage.vn
+0.0.0.0 dqna.fuseplatform.net
 0.0.0.0 drive.admicro.vn
 0.0.0.0 drone.novaonx.com
 0.0.0.0 ds.polyad.net
@@ -451,10 +475,12 @@
 0.0.0.0 files.fff.com.vn
 0.0.0.0 finance.cityads.com
 0.0.0.0 fingerprint.admicro.vn
+0.0.0.0 fluct.fuseplatform.net
 0.0.0.0 focus.mangoads.vn
 0.0.0.0 fptad.com
 0.0.0.0 front.adpia.vn
 0.0.0.0 fuckbookvietnam.com
+0.0.0.0 fuseplatform.net
 0.0.0.0 g.eclick.vn
 0.0.0.0 gallery.adtima.vn
 0.0.0.0 games.cityads.com
@@ -648,8 +674,10 @@
 0.0.0.0 media10.admicro.vn
 0.0.0.0 media2.admicro.vn
 0.0.0.0 media3.admicro.vn
+0.0.0.0 media3.adrealclick.com
 0.0.0.0 media4.admicro.vn
 0.0.0.0 media5.admicro.vn
+0.0.0.0 media5.adrealclick.com
 0.0.0.0 media6.admicro.vn
 0.0.0.0 media7.admicro.vn
 0.0.0.0 media9.admicro.vn
@@ -719,6 +747,7 @@
 0.0.0.0 out1.cityads.com
 0.0.0.0 out2.cityads.com
 0.0.0.0 out3.cityads.com
+0.0.0.0 ox1.vietstock.vn
 0.0.0.0 p.anthill.vn
 0.0.0.0 p.ants.vn
 0.0.0.0 p.cityadstrack.com
@@ -735,11 +764,14 @@
 0.0.0.0 pinetech.vn
 0.0.0.0 pixel.adasiaholdings.com
 0.0.0.0 pixel.autoads.asia
+0.0.0.0 pixel.vidoomy.com
 0.0.0.0 platform.bidgear.com
+0.0.0.0 play.adsparc.com
 0.0.0.0 pm.adpia.vn
 0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 polyad.net
 0.0.0.0 portal.adbro.me
+0.0.0.0 prebid.adsparc.com
 0.0.0.0 prebid.ants.vn
 0.0.0.0 pricing.mediaz.vn
 0.0.0.0 product.adtima.vn
@@ -750,11 +782,14 @@
 0.0.0.0 pson.logging.admicro.vn
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 pub.uniad.vn
+0.0.0.0 publift.fuseplatform.net
 0.0.0.0 publisher.admicro.vn
+0.0.0.0 publisher.adsparc.com
 0.0.0.0 publisher.uniad.vn
 0.0.0.0 publishers.adasiaholdings.com
 0.0.0.0 push.yoads.net
 0.0.0.0 push2.yoads.net
+0.0.0.0 pushad.adsparc.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 qc-static.coccoc.com
 0.0.0.0 qc.coccoc.com
@@ -771,6 +806,7 @@
 0.0.0.0 r.eclick.vn
 0.0.0.0 ranking.younetmedia.com
 0.0.0.0 rd.ambientplatform.vn
+0.0.0.0 realclick.vn
 0.0.0.0 recsys.aiservice.vn
 0.0.0.0 redirect.dable.io
 0.0.0.0 redmine.admicro.vn
@@ -785,21 +821,26 @@
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 revive.lavanetwork.net
+0.0.0.0 rituationscardb.info
 0.0.0.0 rnd.novanet.vn
 0.0.0.0 rss2.vietnamnetad.vn
+0.0.0.0 rtb-useast.vidoomy.com
 0.0.0.0 rtb.bidgear.com
 0.0.0.0 rtb.eclick.vn
 0.0.0.0 ru-geo.cityads.com
 0.0.0.0 rungrinh.vn
 0.0.0.0 rvs.mangoads.vn
+0.0.0.0 rwadx.fuseplatform.net
 0.0.0.0 s-cm.send.adnetwork.vn
 0.0.0.0 s.ad360.vn
+0.0.0.0 s.adrealclick.com
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.eclick.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.vclick.vn
 0.0.0.0 s3.adpia.vn
+0.0.0.0 sacchaeleduk.com
 0.0.0.0 sale.dsmartvietnam.com
 0.0.0.0 sale.test.admicro.vn
 0.0.0.0 saledev.admicro.vn
@@ -848,6 +889,8 @@
 0.0.0.0 sp-r.dable.io
 0.0.0.0 sp.zalo.me
 0.0.0.0 spell.itim.vn
+0.0.0.0 sph.fuseplatform.net
+0.0.0.0 sporttv.today
 0.0.0.0 ss.yomedia.vn
 0.0.0.0 ssl.ladipage.vn
 0.0.0.0 sslstatic.yomedia.vn
@@ -872,6 +915,7 @@
 0.0.0.0 st.polyad.net
 0.0.0.0 staging-e-vcdn.anthill.vn
 0.0.0.0 staging-e.anthill.vn
+0.0.0.0 staging.fuseplatform.net
 0.0.0.0 staging.j.eclick.vn
 0.0.0.0 staging.novaonx.com
 0.0.0.0 staging.rungrinh.vn
@@ -888,6 +932,7 @@
 0.0.0.0 static.contineljs.com
 0.0.0.0 static.dable.io
 0.0.0.0 static.eclick.vn
+0.0.0.0 static.fuseplatform.net
 0.0.0.0 static.gammaplatform.com
 0.0.0.0 static.hbplatform.com
 0.0.0.0 static.ladipage.net
@@ -918,6 +963,7 @@
 0.0.0.0 stream.adtimaserver.vn
 0.0.0.0 stream.org.adtimaserver.vn
 0.0.0.0 sukientraogiaizalo.com
+0.0.0.0 summitmedia.fuseplatform.net
 0.0.0.0 surfcountor.com
 0.0.0.0 survey.vietnamnetad.vn
 0.0.0.0 systracking.admicro.vn
@@ -969,6 +1015,7 @@
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietnamnetad.vn
+0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yomedia.vn
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackity.tiki.vn
@@ -996,8 +1043,12 @@
 0.0.0.0 vccrm.admicro.vn
 0.0.0.0 vcdn.anthill.vn
 0.0.0.0 vclick.vn
+0.0.0.0 verycheap.cheap-ads.net
 0.0.0.0 viam.com.vn
+0.0.0.0 video.adsparc.com
 0.0.0.0 video.lavanetwork.net
+0.0.0.0 vidmatic.fuseplatform.net
+0.0.0.0 vidoomy.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnamhouse.mangoads.vn
@@ -1006,6 +1057,12 @@
 0.0.0.0 viewplus.admicro.vn
 0.0.0.0 vinaads.vn
 0.0.0.0 viral.mediaz.vn
+0.0.0.0 vl2.adsparc.com
+0.0.0.0 vl3.adsparc.com
+0.0.0.0 vl4.adsparc.com
+0.0.0.0 vl5.adsparc.com
+0.0.0.0 vl6.adsparc.com
+0.0.0.0 vls.adsparc.com
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vote.admicro.vn
@@ -1037,7 +1094,9 @@
 0.0.0.0 www.adasiaholdings.com
 0.0.0.0 www.admicro.vn
 0.0.0.0 www.adnetwork.vn
+0.0.0.0 www.adrealclick.com
 0.0.0.0 www.adsota.com
+0.0.0.0 www.adsparc.com
 0.0.0.0 www.adsplay.net
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.adtima.vn
@@ -1047,6 +1106,7 @@
 0.0.0.0 www.ants.vn
 0.0.0.0 www.autoads.asia
 0.0.0.0 www.bidgear.com
+0.0.0.0 www.cheap-ads.net
 0.0.0.0 www.cityads.com
 0.0.0.0 www.cleverads.vn
 0.0.0.0 www.clevernet.vn
@@ -1080,14 +1140,17 @@
 0.0.0.0 www.phanquang.vn
 0.0.0.0 www.pinetech.vn
 0.0.0.0 www.quangcaotructuyen247.com
+0.0.0.0 www.realclick.vn
 0.0.0.0 www.rungrinh.vn
 0.0.0.0 www.sharks.vn
+0.0.0.0 www.sporttv.today
 0.0.0.0 www.trending.vn
 0.0.0.0 www.uniad.vn
 0.0.0.0 www.vads.net.vn
 0.0.0.0 www.vads.vn
 0.0.0.0 www.vclick.vn
 0.0.0.0 www.viam.com.vn
+0.0.0.0 www.vidoomy.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vietnamnetad.vn

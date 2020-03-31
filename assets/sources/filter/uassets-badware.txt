@@ -1,8 +1,8 @@
 # Title: uassets-badware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-# Last Converted - 13.03.2020
-# Total Domains - 218
+# Last Converted - 31.03.2020
+# Total Domains - 221
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -188,6 +188,9 @@
 0.0.0.0 senuti.org
 0.0.0.0 sharex.es
 0.0.0.0 smplayer.org
+0.0.0.0 smsiak.eu
+0.0.0.0 smsiak.pl
+0.0.0.0 smsy24.pl
 0.0.0.0 songbird.es
 0.0.0.0 spam404bl.com
 0.0.0.0 stellarium.es

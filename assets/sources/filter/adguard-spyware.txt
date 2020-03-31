@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 13.03.2020
-# Total Domains - 4193
+# Last Converted - 31.03.2020
+# Total Domains - 4209
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -540,6 +540,7 @@
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bigcattracks.com
+0.0.0.0 bigdata.riamedia.com.ua
 0.0.0.0 bigsauron.ru
 0.0.0.0 bigstats.net
 0.0.0.0 bigtracker.com
@@ -792,6 +793,7 @@
 0.0.0.0 collect.tianya.cn
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collecte.audience.acpm.fr
+0.0.0.0 collectfasttracks.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 collector-analytics.efigence.com
@@ -1321,6 +1323,7 @@
 0.0.0.0 exovueplatform.com
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 explore-123.com
+0.0.0.0 exponea.com
 0.0.0.0 exposebox.com
 0.0.0.0 ext.goguardian.com
 0.0.0.0 ext.host-tracker.com
@@ -1531,6 +1534,7 @@
 0.0.0.0 globetrackr.com
 0.0.0.0 gmodmp.jp
 0.0.0.0 go-mpulse.net
+0.0.0.0 go.rcvlinks.com
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 godhat.com
 0.0.0.0 goingup.com
@@ -1687,6 +1691,7 @@
 0.0.0.0 ics0.com
 0.0.0.0 icstats.nl
 0.0.0.0 id-visitors.com
+0.0.0.0 id5-sync.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idio.co
 0.0.0.0 idtargeting.com
@@ -2201,6 +2206,7 @@
 0.0.0.0 monkeytracker.cz
 0.0.0.0 montblanc.lenta.ru
 0.0.0.0 montblanc.rambler.ru
+0.0.0.0 monu.delivery
 0.0.0.0 moreusers.info
 0.0.0.0 morevisits.info
 0.0.0.0 mormont.gamer-network.net
@@ -2535,6 +2541,7 @@
 0.0.0.0 pixel.4pcdn.de
 0.0.0.0 pixel.4players.de
 0.0.0.0 pixel.ad
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.bullion.media
 0.0.0.0 pixel.buzzfeed.com
@@ -2736,6 +2743,7 @@
 0.0.0.0 realcounters.com
 0.0.0.0 reali.st
 0.0.0.0 realist.gen.tr
+0.0.0.0 realizerecess.com
 0.0.0.0 realtimeplease.com
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtracker.com
@@ -2760,6 +2768,7 @@
 0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
 0.0.0.0 register.appsflyer.com
+0.0.0.0 reindaks.com
 0.0.0.0 reinvigorate.net
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
@@ -2869,6 +2878,7 @@
 0.0.0.0 sajari.com
 0.0.0.0 sakura.goguardian.com
 0.0.0.0 salesgenius.com
+0.0.0.0 samestretch.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
 0.0.0.0 sanalytics.ncaa.com
 0.0.0.0 sapha.com
@@ -2968,6 +2978,7 @@
 0.0.0.0 signup-way.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simonsignal.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simpli.fi
@@ -3270,6 +3281,7 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.firedrive.com
 0.0.0.0 stats.ft.com
@@ -3433,6 +3445,7 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag4arm.com
 0.0.0.0 tagcommander.com
+0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagifydiageo.com
 0.0.0.0 tags.bluekai.com
@@ -3589,6 +3602,7 @@
 0.0.0.0 traceworks.com
 0.0.0.0 track-web.net
 0.0.0.0 track.ad.nl
+0.0.0.0 track.adabra.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.aplaut.io
 0.0.0.0 track.appsflyer.com
@@ -3629,6 +3643,7 @@
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.sohu.com
 0.0.0.0 track.tcppu.com
+0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tooplay.com
@@ -3864,6 +3879,7 @@
 0.0.0.0 unequalbrake.com
 0.0.0.0 unicaondemand.com
 0.0.0.0 unid.go.com
+0.0.0.0 uniqodo.com
 0.0.0.0 universaltrackingcontainer.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unusualtitle.com

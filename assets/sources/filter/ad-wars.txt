@@ -1,8 +1,8 @@
 # Title: ad-wars Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# Last Converted - 13.03.2020
-# Total Domains - 1204
+# Last Converted - 31.03.2020
+# Total Domains - 1217
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -50,6 +50,7 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-locus.com
+0.0.0.0 ad-sdk.aiclk.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 ad.363.in
 0.0.0.0 ad.51wnl-cq.com
@@ -153,6 +154,7 @@
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admin.vserv.mobi
+0.0.0.0 admusicpic.music.126.net
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adnew.wifi8.com
 0.0.0.0 adpai.thepaper.cn
@@ -200,6 +202,7 @@
 0.0.0.0 adsamer.adsame.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adsco.re
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 adserve2.tom.com
@@ -217,7 +220,7 @@
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adshare.toutiao.com
 0.0.0.0 adsmind.apdcdn.tc.qq.com
-0.0.0.0 adsmind.gdtimg.com
+0.0.0.0 adsmis.duxiaoman.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsolution.imtt.qq.com
 0.0.0.0 adsrv1.tapad.com
@@ -241,6 +244,7 @@
 0.0.0.0 adx-static.ksosoft.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.hupu.com
+0.0.0.0 adx.maplehaze.cn
 0.0.0.0 adx.pro.cn
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 adxserver.ad.cmvideo.cn
@@ -263,14 +267,17 @@
 0.0.0.0 androidgo.duapp.com
 0.0.0.0 anquan.luomi.com
 0.0.0.0 aos.wall.youmi.net
+0.0.0.0 api-ad.kajicam.com
 0.0.0.0 api-es.doglobal.net
 0.0.0.0 api-luckycoinsdk.doglobal.net
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.ad.yipinread.com
 0.0.0.0 api.adbana.com
 0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
+0.0.0.0 api.aiclk.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.appjiagu.com
@@ -369,6 +376,7 @@
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 cdn.aiclk.com
 0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cdn.nearbyad.com
@@ -381,6 +389,7 @@
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf8d.stat.gw.youmi.net
+0.0.0.0 cfg-cdn.aiclk.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 ck.houyi.baofeng.net
 0.0.0.0 ckmap.mediav.com
@@ -416,6 +425,7 @@
 0.0.0.0 coconuts.boy.jp
 0.0.0.0 conde.adsame.com
 0.0.0.0 conf.funshion.com
+0.0.0.0 conf.xdrig.com
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config.adsage.cn
 0.0.0.0 config.adsage.com
@@ -465,6 +475,7 @@
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.tanx.com
 0.0.0.0 dfe.mic.mob.com
+0.0.0.0 diagnosis.ad.xiaomi.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
@@ -484,6 +495,7 @@
 0.0.0.0 dp3.play.aiseet.atianqi.com
 0.0.0.0 dp3.qq.com
 0.0.0.0 dpm.demdex.net
+0.0.0.0 dpush-api.domob.cn
 0.0.0.0 drd.hauchi.com.tw
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.pro.cn
@@ -519,6 +531,7 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 emoticon.sns.iqiyi.com
 0.0.0.0 ems.cp12.wasu.tv
+0.0.0.0 engine.lvehaisen.com
 0.0.0.0 entry.baidu.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 et.w.inmobi.com
@@ -599,7 +612,6 @@
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 ifeng.adsame.com
 0.0.0.0 ifengad.3g.ifeng.com
-0.0.0.0 ii.gdt.qq.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
 0.0.0.0 ilce.alicdn.com
@@ -650,7 +662,6 @@
 0.0.0.0 letv.cm.admaster.com.cn
 0.0.0.0 letv.irs01.com
 0.0.0.0 letv.m.cn.miaozhen.com
-0.0.0.0 lianmengapi.snssdk.com
 0.0.0.0 list.z.qingting.fm
 0.0.0.0 livec.l.qq.com
 0.0.0.0 livem.l.qq.com
@@ -661,6 +672,7 @@
 0.0.0.0 livew.l.qq.com
 0.0.0.0 loading.baofeng5.baofeng.net
 0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 log.kajicam.com
 0.0.0.0 log.ltype.baofeng.com
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.nvwa.baofeng.com
@@ -675,7 +687,6 @@
 0.0.0.0 m.adpro.cn
 0.0.0.0 m.aty.sohu.com
 0.0.0.0 m.data.mob.com
-0.0.0.0 m.gdt.qq.com
 0.0.0.0 m.irs01.com
 0.0.0.0 m.j5s9b.cn
 0.0.0.0 m.shilian168.cn
@@ -701,6 +712,7 @@
 0.0.0.0 mdevstat.qqlive.qq.com
 0.0.0.0 mdn1.phluantmobile.net
 0.0.0.0 mdrecv.app.cntvwb.cn
+0.0.0.0 me.xdrig.com
 0.0.0.0 media.admob.com
 0.0.0.0 mediapro.pro.cn
 0.0.0.0 meihua.adsame.com
@@ -749,7 +761,6 @@
 0.0.0.0 mydisplay.ctfile.com
 0.0.0.0 n.mark.letv.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
-0.0.0.0 nc.gdt.qq.com
 0.0.0.0 nclog.pad.baofeng.net
 0.0.0.0 news.l.qq.com
 0.0.0.0 nex.163.com
@@ -854,6 +865,7 @@
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 rc2waycm-atl.netmng.com
 0.0.0.0 rcp.c.appier.net
+0.0.0.0 rcv.aiclk.com
 0.0.0.0 rec.moviebox.baofeng.net
 0.0.0.0 report.adview.cn
 0.0.0.0 report.huatuo.qq.com
@@ -865,7 +877,6 @@
 0.0.0.0 rm.gdt.qq.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rp.hpplay.cn
-0.0.0.0 rpt.gdt.qq.com
 0.0.0.0 rs-staticart.ybcdn.net
 0.0.0.0 rt.funshion.net
 0.0.0.0 rtas.videocc.net
@@ -907,6 +918,8 @@
 0.0.0.0 sclog.moviebox.baofeng.com
 0.0.0.0 sd.domob.cn
 0.0.0.0 sdapprecv.app.cntvwb.cn
+0.0.0.0 sdk-ab-config.aiclk.com
+0.0.0.0 sdk-globalconfig.aiclk.com
 0.0.0.0 sdk.cferw.com
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.mediav.com
@@ -1041,6 +1054,7 @@
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 unidesk.alicdn.com
 0.0.0.0 uo.jstaogu.com
+0.0.0.0 update0.aiclk.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 user.ad-locus.com
 0.0.0.0 uusee.adsame.com
@@ -1154,7 +1168,6 @@
 0.0.0.0 wxa79ef55c1a84e284.wx.ckjr001.com
 0.0.0.0 wxsnsdy.wxs.qq.com
 0.0.0.0 wxsnsdythumb.wxs.qq.com
-0.0.0.0 x.adnet.qq.com
 0.0.0.0 x.adpro.cn
 0.0.0.0 x.da.mgtv.com
 0.0.0.0 x.ojgoy.cn

@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 13.03.2020
-# Total Domains - 2839
+# Last Converted - 31.03.2020
+# Total Domains - 2853
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -336,6 +336,7 @@
 0.0.0.0 bid.run
 0.0.0.0 bidswitch.net
 0.0.0.0 bigcattracks.com
+0.0.0.0 bigdata.riamedia.com.ua
 0.0.0.0 bigsauron.ru
 0.0.0.0 bigstats.net
 0.0.0.0 bigtracker.com
@@ -521,6 +522,7 @@
 0.0.0.0 cointent.com
 0.0.0.0 collarity.com
 0.0.0.0 collect.blishtech.co
+0.0.0.0 collectfasttracks.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collserve.com
 0.0.0.0 comagic.ru
@@ -856,6 +858,7 @@
 0.0.0.0 exovueplatform.com
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 explore-123.com
+0.0.0.0 exponea.com
 0.0.0.0 exposebox.com
 0.0.0.0 ext.goguardian.com
 0.0.0.0 extole.com
@@ -1026,6 +1029,7 @@
 0.0.0.0 globetrackr.com
 0.0.0.0 gmodmp.jp
 0.0.0.0 go-mpulse.net
+0.0.0.0 go.rcvlinks.com
 0.0.0.0 godhat.com
 0.0.0.0 goingup.com
 0.0.0.0 goldstats.com
@@ -1157,6 +1161,7 @@
 0.0.0.0 ics0.com
 0.0.0.0 icstats.nl
 0.0.0.0 id-visitors.com
+0.0.0.0 id5-sync.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idio.co
 0.0.0.0 idtargeting.com
@@ -1514,6 +1519,7 @@
 0.0.0.0 monitis.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 monu.delivery
 0.0.0.0 moreusers.info
 0.0.0.0 morevisits.info
 0.0.0.0 motorpresse-statistik.de
@@ -1779,6 +1785,7 @@
 0.0.0.0 piwik.pro
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.ad
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelrevenue.com
@@ -1919,6 +1926,7 @@
 0.0.0.0 realcounters.com
 0.0.0.0 reali.st
 0.0.0.0 realist.gen.tr
+0.0.0.0 realizerecess.com
 0.0.0.0 realtimeplease.com
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtracker.com
@@ -1941,6 +1949,7 @@
 0.0.0.0 referrer.org
 0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
+0.0.0.0 reindaks.com
 0.0.0.0 reinvigorate.net
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
@@ -2030,6 +2039,7 @@
 0.0.0.0 sajari.com
 0.0.0.0 sakura.goguardian.com
 0.0.0.0 salesgenius.com
+0.0.0.0 samestretch.com
 0.0.0.0 sapha.com
 0.0.0.0 sas15k01.com
 0.0.0.0 saysidewalk.com
@@ -2115,6 +2125,7 @@
 0.0.0.0 signup-way.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simonsignal.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simpli.fi
@@ -2253,6 +2264,7 @@
 0.0.0.0 statpipe.ru
 0.0.0.0 stats-analytics.info
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.mos.ru
 0.0.0.0 stats2.com
 0.0.0.0 stats21.com
@@ -2444,6 +2456,7 @@
 0.0.0.0 tracetracking.net
 0.0.0.0 traceworks.com
 0.0.0.0 track-web.net
+0.0.0.0 track.adabra.com
 0.0.0.0 track.aplaut.io
 0.0.0.0 track.ddmanager.ru
 0.0.0.0 track.pnicnik.live
@@ -2553,6 +2566,7 @@
 0.0.0.0 unequalbrake.com
 0.0.0.0 unicaondemand.com
 0.0.0.0 unid.go.com
+0.0.0.0 uniqodo.com
 0.0.0.0 universaltrackingcontainer.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unusualtitle.com

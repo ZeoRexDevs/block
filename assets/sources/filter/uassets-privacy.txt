@@ -1,8 +1,8 @@
 # Title: uassets-privacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-# Last Converted - 13.03.2020
-# Total Domains - 27
+# Last Converted - 31.03.2020
+# Total Domains - 28
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -28,6 +28,7 @@
 0.0.0.0 sw88.espn.com
 0.0.0.0 taboola.com
 0.0.0.0 takethatad.com
+0.0.0.0 telemetry.art19.com
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thisisanothercoolthing.com
 0.0.0.0 tradeadsexchange.com

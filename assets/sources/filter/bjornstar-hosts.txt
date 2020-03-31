@@ -1,8 +1,8 @@
 # Title: bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 13.03.2020
-# Total Domains - 5257
+# Last Converted - 31.03.2020
+# Total Domains - 5258
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -184,7 +184,6 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.au.doubleclick.net
 0.0.0.0 ad.bananamall.co.kr
-0.0.0.0 ad.bannerconnect.net
 0.0.0.0 ad.ca.doubleclick.net
 0.0.0.0 ad.caprofitx.adtdp.com
 0.0.0.0 ad.crwdcntrl.net
@@ -266,7 +265,6 @@
 0.0.0.0 adimg.wisenut.co.kr
 0.0.0.0 adisfy.com
 0.0.0.0 adixs.nowcdn.co.kr
-0.0.0.0 adlog.com.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.shinobi.jp
 0.0.0.0 admaster.com.cn
@@ -891,6 +889,7 @@
 0.0.0.0 c23.statcounter.com
 0.0.0.0 c28918595.c.youradexchange.com
 0.0.0.0 c2aquarelle.website
+0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 c3.gostats.com
 0.0.0.0 c3archival.website
 0.0.0.0 c4tracking01.com
@@ -3158,6 +3157,7 @@
 0.0.0.0 probes.cedexis.com
 0.0.0.0 processingordersonline.com
 0.0.0.0 prod-cdn.chicoryapp.com
+0.0.0.0 prod-m-node-2112.nexage.com
 0.0.0.0 prodegebanners.sitegrip.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 proffigurufast.com
@@ -4125,6 +4125,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top.fadama.com
 0.0.0.0 topblock.dt07.net
+0.0.0.0 topblockchainsolutions.nl
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.eu
 0.0.0.0 toro-tags.com

@@ -1,13 +1,14 @@
 # Title: adguard-mobile-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last Converted - 13.03.2020
-# Total Domains - 34
+# Last Converted - 31.03.2020
+# Total Domains - 35
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
 
 0.0.0.0 adcs.rqmob.com
+0.0.0.0 adnxs.com
 0.0.0.0 adywind.com
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch

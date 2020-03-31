@@ -1,8 +1,8 @@
 # Title: sbc-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Converted - 13.03.2020
-# Total Domains - 802
+# Last Converted - 31.03.2020
+# Total Domains - 801
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -100,12 +100,10 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.ero-advertising.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.lk.api.ditto.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.pokki.com
-0.0.0.0 analytics.samdd.me
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 anners.ero-advertising.com
 0.0.0.0 annualconsumersurvey.com
@@ -206,6 +204,7 @@
 0.0.0.0 dats.ero-advertising.com
 0.0.0.0 datt.ero-advertising.com
 0.0.0.0 daua.ero-advertising.com
+0.0.0.0 daunteegyptian.pro
 0.0.0.0 dava.ero-advertising.com
 0.0.0.0 dawa.ero-advertising.com
 0.0.0.0 dbta.ero-advertising.com
@@ -322,6 +321,8 @@
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 manifest.localytics.com
+0.0.0.0 march262020.best
+0.0.0.0 march262020.com
 0.0.0.0 market.moonicorn.network
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 match.taboola.com
@@ -473,7 +474,6 @@
 0.0.0.0 tracking.ero-advertising.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.lenzmx.com
-0.0.0.0 tracking.miui.com
 0.0.0.0 tradersbrokers.com
 0.0.0.0 trafforsrv.com
 0.0.0.0 ttwitter.com
@@ -668,7 +668,6 @@
 0.0.0.0 www.gata.ero-advertising.com
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.goooooooooogle.com
 0.0.0.0 www.grabify.link
 0.0.0.0 www.graph.accountkit.com
 0.0.0.0 www.hata.ero-advertising.com

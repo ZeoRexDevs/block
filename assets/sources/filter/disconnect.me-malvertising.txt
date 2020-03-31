@@ -1,8 +1,8 @@
 # Title: disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 13.03.2020
-# Total Domains - 1977
+# Last Converted - 31.03.2020
+# Total Domains - 1972
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -59,7 +59,6 @@
 0.0.0.0 ad-check.disconnect.me
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
-0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
 0.0.0.0 ad-tech.com
@@ -67,7 +66,6 @@
 0.0.0.0 ad.103092804.com
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.abcnews.com
-0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
@@ -174,7 +172,6 @@
 0.0.0.0 adimages.go.com
 0.0.0.0 adimages.homestore.com
 0.0.0.0 adimg.cnet.com
-0.0.0.0 adimg.com.com
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimgs.sapo.pt
 0.0.0.0 adimpact.com
@@ -195,7 +192,6 @@
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
-0.0.0.0 adlog.com.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 adlure.net
@@ -285,7 +281,6 @@
 0.0.0.0 ads.cc
 0.0.0.0 ads.cdn.rovio.com
 0.0.0.0 ads.co.com
-0.0.0.0 ads.com.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.cybersales.cz

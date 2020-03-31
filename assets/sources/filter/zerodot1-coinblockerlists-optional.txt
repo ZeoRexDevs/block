@@ -1,8 +1,8 @@
 # Title: zerodot1-coinblockerlists-optional Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Last Converted - 13.03.2020
-# Total Domains - 439
+# Last Converted - 31.03.2020
+# Total Domains - 455
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -44,6 +44,7 @@
 0.0.0.0 api.mymonero.com
 0.0.0.0 api.prime.coinbase.com
 0.0.0.0 api.quadrigacx.com
+0.0.0.0 api.vinchain.io
 0.0.0.0 api01.ledgerwallet.com
 0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.jaxx.io
@@ -51,6 +52,7 @@
 0.0.0.0 apidocs.m.bithumb.com
 0.0.0.0 app.analytics.coinbase.com
 0.0.0.0 app.bixin.im
+0.0.0.0 app.vinchain.io
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 artus-mining.de
@@ -68,6 +70,7 @@
 0.0.0.0 bitmaintech.com
 0.0.0.0 bixin.im
 0.0.0.0 blocked.mymonero.com
+0.0.0.0 blockexplorer.vinchain.io
 0.0.0.0 blog-dev.coinbase.com
 0.0.0.0 blog-staging.coinbase.com
 0.0.0.0 blog.bitpay.com
@@ -119,7 +122,9 @@
 0.0.0.0 dev.quadrigacx.com
 0.0.0.0 dev.rockwall.investments
 0.0.0.0 dev.simplemining.net
+0.0.0.0 dev.vinchain.io
 0.0.0.0 devapi.quadrigacx.com
+0.0.0.0 devapp.vinchain.io
 0.0.0.0 developer.coinbase.com
 0.0.0.0 development.cryptopia.co.nz
 0.0.0.0 dl.bixin.im
@@ -158,6 +163,7 @@
 0.0.0.0 events-service.coinbase.com
 0.0.0.0 evergreencoin.org
 0.0.0.0 explorer.burstpay.io
+0.0.0.0 explorer.vinchain.io
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 feedback.coinmama.com
 0.0.0.0 files.a-ads.com
@@ -244,6 +250,7 @@
 0.0.0.0 name.cur.lv
 0.0.0.0 next.btc-alpha.com
 0.0.0.0 node.jwallet.network
+0.0.0.0 node.vinchain.io
 0.0.0.0 ns2.a-ads.com
 0.0.0.0 o1.em.quadrigacx.com
 0.0.0.0 o2.em.quadrigacx.com
@@ -258,6 +265,7 @@
 0.0.0.0 overflow.mycrypto.com
 0.0.0.0 p2pool.in
 0.0.0.0 parthk.co.uk
+0.0.0.0 payments.vinchain.io
 0.0.0.0 peerhash.com
 0.0.0.0 pg-relay.bithumb.com
 0.0.0.0 pool.emercoin.com
@@ -273,6 +281,7 @@
 0.0.0.0 public.sandbox.prime.coinbase.com
 0.0.0.0 push.bithumb.com
 0.0.0.0 quadrigacx.com
+0.0.0.0 quality.vinchain.io
 0.0.0.0 rbminer.net
 0.0.0.0 realtime.quadrigacx.com
 0.0.0.0 relay.coinbase.com
@@ -319,6 +328,7 @@
 0.0.0.0 test-insight.bitpay.com
 0.0.0.0 test.bitpay.com
 0.0.0.0 test.simplemining.net
+0.0.0.0 test.vinchain.io
 0.0.0.0 ticker.epic-ticker.tech
 0.0.0.0 tradewin.online
 0.0.0.0 transactions.evergreencoin.org
@@ -331,10 +341,14 @@
 0.0.0.0 upload.coinad.com
 0.0.0.0 url8362.bitpay.com
 0.0.0.0 utils.jaxx.io
+0.0.0.0 validate.vinchain.io
 0.0.0.0 ventures.coinbase.com
+0.0.0.0 verify.vinchain.io
+0.0.0.0 vinchain.io
 0.0.0.0 vip.coinmama.com
 0.0.0.0 wallet.burstpay.io
 0.0.0.0 wallet.trezor.io
+0.0.0.0 wallet.vinchain.io
 0.0.0.0 web.bixin.im
 0.0.0.0 web1.hashgains.com
 0.0.0.0 web2.hashgains.com
@@ -353,6 +367,7 @@
 0.0.0.0 ws.bixin.im
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 ws.quadrigacx.com
+0.0.0.0 wss.vinchain.io
 0.0.0.0 www.1safe.link
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.adconity.com
@@ -442,6 +457,7 @@
 0.0.0.0 www.trezor.io
 0.0.0.0 www.uclick.in
 0.0.0.0 www.upcoin.com
+0.0.0.0 www.vinchain.io
 0.0.0.0 www.whattomine.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www1.bithumb.com

@@ -1,8 +1,8 @@
 # Title: adguard-turkish-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/13.txt
-# Last Converted - 13.03.2020
-# Total Domains - 274
+# Last Converted - 31.03.2020
+# Total Domains - 272
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -104,7 +104,6 @@
 0.0.0.0 bumbook.xyz
 0.0.0.0 buzzreklam.com
 0.0.0.0 bwtsrv.com
-0.0.0.0 ca.cubecdn.net
 0.0.0.0 campaign.nmobs.com
 0.0.0.0 cdn.hiperadverts.com
 0.0.0.0 cdn.html5maker.com
@@ -168,7 +167,6 @@
 0.0.0.0 makroads.net
 0.0.0.0 makroo.kanal7-cdn.com
 0.0.0.0 mediapeartree.com
-0.0.0.0 melban3.top
 0.0.0.0 metrics34.com
 0.0.0.0 minireklam.com
 0.0.0.0 mkazanc.com
