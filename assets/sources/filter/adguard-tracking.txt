@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 06.04.2020
-# Total Domains - 2856
+# Last Converted - 07.04.2020
+# Total Domains - 2857
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -502,6 +502,7 @@
 0.0.0.0 client-api.matchinguu.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
+0.0.0.0 cloisteredcord.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloudtracer101.com
