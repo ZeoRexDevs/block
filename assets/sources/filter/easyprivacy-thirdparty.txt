@@ -1,8 +1,8 @@
 # Title: easyprivacy-thirdparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last Converted - 31.03.2020
-# Total Domains - 782
+# Last Converted - 06.04.2020
+# Total Domains - 788
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -72,6 +72,7 @@
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orenshmu.com
+0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.photorank.me
@@ -322,7 +323,6 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.sqweb.com
-0.0.0.0 engage.wixapps.net
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 event-api.contactatonce.co.uk
@@ -334,6 +334,7 @@
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
+0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
@@ -366,6 +367,7 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
+0.0.0.0 go.techtarget.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
@@ -386,6 +388,7 @@
 0.0.0.0 imagedoll.com
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
+0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 impress.vcita.com
 0.0.0.0 imprvdosrv.com
 0.0.0.0 infinityid.condenastdigital.com
@@ -562,6 +565,7 @@
 0.0.0.0 s-vop.sundaysky.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 sadv.dadapro.com
+0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sealserver.trustwave.com
@@ -765,6 +769,7 @@
 0.0.0.0 trk.cloudsna.com
 0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.pswec.com
+0.0.0.0 trk.techtarget.com
 0.0.0.0 tru.webelapp.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
@@ -772,6 +777,7 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 uid.mavencoalition.io
+0.0.0.0 users.techtarget.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com

@@ -1,8 +1,8 @@
 # Title: adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 31.03.2020
-# Total Domains - 3286
+# Last Converted - 06.04.2020
+# Total Domains - 3299
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -240,6 +240,7 @@
 0.0.0.0 adtech-digital.ru
 0.0.0.0 adtelligent.com
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adtraf.pro
 0.0.0.0 adtraff.ru
 0.0.0.0 adultpay.net
 0.0.0.0 adulttraffic.ru
@@ -468,6 +469,8 @@
 0.0.0.0 bannerd.ru
 0.0.0.0 bannerka.ua
 0.0.0.0 bannernetwork.net
+0.0.0.0 banners.adfox.net
+0.0.0.0 banners.adfox.ru
 0.0.0.0 banners.getiton.com
 0.0.0.0 banners.haqqin.az
 0.0.0.0 banners.prikol.ru
@@ -761,7 +764,6 @@
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creofive.com
 0.0.0.0 creofun.com
-0.0.0.0 criteo.net
 0.0.0.0 crpoy.com
 0.0.0.0 crutop.nu
 0.0.0.0 cshi.ru
@@ -939,6 +941,7 @@
 0.0.0.0 ensurania.com
 0.0.0.0 entimee.com
 0.0.0.0 epartner.ru
+0.0.0.0 epushclick.com
 0.0.0.0 eqfgc.com
 0.0.0.0 eqtaxag.ru
 0.0.0.0 ergs4.com
@@ -1027,6 +1030,7 @@
 0.0.0.0 fineg.pro
 0.0.0.0 firelove.ru
 0.0.0.0 firepic.org
+0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 firsttrack.ru
 0.0.0.0 fitfatdeals.com
 0.0.0.0 fjjuo.com
@@ -1100,7 +1104,6 @@
 0.0.0.0 gdeslon.ru
 0.0.0.0 gearnews.info
 0.0.0.0 gecatikonstantin.ru
-0.0.0.0 gemius.pl
 0.0.0.0 gerberka.com
 0.0.0.0 get-ads.ru
 0.0.0.0 get-click.ru
@@ -1211,8 +1214,10 @@
 0.0.0.0 haphiterton.ru
 0.0.0.0 hapket.ru
 0.0.0.0 harolmo.ru
+0.0.0.0 hbhook.com
 0.0.0.0 hdacode.com
 0.0.0.0 hdat.xyz
+0.0.0.0 hdbcode.com
 0.0.0.0 hdtracker.ru
 0.0.0.0 healthynews03.ru
 0.0.0.0 hedthertsu.pro
@@ -1366,6 +1371,7 @@
 0.0.0.0 itempana.site
 0.0.0.0 itrigra.ru
 0.0.0.0 ivanie.com
+0.0.0.0 ivnsssc.pro
 0.0.0.0 iwhha.top
 0.0.0.0 iwqzrm.com
 0.0.0.0 ixtyted.ru
@@ -1471,7 +1477,6 @@
 0.0.0.0 kokos.click
 0.0.0.0 kolest.pro
 0.0.0.0 kolet.pro
-0.0.0.0 komok.com
 0.0.0.0 kont-news.com
 0.0.0.0 kontera.com
 0.0.0.0 kontik28.ru
@@ -2207,6 +2212,7 @@
 0.0.0.0 pulse.mail.ru
 0.0.0.0 purchaseklik.ru
 0.0.0.0 purpulium.com
+0.0.0.0 pushebrod.com
 0.0.0.0 pushs.site
 0.0.0.0 pusk.ua
 0.0.0.0 putana-cz.org
@@ -2357,7 +2363,6 @@
 0.0.0.0 rotator.onokino.club
 0.0.0.0 rotator.promokrot.com
 0.0.0.0 roundfortred.ru
-0.0.0.0 rozetka.com.ua
 0.0.0.0 rrf.fat1domain1
 0.0.0.0 rs-context.ru
 0.0.0.0 rsuuc.com
@@ -2414,7 +2419,6 @@
 0.0.0.0 s.kma1.biz
 0.0.0.0 s.newsportalssl1.top
 0.0.0.0 s.sdx.ru
-0.0.0.0 s.zmctrack.net
 0.0.0.0 s1.intimshop.ru
 0.0.0.0 s1r.tut.by
 0.0.0.0 s1venus.biz
@@ -2487,6 +2491,7 @@
 0.0.0.0 sexohme.ru
 0.0.0.0 sexpalace.gs
 0.0.0.0 sfsudsf.pro
+0.0.0.0 sghmho.com
 0.0.0.0 sgolden.site
 0.0.0.0 sgood.ru
 0.0.0.0 shakeson.ru
@@ -2533,6 +2538,7 @@
 0.0.0.0 smiinform.zone
 0.0.0.0 smiinformer.online
 0.0.0.0 smiinformer1.com
+0.0.0.0 smiinformeri.online
 0.0.0.0 smilered.com
 0.0.0.0 sminewsnet.ru
 0.0.0.0 smonstr.ru
@@ -2617,6 +2623,7 @@
 0.0.0.0 suvesobezi.com
 0.0.0.0 sv-pr.ru
 0.0.0.0 sveklon.com
+0.0.0.0 svekolasg.pro
 0.0.0.0 svekolka.com
 0.0.0.0 svitnews.com
 0.0.0.0 svk-native.ru
@@ -2778,6 +2785,7 @@
 0.0.0.0 torgdom.biz
 0.0.0.0 torgnn.ru
 0.0.0.0 toroptotrab.ru
+0.0.0.0 torren.eu
 0.0.0.0 torrent-trackers.ru
 0.0.0.0 torrenthost.ru
 0.0.0.0 torshartontding.ru
@@ -2915,6 +2923,7 @@
 0.0.0.0 usr.trava.io
 0.0.0.0 usstero.com
 0.0.0.0 utarget.pro
+0.0.0.0 utimg.ru
 0.0.0.0 utraff.com
 0.0.0.0 utrehter.com
 0.0.0.0 uuaoy.com
@@ -3024,6 +3033,7 @@
 0.0.0.0 vipmest.info
 0.0.0.0 vipromo.biz
 0.0.0.0 viptizer.com
+0.0.0.0 vir70n.news
 0.0.0.0 viral-cdn.ru
 0.0.0.0 viraladnetwork.net
 0.0.0.0 virt0n.news
@@ -3166,8 +3176,10 @@
 0.0.0.0 wvghl.com
 0.0.0.0 wvzhj.com
 0.0.0.0 wwclickgo.com
+0.0.0.0 wwclickserv.club
 0.0.0.0 wwgate.ru
 0.0.0.0 wwgdwl.com
+0.0.0.0 wwopenclick.space
 0.0.0.0 wwpon365.ru
 0.0.0.0 wwsphj.com
 0.0.0.0 www0.xyz
@@ -3188,6 +3200,7 @@
 0.0.0.0 xaxaxa.ovh
 0.0.0.0 xbmhm.xyz
 0.0.0.0 xdgeph.ru
+0.0.0.0 xg2o402yyy.ru
 0.0.0.0 xiepl.com
 0.0.0.0 xkort.biz
 0.0.0.0 xlnuj.com

@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 31.03.2020
-# Total Domains - 4209
+# Last Converted - 06.04.2020
+# Total Domains - 4212
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3148,7 +3148,6 @@
 0.0.0.0 sp.thetimesherald.com
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
-0.0.0.0 sp.usatoday.com
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
 0.0.0.0 sp.wausaudailyherald.com
@@ -3188,6 +3187,7 @@
 0.0.0.0 sptag1.com
 0.0.0.0 spuriousbase.com
 0.0.0.0 spuriousstranger.com
+0.0.0.0 spxl.socy.es
 0.0.0.0 spycounter.net
 0.0.0.0 spylog.com
 0.0.0.0 spylog.ru
@@ -3483,6 +3483,7 @@
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
 0.0.0.0 tellapart.com
@@ -3624,6 +3625,7 @@
 0.0.0.0 track.gawker.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.hujiang.com
+0.0.0.0 track.ilonofficial.com
 0.0.0.0 track.leadhit.io
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.mopo.de
@@ -3638,6 +3640,7 @@
 0.0.0.0 track.pushbullet.com
 0.0.0.0 track.qcri.org
 0.0.0.0 track.recreativ.ru
+0.0.0.0 track.saygames.io
 0.0.0.0 track.securedvisit.com
 0.0.0.0 track.segmentstream.com
 0.0.0.0 track.slideshare.net

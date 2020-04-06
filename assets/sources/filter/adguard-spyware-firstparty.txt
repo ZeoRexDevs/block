@@ -1,8 +1,8 @@
 # Title: adguard-spyware-firstparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - 31.03.2020
-# Total Domains - 1075
+# Last Converted - 06.04.2020
+# Total Domains - 1076
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -750,7 +750,6 @@
 0.0.0.0 sp.thetimesherald.com
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
-0.0.0.0 sp.usatoday.com
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
 0.0.0.0 sp.wausaudailyherald.com
@@ -762,6 +761,7 @@
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spr.bild.de
 0.0.0.0 spr.welt.de
+0.0.0.0 spxl.socy.es
 0.0.0.0 ss.musthird.com
 0.0.0.0 st.top100.ru
 0.0.0.0 startrekk.flaconi.de
@@ -877,6 +877,7 @@
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 telemetry.tradingview.com
 0.0.0.0 thj.astrakhan.ru
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.meinprospekt.de

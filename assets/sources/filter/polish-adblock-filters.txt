@@ -1,8 +1,8 @@
 # Title: polish-adblock-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
-# Last Converted - 31.03.2020
-# Total Domains - 125
+# Last Converted - 06.04.2020
+# Total Domains - 126
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -50,6 +50,7 @@
 0.0.0.0 disqusads.com
 0.0.0.0 dot.wp.pl
 0.0.0.0 doubleclick.net
+0.0.0.0 drda5yf9kgz5p.cloudfront.net
 0.0.0.0 ebrokerpartner.pl
 0.0.0.0 embed.powercontent.pl
 0.0.0.0 erosyndc.com

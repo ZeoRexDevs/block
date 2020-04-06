@@ -24,12 +24,12 @@
 # Title: Energized Social Extension
 # Description: Social Sites and Apps Blocking.
 # Format: hosts
-# Version: 20.03.091
-# Release: 091
-# Entries: 7,391
+# Version: 20.04.097
+# Release: 097
+# Entries: 7,392
 # Pack Code: EX50C14L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 31 Mar 20 11:55:34
+# Updated: Mon, 06 Apr 20 15:45:09
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/social/formats/hosts
 # --------------------------------------------
 #
@@ -679,6 +679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alitui.weibo.com
 0.0.0.0 allmyfavorites.net
 0.0.0.0 allo.m.facebook.com
+0.0.0.0 allotalk.com
 0.0.0.0 allrecipes.com
 0.0.0.0 aloha-proxy-ir.aws.viber.com
 0.0.0.0 aloha.viber.com

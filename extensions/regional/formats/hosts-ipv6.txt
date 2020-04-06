@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts IPV6
-# Version: 20.03.091
-# Release: 091
-# Entries: 64,855
+# Version: 20.04.097
+# Release: 097
+# Entries: 65,140
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 31 Mar 20 11:55:38
+# Updated: Mon, 06 Apr 20 15:45:12
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -123,6 +123,7 @@ ff02::3 ip6-allhosts
 :: 03196688.com
 :: 0323wqpioutyuencsamxsd.xyz
 :: 033.com
+:: 0330vsdgdwer.xyz
 :: 0351dvd.cn
 :: 0374adc8c6a6a56.com
 :: 0377shujuhuifu.top
@@ -137,6 +138,7 @@ ff02::3 ip6-allhosts
 :: 04zl.cn
 :: 0512s.com
 :: 0516bm.com
+:: 0530hz.cn
 :: 0531kt.com
 :: 0531mnk.net
 :: 0532ci.com.cn
@@ -177,6 +179,7 @@ ff02::3 ip6-allhosts
 :: 0851ok.com
 :: 0879dbbeb31e0c83d.com
 :: 0885.net
+:: 08a14e37bb.com
 :: 08b72e4833486d.com
 :: 090051982103b828de61.date
 :: 0916video.ru
@@ -406,6 +409,7 @@ ff02::3 ip6-allhosts
 :: 12648afd00d93.com
 :: 1298bab69bbc4.com
 :: 129ji7ymdw.com
+:: 12cdee5830.com
 :: 12cpm.com
 :: 12dc71b7cb820f2a.com
 :: 12ffa915d500a.com
@@ -881,6 +885,7 @@ ff02::3 ip6-allhosts
 :: 2tdsprofit.in
 :: 2tlr.info
 :: 2town.net
+:: 2tpwcqot22mb.com
 :: 2txt.cc
 :: 2under.ru
 :: 2v0ni.cn
@@ -1023,6 +1028,7 @@ ff02::3 ip6-allhosts
 :: 38taobao.com
 :: 38ursg.cn
 :: 392a50219df6.com
+:: 394b8b41ac5305d.com
 :: 395e27cfc83ea88f.com
 :: 396club.co
 :: 3975lm.com
@@ -1067,6 +1073,7 @@ ff02::3 ip6-allhosts
 :: 3dqiang.com
 :: 3dwwwgame.com
 :: 3e35c218b3d623dde.com
+:: 3e53df6c390.com
 :: 3e612a08c1e4ad1c7.com
 :: 3e61gdwn1r.com
 :: 3el-3el-fie.com
@@ -1130,6 +1137,7 @@ ff02::3 ip6-allhosts
 :: 400c883bf5448b1.com
 :: 407433bfc441.com
 :: 40ceexln7929.com
+:: 40ic.cn
 :: 40xbfzk8.com
 :: 4141d006e4f4dd17ab9.com
 :: 415daa520.com
@@ -1254,6 +1262,7 @@ ff02::3 ip6-allhosts
 :: 4ojwnsgub2.com
 :: 4onqfs7iv4.com
 :: 4paradigm.com
+:: 4prgkoj870j9.com
 :: 4py3oe.cn
 :: 4qn1k.cn
 :: 4rm.de
@@ -1496,6 +1505,7 @@ ff02::3 ip6-allhosts
 :: 643226.com
 :: 643b1a992699355.com
 :: 644446.com
+:: 645yvcj6c8rn.com
 :: 64aa81cd247ea32d.com
 :: 64b8ff0e76975d3d63.com
 :: 64p3am9x95ct.com
@@ -1889,6 +1899,7 @@ ff02::3 ip6-allhosts
 :: 8761f9f83613.com
 :: 877ky.com
 :: 87ac592346b5a.com
+:: 87gw0fl0rc11.com
 :: 87joojin3fb.ru
 :: 87uq.com
 :: 8800271.com.cn
@@ -1980,6 +1991,7 @@ ff02::3 ip6-allhosts
 :: 8test.ru
 :: 8testov.ru
 :: 8ucdn.com
+:: 8ue4.xyz
 :: 8ue9q7i.com
 :: 8utmmi.xyz
 :: 8v61j.cn
@@ -2016,6 +2028,7 @@ ff02::3 ip6-allhosts
 :: 929a6f82280b7f.com
 :: 92c9b72955e2.com
 :: 92ec94d51076357.com
+:: 933aaa9228923a.com
 :: 93453074ab3e3.com
 :: 9376ec23d50b1.com
 :: 9377aa.com
@@ -2043,6 +2056,7 @@ ff02::3 ip6-allhosts
 :: 9526s7bwd0.com
 :: 95558000.com
 :: 958so.cn
+:: 9596yy.com
 :: 95a44ebca8b1abc20.com
 :: 95p2.com
 :: 95p5qep4aq.com
@@ -2476,6 +2490,7 @@ ff02::3 ip6-allhosts
 :: abgeobalancer.com
 :: abgligarchan.com
 :: abie10.top
+:: abie9.top
 :: abjusouft.com
 :: ableday.com
 :: ablehed.pro
@@ -2634,6 +2649,7 @@ ff02::3 ip6-allhosts
 :: actu-quotidien.net
 :: actuallysheep.com
 :: actualtrade.eu
+:: actuanius.com
 :: acuityplatform.com
 :: acv5e.cn
 :: acvxsptoqh.com
@@ -3209,6 +3225,8 @@ ff02::3 ip6-allhosts
 :: adfill.me
 :: adflake.com
 :: adflazz.com
+:: adflex.vn
+:: adfly.vn
 :: adfoitjumerzge.com
 :: adfonic.net
 :: adfootprints.com
@@ -3665,7 +3683,6 @@ ff02::3 ip6-allhosts
 :: adpick.co.kr
 :: adpicker.net
 :: adpile.net
-:: adpingpong1.co.kr
 :: adpinion.com
 :: adpionier.de
 :: adpix.ru
@@ -3808,6 +3825,7 @@ ff02::3 ip6-allhosts
 :: ads.8live.com
 :: ads.ad2iction.com
 :: ads.adasiaholdings.com
+:: ads.adflex.vn
 :: ads.adfox.ru
 :: ads.admarvel.com
 :: ads.adxadserv.com
@@ -4286,6 +4304,7 @@ ff02::3 ip6-allhosts
 :: adtrack01.com
 :: adtracking.asia
 :: adtraction.com
+:: adtraf.pro
 :: adtraff.ru
 :: adtraffic.pl
 :: adtrafic.com
@@ -4350,6 +4369,7 @@ ff02::3 ip6-allhosts
 :: adv-plus.com
 :: adv-sv-show.focus.cn
 :: adv-views.com
+:: adv.adflex.vn
 :: adv.admicro.vn
 :: adv.baotintuc.vn
 :: adv.bokra.net
@@ -4699,11 +4719,13 @@ ff02::3 ip6-allhosts
 :: aff-ads.com
 :: aff-jp.dxlive.com
 :: aff-online.com
+:: aff.adflex.vn
 :: aff.biz
 :: aff.bstatic.com
 :: aff.camplace.com
 :: aff.eteachergroup.com
 :: aff.marathonbet.com
+:: aff.mclick.mobi
 :: aff.mediarotate.com
 :: aff201868865.com
 :: affairexcuses.com
@@ -4967,6 +4989,7 @@ ff02::3 ip6-allhosts
 :: agxclick.com
 :: agyak.com
 :: agzfxovg.com
+:: agzlxyylf.com
 :: agzxj8990.com
 :: ah8asl94hs.com
 :: ahanve.cn
@@ -5116,6 +5139,7 @@ ff02::3 ip6-allhosts
 :: aj1913.online
 :: aj1939.online
 :: aj2041.online
+:: aj2073.online
 :: ajagrofy.com
 :: ajangiklangratis.com
 :: ajansblue.net
@@ -5203,6 +5227,7 @@ ff02::3 ip6-allhosts
 :: albireo.xyz
 :: alchemysocial.com
 :: alcidebrought.pro
+:: alcreasalcon.info
 :: aldam3h.com
 :: aldaobpuhvl.com
 :: aleaidass.site
@@ -5701,9 +5726,11 @@ ff02::3 ip6-allhosts
 :: aosztecuq.com
 :: aoukclebpcb.com
 :: aovajfmsy.com
+:: aowmaijlvxdcs.com
 :: aoyinn.com
 :: ap-jam.com
 :: ap.ad-feed.com
+:: ap.adflex.vn
 :: ap.delfi.ee
 :: ap.smardroid.com
 :: apanet.net
@@ -5734,6 +5761,7 @@ ff02::3 ip6-allhosts
 :: api.ad.xiaomi.com
 :: api.adbro.me
 :: api.adflake.com
+:: api.adfly.vn
 :: api.adintext.net
 :: api.ads.watchabc.go.com
 :: api.adsplay.xyz
@@ -5807,6 +5835,7 @@ ff02::3 ip6-allhosts
 :: apjiangte.com
 :: apk-download-free.com
 :: apk-download-market.com
+:: apk.adflex.vn
 :: apkdo.com
 :: aplfkrppjsutf.com
 :: apm.adasiaholdings.com
@@ -6061,7 +6090,9 @@ ff02::3 ip6-allhosts
 :: art-family.pro
 :: artamkari.com
 :: artampbob.site
+:: artandand.online
 :: artantash.club
+:: artapeare.site
 :: artbanner.com.ua
 :: artbr.net
 :: artbreat.com
@@ -6172,6 +6203,7 @@ ff02::3 ip6-allhosts
 :: aspampbrr.online
 :: aspanyarc.club
 :: asparmany.site
+:: aspartbib.site
 :: aspartbus.site
 :: aspaskaim.club
 :: asperencium.com
@@ -6244,6 +6276,7 @@ ff02::3 ip6-allhosts
 :: atemda.com
 :: aterroppop.com
 :: atesbrothereso.info
+:: atherenoth.info
 :: athingcatedrestori.info
 :: ati30re4.ru
 :: aties.info
@@ -6335,6 +6368,7 @@ ff02::3 ip6-allhosts
 :: aurdosti.com
 :: auredzeon.com
 :: aurhgaees.com
+:: aurtooks.com
 :: ausagauw.net
 :: auspiciousvp.com
 :: auspipe.com
@@ -6357,6 +6391,7 @@ ff02::3 ip6-allhosts
 :: autocentre.ua
 :: autocontext.begun.ru
 :: autodengi.com
+:: autofaucets.org
 :: automatad.com
 :: automatedtraffic.com
 :: automateyourlist.com
@@ -6429,6 +6464,7 @@ ff02::3 ip6-allhosts
 :: awaps.net
 :: awaps.yandex.ru
 :: award.sitekeuring.net
+:: away-stay.com
 :: awcpmsaiv.com
 :: awdigit.info
 :: awebanner.net
@@ -6841,6 +6877,7 @@ ff02::3 ip6-allhosts
 :: ban.xxxvid.ru
 :: ban.zab.ru
 :: banacity.gasuki.com
+:: banalbjar.com
 :: banalyze.net
 :: banamau.com
 :: banamertur.com
@@ -6865,6 +6902,7 @@ ff02::3 ip6-allhosts
 :: banianspaddi.info
 :: banizi.com
 :: banjuanmao.com
+:: bank-cab.ru
 :: bankier.pl
 :: bankoved.com
 :: banman.isoftmarketing.com
@@ -6944,6 +6982,7 @@ ff02::3 ip6-allhosts
 :: bannerrage.com
 :: banners-gallery.coccoc.com
 :: banners-slb.mobile.yandex.net
+:: banners.adfox.net
 :: banners.adfox.ru
 :: banners.admicro.vn
 :: banners.adnetmedia.ee
@@ -7019,6 +7058,7 @@ ff02::3 ip6-allhosts
 :: baogia.vads.vn
 :: baolic.com
 :: baolutongwuye.cn
+:: baomeidiaosu.cn
 :: baon-shop.ru
 :: baover-vdo.com
 :: baover.ml
@@ -7027,6 +7067,7 @@ ff02::3 ip6-allhosts
 :: bapaquac.com
 :: baphruesqm.com
 :: bapkt.com
+:: bapres.cn
 :: barabanimira.ru
 :: barbarisnews.ru
 :: barberz.ru
@@ -7126,9 +7167,11 @@ ff02::3 ip6-allhosts
 :: bbuni.com
 :: bbuyirgucsbfwt.com
 :: bbvc2.com
+:: bbvdd.com
 :: bbvever.com
 :: bbvjs.com
 :: bbxaumvpzqpunx.com
+:: bbyhjamzpkenvm.com
 :: bbzcg.com
 :: bc-news.ru
 :: bc.coupons.com
@@ -7207,6 +7250,7 @@ ff02::3 ip6-allhosts
 :: bdbdqkkibb.com
 :: bdbdqkxkdb.com
 :: bdbdqndkdb.com
+:: bdbdqndkib.com
 :: bdbdqnxkdb.com
 :: bdbdqnxkib.com
 :: bdbdqqdkdb.com
@@ -7402,6 +7446,7 @@ ff02::3 ip6-allhosts
 :: beserte.pro
 :: beseva.ru
 :: besguses.pro
+:: besiasmere.site
 :: besplodstop.ru
 :: best-buy24.biz
 :: best-deals-products.com
@@ -8160,6 +8205,7 @@ ff02::3 ip6-allhosts
 :: bop-bop-bam.com
 :: boplhfqz.com
 :: bopohsage.com
+:: bopvetgel.com
 :: boqdapoiv.com
 :: boratestfishke.info
 :: borazita.com
@@ -8263,6 +8309,7 @@ ff02::3 ip6-allhosts
 :: brandomatic.ru
 :: brandreachsys.com
 :: brassrule.com
+:: brassstacker.com
 :: brat-online.ro
 :: bratuxaborcuxa.ru
 :: braun634.com
@@ -8537,6 +8584,7 @@ ff02::3 ip6-allhosts
 :: buy-traffic.org
 :: buy404s.com
 :: buybox.click
+:: buydee.org
 :: buyeasy.by
 :: buyflood.com
 :: buylnk.com
@@ -8763,6 +8811,7 @@ ff02::3 ip6-allhosts
 :: c704655a9050bdcc.com
 :: c712236afa001382be31.date
 :: c71a045530f0c1c8.com
+:: c74df06d52c9da686f17.com
 :: c75b9ac5103e5d125b8.com
 :: c7d470df880b1d0.com
 :: c8.net.ua
@@ -9129,6 +9178,7 @@ ff02::3 ip6-allhosts
 :: cddn.ru
 :: cdegnloptetj.com
 :: cdfgdafijhcbjejeabf.ru
+:: cdfr.hot4k.org
 :: cdfzcz.com
 :: cdgfa.ifeng.com
 :: cdgxq.com
@@ -9165,6 +9215,7 @@ ff02::3 ip6-allhosts
 :: cdn.adblade.com
 :: cdn.adbro.me
 :: cdn.adclerks.com
+:: cdn.adflex.vn
 :: cdn.adk2.com
 :: cdn.admixer.net
 :: cdn.adnuntius.com
@@ -9207,6 +9258,7 @@ ff02::3 ip6-allhosts
 :: cdn.m.ambientplatform.vn
 :: cdn.malokacha.club
 :: cdn.masoffer.net
+:: cdn.mclick.mobi
 :: cdn.mdigital.co.il
 :: cdn.mediaessence.net
 :: cdn.midas-network.com
@@ -9267,6 +9319,7 @@ ff02::3 ip6-allhosts
 :: cdn1.pebx.pl
 :: cdn1.rungrinh.vn
 :: cdn1.tvzhe.com
+:: cdn2.adflex.vn
 :: cdn2.at.ua
 :: cdn2.auditude.com
 :: cdn3.at.ua
@@ -9316,6 +9369,7 @@ ff02::3 ip6-allhosts
 :: cdnrl.com
 :: cdns.lodeo.io
 :: cdnserv.pw
+:: cdnstoremedia.com
 :: cdnstream1.ru
 :: cdntlz.cn
 :: cdntraffic.com
@@ -9477,6 +9531,7 @@ ff02::3 ip6-allhosts
 :: cgcukmix.com
 :: cghc87.cn
 :: cgjbizumzm.com
+:: cgjfanun12on.com
 :: cgjyesqhxzzm.com
 :: cgkeasqkzfpepr.com
 :: cgkhqjuwfle.com
@@ -9708,6 +9763,7 @@ ff02::3 ip6-allhosts
 :: chuangyixi.com
 :: chuantu.biz
 :: chucity.com
+:: chudoiog.info
 :: chufudsi.net
 :: chugagre.com
 :: chuhanweb.com
@@ -9716,6 +9772,7 @@ ff02::3 ip6-allhosts
 :: chukalorqa.com
 :: chupa.mobi
 :: churccivic.com
+:: churchasisou.site
 :: chushoushijian.cn
 :: chutangpu.cn
 :: chuvashskoe.ru
@@ -10114,6 +10171,8 @@ ff02::3 ip6-allhosts
 :: cloudfastads.ru
 :: cloudflame.co.il
 :: cloudflane.com
+:: cloudfront.adflex.vn
+:: cloudfront.mclick.mobi
 :: cloudiiv.com
 :: cloudinary.com
 :: cloudioo.net
@@ -10289,6 +10348,7 @@ ff02::3 ip6-allhosts
 :: coenr.com
 :: coepzyavjda.com
 :: cofybuwuc.com
+:: cogleapad.com
 :: cogocast.net
 :: cogsdigital.com
 :: coguan.com
@@ -10345,6 +10405,7 @@ ff02::3 ip6-allhosts
 :: collector.brandify.com
 :: collector.viki.io
 :: collectpush.com
+:: collectrom.com
 :: colledin.com
 :: colleduny.info
 :: collegiumvita.ru
@@ -10686,6 +10747,7 @@ ff02::3 ip6-allhosts
 :: cp9t71b6ip.com
 :: cpa-offer.com
 :: cpa-system.ru
+:: cpa-tracking.mclick.mobi
 :: cpa.legalaxy.com
 :: cpa1.xyz
 :: cpa6.ru
@@ -10737,6 +10799,7 @@ ff02::3 ip6-allhosts
 :: cperformmedia-a.akamaihd.net
 :: cpfclassifieds.com
 :: cpgweb.net
+:: cpi.adflex.vn
 :: cpiyz.com
 :: cpl1.ru
 :: cpl11.ru
@@ -10772,6 +10835,7 @@ ff02::3 ip6-allhosts
 :: cpmterra.com
 :: cpmtree.com
 :: cpmwizard.com
+:: cpo.adflex.vn
 :: cppgf.com
 :: cppnznmorh.com
 :: cprekl.com
@@ -10887,6 +10951,7 @@ ff02::3 ip6-allhosts
 :: crheaeqw.com
 :: crhvyali.com
 :: crickwrite.com
+:: crimentasaju.site
 :: criminglynuk.pro
 :: crimpy-baboon.eu
 :: crispads.com
@@ -11057,6 +11122,7 @@ ff02::3 ip6-allhosts
 :: cttghjfhsw.com
 :: cttnlnsnwdokqb.com
 :: cttwfmsx.com
+:: ctureperform.info
 :: ctx-traffic.com
 :: ctx.inin.ro
 :: ctyzd.com
@@ -11312,6 +11378,7 @@ ff02::3 ip6-allhosts
 :: d141wsrw9m4as6.cloudfront.net
 :: d144jmuhz9kvbq.cloudfront.net
 :: d145tbca0156xf.cloudfront.net
+:: d14821r0t3377v.cloudfront.net
 :: d14emrg9.com
 :: d14jnbmekseru6.cloudfront.net
 :: d14nx4uiqzwnqt.cloudfront.net
@@ -11568,6 +11635,7 @@ ff02::3 ip6-allhosts
 :: d2xsy1lxezptdm.cloudfront.net
 :: d2xxqqn3tj9nf3.cloudfront.net
 :: d2yjxa7gi6wm99.cloudfront.net
+:: d2ykons4g8jre6.cloudfront.net
 :: d2ymkpxi1rgldj.cloudfront.net
 :: d2yyf02s9xqns0.cloudfront.net
 :: d2yzlvmgs67bxt.cloudfront.net
@@ -12106,7 +12174,9 @@ ff02::3 ip6-allhosts
 :: ddomm.com
 :: ddp5e34airtsp.cloudfront.net
 :: ddpxhq.cn
+:: ddvbjehruuj5y.cloudfront.net
 :: ddvfoj5yrl2oi.cloudfront.net
+:: ddvqjnbt.com
 :: ddzfjyppcbv.com
 :: de-ads.de
 :: de-mi-nis-ner.info
@@ -12169,6 +12239,7 @@ ff02::3 ip6-allhosts
 :: defaultdsp.contineljs.com
 :: defaultimg.com
 :: defeatural.com
+:: definitedikdra.site
 :: definitial.com
 :: defiru.com
 :: defpush.com
@@ -12216,6 +12287,7 @@ ff02::3 ip6-allhosts
 :: delivery.vtcnew.com.vn
 :: delivery.vungtv.com
 :: delivery.wasu.cn
+:: delivery.yeah1media.vn
 :: delivery.yomedia.vn
 :: delivery1.lavanetwork.net
 :: delivery2.lavanetwork.net
@@ -12253,6 +12325,7 @@ ff02::3 ip6-allhosts
 :: demo.pinetech.vn
 :: demo.yomedia.vn
 :: demobl.cityads.com
+:: demopage.me
 :: demoreklama.net.ua
 :: demos.mangoads.vn
 :: denetsuk.com
@@ -12327,6 +12400,7 @@ ff02::3 ip6-allhosts
 :: deuqpxrht.com
 :: dev-desk.adasiaholdings.com
 :: dev-payment.rungrinh.vn
+:: dev.adflex.vn
 :: dev.email-analytics.admicro.vn
 :: dev.mangoads.vn
 :: dev.mobilead.vn
@@ -12510,6 +12584,7 @@ ff02::3 ip6-allhosts
 :: digiad.co
 :: digiads.co.id
 :: digiads.tv
+:: digiadzone.com
 :: diginamis.com
 :: digipathmedia.com
 :: digiseller.ru
@@ -12820,6 +12895,7 @@ ff02::3 ip6-allhosts
 :: dmxxa.com
 :: dmym.aixyy.com
 :: dmypkmieippdq.com
+:: dn.adflex.vn
 :: dn189.com
 :: dn3uy6cx65ujf.cloudfront.net
 :: dnbizcdn.com
@@ -12840,8 +12916,6 @@ ff02::3 ip6-allhosts
 :: dnpehliwdvjkp.com
 :: dnr51y6xj4.com
 :: dnrywryy.com
-:: dns.ladipage.com
-:: dns.ladipage.vn
 :: dns.novaonx.com
 :: dns21.ru
 :: dnsapimzlvmcis.com
@@ -12931,6 +13005,7 @@ ff02::3 ip6-allhosts
 :: domnovrek.com
 :: domo-zond.ru
 :: dompegho.net
+:: domslc.com
 :: donager.xyz
 :: donalise.com
 :: donavits.pro
@@ -13023,6 +13098,9 @@ ff02::3 ip6-allhosts
 :: dowages.com
 :: dowerly.com
 :: down-news-games.ru
+:: down.us2.mclick.mobi
+:: down140.mclick.mobi
+:: down141.mclick.mobi
 :: down1oads.com
 :: downads.com
 :: downanddirty.xyz
@@ -13031,6 +13109,7 @@ ff02::3 ip6-allhosts
 :: download-pic.com
 :: download.350.com
 :: download.jword.jp
+:: download.mclick.mobi
 :: download.mediaplay.ru
 :: download366.net
 :: downloadamigo.com
@@ -13174,6 +13253,7 @@ ff02::3 ip6-allhosts
 :: drxrc.com
 :: drycle.ru
 :: drydoclei.club
+:: dryzapsol.com
 :: drzndwmqrgra.com
 :: ds.polyad.net
 :: ds02gfqy6io6i.cloudfront.net
@@ -13201,7 +13281,6 @@ ff02::3 ip6-allhosts
 :: dsjyjj.cn
 :: dskrt.net
 :: dskyseconomic.info
-:: dsmartvietnam.com
 :: dsmxwgmkj.com
 :: dsn-cdn.ru
 :: dsn-fishki.ru
@@ -13320,6 +13399,7 @@ ff02::3 ip6-allhosts
 :: dustin5043.fr
 :: dustumbs.pro
 :: dutatoto.com
+:: dutinf.com
 :: dutrmedi.ru
 :: duusuu.com
 :: duvyu.com
@@ -13569,6 +13649,7 @@ ff02::3 ip6-allhosts
 :: e7e776c1a8bf677.com
 :: e7is2u38.top
 :: e85440ec98f04725.com
+:: e860045edaecd.com
 :: e8934fbbed0495.com
 :: e8dcdcd1ddcb352b.com
 :: e9377f.com
@@ -13740,8 +13821,10 @@ ff02::3 ip6-allhosts
 :: eclkmpsa.com
 :: eclkspbn.com
 :: eclkspsa.com
+:: ecm.adflex.vn
 :: ecma.bdimg.com
 :: ecmb.bdimg.com
+:: ecn.adflex.vn
 :: eco.2t4fe.xyz
 :: ecoagronom.ru
 :: ecompics.power.oho.lv
@@ -14056,6 +14139,7 @@ ff02::3 ip6-allhosts
 :: elle.alljournal.ru
 :: ellisvillehillsboro.com
 :: elmenor.xyz
+:: elmfnadgg.com
 :: elmoswanville.com
 :: elnpe.com
 :: eloer.cn
@@ -14131,6 +14215,7 @@ ff02::3 ip6-allhosts
 :: enclasmodifyt.info
 :: enclosely.info
 :: encoding.ovh
+:: encogcfklrcpqw.com
 :: encountryf.pro
 :: encoursejaso.site
 :: encruses.com
@@ -14240,6 +14325,7 @@ ff02::3 ip6-allhosts
 :: epeex.io
 :: epesogtigole.com
 :: epexcjdkzcl.com
+:: epfcfhtjxqd.com
 :: ephtwbxuqy.com
 :: epi0tzwi.com
 :: epicgameads.com
@@ -14809,6 +14895,7 @@ ff02::3 ip6-allhosts
 :: f1.zaojv.com
 :: f1190.com
 :: f11w.com
+:: f1288404ece4.com
 :: f166d08ccce8e77b.com
 :: f18a35cc33ee29a.com
 :: f1tbit.com
@@ -14932,11 +15019,13 @@ ff02::3 ip6-allhosts
 :: faltuwap.com
 :: fam-ad.com
 :: family-joy.com
+:: famountsuref.site
 :: famouscertainchannel.com
 :: fanat.kz
 :: fanaticalfly.com
 :: fanbangho.com
 :: fanbongda.com
+:: fancialeldak.site
 :: fancybar.net
 :: fancyblogz.com
 :: fandelcot.com
@@ -14984,6 +15073,7 @@ ff02::3 ip6-allhosts
 :: fastbtc.net
 :: fastclick.net
 :: fastcpm.ru
+:: fastdld.com
 :: fastmap33.com
 :: fastmoment.ru
 :: fastpicc.ru
@@ -15014,6 +15104,7 @@ ff02::3 ip6-allhosts
 :: fawhuksy.com
 :: faxqaaawyb.com
 :: faxso.ru
+:: fay.chat
 :: faykdrhpo.com
 :: fazoumee.net
 :: fb-plus.com
@@ -15023,6 +15114,7 @@ ff02::3 ip6-allhosts
 :: fbaot.com
 :: fbb8a7d231b1867a.com
 :: fbbamvq2fdinvtx.ru
+:: fbbkavxqzy.com
 :: fbbvjxh3fcjqiyk.ru
 :: fbcdn2.com
 :: fbcjk.com
@@ -15378,6 +15470,7 @@ ff02::3 ip6-allhosts
 :: firefoxprotect.me
 :: firelove.ru
 :: firepic.org
+:: firm.bidtizadd.ru
 :: firmprotectedlinked.com
 :: firrectly.top
 :: first-rate.com
@@ -15571,6 +15664,7 @@ ff02::3 ip6-allhosts
 :: fmxnlkoaf.com
 :: fnbsrxtemj.com
 :: fncash.com
+:: fncdev.in.ua
 :: fncnet1.com
 :: fndvovywrtghk.com
 :: fne9ez3lpqt.info
@@ -15856,6 +15950,7 @@ ff02::3 ip6-allhosts
 :: frenchcrunch.com
 :: frenchequal.pro
 :: frenchfriendfinder.com
+:: frequestabure.site
 :: frereadayobq.com
 :: fresh-video.com
 :: fresh8.co
@@ -15893,6 +15988,7 @@ ff02::3 ip6-allhosts
 :: front99.com
 :: frostbone.playground.ru
 :: frostedcaramilk.com
+:: frpguidmetp.com
 :: frprn.com
 :: frqmnrlqk.com
 :: frrtrr.banggirls.ru
@@ -15943,6 +16039,7 @@ ff02::3 ip6-allhosts
 :: fsphhbsklawjs.com
 :: fspicbawd.com
 :: fsqknqvlngde.com
+:: fsrdrurl.com
 :: fst360.com
 :: fstaw.com
 :: fstsrv.com
@@ -16300,6 +16397,7 @@ ff02::3 ip6-allhosts
 :: galkama.info
 :: galleries.videosz.com
 :: gallery.adtima.vn
+:: gallery.yeah1media.vn
 :: galleyn.com
 :: galumbor.com
 :: gamacp.pro
@@ -16478,6 +16576,7 @@ ff02::3 ip6-allhosts
 :: gdbhmiyly.com
 :: gdbly.com
 :: gdbmpwlhf.com
+:: gdcuixkjhnmot.com
 :: gdczbvckwjafu.com
 :: gddrio.com
 :: gdeih.com
@@ -17369,6 +17468,7 @@ ff02::3 ip6-allhosts
 :: graphli.net
 :: gratis-neuken.com
 :: gratisnetwork.com
+:: grattis.ru
 :: gratuit.niloo.fr
 :: graucoay.net
 :: graunada.com
@@ -17491,6 +17591,7 @@ ff02::3 ip6-allhosts
 :: grupoemidia.com.br
 :: grupoli.ru
 :: gruponn.com
+:: grushashuka.pro
 :: grxzcfdcxu.com
 :: grykuutktgaun.com
 :: gs307.com
@@ -17588,6 +17689,7 @@ ff02::3 ip6-allhosts
 :: gumdeqjzclc.com
 :: gumgo.cn
 :: gumgum.com
+:: gumk.pro
 :: guncelleme.online
 :: gunimalpengu.com
 :: gunmi.cn
@@ -17635,6 +17737,7 @@ ff02::3 ip6-allhosts
 :: gwjmznxk.com
 :: gwohimtyhbthg.com
 :: gwovohvkzay.com
+:: gwpjvfqeui.com
 :: gwucenxvmkowap.com
 :: gwudu.com
 :: gwwzlwibbws.com
@@ -17651,6 +17754,7 @@ ff02::3 ip6-allhosts
 :: gxklsftz.cn
 :: gxkyl.com
 :: gxleeixyzlaaab.com
+:: gxmjjxyyljtyf.com
 :: gxordgtvjr.com
 :: gxpijskyqwqfjw.com
 :: gxptetvbtkfj.com
@@ -18030,6 +18134,7 @@ ff02::3 ip6-allhosts
 :: headup.com
 :: headwell.cn
 :: healcheck.adpia.vn
+:: healmsuoguurd.eu
 :: health-official.com
 :: health-official.ru
 :: health-q.ru
@@ -18053,6 +18158,7 @@ ff02::3 ip6-allhosts
 :: heberparis23.com
 :: hebhec.cn
 :: hebiichigo.com
+:: hebkb.cn
 :: hebzycw.com
 :: hecaningar.ru
 :: hechaocheng.cn
@@ -18231,6 +18337,7 @@ ff02::3 ip6-allhosts
 :: hhffiibyamkvyu.com
 :: hhhhbf.com
 :: hhit.xyz
+:: hhjkl.cc
 :: hhleomgyiruth.com
 :: hhlrnfmn.com
 :: hhly88.com
@@ -18506,6 +18613,7 @@ ff02::3 ip6-allhosts
 :: hnikna.ru
 :: hnixr.com
 :: hnkuangshan.cn
+:: hnlsyandeos.com
 :: hnlvld1crehqne.ru
 :: hnnp4ixxkl.com
 :: hnntopkvrsivwc.com
@@ -18533,6 +18641,7 @@ ff02::3 ip6-allhosts
 :: hodkiewicz.net
 :: hodkiewicz.org
 :: hoegutvie.com
+:: hoemasfat.site
 :: hofraxopw.com
 :: hoghqjddg.com
 :: hogylomirfc.com
@@ -18786,6 +18895,7 @@ ff02::3 ip6-allhosts
 :: hsbrhnkgkx.com
 :: hsgatgymg.com
 :: hshcspczsaa.com
+:: hskczbmm.com
 :: hskj.net
 :: hsllwumsezanll.com
 :: hslyqs.com
@@ -18944,6 +19054,7 @@ ff02::3 ip6-allhosts
 :: hxjuumufsei.com
 :: hxlif.com
 :: hxmtwz3cffemjy.ru
+:: hxnamjcrawpe.com
 :: hxnbotlkxpkyt.com
 :: hxnzyy.com
 :: hxqdddqnuqcwe.com
@@ -19396,6 +19507,7 @@ ff02::3 ip6-allhosts
 :: iigushi.com
 :: iilrgkor.com
 :: iimueeipaitpb.com
+:: iiripeedqfj.com
 :: iisfpzkkxkz.com
 :: iiutq.xyz
 :: iizgpusp.com
@@ -19520,13 +19632,16 @@ ff02::3 ip6-allhosts
 :: imads.rediff.com
 :: imagans.com
 :: image-rentracks.com
+:: image-static.adflex.vn
 :: image.cecash.com
 :: image.dhgate.com
 :: image.jimcdn.com
 :: image.nsk-sys.com
 :: image.qndown.com
 :: image.sector.sk
+:: image.static.adflex.vn
 :: image2you.ru
+:: image3.static.adflex.vn
 :: image325.ru
 :: imageadnet.com
 :: imageadvantage.net
@@ -19617,6 +19732,7 @@ ff02::3 ip6-allhosts
 :: img16.diyifanwen.com
 :: img2.titan007.com
 :: img3.126.net
+:: img50.pingguolv.com
 :: img599.net
 :: img80.net
 :: img999.com
@@ -19624,6 +19740,7 @@ ff02::3 ip6-allhosts
 :: imgadult.com
 :: imgbum.net
 :: imgbus.com
+:: imgc.sythe.org
 :: imgcache.sythe.org
 :: imgchr.com
 :: imgdew.pw
@@ -20125,6 +20242,7 @@ ff02::3 ip6-allhosts
 :: iqsns.top
 :: iqtygxmjgbakm.com
 :: iqu-operation.com
+:: iquyclpvbx.com
 :: iqwrmwssizr.com
 :: iqyirwfzlx.com
 :: iqyxvcqns.com
@@ -20297,7 +20415,9 @@ ff02::3 ip6-allhosts
 :: ivideosmart.com
 :: ivism.org
 :: ivitrine.buscape.com
+:: ivjkdyrjjgxhch.com
 :: ivkfuasf.com
+:: ivnsssc.pro
 :: ivoophie.net
 :: ivowhzku.com
 :: ivqvzkwedcjo.com
@@ -20463,6 +20583,7 @@ ff02::3 ip6-allhosts
 :: jarvinzo.com
 :: jasaiklan.com
 :: jasjus.net
+:: jaskolski.biz
 :: jasmin.com
 :: jasonsvid.com
 :: jattepush.com
@@ -21024,6 +21145,7 @@ ff02::3 ip6-allhosts
 :: jqamhmztnukb.com
 :: jqanygfhqne.com
 :: jqcv28q.com
+:: jqdkoslwjtn.com
 :: jqfjrjka5t.top
 :: jqgblwjfvox.com
 :: jqk72ugyl2pz.com
@@ -21404,6 +21526,7 @@ ff02::3 ip6-allhosts
 :: k8s.dable.io
 :: k8yy.tv
 :: k99.cc
+:: k9movie.com
 :: k9wi2d.cn
 :: k9x.net
 :: ka04b.com
@@ -21461,6 +21584,7 @@ ff02::3 ip6-allhosts
 :: kamradamnaradost.ru
 :: kan8.xyz
 :: kaneki-ken.ru
+:: kanfaxing.com
 :: kanghuaixin.cn
 :: kanjiaqun.cn
 :: kanoodle.com
@@ -21507,6 +21631,7 @@ ff02::3 ip6-allhosts
 :: kbdstwnruc.com
 :: kbgyxsoskilli.com
 :: kbhaxxsiucgnek.com
+:: kbifqgyugzo.com
 :: kbkvptlxijafb.com
 :: kbmwlbwwwp.com
 :: kbnetworkz.s3.amazonaws.com
@@ -21725,6 +21850,7 @@ ff02::3 ip6-allhosts
 :: kieecarfftwf.com
 :: kiees.com
 :: kiejztfpkfayak.com
+:: kiemtien.adflex.vn
 :: kifxgosycvxplk.com
 :: kikaltiw.com
 :: kiki.ykjmy.com
@@ -21942,6 +22068,7 @@ ff02::3 ip6-allhosts
 :: kmnjdcrcfhu.com
 :: kmpcmafvqf.com
 :: kmpxgnnoom.com
+:: kmqkdhqaqt.com
 :: kmrnkjer.xyz
 :: kmrnnqjfjjp.com
 :: kmvupiadkzdn.com
@@ -21969,6 +22096,7 @@ ff02::3 ip6-allhosts
 :: knpbefvk.com
 :: knqjhdkndh.com
 :: knstats.com
+:: kntswafuos.com
 :: knvhqxpt.com
 :: knwfmpvtj.com
 :: knwmou.ru
@@ -22006,6 +22134,7 @@ ff02::3 ip6-allhosts
 :: kolitter.com
 :: kolkhida-trade.ge
 :: kolort.ru
+:: kolsh.cn
 :: koltruah.com
 :: kolur.top
 :: koluty.com
@@ -22190,6 +22319,7 @@ ff02::3 ip6-allhosts
 :: ktzwdewsckssid.com
 :: ku63.com
 :: ku9377.com
+:: kuaidibiaoju.com
 :: kuaipai666.cn
 :: kuaipaobiaoju.com
 :: kuaituisss.com
@@ -22319,6 +22449,7 @@ ff02::3 ip6-allhosts
 :: kyouad.com
 :: kypisecmxzhaww.com
 :: kypivukypi.ru
+:: kyqvwwyjmrhl.com
 :: kyreyweczxj.com
 :: kysimxpwd.com
 :: kyugaiei.com
@@ -22746,6 +22877,7 @@ ff02::3 ip6-allhosts
 :: lepodownload.mediatek.com
 :: lepubs.com
 :: lequ6.ru
+:: lereforeightc.site
 :: lerenzx.cn
 :: lerester.com
 :: leruanmarket.ru
@@ -22948,6 +23080,7 @@ ff02::3 ip6-allhosts
 :: liftdna.com
 :: lifu11.com
 :: lifuzhubao.com
+:: lifzpefv.com
 :: lig.liberation.fr
 :: ligadx.com
 :: ligakiukiu.top
@@ -22966,6 +23099,7 @@ ff02::3 ip6-allhosts
 :: lihongdou.cn
 :: lijie1010.top
 :: lijjt.com
+:: lijzkjtk.com
 :: likaraoke.com
 :: like-it.co.il
 :: like-shop24.ru
@@ -22993,6 +23127,7 @@ ff02::3 ip6-allhosts
 :: limray.com
 :: linabap.ru
 :: linakay.ru
+:: lindenlaugh.pro
 :: lineoflife.ru
 :: linformanceder.info
 :: lingdian98.com
@@ -23238,6 +23373,7 @@ ff02::3 ip6-allhosts
 :: lk.4jzl.cn
 :: lkalite.info
 :: lkamujrx.com
+:: lkddksjgih.com
 :: lkfuihubbros.com
 :: lkhkeviyctneka.com
 :: lkhqosglqas.com
@@ -23273,6 +23409,7 @@ ff02::3 ip6-allhosts
 :: lljoapkfnwn.com
 :: llladiez.org
 :: lllgavbgnmcbf.com
+:: lllkotiocpjfb.com
 :: llnxczmgusq.com
 :: llnxfuxszevf.com
 :: llog.pl
@@ -23302,6 +23439,7 @@ ff02::3 ip6-allhosts
 :: lmebxwbsno.com
 :: lmepqfsazb.com
 :: lmevacaixeqy.com
+:: lmheeproc.com
 :: lmjxlihzcvicyi.com
 :: lmjxrhph.com
 :: lmlvzeeag.com
@@ -23385,6 +23523,7 @@ ff02::3 ip6-allhosts
 :: lodqycbq.com
 :: loftlm.ru
 :: lofv.xyz
+:: log.adflex.vn
 :: log.adsplay.net
 :: log.adsplay.xyz
 :: log.adtimaserver.vn
@@ -23418,6 +23557,7 @@ ff02::3 ip6-allhosts
 :: log.vietnamnetad.vn
 :: log.vietnamplus.vn
 :: log.vov.vn
+:: log.yeah1media.vn
 :: log.zingmp3.vn
 :: log1.adsplay.net
 :: log2.adsplay.net
@@ -23862,6 +24002,7 @@ ff02::3 ip6-allhosts
 :: lyifwfhdizcc.com
 :: lyjz001.com
 :: lykuxkxsvvnxqd.com
+:: lylibertleveni.site
 :: lylxuot.pltqbcgsq.biz
 :: lymstsc.com
 :: lynbrookoriska.com
@@ -23950,6 +24091,7 @@ ff02::3 ip6-allhosts
 :: m.yanglaopt.net
 :: m.yap.yahoo.com
 :: m.zwsteel.cn
+:: m0hcppadsnq8.com
 :: m0zdeb.ru
 :: m1.100how.com
 :: m1.27com.com
@@ -24062,6 +24204,7 @@ ff02::3 ip6-allhosts
 :: mafemmepourunbillet.com
 :: mafia-banner.myftp.org
 :: mafia-linkz.to
+:: mafvijpjsaz.com
 :: magararepublic.com
 :: magariusaqmuri.cf
 :: magdove.xyz
@@ -24327,6 +24470,7 @@ ff02::3 ip6-allhosts
 :: max-adserv.com
 :: maxad.co
 :: maxato.com
+:: maxbetqq.net
 :: maxcash.com
 :: maxdps.ru
 :: maxence-rigottier.tv
@@ -24420,6 +24564,7 @@ ff02::3 ip6-allhosts
 :: mchpowtyj.com
 :: mcirxbajhw.com
 :: mcjdsooo.com
+:: mclick.mobi
 :: mcmetrika.ru
 :: mcnklvsodqqa.com
 :: mcnt.jp
@@ -24459,6 +24604,7 @@ ff02::3 ip6-allhosts
 :: mds.nipa.co.th
 :: mdsauswjligigj.com
 :: mdsfzh.cn
+:: mduinqxgi.com
 :: mdulmrphzsnvw.com
 :: mdurqeiydegwzy.com
 :: mdvkn.com
@@ -24547,6 +24693,7 @@ ff02::3 ip6-allhosts
 :: media.pussycash.com
 :: media.reklamaizer.ru
 :: media.stsaff.pl
+:: media.yeah1media.vn
 :: media.yomedia.vn
 :: media1.admicro.vn
 :: media1.yomedia.vn
@@ -24639,6 +24786,7 @@ ff02::3 ip6-allhosts
 :: mediatarget.com
 :: mediateas.com
 :: mediateaser.biz
+:: mediation.adflex.vn
 :: mediative.ca
 :: mediative.com
 :: mediatoday.ru
@@ -24894,6 +25042,7 @@ ff02::3 ip6-allhosts
 :: meubonus.com
 :: meuzxiejun.com
 :: mewnetwag.site
+:: mewstyhen.club
 :: meya41w7.com
 :: meycity.ru
 :: meykato.ru
@@ -24920,6 +25069,7 @@ ff02::3 ip6-allhosts
 :: mfxjgymma.com
 :: mfxxpyhzofbsg.com
 :: mfxzxrveb.com
+:: mg.32r.com
 :: mg.glwxw.net
 :: mg.mgid.com
 :: mg.steepto.com
@@ -24945,6 +25095,7 @@ ff02::3 ip6-allhosts
 :: mgpejafvxxn.com
 :: mgsue.cn
 :: mgti1kofb8.com
+:: mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 :: mgtz.ru
 :: mguqjbjgs.com
 :: mgwcn.com
@@ -24963,6 +25114,7 @@ ff02::3 ip6-allhosts
 :: mhggzg.com
 :: mhhjdlsnji.com
 :: mhhjqfjujxwrfa.com
+:: mhj765.xyz
 :: mhjsr.com
 :: mhkx4.ru
 :: mhmgeilfkcgov.com
@@ -25185,6 +25337,7 @@ ff02::3 ip6-allhosts
 :: mlnadvertising.com
 :: mloevnfunwwcqdusypu.com
 :: mlonsougoylpbu.com
+:: mlqrvksywbemk.com
 :: mlqrytbjgrbe.com
 :: mlsat04.de
 :: mlsbxcgueedu.com
@@ -25284,6 +25437,7 @@ ff02::3 ip6-allhosts
 :: mobatori.com
 :: mobatory.com
 :: mobawaba.com
+:: mobbahjug.com
 :: mobbober.com
 :: mobclix.com
 :: mobday.com
@@ -25426,6 +25580,7 @@ ff02::3 ip6-allhosts
 :: mogrbrydixdvmc.bid
 :: moguldom.com
 :: moguozhi.com
+:: mohammequhe.site
 :: mohengdu.com
 :: mohini-ger.com
 :: mohqurakhwvf.com
@@ -25605,6 +25760,7 @@ ff02::3 ip6-allhosts
 :: mozefakt.com
 :: mozgup.ru
 :: mozgvya.com
+:: mozime.com
 :: mozist.com
 :: mozoo.com
 :: mozoo.go2cloud.org
@@ -25840,6 +25996,7 @@ ff02::3 ip6-allhosts
 :: muwjxxvovtb.com
 :: muxtpvixahawy.com
 :: muxungba.com
+:: muyoozrkkyr.com
 :: muyviajero.com
 :: muz-loader.site
 :: muzile.ru
@@ -26329,6 +26486,7 @@ ff02::3 ip6-allhosts
 :: nchte.com
 :: nchxiaxafowid.com
 :: nchxvxvy.com
+:: ncialappropo.site
 :: ncitwacpa.com
 :: nclfwbnmcrci.com
 :: nclick.ru
@@ -26994,6 +27152,7 @@ ff02::3 ip6-allhosts
 :: noadblock.org
 :: noadirect.com
 :: noagloot.net
+:: noahos.cn
 :: noakauhe.com
 :: noaloheb.com
 :: noamiscience.pro
@@ -27066,6 +27225,7 @@ ff02::3 ip6-allhosts
 :: nostushi.ru
 :: nosyezhe.com
 :: not-only.info
+:: notbad-ads.com
 :: notebook-center.ru
 :: notenpartner.de
 :: nothering.com
@@ -27220,6 +27380,7 @@ ff02::3 ip6-allhosts
 :: nsqdwwwoxs.com
 :: nsstatic.com
 :: nsstatic.net
+:: nstat.headlines.pw
 :: nster.net
 :: nstjenxcpvm.com
 :: nstlnjtrufu.com
@@ -27638,6 +27799,7 @@ ff02::3 ip6-allhosts
 :: oderyuk.info
 :: odezwmru.com
 :: odfp2bb3.space
+:: odhuvqrlntidxf.com
 :: odkawksnmbg.bid
 :: odkpdbvdzwjsgb.bid
 :: odldyhreg.bid
@@ -27937,6 +28099,7 @@ ff02::3 ip6-allhosts
 :: okokw.com
 :: okoshechka.net
 :: okoufwmfzujsf.com
+:: okrnvztkhkghas.com
 :: okserial.club
 :: okshishi.com
 :: okswjzifwg.bid
@@ -27990,6 +28153,7 @@ ff02::3 ip6-allhosts
 :: ologyro.ru
 :: ololen.pw
 :: olomara.ru
+:: oloniansyello.site
 :: olp.snapdesexe.com
 :: olpcbzhvduha.bid
 :: olpvmzxadjwgk.com
@@ -28589,6 +28753,7 @@ ff02::3 ip6-allhosts
 :: overhaps.com
 :: overlays.next-targeting.com
 :: overlordtea.cn
+:: overnmentil.site
 :: overreare.co
 :: overribleintena.info
 :: overridingnichts.in
@@ -28611,6 +28776,7 @@ ff02::3 ip6-allhosts
 :: ovqsyawrm.com
 :: ovrdkhamiljt.com
 :: ovscyvcucd.com
+:: ovtkwzyowci.com
 :: ovtopli.ru
 :: ovustav.ru
 :: ovvddcpjqndfv.com
@@ -28752,6 +28918,7 @@ ff02::3 ip6-allhosts
 :: p.igra-prestoloff.cx
 :: p.italia-film.org
 :: p.lasexta.com
+:: p.magicalthirteen.com
 :: p.nude-moon.com
 :: p.porn.fr
 :: p.smartertravel.com
@@ -28802,6 +28969,7 @@ ff02::3 ip6-allhosts
 :: padsipz.com
 :: padskiz.com
 :: padsokz.com
+:: padspms.com
 :: padspmz.com
 :: padsreds.com
 :: padssup.com
@@ -28883,6 +29051,7 @@ ff02::3 ip6-allhosts
 :: papbusters.fr
 :: papectorigury.co
 :: paperclipservice.com
+:: paperdoc.ru
 :: paperg.com
 :: papoto.com
 :: papy-voyeur.com
@@ -29175,6 +29344,7 @@ ff02::3 ip6-allhosts
 :: pcr1p2xr.com
 :: pcrhfkuwp.com
 :: pcruxm.xyz
+:: pcskkmgjnubi.com
 :: pctext.ru
 :: pcvdrjvku.bid
 :: pcx-qgh2-wit.ru
@@ -29488,6 +29658,7 @@ ff02::3 ip6-allhosts
 :: phxwwaznm.club
 :: phyhggbk.com
 :: phywyzpugswttb.com
+:: pi.adflex.vn
 :: pi920.com
 :: piaads.com
 :: pianyi95.top
@@ -29732,6 +29903,7 @@ ff02::3 ip6-allhosts
 :: platado.com
 :: platform.bidgear.com
 :: platformbot.xyz
+:: plathwardsve.site
 :: platine.org
 :: platinumadvertisement.com
 :: platinumcode.net
@@ -29921,6 +30093,7 @@ ff02::3 ip6-allhosts
 :: pnzaduoelv.bid
 :: pnzamawzgw.com
 :: pnzchguyctrsyb.com
+:: po.adflex.vn
 :: poagroul.com
 :: poala21.com
 :: poaurtor.com
@@ -29936,6 +30109,7 @@ ff02::3 ip6-allhosts
 :: pod.manplay.com
 :: pod.xpress.com
 :: podbwdcrmjufmr.com
+:: podimxqmqguj.com
 :: podrobnosti-online.com
 :: poewhatnvxydts.com
 :: pofang.com
@@ -30291,6 +30465,7 @@ ff02::3 ip6-allhosts
 :: ppcpsjihmydhr.com
 :: ppctrck.com
 :: ppcwebspy.com
+:: ppfjlk1.5tps.vip
 :: ppfpocea.com
 :: ppfrlfe.com
 :: ppgzokht.com
@@ -30665,6 +30840,7 @@ ff02::3 ip6-allhosts
 :: propadx.com
 :: propbigo.com
 :: propbn.com
+:: propeanfanku.site
 :: propellera.info
 :: propellerads.com
 :: propellerclick.com
@@ -30697,6 +30873,12 @@ ff02::3 ip6-allhosts
 :: proteaser.net
 :: protect-x.com
 :: protect-your-privacy.net
+:: protection-booster.club
+:: protection-cleaner.club
+:: protection-device.club
+:: protection-fix.club
+:: protection-fixer.club
+:: protection-phone.club
 :: prothomkhabor.com
 :: protizer.ru
 :: protkrutka.ru
@@ -30889,6 +31071,7 @@ ff02::3 ip6-allhosts
 :: pub-fit.com
 :: pub-france.com
 :: pub-ptp.fr
+:: pub.adflex.vn
 :: pub.admedia.io
 :: pub.aujourdhui.com
 :: pub.babygo.fr
@@ -31007,6 +31190,7 @@ ff02::3 ip6-allhosts
 :: punlkhusprgw.com
 :: punosy.com
 :: punosy.top
+:: punpisurn.site
 :: punsong.com
 :: puntoenun.site
 :: punvqjsvnmubxb.com
@@ -31063,6 +31247,7 @@ ff02::3 ip6-allhosts
 :: pushcentr.com
 :: pushdom.co
 :: pushdusk.com
+:: pushebrod.com
 :: pusheds.info
 :: pushego.com
 :: pusheify.com
@@ -31080,6 +31265,7 @@ ff02::3 ip6-allhosts
 :: pushine.info
 :: pushington.info
 :: pushinkaa.com
+:: pushisback.com
 :: pushkacentr.com
 :: pushkah.info
 :: pushkapro.com
@@ -31183,6 +31369,7 @@ ff02::3 ip6-allhosts
 :: puttme.gq
 :: puttyac.com
 :: puudeng.com.tw
+:: puwvuscm.com
 :: puwws.pro
 :: puwzwbdopaeq.bid
 :: puxrotate.ru
@@ -31260,6 +31447,7 @@ ff02::3 ip6-allhosts
 :: pxiqcfkbxof.com
 :: pxjmdtryd.com
 :: pxjttrrk.com
+:: pxjzhqcmuaa.com
 :: pxl2015x1.com
 :: pxlcadvpqd.com
 :: pxlijblevbp.bid
@@ -31948,6 +32136,7 @@ ff02::3 ip6-allhosts
 :: qskmkllcnoku.com
 :: qsknevegg.bid
 :: qsksdpoi.com
+:: qslychhjeo.com
 :: qsmdeyz.cn
 :: qsnzncerqgack.com
 :: qsoetgedlgyhyz.com
@@ -32550,6 +32739,7 @@ ff02::3 ip6-allhosts
 :: recessary.com
 :: reckinbuttiten.pro
 :: reckintersupwas.info
+:: reclame.io
 :: reclame.lequipement.fr
 :: recoco.it
 :: recodiss.xyz
@@ -32595,6 +32785,7 @@ ff02::3 ip6-allhosts
 :: redirect.dable.io
 :: redirect18systemsg.com
 :: redirect2719.ws
+:: redirect750.us
 :: redirectgang.com
 :: redirecting.download
 :: redirecting.ws
@@ -32738,6 +32929,7 @@ ff02::3 ip6-allhosts
 :: reks.club
 :: rekvid1.ru
 :: rel.nextinpact.com
+:: rel2.nextinpact.com
 :: relap.io
 :: relapayssia.xyz
 :: relatedweboffers.com
@@ -33125,6 +33317,7 @@ ff02::3 ip6-allhosts
 :: rlnads.net
 :: rlog-api.under9.co
 :: rlog.9gag.com
+:: rlomivunesqal.com
 :: rlomrjxrpsev.com
 :: rlsqhgku.com
 :: rlxqaczszvjvp.com
@@ -33340,7 +33533,6 @@ ff02::3 ip6-allhosts
 :: royaume-du-jeu.com
 :: rozaura.ru
 :: rozetka.cloud
-:: rozetka.com.ua
 :: rp-srw.net
 :: rpaulfrank.com
 :: rpcncuzsmpni.com
@@ -33383,6 +33575,7 @@ ff02::3 ip6-allhosts
 :: rrnqzntj.com
 :: rroyintwabqyua.com
 :: rrpjunmcv.com
+:: rrriyoomil.com
 :: rrrwwwa.com
 :: rrshibwsq.com
 :: rrsubway.com
@@ -33403,6 +33596,7 @@ ff02::3 ip6-allhosts
 :: rsbvygxdsevaw.com
 :: rsc.cdn77.org
 :: rsccs.com
+:: rschairwaydi.site
 :: rscqizsukecevh.com
 :: rscxwmj.cn
 :: rsdescriptsrem.info
@@ -33759,7 +33953,6 @@ ff02::3 ip6-allhosts
 :: s.xvideos.com
 :: s.yaozui.com
 :: s.zixuntop.com
-:: s.zmctrack.net
 :: s.zsxpx.com
 :: s0.2mdn.net
 :: s06th.cn
@@ -33877,6 +34070,7 @@ ff02::3 ip6-allhosts
 :: saferwet.com
 :: safeshieldredir.com
 :: safesource.ru
+:: safety1connection.com
 :: safevideo.cc
 :: sagame36.com
 :: sagame66.co
@@ -33898,7 +34092,6 @@ ff02::3 ip6-allhosts
 :: salary.xiao84.com
 :: salatiki.com.ua
 :: salaure.pro
-:: sale.dsmartvietnam.com
 :: sale.test.admicro.vn
 :: saledev.admicro.vn
 :: saledo.biz.ua
@@ -33967,6 +34160,7 @@ ff02::3 ip6-allhosts
 :: sass.com.ua
 :: satgreera.com
 :: sationy.info
+:: saturalerdax.site
 :: sauaopmdesyysa.com
 :: saub27i3os.com
 :: saude-vip.com
@@ -34019,6 +34213,7 @@ ff02::3 ip6-allhosts
 :: sbopaitvwpzilp.com
 :: sbornix.ru
 :: sbpb1.qulishi.com
+:: sbroughhig.info
 :: sbrqp.com
 :: sbs-ad.com
 :: sbscribeme.com
@@ -34056,6 +34251,7 @@ ff02::3 ip6-allhosts
 :: scg511.com
 :: schborg.com
 :: schedhomoso.pro
+:: schemas.adflex.vn
 :: schemas.ants.vn
 :: schemas.microsoft.akadns.net
 :: schemic.top
@@ -34091,6 +34287,7 @@ ff02::3 ip6-allhosts
 :: screenshot.ru
 :: script-bd.baixing.net
 :: script.hqpass.com
+:: script.mclick.mobi
 :: script.novanet.vn
 :: scriptall.ga
 :: scriptall.gq
@@ -34144,6 +34341,7 @@ ff02::3 ip6-allhosts
 :: sdjkldfhy.com
 :: sdk-ads.com
 :: sdk-orion.appboy.com
+:: sdk.adflex.vn
 :: sdk.adincube.com
 :: sdk.adsplay.xyz
 :: sdk.adtiming.com
@@ -34240,6 +34438,8 @@ ff02::3 ip6-allhosts
 :: secureboom.net
 :: securecloud-dt.com
 :: securecloud-smart.com
+:: secured-iphone.club
+:: secured-phone.club
 :: securee.ru
 :: secureintl.com
 :: securejoinsite.com
@@ -34333,6 +34533,7 @@ ff02::3 ip6-allhosts
 :: sendptp.com
 :: sendpulse.com
 :: sendy.adpia.vn
+:: senhation.pro
 :: senhelhgsoov.com
 :: seniorbaniaasth.info
 :: senokoss.biz
@@ -34453,6 +34654,7 @@ ff02::3 ip6-allhosts
 :: servicelead.ru
 :: servicelead.top
 :: servicer.mgid.com
+:: services.vlitag.com
 :: services.wes.df.telemetry.microsoft.com
 :: services.zam.com
 :: serving-ad.tv24.vn
@@ -34592,6 +34794,7 @@ ff02::3 ip6-allhosts
 :: sgftrrs.com
 :: sgggjaosyrxr.com
 :: sghehllds.com
+:: sghmho.com
 :: sgidkvwd.com
 :: sgiueejx.com
 :: sgmneqaebkzjug.com
@@ -34644,6 +34847,7 @@ ff02::3 ip6-allhosts
 :: shanglinli.com
 :: shanxiyizhao.com
 :: shapzwwy.com
+:: shaque.vip
 :: share-server.com
 :: share.gzdsw.com
 :: shareaholic.com
@@ -34988,6 +35192,7 @@ ff02::3 ip6-allhosts
 :: sjbaiduadv1.redou.com
 :: sjczsc.com
 :: sjdfkjh.ru
+:: sjgcswrvltrx.com
 :: sjgnskf.com
 :: sjjazrfvzbkt.com
 :: sjkqyehjo.com
@@ -35449,9 +35654,12 @@ ff02::3 ip6-allhosts
 :: sowlobptfzfh.com
 :: soyue.cc
 :: soyzsnaivas.com
+:: soza6rsz3ezi.com
 :: sp-api.dable.io
 :: sp-r.dable.io
+:: sp.dnqc.com
 :: sp.nasdaq.com
+:: sp.usatoday.com
 :: sp.zalo.me
 :: sp148.global.ssl.fastly.net
 :: sp96878.com
@@ -35874,6 +36082,7 @@ ff02::3 ip6-allhosts
 :: static.adtimaserver.vn
 :: static.ambient-platform.com
 :: static.amcdn.vn
+:: static.cdnstoremedia.com
 :: static.cfgr3.com
 :: static.chartbeat.com
 :: static.chilli.ee
@@ -35881,6 +36090,7 @@ ff02::3 ip6-allhosts
 :: static.contineljs.com
 :: static.dable.io
 :: static.doubleclick.net
+:: static.download.mclick.mobi
 :: static.eclick.vn
 :: static.exosrv.com
 :: static.fuseplatform.net
@@ -35913,8 +36123,10 @@ ff02::3 ip6-allhosts
 :: static.vclick.vn
 :: static.videonow.ru
 :: static.wi-fi.ru
+:: static.yeah1media.vn
 :: static.yomedia.vn
 :: static.younetmedia.com
+:: static2.adflex.vn
 :: static2.adtimaserver.vn
 :: staticad.thethao247.vn
 :: staticbhyravabhotl.red
@@ -35960,6 +36172,8 @@ ff02::3 ip6-allhosts
 :: statstrackeronline.com
 :: stattorr.ru
 :: stattorrext.ru
+:: status-cpo.adflex.vn
+:: status.adflex.vn
 :: status.kino-dom.org
 :: staubsefoo.com
 :: stauckag.com
@@ -36086,6 +36300,7 @@ ff02::3 ip6-allhosts
 :: stresune.info
 :: strichka.com
 :: striere.com
+:: striesastanov.site
 :: striete.com
 :: strikead.com
 :: strikeadcdn.s3.amazonaws.com
@@ -36159,6 +36374,7 @@ ff02::3 ip6-allhosts
 :: substerrent.co
 :: substraktor.ru
 :: succeedscene.com
+:: successageq.site
 :: succumbertson.pro
 :: sucior.ru
 :: suckdude.com
@@ -36341,6 +36557,7 @@ ff02::3 ip6-allhosts
 :: svegt.com
 :: sveklon.com
 :: svekol.com
+:: svekolasg.pro
 :: svekolka.com
 :: svekolnik.com
 :: svevbvsjeicl.com
@@ -36360,6 +36577,7 @@ ff02::3 ip6-allhosts
 :: svrybecqxgdq.com
 :: svsatrerbxh.com
 :: svsub.com
+:: svuyfmzsxmjwa.com
 :: svwsjxptbsvqo.com
 :: svysoru.ru
 :: sw1block.com
@@ -36491,6 +36709,7 @@ ff02::3 ip6-allhosts
 :: sysenvfiles.net
 :: sysfiles.net
 :: system.mondeos.pl
+:: system.yeah1media.vn
 :: systeme.io
 :: systerwithing.info
 :: systracking.admicro.vn
@@ -36847,6 +37066,7 @@ ff02::3 ip6-allhosts
 :: tdblazing.com
 :: tdc-affiliation.com
 :: tddjcdzra.com
+:: tdeilxkjxgdedb.com
 :: tdeug.com
 :: tdfamwrbdwkosn.com
 :: tdjfxeavusdpci.com
@@ -37087,6 +37307,7 @@ ff02::3 ip6-allhosts
 :: tfbqvqclg.com
 :: tfdssnipmff.com
 :: tfeywmqsle.com
+:: tfg8.com
 :: tfhuupltipcg.com
 :: tfijbdegozfh.com
 :: tfilm.tv
@@ -37218,6 +37439,7 @@ ff02::3 ip6-allhosts
 :: thesocialsexnetwork.com
 :: thesplendidbabes.com
 :: thesportstream.com
+:: theta.sogoucdn.com
 :: thetabdot.com
 :: thetestpage.39.net
 :: thethateronjus.pro
@@ -37238,6 +37460,7 @@ ff02::3 ip6-allhosts
 :: thewhizproducts.com
 :: thewillpower.org
 :: thewise.com
+:: theyarehugevid.pro
 :: thfw1wuq.site
 :: thichawheja.pro
 :: thienthangaycanh.com
@@ -37570,6 +37793,7 @@ ff02::3 ip6-allhosts
 :: tlgprhsl.com
 :: tlhiatdhw.com
 :: tlk.mediaz.vn
+:: tlkhzqmrg.com
 :: tlkqzjvyujb.com
 :: tlootas.org
 :: tlr1.biz
@@ -37597,6 +37821,7 @@ ff02::3 ip6-allhosts
 :: tmmpiibtfi.com
 :: tmotbq.xyz
 :: tmozs.com
+:: tmp.adflex.vn
 :: tmpclk.com
 :: tmpnencifbe.com
 :: tmqhw.us
@@ -37854,6 +38079,7 @@ ff02::3 ip6-allhosts
 :: torr-ext.ru
 :: torr.mediaget.com
 :: torrango.com
+:: torren.eu
 :: torrent-hitz.to
 :: torrent-rutor.eu
 :: torrent-rutor.pl
@@ -37994,6 +38220,7 @@ ff02::3 ip6-allhosts
 :: traceybell.co.uk
 :: track-srv.vietnamnet.vn
 :: track.accesstrade.vn
+:: track.adflex.vn
 :: track.adform.net
 :: track.adnetwork.vn
 :: track.adsota.com
@@ -38012,6 +38239,7 @@ ff02::3 ip6-allhosts
 :: track.es.sitebro.net
 :: track.gammaplatform.com
 :: track.icheck.com.vn
+:: track.mclick.mobi
 :: track.mdsmatch.com
 :: track.mypcbackup.com
 :: track.omgpl.com
@@ -38068,6 +38296,7 @@ ff02::3 ip6-allhosts
 :: tracking.aatkit.com
 :: tracking.acekoala.com
 :: tracking.ad360.vn
+:: tracking.adflex.vn
 :: tracking.affiliate44.com.pl
 :: tracking.applift.com
 :: tracking.appwifi.com
@@ -38278,6 +38507,9 @@ ff02::3 ip6-allhosts
 :: trafyield.com
 :: trahik.ru
 :: traient.com
+:: trailer-games.com
+:: trailerfilma.online
+:: trailerfilma.ru
 :: trailermarket.ru
 :: trailerstube.ru
 :: traitimyenbai.net
@@ -38346,6 +38578,7 @@ ff02::3 ip6-allhosts
 :: trckcommerce.com
 :: trcklks.com
 :: trcksrvrs.com
+:: trclfonj.com
 :: trcrkykttaila.com
 :: trdmnpklszd.com
 :: treateramortgag.info
@@ -38425,6 +38658,7 @@ ff02::3 ip6-allhosts
 :: trktnc.com
 :: trktrk011.com
 :: trkunited.com
+:: trlf8mmpbfz1.com
 :: trmads.eu
 :: trmedie.ru
 :: trmget.eu
@@ -38661,6 +38895,7 @@ ff02::3 ip6-allhosts
 :: tveta.naver.net
 :: tvevyrrrnbcbyk.com
 :: tvgate.tv
+:: tvggnruvmiv.com
 :: tvgoods.ru
 :: tvigl.info
 :: tvjkilgfanpt.com
@@ -38699,6 +38934,7 @@ ff02::3 ip6-allhosts
 :: tweard.com
 :: tweetycoin.com
 :: tweightment.pro
+:: twenticiseflo.site
 :: tweowhvrim.review
 :: tweznpjocbka.com
 :: twfcqnqggx.com
@@ -38807,6 +39043,7 @@ ff02::3 ip6-allhosts
 :: u1.2048sj.com
 :: u1.20q.cn
 :: u1.61sou.com
+:: u1.idongde.com
 :: u1.shuaiku.com
 :: u1hw38x0.com
 :: u1trkqf.com
@@ -38889,6 +39126,7 @@ ff02::3 ip6-allhosts
 :: ubudigital.com
 :: ubuntudeal.co.za
 :: ubusbjjd.com
+:: ubutplho.com
 :: ubvscbxtal.com
 :: ubvyjgbdiq.com
 :: ubwzawpqlsk.com
@@ -39004,6 +39242,7 @@ ff02::3 ip6-allhosts
 :: uggepqevz.com
 :: uggvuuquxj.com
 :: ughdqpwtfabsqg.com
+:: ughhimtoy.com
 :: ughtedrab.ru
 :: ughtottof.com
 :: ugkod.com
@@ -39014,6 +39253,7 @@ ff02::3 ip6-allhosts
 :: ugoptxnm.com
 :: ugoupams.com
 :: ugplay.com
+:: ugqdykbxe.com
 :: ugrastes.uk
 :: ugwkyqdbmpwbbi.com
 :: ugxshqnodoha.com
@@ -39050,6 +39290,7 @@ ff02::3 ip6-allhosts
 :: uislkdxx.com
 :: uisrihozphejjt.com
 :: uissm.com
+:: uitabletublis.info
 :: uitopadxdo.com
 :: uitopadxdy.com
 :: uixvbjknkqxfvj.com
@@ -39071,6 +39312,7 @@ ff02::3 ip6-allhosts
 :: ujuclxjkb.com
 :: ujuqvalvvvof.com
 :: ujwdwwfuqcgnv.com
+:: ujxogbsw.com
 :: ujylaibwmgtaow.com
 :: ukamer.ru
 :: ukatoe.com
@@ -39306,6 +39548,7 @@ ff02::3 ip6-allhosts
 :: upckrtagwpwk.com
 :: upclick.ru
 :: upcum.com
+:: update.adflex.vn
 :: updater-checker.net
 :: updatesflashplayer.ml
 :: upfile16.mediaphim.com
@@ -39354,6 +39597,7 @@ ff02::3 ip6-allhosts
 :: upush.co
 :: upvtnuffy.com
 :: upwtyghvknaiw.com
+:: upwwwuon.com
 :: upwzuqfcvbeqo.com
 :: upxip.xyz
 :: upzpyrsvvxpoey.com
@@ -39553,6 +39797,7 @@ ff02::3 ip6-allhosts
 :: uukqjcucva.com
 :: uunriutbi.com
 :: uuopp.com
+:: uusftafycvolbk.com
 :: uustoughtonma.org
 :: uutfeuxmqdvdp.com
 :: uuu.pctowap.com
@@ -39680,6 +39925,7 @@ ff02::3 ip6-allhosts
 :: v1n7c.com
 :: v1rton.news
 :: v1v.be
+:: v2.api.adflex.vn
 :: v2cigs.com
 :: v2mlamber.com
 :: v2mlblack.biz
@@ -39921,6 +40167,7 @@ ff02::3 ip6-allhosts
 :: verblife-2.co
 :: verblife-3.co
 :: verdoledran.ru
+:: verdriusuref.site
 :: verdrivenbru.info
 :: veremund-hon.com
 :: veretiggoo.com
@@ -39966,6 +40213,7 @@ ff02::3 ip6-allhosts
 :: vezuha.me
 :: vf5c.com
 :: vf5yb4.cn
+:: vfbvcshnc.com
 :: vfdxlt.cn
 :: vfedpgmaxxkug.com
 :: vffyvridwaa.com
@@ -40010,6 +40258,7 @@ ff02::3 ip6-allhosts
 :: vhbyakilp.com
 :: vhdvllhgyrjy.com
 :: vhiuhrwapdirpu.com
+:: vhktunniggbd.com
 :: vhldwuv6om.com
 :: vhlnpaaxxxz.com
 :: vhmnetwork.com
@@ -40197,6 +40446,7 @@ ff02::3 ip6-allhosts
 :: viewex.co.uk
 :: viewlnk.com
 :: viewm.moonicorn.network
+:: viewmoregirls.com
 :: viewplus.admicro.vn
 :: views.affiliate4you.nl
 :: viewscout.com
@@ -40205,6 +40455,7 @@ ff02::3 ip6-allhosts
 :: viglir.ru
 :: vignmvwjlyc.com
 :: vihub.ru
+:: viighj.com
 :: viille2.com
 :: viiqx.com
 :: vijule.com
@@ -40549,6 +40800,7 @@ ff02::3 ip6-allhosts
 :: voyeurhit.com
 :: voyna-plemyon.ru
 :: vozer.voffka.com
+:: vp.cdnstoremedia.com
 :: vpath.net
 :: vpejn.top
 :: vpered.ru
@@ -41025,6 +41277,8 @@ ff02::3 ip6-allhosts
 :: waxpigbaa.com
 :: waxtamnit.com
 :: waycash.net
+:: waynagmay.com
+:: waysinbeg.com
 :: waytogrow.eu
 :: waytogrow.pl
 :: wazero.online
@@ -41033,6 +41287,7 @@ ff02::3 ip6-allhosts
 :: wbaogaqvrukprx.com
 :: wbaor.com
 :: wbbzegmupyl.com
+:: wbdcrmn.cn
 :: wbdds.com
 :: wbfwyzatvqjbnf.com
 :: wbhcemppdg.com
@@ -41212,6 +41467,7 @@ ff02::3 ip6-allhosts
 :: webvideomarketing.ru
 :: webview.unityads.unity3d.com
 :: webxmr.com
+:: weby.aaas.org
 :: webzer.org
 :: webzodes.com
 :: wecai.us
@@ -41339,6 +41595,7 @@ ff02::3 ip6-allhosts
 :: wfywchrzpic.com
 :: wfzpkmduyvx.com
 :: wfzvjbdicihe.com
+:: wg-aff.com
 :: wgaoe.com
 :: wgaycnmfz.com
 :: wghjq.cn
@@ -41350,6 +41607,7 @@ ff02::3 ip6-allhosts
 :: wgoto.xyz
 :: wgpartner.com
 :: wgpsethooknqv.com
+:: wgpsjcpdulptl.com
 :: wgqirxevoh.com
 :: wgrbdqucfoieha.com
 :: wgroobsxrnijg.com
@@ -41360,6 +41618,7 @@ ff02::3 ip6-allhosts
 :: wgwguxqij.com
 :: wgwmwtmyklhzsudqadc.com
 :: wgwrp7yv.ru
+:: wgxuexjrvo.com
 :: wgzzzqebxfypb.com
 :: wh5kb0u4.com
 :: wha8q7pevj.com
@@ -41715,6 +41974,7 @@ ff02::3 ip6-allhosts
 :: wm.artcomix.com
 :: wm.mipcdn.com
 :: wm.rehdd.ru
+:: wm.szdushi.com.cn
 :: wma.io
 :: wmactive.ru
 :: wmaqrkguf.com
@@ -41756,6 +42016,7 @@ ff02::3 ip6-allhosts
 :: wndlkj.com
 :: wndwhzjmfshthv.com
 :: wneia.iaskhot.com
+:: wnfjzjmc.com
 :: wnhzlesdqzu.com
 :: wnlhbehajh.com
 :: wnmtmdlvqqscs.com
@@ -42070,6 +42331,7 @@ ff02::3 ip6-allhosts
 :: wwclickads.club
 :: wwclickgo.com
 :: wwclicknews.club
+:: wwclickserv.club
 :: wwetjy.com
 :: wwgate.ru
 :: wwgdwl.com
@@ -43561,6 +43823,8 @@ ff02::3 ip6-allhosts
 :: www.adfiles.auditude.com
 :: www.adfill.me
 :: www.adflake.com
+:: www.adflex.vn
+:: www.adfly.vn
 :: www.adfootprints.com
 :: www.adforce.ru
 :: www.adforce.team
@@ -52631,6 +52895,7 @@ ff02::3 ip6-allhosts
 :: www.mcdomainalot.com
 :: www.mcdstorage.com
 :: www.mchostings.ru
+:: www.mclick.mobi
 :: www.mcljm.top
 :: www.mcmetrika.ru
 :: www.mcprofits.com
@@ -54199,6 +54464,7 @@ ff02::3 ip6-allhosts
 :: www.old-are-they.info
 :: www.oldership.com
 :: www.oldtiger.net
+:: www.olenation.org
 :: www.olfkptkfop.com
 :: www.olgin-svet.ru
 :: www.oliliga.ru
@@ -62181,6 +62447,7 @@ ff02::3 ip6-allhosts
 :: wzwetfprojnyx.com
 :: wzxdsgnqpnu.com
 :: wzxw7.com
+:: wzyywlkj.com
 :: wzzrquhn.com
 :: x-adservice.com
 :: x-busty.org
@@ -62432,6 +62699,7 @@ ff02::3 ip6-allhosts
 :: xfya3.cn
 :: xfylqszlowu.com
 :: xfytjx.cn
+:: xg2o402yyy.ru
 :: xgfugivkvkak.com
 :: xghfi97mk6.com
 :: xghretunapafes.com
@@ -62523,6 +62791,7 @@ ff02::3 ip6-allhosts
 :: xinji2.com
 :: xinju.cc
 :: xinlongrubber.com
+:: xinray.net
 :: xinterface.cn
 :: xinuocp666.com
 :: xinyijiasc.cn
@@ -62678,6 +62947,7 @@ ff02::3 ip6-allhosts
 :: xn--mtsr39cnql.video
 :: xn--tst552fo5s.xyz
 :: xn--unfi-6pa.ch
+:: xn--wcsy74a6d835f5lf.com
 :: xn--wxt79hbyb675a.online
 :: xn--wxtr44c.video
 :: xn--wxtr9fwyxk9c.art
@@ -62726,6 +62996,7 @@ ff02::3 ip6-allhosts
 :: xoekgcscpnipb.com
 :: xofys.biz
 :: xogkpytfgyzy.com
+:: xogvagdtgehxm.com
 :: xoimg.com
 :: xojwkixxdkx.com
 :: xoliter.com
@@ -62759,6 +63030,7 @@ ff02::3 ip6-allhosts
 :: xptslcoedn.com
 :: xptvk.com
 :: xpwppacpda.com
+:: xpwwqbkezdr.com
 :: xpx7heciz9.com
 :: xpywzbxjwbxafv.com
 :: xpyyrkwpcpwf.com
@@ -63226,6 +63498,7 @@ ff02::3 ip6-allhosts
 :: ye3.com
 :: yeabble.com
 :: yeagdfyw.com
+:: yeah1media.vn
 :: yeahmobi.com
 :: yeas.yahoo.co.jp
 :: yebadu.com
@@ -63258,6 +63531,7 @@ ff02::3 ip6-allhosts
 :: yesads.com
 :: yesadsrv.com
 :: yesadvertising.com
+:: yese115.com
 :: yeshhaod.com
 :: yeshoutuan.cn
 :: yesmaris.com
@@ -63485,6 +63759,7 @@ ff02::3 ip6-allhosts
 :: ymetrica.com
 :: ymgjtzciu.com
 :: ymhqeelitngcr.com
+:: ymima360.com
 :: ymkymasmvsuosd.com
 :: ymmdpk.cn
 :: ymmoeffaosvdua.com
@@ -63565,6 +63840,7 @@ ff02::3 ip6-allhosts
 :: yomedia.vn
 :: yomeno.xyz
 :: yomzba.com
+:: yonashbin.com
 :: yong.chazidian.com
 :: yongkang6.com
 :: yongv.com
@@ -63778,6 +64054,7 @@ ff02::3 ip6-allhosts
 :: yttz113.com
 :: ytubemp3.net
 :: ytvracu.com
+:: ytwisqvoiugzb.com
 :: ytxuslppbj.com
 :: yu0123456.com
 :: yu21uy.com
@@ -64014,6 +64291,7 @@ ff02::3 ip6-allhosts
 :: z6naousb.com
 :: z6uc8er1mzx8n2qd.pro
 :: z6vmw.top
+:: z97g.cn
 :: za-ads.de
 :: zaaireapylyr.com
 :: zaattuotjbkj.com
@@ -64203,6 +64481,7 @@ ff02::3 ip6-allhosts
 :: zenadservices.net
 :: zencu.com.cn
 :: zendmin.com
+:: zendplace.pro
 :: zenffs.cn
 :: zenhppyad.com
 :: zenkreka.com
@@ -64488,6 +64767,7 @@ ff02::3 ip6-allhosts
 :: zlfzeuvk.com
 :: zlgokeby.com
 :: zlhscyahjbaq.com
+:: zlink2.com
 :: zlkrsqad.com
 :: zllanqoglad.com
 :: zlmbspplqvftur.com
@@ -64642,6 +64922,7 @@ ff02::3 ip6-allhosts
 :: zpppstop.ru
 :: zpqejgbya.com
 :: zpsgqvvzcbni.com
+:: zpwansf.cn
 :: zpwqnicvzi.com
 :: zpwtylxpfeje.com
 :: zpxgdlqoofx.com
@@ -64694,6 +64975,7 @@ ff02::3 ip6-allhosts
 :: zrnedsainsteady.info
 :: zronsunopja.com
 :: zrosbqwecw.com
+:: zroundancez.site
 :: zrpfk.com
 :: zrwhartongroup.com
 :: zry8181.com
@@ -64832,6 +65114,7 @@ ff02::3 ip6-allhosts
 :: zxdgmcgpp.com
 :: zxevjtzvqlxy.com
 :: zxeyqwgwsfv.com
+:: zxglpj.cn
 :: zxhrq.cn
 :: zxhymh.com
 :: zxiikxeagmferu.com
@@ -64841,6 +65124,7 @@ ff02::3 ip6-allhosts
 :: zxlchzyluskvj.com
 :: zxpevjccjb.com
 :: zxpxt.space
+:: zxpyzc.cn
 :: zxqudunt.com
 :: zxreyuxvrjzxa.com
 :: zxrtn.com
@@ -64851,6 +65135,7 @@ ff02::3 ip6-allhosts
 :: zxxds.net
 :: zxxfoccanf.com
 :: zxxzqiqbchqkaw.com
+:: zxzhengxin.com
 :: zy16eoat1w.com
 :: zyadwzlxllogm.com
 :: zyanechi.ru
