@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.04.098
-# Release: 098
-# Entries: 68,279
+# Version: 20.04.099
+# Release: 099
+# Entries: 68,313
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 07 Apr 20 00:15:19
+# Updated: Wed, 08 Apr 20 00:12:58
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -1760,7 +1760,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 6384.eu-content.swrve.com
 0.0.0.0 6387d781a4cf.com
 0.0.0.0 63fc818000.com
-0.0.0.0 64.myxmr.pw
 0.0.0.0 64.video-ak.cdn.spotify.com
 0.0.0.0 640f94e47dc41c.com
 0.0.0.0 641198810fae7.com
@@ -1894,6 +1893,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 73c6c063b238097.com
 0.0.0.0 73fc6a3ffc.com
 0.0.0.0 73g509fk9a.com
+0.0.0.0 73s.xyz
 0.0.0.0 74.video-ak.cdn.spotify.com
 0.0.0.0 7437b300fa98b98.com
 0.0.0.0 743e6b34be13fb105e0.com
@@ -2206,6 +2206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9dacbd.r.axf8.net
 0.0.0.0 9dba96e8c06d.com
 0.0.0.0 9de40afd8952279e2e.com
+0.0.0.0 9dffa299bbc098481e6a.com
 0.0.0.0 9e.video-ak.cdn.spotify.com
 0.0.0.0 9e5420f6be48ccc.com
 0.0.0.0 9e7769ed7b1.com
@@ -2910,6 +2911,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-check.disconnect.me
 0.0.0.0 ad-clicks.com
 0.0.0.0 ad-cloud.jp
+0.0.0.0 ad-cpm.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-delivery.net
@@ -4508,6 +4510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-au.onelouder.com
 0.0.0.0 ads-b.use1.prod.vidible.tv
+0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-businessinsider.adhese.com
@@ -10109,6 +10112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arcaptart.site
 0.0.0.0 arcartall.club
 0.0.0.0 arcaukalb.site
+0.0.0.0 arccdyvgh.com
 0.0.0.0 arceltaonline.com
 0.0.0.0 arcfwcxi.com
 0.0.0.0 arcgis.mobile311.com
@@ -14299,6 +14303,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 card.shareitpay.in
 0.0.0.0 cardgamespidersolitaire.com
 0.0.0.0 cardioplus-schule.de
+0.0.0.0 cardmrket.com
 0.0.0.0 cards.virtuagirlhd.com
 0.0.0.0 care.help.360.cn
 0.0.0.0 care2.112.2o7.net
@@ -18751,6 +18756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dachboxoutlet.com
 0.0.0.0 dacknbenn.com
 0.0.0.0 dacoloment.pro
+0.0.0.0 dadhuhram.com
 0.0.0.0 dadinihao.gq
 0.0.0.0 dadparty.com
 0.0.0.0 dadsatz.com
@@ -19416,7 +19422,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 deliver.trafficfabrik.com
 0.0.0.0 deliver.vkcdnservice.com
-0.0.0.0 deliveroo.com.sg
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery-geo.liverail.com
 0.0.0.0 delivery-insights.snapads.com
@@ -21597,6 +21602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ednplus.com
 0.0.0.0 edomz.net
 0.0.0.0 edoutoam.net
+0.0.0.0 edrgvzhpqrdnj.com
 0.0.0.0 eds-gmbh.at
 0.0.0.0 eds.ca.matchbox.maruhub.com
 0.0.0.0 edsa.112.2o7.net
@@ -21811,6 +21817,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ejoonsoo.net
 0.0.0.0 ejoyjumnsft.com
 0.0.0.0 ejp.rlcdn.com
+0.0.0.0 ejrhtmwm.com
 0.0.0.0 ejs.moatads.com
 0.0.0.0 ejwxbwzrhihtp.com
 0.0.0.0 ejyymghi.com
@@ -22407,6 +22414,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 erberos.xyz
 0.0.0.0 erbjahuyn.com
 0.0.0.0 erckgobvi.com
+0.0.0.0 ercredici.info
 0.0.0.0 erdbeermund-kabarett.de
 0.0.0.0 erdekeshirek.club
 0.0.0.0 erdekeshirek.info
@@ -26715,6 +26723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gq1.flurry.com
 0.0.0.0 gqecfgovxbj.com
 0.0.0.0 gqekfxgdaxoau.com
+0.0.0.0 gqjyzoqme.com
 0.0.0.0 gqlaoeyczxsvk.com
 0.0.0.0 gqlmavnoavcaw.com
 0.0.0.0 gqnmautydwky.com
@@ -26978,6 +26987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gstralpolita.info
 0.0.0.0 gsueoeigaq.com
+0.0.0.0 gsvyjunccsw.com
 0.0.0.0 gswaelxxh.com
 0.0.0.0 gswiegmikzh.com
 0.0.0.0 gsxvgomvbfrj.com
@@ -28396,6 +28406,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotgiftzone.com
 0.0.0.0 hothardwarecom.skimlinks.com
 0.0.0.0 hothta.com
+0.0.0.0 hotideiasnetwork.ml
 0.0.0.0 hotjatt.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
@@ -28765,6 +28776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hxuasnwokh.com
 0.0.0.0 hxvdrelj.bid
 0.0.0.0 hxvuuswzydwykb.com
+0.0.0.0 hxwgfumgg.com
 0.0.0.0 hxwxxhfydbifuq.com
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 hybrid.ai
@@ -30454,7 +30466,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inst.dist-app.com
 0.0.0.0 insta-cash.net
 0.0.0.0 insta-flirt-books2.com
-0.0.0.0 instabug.com
 0.0.0.0 instadia.112.2o7.net
 0.0.0.0 install-antivirus.com
 0.0.0.0 install.365-stream.com
@@ -31028,6 +31039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ithumbnails.infolinks.com
 0.0.0.0 ithyk.frenchgerlemanelectric.com
 0.0.0.0 itim.vn
+0.0.0.0 itllnww6x277.com
 0.0.0.0 itlmnxlauah.com
 0.0.0.0 itm.ivitrack.com
 0.0.0.0 itmcash.com
@@ -31620,6 +31632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jnnmisngfscreq.bid
 0.0.0.0 jnnswtdifjgx.com
 0.0.0.0 jnqbgmlapkkrsj.com
+0.0.0.0 jnrvjpsltf.com
 0.0.0.0 jnwsojzuahwbeq.com
 0.0.0.0 jnxmj.imicpa.org
 0.0.0.0 jnyorvlxy.com
@@ -32339,6 +32352,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kaunairu.net
 0.0.0.0 kavanga.ru
 0.0.0.0 kawmxbphaj.com
+0.0.0.0 kayakm.com
 0.0.0.0 kayano.it
 0.0.0.0 kaydayeuti.axfree.com
 0.0.0.0 kayklingbeil.de
@@ -32413,6 +32427,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kedsschuhe.at
 0.0.0.0 kedtise.com
 0.0.0.0 keechavy.com
+0.0.0.0 keeicgjfnjws.com
 0.0.0.0 keemy.butlerelectricsupply.com
 0.0.0.0 keenbranddiscount.club
 0.0.0.0 keencd.com
@@ -33629,6 +33644,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ldgozccnwgtuya.com
 0.0.0.0 ldimage01.adtech.fr
 0.0.0.0 ldimage02.adtech.us
+0.0.0.0 ldingchristing.site
 0.0.0.0 ldipafssohosls.com
 0.0.0.0 ldkjrqcqp.com
 0.0.0.0 ldkyzudgbksh.com
@@ -35102,6 +35118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lvntekpejrmtb.com
 0.0.0.0 lvodomi.info
 0.0.0.0 lvodomo.info
+0.0.0.0 lvoojxblukb.com
 0.0.0.0 lvrvufurxhgp.com
 0.0.0.0 lvs.truehits.in.th
 0.0.0.0 lvs2.truehits.in.th
@@ -36632,6 +36649,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 messagent.sanomadigital.nl
 0.0.0.0 messagetag.com
 0.0.0.0 messaging.influencemobile.com
+0.0.0.0 messaging.insurads.com
 0.0.0.0 messardu.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 messner.co.at
@@ -38126,6 +38144,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mr01.inmobi.com
 0.0.0.0 mr02.inmobi.com
 0.0.0.0 mr4evmd0r1.s.ad6media.fr
+0.0.0.0 mr5aqoqlegsp.com
 0.0.0.0 mraid.presage.io
 0.0.0.0 mraid.prod.cloud.ogury.io
 0.0.0.0 mralefgoods.com
@@ -38193,6 +38212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mseuppremain.112.2o7.net
 0.0.0.0 mseupwinxpfam.112.2o7.net
 0.0.0.0 msf-outdoor.com
+0.0.0.0 msg-0209861dced41c7ef.insurads.com
 0.0.0.0 msg-2.me
 0.0.0.0 msg.71.am
 0.0.0.0 msg.cocamobile.com
@@ -41748,6 +41768,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 oscdn.batmobi.net
 0.0.0.0 osdijxyjdn.bid
+0.0.0.0 osdiqyuesejd.com
 0.0.0.0 osdsoft.com
 0.0.0.0 osearch.media.net
 0.0.0.0 oselyprepartie.info
@@ -49468,6 +49489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sarisaville.com
 0.0.0.0 sarjor.pw
 0.0.0.0 sarkarifreshresults.com
+0.0.0.0 sarydrinkletr.site
 0.0.0.0 sas-onlineshopping.com
 0.0.0.0 sas.decisionnews.com
 0.0.0.0 sas2017.ereality.org
@@ -53596,6 +53618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 strikead.com
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 strikeiron.com
+0.0.0.0 strikersucces.site
 0.0.0.0 strilagoods.eu
 0.0.0.0 stringengines.com
 0.0.0.0 stringroadway.com
@@ -56059,6 +56082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 torstelitthertme.info
 0.0.0.0 tortenzirkus.de
 0.0.0.0 torvind.com
+0.0.0.0 torytalenty.site
 0.0.0.0 toseesulbvbe.com
 0.0.0.0 tossler.net
 0.0.0.0 tossm.com
@@ -58024,6 +58048,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trovi.com
 0.0.0.0 troytempest.com
 0.0.0.0 trqvelocity.com
+0.0.0.0 trroawdnmt.com
 0.0.0.0 trsay.xyz
 0.0.0.0 trubuild-fuel.com
 0.0.0.0 truckingandshipping.com
@@ -58609,6 +58634,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ubvscbxtal.com
 0.0.0.0 ubvyjgbdiq.com
 0.0.0.0 ubwzawpqlsk.com
+0.0.0.0 ubxnqtnnoljn.com
 0.0.0.0 ubxtoqsqusyx.com
 0.0.0.0 ubxxnfcatv.com
 0.0.0.0 uc.cdn.ucweb.com
@@ -58862,6 +58888,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uktbstore.top
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ukulelead.com
+0.0.0.0 ukvjkqhmkowc.com
 0.0.0.0 ukvkloytfaw.bid
 0.0.0.0 ukwotnfnhk.com
 0.0.0.0 ukwoxufaepbhn.com
@@ -61654,6 +61681,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wellnesscom.info
 0.0.0.0 wellturnedpenne.info
 0.0.0.0 welovetuktuk.at
+0.0.0.0 welsworn.info
 0.0.0.0 welt-schamane.de
 0.0.0.0 weltenweiterwanderer.de
 0.0.0.0 wembbuue.com
@@ -62122,6 +62150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wmmax.com
 0.0.0.0 wmmediacorp.com
 0.0.0.0 wmmnhcmkhglhl.com
+0.0.0.0 wmniqkqrr.com
 0.0.0.0 wmqdgaptep.com
 0.0.0.0 wmrlljpj.com
 0.0.0.0 wms-cn.amazon-adsystem.com
@@ -66603,6 +66632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xkssqonbadgs.com
 0.0.0.0 xkvptuurx.com
 0.0.0.0 xkwnmbqef.com
+0.0.0.0 xkxddhpx.com
 0.0.0.0 xkyicwujsmepsh.com
 0.0.0.0 xkylfuhjh.com
 0.0.0.0 xkzrbaexyrds.com
@@ -66904,6 +66934,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xvtbumnuj.com
 0.0.0.0 xvtyrcnhoanve.com
 0.0.0.0 xvucprzzwd.com
+0.0.0.0 xvwebllndr.com
 0.0.0.0 xvxcpdcnfgte.com
 0.0.0.0 xwavfvpzg.com
 0.0.0.0 xwcqrzkle.com
@@ -67172,6 +67203,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yfrrzyphyk.com
 0.0.0.0 yfsbprwln.com
 0.0.0.0 yftuybem.com
+0.0.0.0 yg592gpmrh0q.com
 0.0.0.0 ygdnflmhslwi.com
 0.0.0.0 ygefxaurh.com
 0.0.0.0 ygemknajajg.com
@@ -67576,6 +67608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yvvxjkzi.com
 0.0.0.0 yvxerfdxk.com
 0.0.0.0 yvyfyuacwz.com
+0.0.0.0 yvysgncv.com
 0.0.0.0 yvystpvmpnz.com
 0.0.0.0 yvytbqgmersgw.com
 0.0.0.0 yvzgazds6d.com
@@ -68201,6 +68234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrzrpxzvsk.com
 0.0.0.0 zsdqemzzzbtn.com
 0.0.0.0 zseut.com
+0.0.0.0 zshbpcqbm.com
 0.0.0.0 zsikmzoehqw.com
 0.0.0.0 zsisk.com
 0.0.0.0 zsjcl.bemobtrk.com
