@@ -1,8 +1,8 @@
 # Title: ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
-# Last Converted - 08.04.2020
-# Total Domains - 33975
+# Last Converted - 09.04.2020
+# Total Domains - 33977
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2209,6 +2209,7 @@
 0.0.0.0 ads-afp.aws.amobee.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-b.use1.prod.vidible.tv
+0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-businessinsider.adhese.com
 0.0.0.0 ads-by.madadsmedia.com
@@ -2770,6 +2771,7 @@
 0.0.0.0 ads9-adnow.com
 0.0.0.0 ads9.bangkokpost.co.th
 0.0.0.0 ads9.matichon.co.th
+0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
 0.0.0.0 adsalesforce.com
@@ -16073,7 +16075,6 @@
 0.0.0.0 js.eyeviewads.com
 0.0.0.0 js.fhxiaoshuo.com
 0.0.0.0 js.genieessp.com
-0.0.0.0 js.grt02.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.hotlog.ru
 0.0.0.0 js.hs-analytics.net
@@ -18468,6 +18469,7 @@
 0.0.0.0 mesos-gcp-lb.algolia.com
 0.0.0.0 message.umeng.com
 0.0.0.0 messagenovice.com
+0.0.0.0 messaging.insurads.com
 0.0.0.0 messer-schopp.de
 0.0.0.0 messner.co.at
 0.0.0.0 metabase.amobee.com
