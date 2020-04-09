@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.04.100
-; Release: 100
-; Entries: 68,353
+; Version: 20.04.101
+; Release: 101
+; Entries: 68,379
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 09 Apr 20 00:13:48
+; Updated: Fri, 10 Apr 20 00:16:34
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -89,6 +89,7 @@ $TTL 2h
 017e689c749.com CNAME .
 01cd92d513e.com CNAME .
 01ced816b84.com CNAME .
+01dbf3a452b6.com CNAME .
 01mspmd5yalky8.com CNAME .
 02.gw.flurry.com CNAME .
 02.video-ak.cdn.spotify.com CNAME .
@@ -868,6 +869,7 @@ $TTL 2h
 2ptxxjjzpy.com CNAME .
 2qc2m.bemobtrk.com CNAME .
 2qgsjjy89k.com CNAME .
+2sh8fouhk84h.com CNAME .
 2site.com CNAME .
 2ssltome.ga CNAME .
 2tpwcqot22mb.com CNAME .
@@ -1432,6 +1434,7 @@ $TTL 2h
 4554.content.swrve.com CNAME .
 4560.hittail.com CNAME .
 4569.api.swrve.com CNAME .
+456c11816f.com CNAME .
 4570.api.swrve.com CNAME .
 4570.content.swrve.com CNAME .
 4572.api.swrve.com CNAME .
@@ -1823,7 +1826,9 @@ $TTL 2h
 6c7105f4aa34.com CNAME .
 6ce0a8be8375b.com CNAME .
 6d.video-ak.cdn.spotify.com CNAME .
+6d20d0bdc6313c2cf690.com CNAME .
 6d25c5a1bb9e821f3b7.com CNAME .
+6d2d5f558f3.com CNAME .
 6e.video-ak.cdn.spotify.com CNAME .
 6e2f1d2ae033.com CNAME .
 6e6dd5df719c9b5.com CNAME .
@@ -2084,6 +2089,7 @@ $TTL 2h
 8jeyy.bemobtrk.com CNAME .
 8lh5f.bemobtrk.com CNAME .
 8live.com CNAME .
+8mb4qkd74cht.com CNAME .
 8mdfq0gzbs.s.ad6media.fr CNAME .
 8s32e590un.com CNAME .
 8s8.eu CNAME .
@@ -7781,6 +7787,7 @@ amkwvxhw.com CNAME .
 amlcscfr.com CNAME .
 amlug.net CNAME .
 ammadv.it CNAME .
+ammankeyan.com CNAME .
 amnreg.com CNAME .
 amo-mackensen.de CNAME .
 amo122.com CNAME .
@@ -10064,6 +10071,7 @@ aquhcfvu.com CNAME .
 aqussxtpjfelp.com CNAME .
 aqwmiphorpa.com CNAME .
 aqyhsqhggq.com CNAME .
+aqyuxcnsbfhuia.com CNAME .
 ar-gb.adskeeper.co.uk CNAME .
 ar-gb.mgid.com CNAME .
 ar-gmtdmp.mookie1.com CNAME .
@@ -13332,6 +13340,7 @@ btez8.xyz CNAME .
 btf-analytics.s3.amazonaws.com CNAME .
 btgovcuviqor.com CNAME .
 btgpool.pro CNAME .
+btgxicdivmtv.com CNAME .
 btigspresalessandt.112.2o7.net CNAME .
 btkxogjoxtd.com CNAME .
 btlaunch.baidu.com CNAME .
@@ -15861,6 +15870,7 @@ ckjjnujgvfd.com CNAME .
 ckkqgycwljxib.com CNAME .
 ckkrlzxvy.com CNAME .
 cklad.xyz CNAME .
+cklvpsjtbwf.com CNAME .
 ckmap.adsame.com CNAME .
 ckmap.mediav.com CNAME .
 ckombcgg.com CNAME .
@@ -22387,6 +22397,7 @@ eqfnhtthkog.com CNAME .
 eqhawyidkdug.com CNAME .
 eqmob.com CNAME .
 eqnqxfrxsmuy.com CNAME .
+eqoivockikaue.com CNAME .
 eqrauafet.com CNAME .
 eqrbfjwnmxpy.com CNAME .
 eqs-redserver.appspot.com CNAME .
@@ -23791,6 +23802,7 @@ ffickiedisticre.site CNAME .
 ffilelogapp.nimo.tv CNAME .
 ffilm-online.com CNAME .
 ffjzebtmdwi.com CNAME .
+ffkdxymyji.com CNAME .
 ffoifngclwfuey.com CNAME .
 ffortongoropenityin.info CNAME .
 ffortyimagist.info CNAME .
@@ -23862,6 +23874,7 @@ fidelity-media-ssp.rtb.adx1.com CNAME .
 fidelity-media.com CNAME .
 fiechaev.com CNAME .
 fieejwanbrv.com CNAME .
+fiewqoyhdkdcm.com CNAME .
 fifa19mobile-android.xyz CNAME .
 fifathsale.com CNAME .
 fifnonxntvaszg.com CNAME .
@@ -24074,6 +24087,7 @@ fkey.s.xoxknct.com CNAME .
 fkfmujcudpwdn.com CNAME .
 fkfpkhijf.com CNAME .
 fkgbxlgcnzf.com CNAME .
+fkjmjybn.com CNAME .
 fkjzz.myshopify.com CNAME .
 fkloazpi.com CNAME .
 fkooaee.angelcities.com CNAME .
@@ -28794,6 +28808,7 @@ hydrocodone.visa-usa.ru CNAME .
 hydropenyaringair.com CNAME .
 hyena.cz CNAME .
 hyeseungtech.com CNAME .
+hyinlegvghul.com CNAME .
 hype-ads.com CNAME .
 hypemakers.net CNAME .
 hyperadx.com CNAME .
@@ -29583,6 +29598,7 @@ iikhhkwryiqq.bid CNAME .
 iilrgkor.com CNAME .
 iimueeipaitpb.com CNAME .
 iiripeedqfj.com CNAME .
+iixecczxqzy.com CNAME .
 iizgpusp.com CNAME .
 ijade.store CNAME .
 ijeuhlrqznjb.com CNAME .
@@ -32825,6 +32841,7 @@ kmrnnqjfjjp.com CNAME .
 kms-schreckenbach.de CNAME .
 kmsexporters.com CNAME .
 kmtyyvemtscac.com CNAME .
+kmuvaerfumy.com CNAME .
 kmuxsbdjxsjqe.com CNAME .
 kmypiwpbastt.com CNAME .
 knabes-elektroshop.de CNAME .
@@ -38044,6 +38061,7 @@ movehigh.net CNAME .
 moversa.com CNAME .
 movestone.net CNAME .
 movi11.com CNAME .
+movie-pass.live CNAME .
 movie.myfastappz.com CNAME .
 movie.mytopappz.com CNAME .
 movie32ws.imageshack.host CNAME .
@@ -43343,6 +43361,7 @@ pgalvaoteles.pt CNAME .
 pgapi.ksmobile.com CNAME .
 pgdhapctt.com CNAME .
 pge.unityads.unity3d.com CNAME .
+pgeejqisao.com CNAME .
 pgepkagfndl.com CNAME .
 pgfxwbgema.com CNAME .
 pgg4a0.emailer.appsflyer.com CNAME .
@@ -44818,6 +44837,7 @@ ppyneidpwpepu.com CNAME .
 ppzfvypsurty.com CNAME .
 pqajjgjg.com CNAME .
 pqcjtsrnx.bid CNAME .
+pqdgvgxtshpny.com CNAME .
 pqdysthxgrpz.com CNAME .
 pqftlgwzkuzsg.com CNAME .
 pqgnezcfd.bid CNAME .
@@ -47595,6 +47615,7 @@ reftop.pw CNAME .
 refunsiy.net CNAME .
 refurbinet.com CNAME .
 refuzzlizing.pro CNAME .
+refyewdye.com CNAME .
 reg.uc.cn CNAME .
 regardensa.com CNAME .
 regardensy.mobi CNAME .
@@ -48274,6 +48295,7 @@ rkueifizvmwbi.com CNAME .
 rkvduvtdz.com CNAME .
 rlaiomvkwz.com CNAME .
 rlbvwdviqx.com CNAME .
+rlcciwjyl.com CNAME .
 rlcdn.com CNAME .
 rle.ru CNAME .
 rlgungosm.com CNAME .
@@ -59657,6 +59679,7 @@ uvrk0.voluumtrk.com CNAME .
 uvsxjyokgfz.com CNAME .
 uvyfszshvgassp.com CNAME .
 uvzfodimtska.com CNAME .
+uwdtibwk.com CNAME .
 uwehcnmbnfr.com CNAME .
 uwidtpjwh.com CNAME .
 uwjczdkytwyhzh.com CNAME .
@@ -60685,6 +60708,7 @@ vliplatform.com CNAME .
 vlkdntgqqfjusm.com CNAME .
 vllwccvw.com CNAME .
 vlnaseyii.com CNAME .
+vlnwqiloadoqt.com CNAME .
 vlog.leadformix.com CNAME .
 vlpufjkwpmjhbn.com CNAME .
 vlrzhoueyoxw.com CNAME .
@@ -67320,6 +67344,7 @@ ykixjehac.com CNAME .
 yknfpdpj.com CNAME .
 ykombouoo.com CNAME .
 ykrec.youku.com CNAME .
+yksjurzq.com CNAME .
 ykykbowk.com CNAME .
 ykyryixcwn.com CNAME .
 ylbaaods.com CNAME .
@@ -68097,6 +68122,7 @@ zlhscyahjbaq.com CNAME .
 zlifestyle-d.openx.net CNAME .
 zlkrsqad.com CNAME .
 zllanqoglad.com CNAME .
+zlluzejac.com CNAME .
 zlmbspplqvftur.com CNAME .
 zlp6s.pw CNAME .
 zlx.com.br CNAME .

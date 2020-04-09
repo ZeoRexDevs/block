@@ -1,8 +1,8 @@
 # Title: ad-wars Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# Last Converted - 09.04.2020
-# Total Domains - 1217
+# Last Converted - 10.04.2020
+# Total Domains - 1214
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -94,7 +94,6 @@
 0.0.0.0 ad.sohu.com
 0.0.0.0 ad.thsi.cn
 0.0.0.0 ad.toutiao.com
-0.0.0.0 ad.us.sinaimg.cn
 0.0.0.0 ad.wang502.com
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 ad.wx.com
@@ -537,6 +536,7 @@
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 exchange.ipdx.cn.miaozhen.com
 0.0.0.0 exp.3g.ifeng.com
+0.0.0.0 extlog.snssdk.com
 0.0.0.0 f.aty.sohu.com
 0.0.0.0 f.gm.mob.com
 0.0.0.0 fbapi.guguread.com
@@ -835,6 +835,7 @@
 0.0.0.0 pss.alicdn.com
 0.0.0.0 pub.funshion.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 puds.ucweb.com
 0.0.0.0 puma-api.iqiyi.com
 0.0.0.0 puma.api.iqiyi.com
 0.0.0.0 push.zhanzhang.baidu.com
@@ -926,7 +927,6 @@
 0.0.0.0 sdk.mobad.ijinshan.com
 0.0.0.0 sdk.zsdfm.com
 0.0.0.0 sdk2.youguoquan.com
-0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.play.aiseet.atianqi.com
 0.0.0.0 sdkm.w.inmobi.cn
@@ -1093,7 +1093,6 @@
 0.0.0.0 vpptv.admaster.com.cn
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vr.gdt.qq.com
-0.0.0.0 vs.biz.weibo.com
 0.0.0.0 vs.funshion.com
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vt.ipinyou.com
@@ -1102,12 +1101,10 @@
 0.0.0.0 w.cnzz.com
 0.0.0.0 w.ymapp.com
 0.0.0.0 wangmeng.baidu.com
-0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbwl.houyi.baofeng.net
 0.0.0.0 web.da.mgtv.com
 0.0.0.0 web.data.pplive.com
 0.0.0.0 web.houyi.baofeng.net
-0.0.0.0 wgo.mmstat.com
 0.0.0.0 whoami.akamai.net
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 win.gdt.qq.com

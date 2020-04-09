@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.04.100
-# Release: 100
-# Entries: 68,353
+# Version: 20.04.101
+# Release: 101
+# Entries: 68,379
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 09 Apr 20 00:13:48
+# Updated: Fri, 10 Apr 20 00:16:34
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -100,6 +100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 017e689c749.com
 0.0.0.0 01cd92d513e.com
 0.0.0.0 01ced816b84.com
+0.0.0.0 01dbf3a452b6.com
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 02.gw.flurry.com
 0.0.0.0 02.video-ak.cdn.spotify.com
@@ -879,6 +880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2ptxxjjzpy.com
 0.0.0.0 2qc2m.bemobtrk.com
 0.0.0.0 2qgsjjy89k.com
+0.0.0.0 2sh8fouhk84h.com
 0.0.0.0 2site.com
 0.0.0.0 2ssltome.ga
 0.0.0.0 2tpwcqot22mb.com
@@ -1443,6 +1445,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4554.content.swrve.com
 0.0.0.0 4560.hittail.com
 0.0.0.0 4569.api.swrve.com
+0.0.0.0 456c11816f.com
 0.0.0.0 4570.api.swrve.com
 0.0.0.0 4570.content.swrve.com
 0.0.0.0 4572.api.swrve.com
@@ -1834,7 +1837,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 6c7105f4aa34.com
 0.0.0.0 6ce0a8be8375b.com
 0.0.0.0 6d.video-ak.cdn.spotify.com
+0.0.0.0 6d20d0bdc6313c2cf690.com
 0.0.0.0 6d25c5a1bb9e821f3b7.com
+0.0.0.0 6d2d5f558f3.com
 0.0.0.0 6e.video-ak.cdn.spotify.com
 0.0.0.0 6e2f1d2ae033.com
 0.0.0.0 6e6dd5df719c9b5.com
@@ -2095,6 +2100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8jeyy.bemobtrk.com
 0.0.0.0 8lh5f.bemobtrk.com
 0.0.0.0 8live.com
+0.0.0.0 8mb4qkd74cht.com
 0.0.0.0 8mdfq0gzbs.s.ad6media.fr
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s8.eu
@@ -7792,6 +7798,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amlcscfr.com
 0.0.0.0 amlug.net
 0.0.0.0 ammadv.it
+0.0.0.0 ammankeyan.com
 0.0.0.0 amnreg.com
 0.0.0.0 amo-mackensen.de
 0.0.0.0 amo122.com
@@ -10075,6 +10082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aqussxtpjfelp.com
 0.0.0.0 aqwmiphorpa.com
 0.0.0.0 aqyhsqhggq.com
+0.0.0.0 aqyuxcnsbfhuia.com
 0.0.0.0 ar-gb.adskeeper.co.uk
 0.0.0.0 ar-gb.mgid.com
 0.0.0.0 ar-gmtdmp.mookie1.com
@@ -13343,6 +13351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 btgovcuviqor.com
 0.0.0.0 btgpool.pro
+0.0.0.0 btgxicdivmtv.com
 0.0.0.0 btigspresalessandt.112.2o7.net
 0.0.0.0 btkxogjoxtd.com
 0.0.0.0 btlaunch.baidu.com
@@ -15872,6 +15881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ckkqgycwljxib.com
 0.0.0.0 ckkrlzxvy.com
 0.0.0.0 cklad.xyz
+0.0.0.0 cklvpsjtbwf.com
 0.0.0.0 ckmap.adsame.com
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 ckombcgg.com
@@ -22398,6 +22408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eqhawyidkdug.com
 0.0.0.0 eqmob.com
 0.0.0.0 eqnqxfrxsmuy.com
+0.0.0.0 eqoivockikaue.com
 0.0.0.0 eqrauafet.com
 0.0.0.0 eqrbfjwnmxpy.com
 0.0.0.0 eqs-redserver.appspot.com
@@ -23802,6 +23813,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ffilelogapp.nimo.tv
 0.0.0.0 ffilm-online.com
 0.0.0.0 ffjzebtmdwi.com
+0.0.0.0 ffkdxymyji.com
 0.0.0.0 ffoifngclwfuey.com
 0.0.0.0 ffortongoropenityin.info
 0.0.0.0 ffortyimagist.info
@@ -23873,6 +23885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fidelity-media.com
 0.0.0.0 fiechaev.com
 0.0.0.0 fieejwanbrv.com
+0.0.0.0 fiewqoyhdkdcm.com
 0.0.0.0 fifa19mobile-android.xyz
 0.0.0.0 fifathsale.com
 0.0.0.0 fifnonxntvaszg.com
@@ -24085,6 +24098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
 0.0.0.0 fkgbxlgcnzf.com
+0.0.0.0 fkjmjybn.com
 0.0.0.0 fkjzz.myshopify.com
 0.0.0.0 fkloazpi.com
 0.0.0.0 fkooaee.angelcities.com
@@ -28805,6 +28819,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hydropenyaringair.com
 0.0.0.0 hyena.cz
 0.0.0.0 hyeseungtech.com
+0.0.0.0 hyinlegvghul.com
 0.0.0.0 hype-ads.com
 0.0.0.0 hypemakers.net
 0.0.0.0 hyperadx.com
@@ -29594,6 +29609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iilrgkor.com
 0.0.0.0 iimueeipaitpb.com
 0.0.0.0 iiripeedqfj.com
+0.0.0.0 iixecczxqzy.com
 0.0.0.0 iizgpusp.com
 0.0.0.0 ijade.store
 0.0.0.0 ijeuhlrqznjb.com
@@ -32836,6 +32852,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kms-schreckenbach.de
 0.0.0.0 kmsexporters.com
 0.0.0.0 kmtyyvemtscac.com
+0.0.0.0 kmuvaerfumy.com
 0.0.0.0 kmuxsbdjxsjqe.com
 0.0.0.0 kmypiwpbastt.com
 0.0.0.0 knabes-elektroshop.de
@@ -38055,6 +38072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moversa.com
 0.0.0.0 movestone.net
 0.0.0.0 movi11.com
+0.0.0.0 movie-pass.live
 0.0.0.0 movie.myfastappz.com
 0.0.0.0 movie.mytopappz.com
 0.0.0.0 movie32ws.imageshack.host
@@ -43354,6 +43372,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 pgdhapctt.com
 0.0.0.0 pge.unityads.unity3d.com
+0.0.0.0 pgeejqisao.com
 0.0.0.0 pgepkagfndl.com
 0.0.0.0 pgfxwbgema.com
 0.0.0.0 pgg4a0.emailer.appsflyer.com
@@ -44829,6 +44848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ppzfvypsurty.com
 0.0.0.0 pqajjgjg.com
 0.0.0.0 pqcjtsrnx.bid
+0.0.0.0 pqdgvgxtshpny.com
 0.0.0.0 pqdysthxgrpz.com
 0.0.0.0 pqftlgwzkuzsg.com
 0.0.0.0 pqgnezcfd.bid
@@ -47606,6 +47626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 refunsiy.net
 0.0.0.0 refurbinet.com
 0.0.0.0 refuzzlizing.pro
+0.0.0.0 refyewdye.com
 0.0.0.0 reg.uc.cn
 0.0.0.0 regardensa.com
 0.0.0.0 regardensy.mobi
@@ -48285,6 +48306,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rkvduvtdz.com
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlbvwdviqx.com
+0.0.0.0 rlcciwjyl.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rlgungosm.com
@@ -59668,6 +59690,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uvsxjyokgfz.com
 0.0.0.0 uvyfszshvgassp.com
 0.0.0.0 uvzfodimtska.com
+0.0.0.0 uwdtibwk.com
 0.0.0.0 uwehcnmbnfr.com
 0.0.0.0 uwidtpjwh.com
 0.0.0.0 uwjczdkytwyhzh.com
@@ -60696,6 +60719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlkdntgqqfjusm.com
 0.0.0.0 vllwccvw.com
 0.0.0.0 vlnaseyii.com
+0.0.0.0 vlnwqiloadoqt.com
 0.0.0.0 vlog.leadformix.com
 0.0.0.0 vlpufjkwpmjhbn.com
 0.0.0.0 vlrzhoueyoxw.com
@@ -67331,6 +67355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yknfpdpj.com
 0.0.0.0 ykombouoo.com
 0.0.0.0 ykrec.youku.com
+0.0.0.0 yksjurzq.com
 0.0.0.0 ykykbowk.com
 0.0.0.0 ykyryixcwn.com
 0.0.0.0 ylbaaods.com
@@ -68108,6 +68133,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zlifestyle-d.openx.net
 0.0.0.0 zlkrsqad.com
 0.0.0.0 zllanqoglad.com
+0.0.0.0 zlluzejac.com
 0.0.0.0 zlmbspplqvftur.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 zlx.com.br
