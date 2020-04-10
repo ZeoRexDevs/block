@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.04.101
-; Release: 101
-; Entries: 65,280
+; Version: 20.04.102
+; Release: 102
+; Entries: 65,342
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 10 Apr 20 00:21:43
+; Updated: Sat, 11 Apr 20 00:17:31
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -197,6 +197,7 @@ $TTL 2h
 0c8a10b46fc6.com CNAME .
 0c9d45a04fff.com CNAME .
 0c9fc6246ce.com CNAME .
+0cf40a2064ce2.com CNAME .
 0d763f0f5efbaacbe773.date CNAME .
 0d847862199.com CNAME .
 0d94fcb5af4707682181.date CNAME .
@@ -1596,6 +1597,7 @@ $TTL 2h
 6dbac32rsl.com CNAME .
 6dfggjbgt.com CNAME .
 6dvip.com CNAME .
+6e1167fc12a.com CNAME .
 6e2f1d2ae033.com CNAME .
 6ea56485aed0c.com CNAME .
 6eez7ouig7gwguf6.pro CNAME .
@@ -1939,6 +1941,7 @@ $TTL 2h
 89h8.com CNAME .
 89tmolir.top CNAME .
 89tyge.top CNAME .
+8a13cd2a7e.com CNAME .
 8a1ccf65f2b1302.com CNAME .
 8a8cq8c8yyqjs2xr.pro CNAME .
 8ao8ao.com CNAME .
@@ -2010,6 +2013,7 @@ $TTL 2h
 8yxupue8.com CNAME .
 904ad.com CNAME .
 9053fe03868ab.com CNAME .
+90ad550f42.com CNAME .
 9100300.com CNAME .
 9104cecde1c32cb25f5.com CNAME .
 910weixin.com CNAME .
@@ -2576,6 +2580,7 @@ accio.ai CNAME .
 accmgr.com CNAME .
 accomment.pro CNAME .
 accommon.info CNAME .
+accompathych.site CNAME .
 accountestatees.info CNAME .
 accounts.novaonx.com CNAME .
 accounts.pkr.com CNAME .
@@ -5228,10 +5233,12 @@ alabardak.com CNAME .
 alahnavideos.pro CNAME .
 alal3ab.net CNAME .
 alamak.xyz CNAME .
+alappropolylibe.site CNAME .
 alapsblu.com CNAME .
 alau.kz CNAME .
 albado.xyz CNAME .
 albalbant.com CNAME .
+albarkale.site CNAME .
 albertonne.com CNAME .
 albertsonmendocino.com CNAME .
 albet70.com CNAME .
@@ -5535,6 +5542,7 @@ an.yandex.ru CNAME .
 anaheim.ru CNAME .
 anaktogel.com CNAME .
 analitycs.net CNAME .
+analnoe.tv CNAME .
 analsexstars.com CNAME .
 analy.qq.com CNAME .
 analysys.cn CNAME .
@@ -5677,6 +5685,7 @@ antbadani.club CNAME .
 antburape.club CNAME .
 antdivisitlodg.info CNAME .
 antevenio.com CNAME .
+antfindicater.site CNAME .
 anthill.vn CNAME .
 anti-gemorroy.com CNAME .
 antiadd.com CNAME .
@@ -7137,6 +7146,7 @@ bayard-pub.com CNAME .
 bayctrk.com CNAME .
 bayfieldharleysville.com CNAME .
 baypops.com CNAME .
+baysexthy.com CNAME .
 baysidethorntown.com CNAME .
 baz-tor.com CNAME .
 bazakrovi.ru CNAME .
@@ -7528,7 +7538,6 @@ bestvideo2019.xyz CNAME .
 bestwaygo.ru CNAME .
 bestwebdeal.net CNAME .
 besucherstatistiken.com CNAME .
-bet-at-home.com CNAME .
 bet.championat.com CNAME .
 bet2link.info CNAME .
 bet3000partners.com CNAME .
@@ -7900,6 +7909,7 @@ bla01.com CNAME .
 blaaaa12.googlecode.com CNAME .
 blabla.tword.ru CNAME .
 blablabla.pp.ua CNAME .
+blablablaaa.xyz CNAME .
 blablacar.d3.ru CNAME .
 black6adv.com CNAME .
 black77854.com CNAME .
@@ -8134,6 +8144,7 @@ bodykaa.ru CNAME .
 boeangranolith.bid CNAME .
 boerilav.com CNAME .
 boffinsoft.com CNAME .
+boffoadsfeeds.com CNAME .
 bogdot.co.il CNAME .
 bogopo.biz CNAME .
 bohowhepsandked.info CNAME .
@@ -8742,6 +8753,7 @@ byzoo.org CNAME .
 bza.co CNAME .
 bzctqprddwhj.com CNAME .
 bzeitvxguf.com CNAME .
+bzewjpivglj.com CNAME .
 bzeypkk0dagcotd.ru CNAME .
 bzfvcavza.com CNAME .
 bzgijyfjo.com CNAME .
@@ -10227,6 +10239,7 @@ clunder.net CNAME .
 clutaqawmz.com CNAME .
 clvw.net CNAME .
 clx.ru CNAME .
+clxgmlpfkoj.com CNAME .
 clybtbahdbwkep.com CNAME .
 clz3.net CNAME .
 clzfurcqmlgw.com CNAME .
@@ -10531,6 +10544,7 @@ congoro.com CNAME .
 congregorysun.site CNAME .
 congruityheterocephalus.info CNAME .
 conityles-angths.com CNAME .
+conjeller-chikemon.com CNAME .
 connect-lb.islay.tech CNAME .
 connect.cointent.com CNAME .
 connect.quoka.de CNAME .
@@ -10546,6 +10560,7 @@ connexplace.com CNAME .
 connextra.com CNAME .
 connor-kauft.de CNAME .
 consent.prismamedia.com CNAME .
+consesculifin.site CNAME .
 consigli.it CNAME .
 consivenu.com CNAME .
 consorcraightyc.info CNAME .
@@ -11885,6 +11900,7 @@ dacknbenn.com CNAME .
 dacoloment.pro CNAME .
 dadafilehost.com CNAME .
 dadawm.cc CNAME .
+dadhuhram.com CNAME .
 dadjia.com CNAME .
 dadparty.com CNAME .
 dadsatz.com CNAME .
@@ -13740,6 +13756,7 @@ earnbigo.com CNAME .
 earnco.in CNAME .
 earncsgo.com CNAME .
 earnify.com CNAME .
+earsawclearnph.site CNAME .
 earth-111.com CNAME .
 easou.com CNAME .
 eastbour.mobi CNAME .
@@ -13777,6 +13794,7 @@ eawp2ra7.top CNAME .
 eayyegrkujxcw.com CNAME .
 eazyleads.com CNAME .
 eb.anastasiadate.com CNAME .
+eb13489b89db.com CNAME .
 eb7b77123e2bc8fe9cbe.date CNAME .
 eb9918cd6a32b1cff.com CNAME .
 ebahpya.com CNAME .
@@ -13898,6 +13916,7 @@ edgeads.org CNAME .
 edgevertise.com CNAME .
 edgexads.com CNAME .
 edgualf.com CNAME .
+edhappearer.info CNAME .
 edibegedol.com CNAME .
 edigest.ru CNAME .
 edinetadv.com CNAME .
@@ -13919,6 +13938,7 @@ edoutoam.net CNAME .
 edrgvzhpqrdnj.com CNAME .
 edrone.me CNAME .
 edsnnfqazn.com CNAME .
+edspicuousind.site CNAME .
 edua29146y.com CNAME .
 eduad.baidu.com CNAME .
 eduads.net CNAME .
@@ -14176,6 +14196,8 @@ elkagoda.ru CNAME .
 ellcurvth.com CNAME .
 elle.alljournal.ru CNAME .
 ellisvillehillsboro.com CNAME .
+ellorschairwaydis.site CNAME .
+elmbagask.com CNAME .
 elmenor.xyz CNAME .
 elmfnadgg.com CNAME .
 elmoswanville.com CNAME .
@@ -15227,6 +15249,7 @@ fdgsdgsd.com CNAME .
 fdhgxdfdfd.com CNAME .
 fdifieecbehcbhbgadf.ru CNAME .
 fdkevkzm.com CNAME .
+fdmtoyfpjk.com CNAME .
 fdofosytszg.com CNAME .
 fdoun.com CNAME .
 fdplttrk.com CNAME .
@@ -15710,6 +15733,7 @@ fmstigat.online CNAME .
 fmstitial.xyz CNAME .
 fmu1qrtjoamc.pro CNAME .
 fmusive.ru CNAME .
+fmxllgvfzsoz.com CNAME .
 fmxnlkoaf.com CNAME .
 fnbsrxtemj.com CNAME .
 fncash.com CNAME .
@@ -15728,6 +15752,7 @@ fnprtscsvux.com CNAME .
 fnrqbhhyff.com CNAME .
 fntstkghwldnoy.com CNAME .
 fnuuhrhfkvpbnm.com CNAME .
+fnx2n3rqbuw7.com CNAME .
 fnxmyx.cn CNAME .
 fnyhewjd.com CNAME .
 fnytdllpzdv.com CNAME .
@@ -15928,6 +15953,7 @@ framentyder.pro CNAME .
 frameptp.com CNAME .
 france-telechargements.com CNAME .
 franecki.net CNAME .
+frank-casino.rocks CNAME .
 frankiesupport.com CNAME .
 franksvillereddick.com CNAME .
 fraudmetrix.cn CNAME .
@@ -16006,6 +16032,7 @@ fresh8.co CNAME .
 fresheye.com CNAME .
 freshis.ru CNAME .
 freshmac.ru CNAME .
+freshmail.mx CNAME .
 freshnews.su CNAME .
 freshrefresher.com CNAME .
 freshtds.club CNAME .
@@ -16062,6 +16089,7 @@ frvfrv.com CNAME .
 frvid.ru CNAME .
 frvpeuulyprl.com CNAME .
 frxohovv.com CNAME .
+fryawlauk.com CNAME .
 fryxaknn.com CNAME .
 frzaj.com CNAME .
 frzynewnpg.com CNAME .
@@ -17180,6 +17208,7 @@ gmzaaeenp.com CNAME .
 gmzdaily.com CNAME .
 gnaizrodp.com CNAME .
 gnamwmixa.com CNAME .
+gnativestreesaga.site CNAME .
 gndrglsn.com CNAME .
 gnezdo.ru CNAME .
 gnkpuprxa.com CNAME .
@@ -17416,6 +17445,7 @@ gorselcdn.com CNAME .
 gorselpanel.com CNAME .
 gosj9ichlf.tech CNAME .
 gosrjadsh.com CNAME .
+got.by CNAME .
 gotagy.com CNAME .
 gothot.org CNAME .
 gothrough.xyz CNAME .
@@ -19061,6 +19091,7 @@ huoyiad1.cn CNAME .
 hupers.ru CNAME .
 hupsouft.net CNAME .
 hurchaseeffectionpe.info CNAME .
+hurchasisounci.site CNAME .
 hurdleyreer.info CNAME .
 hurlinesswhitchurch.com CNAME .
 hurom365.cn CNAME .
@@ -19625,6 +19656,7 @@ ikupicwg.com CNAME .
 ikvagxovc.com CNAME .
 ikwauek.com CNAME .
 ikwxqqaduybfnv.com CNAME .
+ikxgvhdw.com CNAME .
 ikyzcnyqkzctm.com CNAME .
 il0ad.com CNAME .
 il8r.com CNAME .
@@ -19633,6 +19665,7 @@ ilclngnarpy.com CNAME .
 ildws.com CNAME .
 ileads.ru CNAME .
 ilepai.com CNAME .
+ilepioexi.com CNAME .
 ilfumomoney.ru CNAME .
 ili.pp.ua CNAME .
 iliamnapalco.com CNAME .
@@ -19932,6 +19965,7 @@ indianfriendfinder.com CNAME .
 indianlinkexchange.com CNAME .
 indianmasala.com CNAME .
 indianweeklynews.com CNAME .
+indicaterhools.site CNAME .
 indieclick.3janecdn.com CNAME .
 indieclick.com CNAME .
 indirads.org CNAME .
@@ -20334,6 +20368,7 @@ irozl.com CNAME .
 irpaknbwgif.com CNAME .
 irtya.com CNAME .
 irtyc.com CNAME .
+irtyd.com CNAME .
 irtye.com CNAME .
 iruad.com CNAME .
 irufaq.ru CNAME .
@@ -21857,6 +21892,7 @@ kgdglkxy.com CNAME .
 kgdmlsbtd.com CNAME .
 kgghxooarlnz.com CNAME .
 kgkkfrvujnqf.com CNAME .
+kgnagbymcdmlr.com CNAME .
 kgobpqziy.com CNAME .
 kgqlrcjlrx.com CNAME .
 kgt-nn.ru CNAME .
@@ -22748,6 +22784,7 @@ layer-ad.org CNAME .
 layer.co.il CNAME .
 layer.lima-city.de CNAME .
 layerloop.com CNAME .
+laygunwow.com CNAME .
 laynsite.pro CNAME .
 layout.admicro.vn CNAME .
 layout.mondocteur.fr CNAME .
@@ -23211,7 +23248,6 @@ linjiajia.cn CNAME .
 link-download.in CNAME .
 link-fes.ru CNAME .
 link-trade.net CNAME .
-link.freshmail.mx CNAME .
 link.link.ru CNAME .
 link.ru CNAME .
 link.zain.biz CNAME .
@@ -23279,6 +23315,7 @@ linodo.ru CNAME .
 linogu.info CNAME .
 linokle.ru CNAME .
 linono.ru CNAME .
+linstanintedter.site CNAME .
 lintastogel.com CNAME .
 lintyone.top CNAME .
 linwukui.cn CNAME .
@@ -23297,6 +23334,7 @@ lirawhivaoglha.com CNAME .
 lisaiservice.top CNAME .
 lisakova98.ml CNAME .
 lisamobile.ru CNAME .
+lisconcertain.site CNAME .
 lishuanghao.com CNAME .
 lisqvfrr.com CNAME .
 lisrrf.info CNAME .
@@ -25036,6 +25074,7 @@ mengpr.com CNAME .
 mengyuanwei.com CNAME .
 menomonierolette.com CNAME .
 mentad.com CNAME .
+mentalbackie.site CNAME .
 menuexamples.com CNAME .
 menuladshy.life CNAME .
 menuobliv.ru CNAME .
@@ -25343,6 +25382,7 @@ mithdilinonel.ru CNAME .
 mitotach.com CNAME .
 mitouxoo.net CNAME .
 mitrapoker.com CNAME .
+mitsczechoesy.site CNAME .
 mivefanulo.com CNAME .
 mivrpcxlo.com CNAME .
 miwhonjam.com CNAME .
@@ -26638,6 +26678,7 @@ nehuha.ru CNAME .
 neigh.info CNAME .
 neighbourly.co.nz CNAME .
 neijh.com CNAME .
+neitherspreta.site CNAME .
 nej7wwpp1u.com CNAME .
 nek1urtfoveu.pro CNAME .
 nekopod.info CNAME .
@@ -26790,6 +26831,7 @@ newadplus.ru CNAME .
 newads.bangbros.com CNAME .
 newadsclicks.com CNAME .
 newagerevenue.com CNAME .
+newales.ru CNAME .
 newallsmi.ru CNAME .
 newanons.ru CNAME .
 newaprads.com CNAME .
@@ -28072,6 +28114,7 @@ ohmwrite.com CNAME .
 ohmyad.co CNAME .
 ohmydating.com CNAME .
 ohnohaijfq.com CNAME .
+ohonorpod.site CNAME .
 ohoslot.com CNAME .
 ohpojzltnt.bid CNAME .
 ohprlushvz.com CNAME .
@@ -28351,6 +28394,7 @@ onerror.ml CNAME .
 onerror.tk CNAME .
 ones-story.ru CNAME .
 onesebab.pro CNAME .
+onesegreativec.site CNAME .
 onespot.com CNAME .
 onestarblog.ru CNAME .
 onestepproductions.online CNAME .
@@ -28715,8 +28759,10 @@ otclick-adv.ru CNAME .
 otcqlckpafizv.bid CNAME .
 otcxzgcu.com CNAME .
 otdgnmvw.com CNAME .
+otdsngganpsgru.com CNAME .
 otefauks.link CNAME .
 otegika.ru CNAME .
+otentieschoo.site CNAME .
 otewxlcmkih.com CNAME .
 otfquqgqvsjof.com CNAME .
 otgerpesa.ru CNAME .
@@ -29586,6 +29632,7 @@ personalki.net CNAME .
 personalspy.ru CNAME .
 perstago.pro CNAME .
 pertholin.com CNAME .
+pertycleaner.site CNAME .
 pervoevtoroe.ru CNAME .
 perymiynf.com CNAME .
 pesbqkopdm.com CNAME .
@@ -29605,6 +29652,7 @@ peypcjxllo.bid CNAME .
 peyttlwbznahi.com CNAME .
 pezrphjl.com CNAME .
 pf34zdjoeycr.com CNAME .
+pf4y2a54hx.com CNAME .
 pfcjhjogq.com CNAME .
 pfdctvdgjw.com CNAME .
 pffw8mgd.com CNAME .
@@ -29790,6 +29838,7 @@ pifaojvaiofw.com CNAME .
 piframe.tk CNAME .
 pifsistcwycouc.com CNAME .
 pifvfovy.biz CNAME .
+piginkdos.com CNAME .
 pigiuqproxy.com CNAME .
 pigment-adv.co.il CNAME .
 piifwkvdil.com CNAME .
@@ -31202,7 +31251,6 @@ pubgears.com CNAME .
 pubgenius.io CNAME .
 pubguru.com CNAME .
 pubinteractive.ca CNAME .
-public.libertyvf.org CNAME .
 public.porn.fr CNAME .
 publicidad.net CNAME .
 publicideas.com CNAME .
@@ -33273,6 +33321,7 @@ rheaddelainlyco.info CNAME .
 rhfgjld.com CNAME .
 rhgyg.com CNAME .
 rhinecliffstarkville.com CNAME .
+rhkwknlpkiqb.com CNAME .
 rhmyiplqmuupmf.com CNAME .
 rhnw4h506h.com CNAME .
 rholi.ru CNAME .
@@ -34002,6 +34051,7 @@ rzhujam.com CNAME .
 rzizcnhoobxw.com CNAME .
 rzjhxwfbxp.com CNAME .
 rzmrzylebgq.com CNAME .
+rzrkrotgh.com CNAME .
 rzrprk.win CNAME .
 rzuwelgm.com CNAME .
 rzviy.com CNAME .
@@ -35174,6 +35224,7 @@ sieumang.com CNAME .
 sifakaoshi360.com CNAME .
 sifuglie.com CNAME .
 sigbusa.com CNAME .
+sightcoloniansy.site CNAME .
 sigmaad.com CNAME .
 signoredom.com CNAME .
 signout.website CNAME .
@@ -36745,6 +36796,7 @@ sxying.top CNAME .
 sxympy.com CNAME .
 sxz67.com CNAME .
 sxzdxiskr.com CNAME .
+sxzemwijeyqxg.com CNAME .
 sxzffgjzaohtf.com CNAME .
 sxzmj.cn CNAME .
 sxzzhj.com CNAME .
@@ -37723,6 +37775,7 @@ tinypass.com CNAME .
 tiojk.com CNAME .
 tionpronomyim.info CNAME .
 tionscofferent.info CNAME .
+tiontablyvern.site CNAME .
 tiozao.net CNAME .
 tip-ads.de CNAME .
 tipebixartbli.ml CNAME .
@@ -38043,6 +38096,7 @@ tonlive.com CNAME .
 tonopole.com CNAME .
 tonsterandhantan.info CNAME .
 tonstiparro.info CNAME .
+tontent.powvideo.net CNAME .
 tontwiredat.info CNAME .
 tonvkjxfovo.com CNAME .
 toodlepork.com CNAME .
@@ -38724,6 +38778,7 @@ tricsdqejmu.com CNAME .
 trigami.com CNAME .
 trigr.co CNAME .
 trigub.ru CNAME .
+trikersuccessar.site CNAME .
 trikroacha.com CNAME .
 trilebas.ru CNAME .
 trimontbrewer.com CNAME .
@@ -39401,6 +39456,7 @@ uizhcjow.com CNAME .
 uj0g7.com CNAME .
 uj9ikv3z3jl4.com CNAME .
 ujccccb.com CNAME .
+ujesnwjqowcru.com CNAME .
 ujian.cc CNAME .
 ujieva.com CNAME .
 ujikdd041o.cn CNAME .
@@ -39950,6 +40006,7 @@ uwxldrvqyk.com CNAME .
 uxbewzrfyp.com CNAME .
 uxernab.com CNAME .
 uxibiysrllgnn.com CNAME .
+uxideepwawz.com CNAME .
 uxkkltrrxlowzo.com CNAME .
 uxlkeovekhbs.com CNAME .
 uxlkqeiez.com CNAME .
@@ -40571,6 +40628,7 @@ vijune.com CNAME .
 vikings-streaming.fr CNAME .
 viksate.com CNAME .
 viliaff.com CNAME .
+villandopingcon.site CNAME .
 vilumirian.biz CNAME .
 vim100.ru CNAME .
 vimart16.com CNAME .
@@ -42235,6 +42293,7 @@ wowmoscow.ru CNAME .
 wowodarta.com CNAME .
 wowoyy.cc CNAME .
 woxvgdtje.com CNAME .
+woymebsi.com CNAME .
 woyvk.cn CNAME .
 wozltvfxtntaqk.com CNAME .
 wp-cdn.cityads.com CNAME .
@@ -62871,6 +62930,7 @@ xiarikui08.com CNAME .
 xiaxuanfu.com CNAME .
 xibei70.com CNAME .
 xibnqcksoax.com CNAME .
+xicoef.com CNAME .
 xidexableact.cn CNAME .
 xidx.org CNAME .
 xidxivhiior.com CNAME .
@@ -63602,6 +63662,7 @@ ydoksieuml.com CNAME .
 ydolseawnutnf.com CNAME .
 ydouu.com CNAME .
 ydqzkj.com CNAME .
+ydrinkletremem.site CNAME .
 ydsnqaekjr.com CNAME .
 ydsts.ru CNAME .
 ydthazdza.com CNAME .
@@ -63666,6 +63727,7 @@ yestedun.info CNAME .
 yestorrents.org CNAME .
 yetaiguang.cn CNAME .
 yeuotdalcxqwr.com CNAME .
+yeuropertsp.site CNAME .
 yexfes.com CNAME .
 yeyajipp.com CNAME .
 yezijizhang.com CNAME .

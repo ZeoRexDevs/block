@@ -1,8 +1,8 @@
 # Title: adguard-spyware-firstparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - 10.04.2020
-# Total Domains - 1077
+# Last Converted - 11.04.2020
+# Total Domains - 1078
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -636,6 +636,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 repdata.usatoday.com
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 rrss.abc.es
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.visilabs.net
 0.0.0.0 rta2.metro.co.uk
