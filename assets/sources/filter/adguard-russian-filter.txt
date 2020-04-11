@@ -1,8 +1,8 @@
 # Title: adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 11.04.2020
-# Total Domains - 3307
+# Last Converted - 12.04.2020
+# Total Domains - 3309
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -695,6 +695,7 @@
 0.0.0.0 cleen.ru
 0.0.0.0 click-da-click.com
 0.0.0.0 click.ad1.ru
+0.0.0.0 click.zmctrack.net
 0.0.0.0 click2sell.eu
 0.0.0.0 clickandjoinyourgirl.com
 0.0.0.0 clickbaza.com
@@ -1675,6 +1676,7 @@
 0.0.0.0 marketgid.com
 0.0.0.0 marketgid.info
 0.0.0.0 marketnews.pw
+0.0.0.0 masddf.pro
 0.0.0.0 mastertarget.ru
 0.0.0.0 masudel.com
 0.0.0.0 mateast.com
