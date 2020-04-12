@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts IPV6
-# Version: 20.04.103
-# Release: 103
-# Entries: 65,392
+# Version: 20.04.104
+# Release: 104
+# Entries: 65,440
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 12 Apr 20 00:17:16
+# Updated: Mon, 13 Apr 20 00:18:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -834,6 +834,7 @@ ff02::3 ip6-allhosts
 :: 2f.com
 :: 2f106934890be9372e52.date
 :: 2f3f6a0f63ef7b84f265.date
+:: 2f48a41ea4.com
 :: 2f5a1f1fab21a56.com
 :: 2f61jupxdpv.space
 :: 2fnrc.cn
@@ -1154,6 +1155,7 @@ ff02::3 ip6-allhosts
 :: 41msl.cn
 :: 420147981.world
 :: 421npyd4nd.com
+:: 4232f0badcf.com
 :: 4256b23b681.com
 :: 42632zfylf.com
 :: 42a5d530ec972d8994.com
@@ -1183,6 +1185,7 @@ ff02::3 ip6-allhosts
 :: 45eijvhgj2.com
 :: 45f2373b26b8e2.com
 :: 45i73jv6.com
+:: 45xa.cn
 :: 4623.ru
 :: 46779ff4.net
 :: 468.vologdainfo.ru
@@ -1305,6 +1308,7 @@ ff02::3 ip6-allhosts
 :: 512226d4c3039765.com
 :: 5125129.com
 :: 5151gj.com
+:: 517kp.com
 :: 517m.cn
 :: 517pass.com
 :: 517xx.com
@@ -1612,6 +1616,7 @@ ff02::3 ip6-allhosts
 :: 6e1167fc12a.com
 :: 6e2f1d2ae033.com
 :: 6ea56485aed0c.com
+:: 6ed0a6630b.com
 :: 6eez7ouig7gwguf6.pro
 :: 6f2tjr26.top
 :: 6fa5633abf4b53a1.com
@@ -2581,6 +2586,7 @@ ff02::3 ip6-allhosts
 :: acbsuicxkoyef.com
 :: acceder.gratis
 :: accelacomm.com
+:: acceptiongere.site
 :: acces-charme.com
 :: acces-pills.com
 :: accesporno.com
@@ -5497,6 +5503,7 @@ ff02::3 ip6-allhosts
 :: amenop.com
 :: amensh.cn
 :: amertazy.com
+:: amesgraduatel.site
 :: amfeed.ru
 :: amgdgt.com
 :: amgload.net
@@ -6391,6 +6398,7 @@ ff02::3 ip6-allhosts
 :: audriasite.pro
 :: audtd.com
 :: aufderhar.link
+:: aughedbannel.site
 :: augheguw.net
 :: augnuxun.net
 :: augrenso.com
@@ -9532,6 +9540,7 @@ ff02::3 ip6-allhosts
 :: certakes.com
 :: certakesime.site
 :: certified-apps.com
+:: cesikelylibrarie.site
 :: cespousseluniv.info
 :: cetedaninghining.pro
 :: cetoftit.ru
@@ -9810,6 +9819,7 @@ ff02::3 ip6-allhosts
 :: chrek.stdout.cz
 :: christinehris.com
 :: christingel.com
+:: christinglatvian.site
 :: chromc.com
 :: chromebrowser.ru
 :: chrommotor.com
@@ -10163,6 +10173,7 @@ ff02::3 ip6-allhosts
 :: clierets.com
 :: clifftopper.com
 :: cliipa.com
+:: clineddivoryr.site
 :: clink.nifty.com
 :: clintads.com
 :: clip.vclick.vn
@@ -10654,6 +10665,7 @@ ff02::3 ip6-allhosts
 :: contextualyield.com
 :: contextweb.com
 :: contineljs.com
+:: continelyfas.site
 :: continuedsys.cn
 :: contions.pro
 :: contlist.com
@@ -12128,6 +12140,7 @@ ff02::3 ip6-allhosts
 :: dawnupdate.xyz
 :: dawwx.com
 :: dax3x3wqpt2q3.cloudfront.net
+:: daxijia.cn
 :: daxishi.com
 :: daxueshengqiandai.com
 :: dayadopen.site
@@ -12311,6 +12324,7 @@ ff02::3 ip6-allhosts
 :: defaultdsp.contineljs.com
 :: defaultimg.com
 :: defeatural.com
+:: defeatureother.site
 :: definitedikdra.site
 :: definitial.com
 :: defiru.com
@@ -14183,6 +14197,7 @@ ff02::3 ip6-allhosts
 :: elcolpplwua.com
 :: elcomercio.pe
 :: elded.eu
+:: eldedtickered.site
 :: eldersvillewarrenville.com
 :: eldogal.info
 :: eleasuredfas.info
@@ -14254,6 +14269,7 @@ ff02::3 ip6-allhosts
 :: emarketing.eclick.vn
 :: emarketing.net.sa
 :: ematicsolutions.com
+:: embargainew.site
 :: embed.powercontent.pl
 :: embed.tawk.to
 :: embed.tonews.org
@@ -14592,6 +14608,7 @@ ff02::3 ip6-allhosts
 :: esupersony.info
 :: esuuqqdmsuil.com
 :: esuzm.cn
+:: eswaldderinao.site
 :: esyzdb.com
 :: eszkrcviokckfb.com
 :: eszpmsipks.com
@@ -15325,6 +15342,7 @@ ff02::3 ip6-allhosts
 :: feedbackrights.com
 :: feedgist.com
 :: feedify.net
+:: feedinburgew.site
 :: feedjit.com
 :: feeds.videosz.com
 :: feefbb88a9.com
@@ -15424,6 +15442,7 @@ ff02::3 ip6-allhosts
 :: ffpnlrnmfyeqx.com
 :: ffqpdpezdmnpb.com
 :: ffsky.net
+:: fftpzrscirdagr.com
 :: fftrk.com
 :: ffwap.com
 :: ffwlbiabff.com
@@ -16229,6 +16248,7 @@ ff02::3 ip6-allhosts
 :: fullspeeddownload.com
 :: fulltraffic.net
 :: fultop.biz
+:: fun.content.ninjakiwi.com
 :: fun.wormania.io
 :: fun1.arcadeprehacks.com
 :: fun8.us
@@ -17854,6 +17874,7 @@ ff02::3 ip6-allhosts
 :: gwpjvfqeui.com
 :: gwucenxvmkowap.com
 :: gwudu.com
+:: gwwhheahisrtld.com
 :: gwwzlwibbws.com
 :: gwxaulcgmizcq.com
 :: gwxpv.com
@@ -18091,6 +18112,7 @@ ff02::3 ip6-allhosts
 :: hartsfieldrowesville.salleyoklaunion.com
 :: hasan-liebt.de
 :: hascosafety.com
+:: hasdarot.com
 :: hash-hash-tag.com
 :: hashalre.uk
 :: hashcoin.co
@@ -20232,6 +20254,7 @@ ff02::3 ip6-allhosts
 :: intimmag.ru
 :: intimshop.ru
 :: intimznaki.tomsk.ru
+:: intinuedbgyuj.site
 :: intkeys.com
 :: intnative.com
 :: intopicmedia.com
@@ -20771,6 +20794,7 @@ ff02::3 ip6-allhosts
 :: jcdfdhx.top
 :: jcelyj.com
 :: jchais.com
+:: jchgcipyywszqt.com
 :: jchhompudl.com
 :: jcjrcmaunbqxg.com
 :: jcllysqtvlro.com
@@ -24556,6 +24580,7 @@ ff02::3 ip6-allhosts
 :: marvelmanager.com
 :: marvilias.com
 :: marvin.pw
+:: marwinhitted.site
 :: mas-e.cds1.yospace.com
 :: masatv.com
 :: mascqybw.com
@@ -25835,6 +25860,7 @@ ff02::3 ip6-allhosts
 :: mopushy.com
 :: mopxhrgiyybr.com
 :: moradu.com
+:: morazormands.site
 :: morbitempus.com
 :: mordi.fun
 :: mordi.xyz
@@ -27073,6 +27099,7 @@ ff02::3 ip6-allhosts
 :: ngfsciiu.com
 :: ngholishingsm.info
 :: ngjzmt.com
+:: ngleaccinemad.site
 :: nglmedia.com
 :: nglrbsnu.com
 :: ngmhnamtzgzabg.com
@@ -28922,6 +28949,7 @@ ff02::3 ip6-allhosts
 :: ovcksawwem.com
 :: ovcmqf.com
 :: ovczxzkfkfbb.com
+:: ovementerter.site
 :: overely.com
 :: overhaps.com
 :: overlays.next-targeting.com
@@ -29122,6 +29150,7 @@ ff02::3 ip6-allhosts
 :: paads.dk
 :: paakkisuvs.com
 :: pababy.cn
+:: pabhagivene.site
 :: pabliri.ru
 :: pacific-yield.com
 :: pacificpoker.com
@@ -29538,6 +29567,7 @@ ff02::3 ip6-allhosts
 :: pdkuai.com
 :: pdloo.com
 :: pdmayt.com
+:: pdmtmribgaqctz.com
 :: pdmucolwl.com
 :: pdn-1.com
 :: pdn-2.com
@@ -29942,7 +29972,6 @@ ff02::3 ip6-allhosts
 :: pirastic.com
 :: piratebayproxies.cc
 :: piratecityfile.host
-:: pirateiro.com
 :: piratepc.net
 :: piratman.com
 :: pirchio.com
@@ -30875,6 +30904,7 @@ ff02::3 ip6-allhosts
 :: problogrus.ru
 :: probtn.com
 :: proccurs.com
+:: processaryen.site
 :: proche2moi.com
 :: procheb.ru
 :: proclick24.online
@@ -31927,6 +31957,7 @@ ff02::3 ip6-allhosts
 :: qgnakeddgtdw.com
 :: qgnlbjkxrzb.com
 :: qgnneaeagxaypp.com
+:: qgnqsebea.com
 :: qgpmtdrm.com
 :: qgraprebabxo.com
 :: qgrazpvofra.com
@@ -33120,6 +33151,7 @@ ff02::3 ip6-allhosts
 :: relaxmybody.ru
 :: relaxspace.com.cn
 :: release-me.ru
+:: releasurezesa.site
 :: relestar.com
 :: relevanti.com
 :: relevisibly.com
@@ -33309,6 +33341,7 @@ ff02::3 ip6-allhosts
 :: rewartific.com
 :: rewdinghes.com
 :: rewenoughteenin.info
+:: rewhichesa.info
 :: rewords.pl
 :: rexadvert.xyz
 :: rexbucks.com
@@ -33348,6 +33381,7 @@ ff02::3 ip6-allhosts
 :: rgbperf.com
 :: rgcblgor.com
 :: rgdhct.cn
+:: rgdhiucvbtkpou.com
 :: rgegqcdakbe.com
 :: rgejlqtlr.com
 :: rgiijsfm.com
@@ -34785,6 +34819,7 @@ ff02::3 ip6-allhosts
 :: serconius.com
 :: serconmp.com
 :: serdce-volgi.ru
+:: seret.live
 :: sergey-mavrodi-mmm.net
 :: sergey-mavrodi.com
 :: sergh34ds.com
@@ -35489,6 +35524,7 @@ ff02::3 ip6-allhosts
 :: slivercommander.cn
 :: slivz.com
 :: sloansagnersro.com
+:: sloeri.com
 :: sloi1.com
 :: slontube.net
 :: slopeac.com
@@ -36500,6 +36536,7 @@ ff02::3 ip6-allhosts
 :: stremanp.com
 :: stresee.com
 :: stresune.info
+:: strialcurity.site
 :: strichka.com
 :: striere.com
 :: striesastanov.site
@@ -36721,6 +36758,7 @@ ff02::3 ip6-allhosts
 :: surfingpaths.com
 :: surgajudi.com
 :: surgeprice.com
+:: surgermystem.site
 :: surmoss.co
 :: surquvsx.com
 :: survey-poll.com
@@ -37517,6 +37555,7 @@ ff02::3 ip6-allhosts
 :: tfilm.tv
 :: tfjfcvhvudxf.com
 :: tfjqjhcwlfhicn.com
+:: tfncnhd8p95c.com
 :: tfqexqeldxjvet.com
 :: tft-test.ru
 :: tfuyqoxs.com
@@ -39621,6 +39660,7 @@ ff02::3 ip6-allhosts
 :: uncyane.com
 :: undedcontried.info
 :: undedly.com
+:: undedsunbese.site
 :: undef8trust.com
 :: under-click.ru
 :: under2given.com
@@ -40386,6 +40426,7 @@ ff02::3 ip6-allhosts
 :: ver-pelis.me
 :: ver-pelis.net
 :: veracdn.xyz
+:: verageousarra.site
 :: verblife-2.co
 :: verblife-3.co
 :: verdoledran.ru
@@ -40396,6 +40437,7 @@ ff02::3 ip6-allhosts
 :: vergestatic.com
 :: vergevs.com
 :: verhedttot.pro
+:: verified-extensions.com
 :: verifier.live
 :: verifyzone.net
 :: verkolasti.pw
@@ -40588,6 +40630,7 @@ ff02::3 ip6-allhosts
 :: videomore.ru
 :: videonas.eu
 :: videondun.com
+:: videonews24.online
 :: videonow.ru
 :: videoplayerhub.com
 :: videoplayerscript.club
@@ -41007,6 +41050,7 @@ ff02::3 ip6-allhosts
 :: votdengi.club
 :: vote.admicro.vn
 :: vote4me.de
+:: voterialijikol.site
 :: votetraffic.ru
 :: vouceeco.com
 :: vouekcjmiu.com
@@ -41917,6 +41961,7 @@ ff02::3 ip6-allhosts
 :: whjibbprhng.com
 :: whjwcghg.com
 :: whjxqqdhfp.com
+:: whkwpzz.cn
 :: whlugpfcuvryx.com
 :: whlvjuprdpkg.com
 :: whoapoan.top
@@ -42211,6 +42256,7 @@ ff02::3 ip6-allhosts
 :: wmbankir.ru
 :: wmbgmyyxyz.com
 :: wmcasher.ru
+:: wmcdn.net
 :: wmclickz.ru
 :: wmdstat.dev-sanook.com
 :: wme.biz
@@ -63746,6 +63792,7 @@ ff02::3 ip6-allhosts
 :: yebojewh.com
 :: yebpettlkcqm.com
 :: yecxfxsbkb.com
+:: yeegsxcwbnn.com
 :: yeesshh.com
 :: yefttzzn.com
 :: yehazsnxdevr.com
@@ -64094,6 +64141,7 @@ ff02::3 ip6-allhosts
 :: yoomedia.de
 :: yootui19999.com
 :: yopik.club
+:: yoqpnkhl.com
 :: yoredi.com
 :: yorilada.com
 :: yoshatia.com
