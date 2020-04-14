@@ -1,8 +1,8 @@
 # Title: adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last Converted - 14.04.2020
-# Total Domains - 4216
+# Last Converted - 15.04.2020
+# Total Domains - 4219
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -627,6 +627,7 @@
 0.0.0.0 bux1le001.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 bytemgdd.com
+0.0.0.0 byteoversea.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 c-o-u-n-t.com
 0.0.0.0 c.bigmir.net
@@ -1237,7 +1238,6 @@
 0.0.0.0 engine64.com
 0.0.0.0 enhance.com
 0.0.0.0 enquisite.com
-0.0.0.0 ensighten.com
 0.0.0.0 enticelabs.com
 0.0.0.0 ep.xone.com
 0.0.0.0 eperfectdata.com
@@ -3171,7 +3171,9 @@
 0.0.0.0 speedcurve.com
 0.0.0.0 speedtracker.de
 0.0.0.0 spelar.org
+0.0.0.0 spellsalsa.com
 0.0.0.0 spider-mich.com
+0.0.0.0 spkrth.scw.systems
 0.0.0.0 splittag.com
 0.0.0.0 splurgi.com
 0.0.0.0 splyt.com
@@ -3840,6 +3842,7 @@
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us
 0.0.0.0 trl.upperbooking.com
+0.0.0.0 troubledtail.com
 0.0.0.0 trovus.co.uk
 0.0.0.0 tru.am
 0.0.0.0 truckstomatoes.com

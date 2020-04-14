@@ -1,8 +1,8 @@
 # Title: adguard-spanish-portuguese-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/9.txt
-# Last Converted - 14.04.2020
-# Total Domains - 177
+# Last Converted - 15.04.2020
+# Total Domains - 176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -69,7 +69,6 @@
 0.0.0.0 direcionando.baixedetudo.net
 0.0.0.0 diximedia.es
 0.0.0.0 dozcpc.com
-0.0.0.0 elcomercio.pe
 0.0.0.0 epartner.es
 0.0.0.0 estadisticas.lanacion.com.ar
 0.0.0.0 estaticos.soitu.es
