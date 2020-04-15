@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 15.04.2020
-# Total Domains - 2858
+# Last Converted - 16.04.2020
+# Total Domains - 2861
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -726,6 +726,7 @@
 0.0.0.0 dmpxs.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtry.com
+0.0.0.0 dmzls.safe-installation.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 docksalmon.com
 0.0.0.0 doclix.com
@@ -733,6 +734,7 @@
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
 0.0.0.0 doomna.com
+0.0.0.0 doorbrazil.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.net
@@ -1787,6 +1789,7 @@
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.safe-installation.com
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelrevenue.com
