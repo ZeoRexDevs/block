@@ -1,8 +1,8 @@
 # Title: stopforumspam.com Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
-# Last Converted - 16.04.2020
-# Total Domains - 11755
+# Last Converted - 17.04.2020
+# Total Domains - 11756
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7093,6 +7093,7 @@
 0.0.0.0 msd-tech.com
 0.0.0.0 msexchange.twitpost.info
 0.0.0.0 msmail.bid
+0.0.0.0 msmail.cf
 0.0.0.0 msmail.ml
 0.0.0.0 msmail.trade
 0.0.0.0 msmail.website

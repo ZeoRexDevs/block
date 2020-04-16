@@ -1,8 +1,8 @@
 # Title: quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Last Converted - 16.04.2020
-# Total Domains - 12889
+# Last Converted - 17.04.2020
+# Total Domains - 12890
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12777,6 +12777,7 @@
 0.0.0.0 vilynx.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 visistat.com
+0.0.0.0 visitor-analytics.io
 0.0.0.0 visitortracklog.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 visualwebsiteoptimizer.com
