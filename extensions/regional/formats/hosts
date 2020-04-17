@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.04.108
-# Release: 108
-# Entries: 65,566
+# Version: 20.04.109
+# Release: 109
+# Entries: 65,634
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 17 Apr 20 00:16:16
+# Updated: Sat, 18 Apr 20 00:17:48
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -720,6 +720,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 247view.net
 0.0.0.0 2481e.com
 0.0.0.0 24ad89fc2690ed9369.com
+0.0.0.0 24h-ad.24hstatic.com
+0.0.0.0 24h-ipad-ad.24hstatic.com
 0.0.0.0 24haitao.net
 0.0.0.0 24hpoker.com
 0.0.0.0 24molnia.com
@@ -2699,6 +2701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-1.me
 0.0.0.0 ad-2.me
 0.0.0.0 ad-3.me
+0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 ad-api.cnblogs.com
@@ -2718,6 +2721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-ettoday.cdn.hinet.net
+0.0.0.0 ad-eva.24hstatic.com
 0.0.0.0 ad-flow.com
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-generator.info
@@ -2729,6 +2733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-indicator.com
 0.0.0.0 ad-lead.com
 0.0.0.0 ad-log.dable.io
+0.0.0.0 ad-m.24hstatic.com
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-maven.com
@@ -2764,6 +2769,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-traffic.de
 0.0.0.0 ad-trip.com
 0.0.0.0 ad-u.com
+0.0.0.0 ad-us.24hstatic.com
 0.0.0.0 ad-vanx.fuseplatform.net
 0.0.0.0 ad-vice.biz
 0.0.0.0 ad.1k3.com
@@ -2943,6 +2949,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.vider.pl
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
+0.0.0.0 ad.vnnayngaytin.vn
 0.0.0.0 ad.vo-media.ru
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.webservis.gen.tr
@@ -3018,6 +3025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adacgov.cn
 0.0.0.0 adaction.se
 0.0.0.0 adacts.com
+0.0.0.0 adadmin.headlines.pw
 0.0.0.0 adadmin.house365.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adafazerub.com
@@ -3339,6 +3347,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adhood.com
 0.0.0.0 adhost.se
 0.0.0.0 adhostingsolutions.com
+0.0.0.0 adhouse.cubecdn.net
 0.0.0.0 adhouyi.com
 0.0.0.0 adhslx.com
 0.0.0.0 adhub.ru
@@ -3745,6 +3754,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adpop-1.com
 0.0.0.0 adpopcon.com
 0.0.0.0 adport.io
+0.0.0.0 adpostback.headlines.pw
 0.0.0.0 adpozitif.com
 0.0.0.0 adppv.com
 0.0.0.0 adpredictive.com
@@ -4476,6 +4486,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adversni.com
 0.0.0.0 adversolutions.com
 0.0.0.0 adversting.riamedia.com.ua
+0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advert-content.com
 0.0.0.0 advert-layer.de
 0.0.0.0 advert.polonsil.ru
@@ -5348,6 +5359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aliscaton.com
 0.0.0.0 alishop7.ru
 0.0.0.0 alisinak.com
+0.0.0.0 alitarget.ru
 0.0.0.0 alitianxia168.com
 0.0.0.0 aliticalpassister.info
 0.0.0.0 alitui.weibo.com
@@ -5857,6 +5869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.pubnative.net
+0.0.0.0 api.pushdi.com
 0.0.0.0 api.reon.club
 0.0.0.0 api.rnet.plus
 0.0.0.0 api.safedk.com
@@ -6284,6 +6297,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assandart.site
 0.0.0.0 assantie.com
 0.0.0.0 assapebat.club
+0.0.0.0 asset.bidgear.com
 0.0.0.0 assetize.com
 0.0.0.0 assets.adnuntius.com
 0.0.0.0 assets.applovin.com
@@ -7650,6 +7664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bfkpzjqpawfu.com
 0.0.0.0 bfmrffluuazwn.com
 0.0.0.0 bformu12.tk
+0.0.0.0 bfp.bidgear.com
 0.0.0.0 bfrhqyaxtxbq.com
 0.0.0.0 bftmphbwpwnnt.com
 0.0.0.0 bfvkxdhrnx.com
@@ -7950,6 +7965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bkuubwuarrkxk.com
 0.0.0.0 bkvwnbkq.com
 0.0.0.0 bkyhq.cn
+0.0.0.0 bkzisok.cn
 0.0.0.0 bl.wavecdn.de
 0.0.0.0 bl0uxepb4o.com
 0.0.0.0 bla01.com
@@ -9320,6 +9336,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.autoads.asia
 0.0.0.0 cdn.batmobi.net
+0.0.0.0 cdn.bidgear.com
 0.0.0.0 cdn.cityads.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.comparecards.com
@@ -9366,6 +9383,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.prihuntercity.com
+0.0.0.0 cdn.pushdy.com
 0.0.0.0 cdn.q.gs
 0.0.0.0 cdn.qc.coccoc.com
 0.0.0.0 cdn.raygun.io
@@ -11708,6 +11726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2od2b2huvmzuj.cloudfront.net
 0.0.0.0 d2ov8u95yeeh5v.cloudfront.net
+0.0.0.0 d2ox6x0y9xhicd.cloudfront.net
 0.0.0.0 d2pppxxtaciku9.cloudfront.net
 0.0.0.0 d2psf55e0gm6yv.cloudfront.net
 0.0.0.0 d2pxbld8wrqyrk.cloudfront.net
@@ -12423,6 +12442,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 deltatoto.com
 0.0.0.0 deltax.com
 0.0.0.0 deltomix.ru
+0.0.0.0 demand.bidgear-syndication.com
+0.0.0.0 demand.bidgear.com
 0.0.0.0 dematom.com
 0.0.0.0 demdex.net
 0.0.0.0 demetsik.com
@@ -14750,6 +14771,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 euzavnv.info
 0.0.0.0 euzlyrzg.com
 0.0.0.0 ev2cdn.com
+0.0.0.0 eva-ad.24hstatic.com
+0.0.0.0 eva-ipad-ad.24hstatic.com
 0.0.0.0 evadavdsp.pro
 0.0.0.0 evaff.com
 0.0.0.0 evaffwmdjgtn.com
@@ -14767,6 +14790,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 event.adpia.vn
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.headlines.pw
+0.0.0.0 event.vntoday.news
 0.0.0.0 eventifiederik.pro
 0.0.0.0 eventlittrecet.ru
 0.0.0.0 eventraliaclinental.info
@@ -17038,6 +17062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ghaszdguvrtnb.com
 0.0.0.0 ghdccdtxvnpo.com
 0.0.0.0 ghejbdgefhfjhhbgaee.ru
+0.0.0.0 ghimc.vn
 0.0.0.0 ghjlhnbc.com
 0.0.0.0 ghjwogfexch.com
 0.0.0.0 ghkajgexob.com
@@ -17074,6 +17099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gigamega.ru
 0.0.0.0 gigapromo.de
 0.0.0.0 gigbc.net
+0.0.0.0 gigbyefly.com
 0.0.0.0 gigvyvqe.com
 0.0.0.0 giinmwnwsid.com
 0.0.0.0 gilfordboyers.com
@@ -17302,6 +17328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gnamwmixa.com
 0.0.0.0 gnativestreesaga.site
 0.0.0.0 gndrglsn.com
+0.0.0.0 gneusqa.cn
 0.0.0.0 gnezdo.ru
 0.0.0.0 gnkpuprxa.com
 0.0.0.0 gnmbd.top
@@ -19984,8 +20011,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 imobilco.ru
 0.0.0.0 imonomy.com
 0.0.0.0 imounsos.com
+0.0.0.0 imp-dsp.bidgear-syndication.com
+0.0.0.0 imp-dsp.bidgear.com
 0.0.0.0 imp.adnetwork.vn
 0.0.0.0 imp.ambient-platform.com
+0.0.0.0 imp.bidgear.com
 0.0.0.0 imp.gammaplatform.com
 0.0.0.0 imp.m.ambient-platform.com
 0.0.0.0 imp.m.ambientplatform.vn
@@ -22199,6 +22229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kjltrjvjfran.com
 0.0.0.0 kjlvutytm.com
 0.0.0.0 kjos.vo.llnwd.net
+0.0.0.0 kjrjvvxcg.com
 0.0.0.0 kjsedplonmifbe.com
 0.0.0.0 kjtcdiyzd.com
 0.0.0.0 kjwx8.com
@@ -22645,6 +22676,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kxpkadaivbm.com
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 kxrxh.com
+0.0.0.0 kxswxnbr.com
 0.0.0.0 kxujlopfsmttyc.com
 0.0.0.0 kxuztynmbquxcf.com
 0.0.0.0 kxvzsil2.ru
@@ -23780,9 +23812,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamnetad.vn
 0.0.0.0 log.vietnamplus.vn
+0.0.0.0 log.vnay.vn
+0.0.0.0 log.vntoday.news
 0.0.0.0 log.vov.vn
 0.0.0.0 log.yeah1media.vn
 0.0.0.0 log.zingmp3.vn
+0.0.0.0 log.zingnews.vn
 0.0.0.0 log1.adsplay.net
 0.0.0.0 log2.adsplay.net
 0.0.0.0 log2.ru
@@ -23915,6 +23950,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 lotospoker.com
 0.0.0.0 lotraden.online
 0.0.0.0 lotsofslots.net
+0.0.0.0 lottery.headlines.pw
+0.0.0.0 lottery.vntoday.news
 0.0.0.0 lotteryaffiliates.com
 0.0.0.0 lotto770.com
 0.0.0.0 loudads.net
@@ -27667,6 +27704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntkuokicthbxc.com
 0.0.0.0 ntlhrttump.com
 0.0.0.0 ntlyaccessfulsp.info
+0.0.0.0 ntlzbnmyukos.com
 0.0.0.0 ntnmliatmtk.com
 0.0.0.0 ntosarang.com
 0.0.0.0 ntoyqqrwrmzr.com
@@ -27741,6 +27779,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 nuxdkxknj.com
 0.0.0.0 nuxsmhexm.com
 0.0.0.0 nuxyz.cn
+0.0.0.0 nv-ad-hcm.24hstatic.com
+0.0.0.0 nv-ad-hn.24hstatic.com
+0.0.0.0 nv-ad.24hstatic.com
 0.0.0.0 nv43.com
 0.0.0.0 nvane.com
 0.0.0.0 nvcwpexqk.com
@@ -28155,6 +28196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offerserve.com
 0.0.0.0 offersprovider.widget.onet.pl
 0.0.0.0 offersquared.com
+0.0.0.0 offerwall.headlines.pw
 0.0.0.0 offhealth.ru
 0.0.0.0 office.ad1.ru
 0.0.0.0 officeme.cn
@@ -28692,6 +28734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 openads.ab-daily.by
 0.0.0.0 openadserving.com
 0.0.0.0 openbook.net
+0.0.0.0 opencaded.online
 0.0.0.0 opencdb84507.com
 0.0.0.0 opencdb84508.com
 0.0.0.0 opencdb84509.com
@@ -29215,6 +29258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p30rank.ir
 0.0.0.0 p3tt.com
 0.0.0.0 p5genexs.com
+0.0.0.0 p6p2w3v92czo.com
 0.0.0.0 p74.cc
 0.0.0.0 p78lld1s.top
 0.0.0.0 p8u.hinet.net
@@ -30186,6 +30230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plastir-hyperost.biz
 0.0.0.0 platado.com
 0.0.0.0 platform.bidgear.com
+0.0.0.0 platform1.bidgear.com
 0.0.0.0 platformbot.xyz
 0.0.0.0 plathwardsve.site
 0.0.0.0 platine.org
@@ -31276,6 +31321,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psulsobi.net
 0.0.0.0 psurdoak.com
 0.0.0.0 psvdblzcgnjj.com
+0.0.0.0 psvgnczo.com
 0.0.0.0 pswlvlauz.bid
 0.0.0.0 pswucdobdvt.com
 0.0.0.0 psxnwzksttygfs.com
@@ -31531,8 +31577,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushbasic.com
 0.0.0.0 pushbasitop.ru
 0.0.0.0 pushcentr.com
+0.0.0.0 pushdi.com
 0.0.0.0 pushdom.co
 0.0.0.0 pushdusk.com
+0.0.0.0 pushdy.com
+0.0.0.0 pushdy.vn
 0.0.0.0 pushebrod.com
 0.0.0.0 pusheds.info
 0.0.0.0 pushego.com
@@ -32716,6 +32765,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.pless.nazwa.pl
 0.0.0.0 r.qip.ru
 0.0.0.0 r.radikal.ru
+0.0.0.0 r.tinmoi24.vn
 0.0.0.0 r.topdent.ru
 0.0.0.0 r.toplaygame.ru
 0.0.0.0 r01.website
@@ -32894,6 +32944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rckpwmhqz.com
 0.0.0.0 rclmc.top
 0.0.0.0 rcogzcsan.com
+0.0.0.0 rcqzgq.com
 0.0.0.0 rcsadv.it
 0.0.0.0 rcscaxhjmm.com
 0.0.0.0 rcudacimrqdlk.com
@@ -33300,6 +33351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 report.fff.com.vn
 0.0.0.0 report.mediaz.vn
 0.0.0.0 report.novaon.asia
+0.0.0.0 report.vnay.vn
 0.0.0.0 reportantu.info
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.nld.com.vn
@@ -34669,6 +34721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk.api.kaffnet.com
 0.0.0.0 sdk.digitalbees.it
 0.0.0.0 sdk.native123.com
+0.0.0.0 sdk.pushdi.com
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -35111,6 +35164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sfz023.com
 0.0.0.0 sfzfjiefentwe.com
 0.0.0.0 sfzhd.top
+0.0.0.0 sg-cdn.bidgear.com
 0.0.0.0 sg.cityads.com
 0.0.0.0 sgbfjs.info
 0.0.0.0 sgbmhkptxali.com
@@ -35287,6 +35341,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shop.gnezdo.ru
 0.0.0.0 shop.mango.com
 0.0.0.0 shop.nava.vn
+0.0.0.0 shop.vnay.vn
 0.0.0.0 shop.zalo.me
 0.0.0.0 shop.zaloapp.com
 0.0.0.0 shop3784.ru
@@ -35964,6 +36019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 soukou.club
 0.0.0.0 soulety.com
 0.0.0.0 souncontrigh.com
+0.0.0.0 source.bidgear.com
 0.0.0.0 source.esportsheaven.com
 0.0.0.0 sourcecode.pro
 0.0.0.0 sourcengo.com
@@ -36920,6 +36976,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 svysoru.ru
 0.0.0.0 sw1block.com
 0.0.0.0 sw2block.com
+0.0.0.0 swagfind.info
 0.0.0.0 swallsix.info
 0.0.0.0 swampgods.ru
 0.0.0.0 swan-swan-goose.com
@@ -37057,6 +37114,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sytz1288.com
 0.0.0.0 sywwplqqumjgm.com
 0.0.0.0 syxchj.cn
+0.0.0.0 syxcwxur.com
 0.0.0.0 syxsa.cn
 0.0.0.0 syyycc.com
 0.0.0.0 szame.biz
@@ -38942,6 +39000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trelss.club
 0.0.0.0 tremember.info
 0.0.0.0 tremona.ru
+0.0.0.0 trenchenious.com
 0.0.0.0 trend-trader.cc
 0.0.0.0 trenddigital.vn
 0.0.0.0 trendhure.com
@@ -40492,6 +40551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 veethour.com
 0.0.0.0 veewakim.net
 0.0.0.0 vegabet.net
+0.0.0.0 vegacdn1.bidgear-syndication.com
 0.0.0.0 vegent.cn
 0.0.0.0 vegiqjbranp.com
 0.0.0.0 vekuridufq.com
@@ -41039,6 +41099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vmetkehutsu.com
 0.0.0.0 vmftwflt.com
 0.0.0.0 vmhadwuuj.com
+0.0.0.0 vmhzvqzx.com
 0.0.0.0 vmiua.com
 0.0.0.0 vmjel.com
 0.0.0.0 vmjjzk.cn
@@ -41073,6 +41134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnldaly8r5.com
 0.0.0.0 vnlqgiuul.com
 0.0.0.0 vnlxijwb6yu1w.ru
+0.0.0.0 vnnayngaytin.vn
 0.0.0.0 vnnclub.com
 0.0.0.0 vnnv777.cn
 0.0.0.0 vnoeiemdhqf.com
@@ -41292,6 +41354,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vsxet.com
 0.0.0.0 vsxjjmyz.com
 0.0.0.0 vsyqexksz.com
+0.0.0.0 vt-cdn.bidgear-syndication.com
+0.0.0.0 vt-cdn.bidgear.com
 0.0.0.0 vt4dlx.ru
 0.0.0.0 vt863.cn
 0.0.0.0 vtale.org
@@ -42569,6 +42633,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wraithrolls.com
 0.0.0.0 wranjeon.xyz
 0.0.0.0 wrapper.lemde.fr
+0.0.0.0 wrdbknbczcf.com
 0.0.0.0 wredmtmvkjbg.com
 0.0.0.0 wregf.biz
 0.0.0.0 wrfrxgft.com
@@ -46351,6 +46416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bidadx.com
 0.0.0.0 www.bidder.criteo.com
 0.0.0.0 www.bidder.mdspinc.com
+0.0.0.0 www.bidgear-syndication.com
 0.0.0.0 www.bidgear.com
 0.0.0.0 www.bidgewatr.com
 0.0.0.0 www.bidhead.net
@@ -56145,6 +56211,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pushbasic.com
 0.0.0.0 www.pushcentr.com
 0.0.0.0 www.pushdusk.com
+0.0.0.0 www.pushdy.com
+0.0.0.0 www.pushdy.vn
 0.0.0.0 www.pusheify.com
 0.0.0.0 www.pushengage.im
 0.0.0.0 www.pusherism.com

@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.04.108
-; Release: 108
-; Entries: 65,566
+; Version: 20.04.109
+; Release: 109
+; Entries: 65,634
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 17 Apr 20 00:16:16
+; Updated: Sat, 18 Apr 20 00:17:48
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -709,6 +709,8 @@ $TTL 2h
 247view.net CNAME .
 2481e.com CNAME .
 24ad89fc2690ed9369.com CNAME .
+24h-ad.24hstatic.com CNAME .
+24h-ipad-ad.24hstatic.com CNAME .
 24haitao.net CNAME .
 24hpoker.com CNAME .
 24molnia.com CNAME .
@@ -2688,6 +2690,7 @@ acxiom-online.com CNAME .
 ad-1.me CNAME .
 ad-2.me CNAME .
 ad-3.me CNAME .
+ad-admin.vnay.vn CNAME .
 ad-analytics-bootstrap.metaps.com CNAME .
 ad-apac.doubleclick.net CNAME .
 ad-api.cnblogs.com CNAME .
@@ -2707,6 +2710,7 @@ ad-deliver.yomedia.vn CNAME .
 ad-delivery.net CNAME .
 ad-emea.doubleclick.net CNAME .
 ad-ettoday.cdn.hinet.net CNAME .
+ad-eva.24hstatic.com CNAME .
 ad-flow.com CNAME .
 ad-gbn.com CNAME .
 ad-generator.info CNAME .
@@ -2718,6 +2722,7 @@ ad-img.icheck.com.vn CNAME .
 ad-indicator.com CNAME .
 ad-lead.com CNAME .
 ad-log.dable.io CNAME .
+ad-m.24hstatic.com CNAME .
 ad-m.asia CNAME .
 ad-mapps.com CNAME .
 ad-maven.com CNAME .
@@ -2753,6 +2758,7 @@ ad-tool.com CNAME .
 ad-traffic.de CNAME .
 ad-trip.com CNAME .
 ad-u.com CNAME .
+ad-us.24hstatic.com CNAME .
 ad-vanx.fuseplatform.net CNAME .
 ad-vice.biz CNAME .
 ad.1k3.com CNAME .
@@ -2932,6 +2938,7 @@ ad.velomania.ru CNAME .
 ad.vider.pl CNAME .
 ad.vietbao.vn CNAME .
 ad.vkool.net CNAME .
+ad.vnnayngaytin.vn CNAME .
 ad.vo-media.ru CNAME .
 ad.vrvm.com CNAME .
 ad.webservis.gen.tr CNAME .
@@ -3007,6 +3014,7 @@ adaccess.fr CNAME .
 adacgov.cn CNAME .
 adaction.se CNAME .
 adacts.com CNAME .
+adadmin.headlines.pw CNAME .
 adadmin.house365.com CNAME .
 adadvisor.net CNAME .
 adafazerub.com CNAME .
@@ -3328,6 +3336,7 @@ adhome.biz CNAME .
 adhood.com CNAME .
 adhost.se CNAME .
 adhostingsolutions.com CNAME .
+adhouse.cubecdn.net CNAME .
 adhouyi.com CNAME .
 adhslx.com CNAME .
 adhub.ru CNAME .
@@ -3734,6 +3743,7 @@ adpone.com CNAME .
 adpop-1.com CNAME .
 adpopcon.com CNAME .
 adport.io CNAME .
+adpostback.headlines.pw CNAME .
 adpozitif.com CNAME .
 adppv.com CNAME .
 adpredictive.com CNAME .
@@ -4465,6 +4475,7 @@ adverserve.net CNAME .
 adversni.com CNAME .
 adversolutions.com CNAME .
 adversting.riamedia.com.ua CNAME .
+advert-admin.vnay.vn CNAME .
 advert-content.com CNAME .
 advert-layer.de CNAME .
 advert.polonsil.ru CNAME .
@@ -5337,6 +5348,7 @@ aliru5.ru CNAME .
 aliscaton.com CNAME .
 alishop7.ru CNAME .
 alisinak.com CNAME .
+alitarget.ru CNAME .
 alitianxia168.com CNAME .
 aliticalpassister.info CNAME .
 alitui.weibo.com CNAME .
@@ -5846,6 +5858,7 @@ api.newsfeed.intl.miui.com CNAME .
 api.oneaudience.com CNAME .
 api.pingstart.com CNAME .
 api.pubnative.net CNAME .
+api.pushdi.com CNAME .
 api.reon.club CNAME .
 api.rnet.plus CNAME .
 api.safedk.com CNAME .
@@ -6273,6 +6286,7 @@ assampant.club CNAME .
 assandart.site CNAME .
 assantie.com CNAME .
 assapebat.club CNAME .
+asset.bidgear.com CNAME .
 assetize.com CNAME .
 assets.adnuntius.com CNAME .
 assets.applovin.com CNAME .
@@ -7639,6 +7653,7 @@ bfjwdxeakfifak.com CNAME .
 bfkpzjqpawfu.com CNAME .
 bfmrffluuazwn.com CNAME .
 bformu12.tk CNAME .
+bfp.bidgear.com CNAME .
 bfrhqyaxtxbq.com CNAME .
 bftmphbwpwnnt.com CNAME .
 bfvkxdhrnx.com CNAME .
@@ -7939,6 +7954,7 @@ bksbcawzviwcw.com CNAME .
 bkuubwuarrkxk.com CNAME .
 bkvwnbkq.com CNAME .
 bkyhq.cn CNAME .
+bkzisok.cn CNAME .
 bl.wavecdn.de CNAME .
 bl0uxepb4o.com CNAME .
 bla01.com CNAME .
@@ -9309,6 +9325,7 @@ cdn.assets.gorillanation.com CNAME .
 cdn.auditude.com CNAME .
 cdn.autoads.asia CNAME .
 cdn.batmobi.net CNAME .
+cdn.bidgear.com CNAME .
 cdn.cityads.com CNAME .
 cdn.comedia.coccoc.com CNAME .
 cdn.comparecards.com CNAME .
@@ -9355,6 +9372,7 @@ cdn.plopx.com CNAME .
 cdn.popcash.net CNAME .
 cdn.popmyads.com CNAME .
 cdn.prihuntercity.com CNAME .
+cdn.pushdy.com CNAME .
 cdn.q.gs CNAME .
 cdn.qc.coccoc.com CNAME .
 cdn.raygun.io CNAME .
@@ -11697,6 +11715,7 @@ d2o307dm5mqftz.cloudfront.net CNAME .
 d2oa97wrxvxm7y.cloudfront.net CNAME .
 d2od2b2huvmzuj.cloudfront.net CNAME .
 d2ov8u95yeeh5v.cloudfront.net CNAME .
+d2ox6x0y9xhicd.cloudfront.net CNAME .
 d2pppxxtaciku9.cloudfront.net CNAME .
 d2psf55e0gm6yv.cloudfront.net CNAME .
 d2pxbld8wrqyrk.cloudfront.net CNAME .
@@ -12412,6 +12431,8 @@ deltamarket.com.ua CNAME .
 deltatoto.com CNAME .
 deltax.com CNAME .
 deltomix.ru CNAME .
+demand.bidgear-syndication.com CNAME .
+demand.bidgear.com CNAME .
 dematom.com CNAME .
 demdex.net CNAME .
 demetsik.com CNAME .
@@ -14739,6 +14760,8 @@ euz.net CNAME .
 euzavnv.info CNAME .
 euzlyrzg.com CNAME .
 ev2cdn.com CNAME .
+eva-ad.24hstatic.com CNAME .
+eva-ipad-ad.24hstatic.com CNAME .
 evadavdsp.pro CNAME .
 evaff.com CNAME .
 evaffwmdjgtn.com CNAME .
@@ -14756,6 +14779,7 @@ evensys.ro CNAME .
 event.adpia.vn CNAME .
 event.allnews.uodoo.com CNAME .
 event.headlines.pw CNAME .
+event.vntoday.news CNAME .
 eventifiederik.pro CNAME .
 eventlittrecet.ru CNAME .
 eventraliaclinental.info CNAME .
@@ -17027,6 +17051,7 @@ ghaires.com CNAME .
 ghaszdguvrtnb.com CNAME .
 ghdccdtxvnpo.com CNAME .
 ghejbdgefhfjhhbgaee.ru CNAME .
+ghimc.vn CNAME .
 ghjlhnbc.com CNAME .
 ghjwogfexch.com CNAME .
 ghkajgexob.com CNAME .
@@ -17063,6 +17088,7 @@ gigaflat.com CNAME .
 gigamega.ru CNAME .
 gigapromo.de CNAME .
 gigbc.net CNAME .
+gigbyefly.com CNAME .
 gigvyvqe.com CNAME .
 giinmwnwsid.com CNAME .
 gilfordboyers.com CNAME .
@@ -17291,6 +17317,7 @@ gnaizrodp.com CNAME .
 gnamwmixa.com CNAME .
 gnativestreesaga.site CNAME .
 gndrglsn.com CNAME .
+gneusqa.cn CNAME .
 gnezdo.ru CNAME .
 gnkpuprxa.com CNAME .
 gnmbd.top CNAME .
@@ -19973,8 +20000,11 @@ imo-cash.de CNAME .
 imobilco.ru CNAME .
 imonomy.com CNAME .
 imounsos.com CNAME .
+imp-dsp.bidgear-syndication.com CNAME .
+imp-dsp.bidgear.com CNAME .
 imp.adnetwork.vn CNAME .
 imp.ambient-platform.com CNAME .
+imp.bidgear.com CNAME .
 imp.gammaplatform.com CNAME .
 imp.m.ambient-platform.com CNAME .
 imp.m.ambientplatform.vn CNAME .
@@ -22188,6 +22218,7 @@ kjlahwtvckpaci.com CNAME .
 kjltrjvjfran.com CNAME .
 kjlvutytm.com CNAME .
 kjos.vo.llnwd.net CNAME .
+kjrjvvxcg.com CNAME .
 kjsedplonmifbe.com CNAME .
 kjtcdiyzd.com CNAME .
 kjwx8.com CNAME .
@@ -22634,6 +22665,7 @@ kxkeuums.com CNAME .
 kxpkadaivbm.com CNAME .
 kxqvnfcg.xyz CNAME .
 kxrxh.com CNAME .
+kxswxnbr.com CNAME .
 kxujlopfsmttyc.com CNAME .
 kxuztynmbquxcf.com CNAME .
 kxvzsil2.ru CNAME .
@@ -23769,9 +23801,12 @@ log.vads.net.vn CNAME .
 log.vietnamdaily.net.vn CNAME .
 log.vietnamnetad.vn CNAME .
 log.vietnamplus.vn CNAME .
+log.vnay.vn CNAME .
+log.vntoday.news CNAME .
 log.vov.vn CNAME .
 log.yeah1media.vn CNAME .
 log.zingmp3.vn CNAME .
+log.zingnews.vn CNAME .
 log1.adsplay.net CNAME .
 log2.adsplay.net CNAME .
 log2.ru CNAME .
@@ -23904,6 +23939,8 @@ lotocash.co.il CNAME .
 lotospoker.com CNAME .
 lotraden.online CNAME .
 lotsofslots.net CNAME .
+lottery.headlines.pw CNAME .
+lottery.vntoday.news CNAME .
 lotteryaffiliates.com CNAME .
 lotto770.com CNAME .
 loudads.net CNAME .
@@ -27656,6 +27693,7 @@ ntjcrsfvszoen.com CNAME .
 ntkuokicthbxc.com CNAME .
 ntlhrttump.com CNAME .
 ntlyaccessfulsp.info CNAME .
+ntlzbnmyukos.com CNAME .
 ntnmliatmtk.com CNAME .
 ntosarang.com CNAME .
 ntoyqqrwrmzr.com CNAME .
@@ -27730,6 +27768,9 @@ nuvreemdgaan.nl CNAME .
 nuxdkxknj.com CNAME .
 nuxsmhexm.com CNAME .
 nuxyz.cn CNAME .
+nv-ad-hcm.24hstatic.com CNAME .
+nv-ad-hn.24hstatic.com CNAME .
+nv-ad.24hstatic.com CNAME .
 nv43.com CNAME .
 nvane.com CNAME .
 nvcwpexqk.com CNAME .
@@ -28144,6 +28185,7 @@ offers.motime.com.br CNAME .
 offerserve.com CNAME .
 offersprovider.widget.onet.pl CNAME .
 offersquared.com CNAME .
+offerwall.headlines.pw CNAME .
 offhealth.ru CNAME .
 office.ad1.ru CNAME .
 officeme.cn CNAME .
@@ -28681,6 +28723,7 @@ open8.cn CNAME .
 openads.ab-daily.by CNAME .
 openadserving.com CNAME .
 openbook.net CNAME .
+opencaded.online CNAME .
 opencdb84507.com CNAME .
 opencdb84508.com CNAME .
 opencdb84509.com CNAME .
@@ -29204,6 +29247,7 @@ p2poolmining.com CNAME .
 p30rank.ir CNAME .
 p3tt.com CNAME .
 p5genexs.com CNAME .
+p6p2w3v92czo.com CNAME .
 p74.cc CNAME .
 p78lld1s.top CNAME .
 p8u.hinet.net CNAME .
@@ -30175,6 +30219,7 @@ plaster-orto.com CNAME .
 plastir-hyperost.biz CNAME .
 platado.com CNAME .
 platform.bidgear.com CNAME .
+platform1.bidgear.com CNAME .
 platformbot.xyz CNAME .
 plathwardsve.site CNAME .
 platine.org CNAME .
@@ -31265,6 +31310,7 @@ psughooy.com CNAME .
 psulsobi.net CNAME .
 psurdoak.com CNAME .
 psvdblzcgnjj.com CNAME .
+psvgnczo.com CNAME .
 pswlvlauz.bid CNAME .
 pswucdobdvt.com CNAME .
 psxnwzksttygfs.com CNAME .
@@ -31520,8 +31566,11 @@ pushbaddy.com CNAME .
 pushbasic.com CNAME .
 pushbasitop.ru CNAME .
 pushcentr.com CNAME .
+pushdi.com CNAME .
 pushdom.co CNAME .
 pushdusk.com CNAME .
+pushdy.com CNAME .
+pushdy.vn CNAME .
 pushebrod.com CNAME .
 pusheds.info CNAME .
 pushego.com CNAME .
@@ -32705,6 +32754,7 @@ r.partner.badoo.ru CNAME .
 r.pless.nazwa.pl CNAME .
 r.qip.ru CNAME .
 r.radikal.ru CNAME .
+r.tinmoi24.vn CNAME .
 r.topdent.ru CNAME .
 r.toplaygame.ru CNAME .
 r01.website CNAME .
@@ -32883,6 +32933,7 @@ rcemsoiyil.com CNAME .
 rckpwmhqz.com CNAME .
 rclmc.top CNAME .
 rcogzcsan.com CNAME .
+rcqzgq.com CNAME .
 rcsadv.it CNAME .
 rcscaxhjmm.com CNAME .
 rcudacimrqdlk.com CNAME .
@@ -33289,6 +33340,7 @@ report.capinfopro.ru CNAME .
 report.fff.com.vn CNAME .
 report.mediaz.vn CNAME .
 report.novaon.asia CNAME .
+report.vnay.vn CNAME .
 reportantu.info CNAME .
 reporting.aatkit.com CNAME .
 reporting.nld.com.vn CNAME .
@@ -34658,6 +34710,7 @@ sdk.adtiming.com CNAME .
 sdk.api.kaffnet.com CNAME .
 sdk.digitalbees.it CNAME .
 sdk.native123.com CNAME .
+sdk.pushdi.com CNAME .
 sdk.starbolt.io CNAME .
 sdk.stats-locations.com CNAME .
 sdkconfig.ad.intl.xiaomi.com CNAME .
@@ -35100,6 +35153,7 @@ sfxuiadi.com CNAME .
 sfz023.com CNAME .
 sfzfjiefentwe.com CNAME .
 sfzhd.top CNAME .
+sg-cdn.bidgear.com CNAME .
 sg.cityads.com CNAME .
 sgbfjs.info CNAME .
 sgbmhkptxali.com CNAME .
@@ -35276,6 +35330,7 @@ shop-cdn.coccoc.com CNAME .
 shop.gnezdo.ru CNAME .
 shop.mango.com CNAME .
 shop.nava.vn CNAME .
+shop.vnay.vn CNAME .
 shop.zalo.me CNAME .
 shop.zaloapp.com CNAME .
 shop3784.ru CNAME .
@@ -35953,6 +36008,7 @@ soujoobafoo.com CNAME .
 soukou.club CNAME .
 soulety.com CNAME .
 souncontrigh.com CNAME .
+source.bidgear.com CNAME .
 source.esportsheaven.com CNAME .
 sourcecode.pro CNAME .
 sourcengo.com CNAME .
@@ -36909,6 +36965,7 @@ svwsjxptbsvqo.com CNAME .
 svysoru.ru CNAME .
 sw1block.com CNAME .
 sw2block.com CNAME .
+swagfind.info CNAME .
 swallsix.info CNAME .
 swampgods.ru CNAME .
 swan-swan-goose.com CNAME .
@@ -37046,6 +37103,7 @@ sytsr.com CNAME .
 sytz1288.com CNAME .
 sywwplqqumjgm.com CNAME .
 syxchj.cn CNAME .
+syxcwxur.com CNAME .
 syxsa.cn CNAME .
 syyycc.com CNAME .
 szame.biz CNAME .
@@ -38931,6 +38989,7 @@ trellian.com CNAME .
 trelss.club CNAME .
 tremember.info CNAME .
 tremona.ru CNAME .
+trenchenious.com CNAME .
 trend-trader.cc CNAME .
 trenddigital.vn CNAME .
 trendhure.com CNAME .
@@ -40481,6 +40540,7 @@ veejooty.com CNAME .
 veethour.com CNAME .
 veewakim.net CNAME .
 vegabet.net CNAME .
+vegacdn1.bidgear-syndication.com CNAME .
 vegent.cn CNAME .
 vegiqjbranp.com CNAME .
 vekuridufq.com CNAME .
@@ -41028,6 +41088,7 @@ vmet.ro CNAME .
 vmetkehutsu.com CNAME .
 vmftwflt.com CNAME .
 vmhadwuuj.com CNAME .
+vmhzvqzx.com CNAME .
 vmiua.com CNAME .
 vmjel.com CNAME .
 vmjjzk.cn CNAME .
@@ -41062,6 +41123,7 @@ vnkydhnyjed.com CNAME .
 vnldaly8r5.com CNAME .
 vnlqgiuul.com CNAME .
 vnlxijwb6yu1w.ru CNAME .
+vnnayngaytin.vn CNAME .
 vnnclub.com CNAME .
 vnnv777.cn CNAME .
 vnoeiemdhqf.com CNAME .
@@ -41281,6 +41343,8 @@ vswvbbegnyxxx.com CNAME .
 vsxet.com CNAME .
 vsxjjmyz.com CNAME .
 vsyqexksz.com CNAME .
+vt-cdn.bidgear-syndication.com CNAME .
+vt-cdn.bidgear.com CNAME .
 vt4dlx.ru CNAME .
 vt863.cn CNAME .
 vtale.org CNAME .
@@ -42558,6 +42622,7 @@ wr.yiyouliao.com CNAME .
 wraithrolls.com CNAME .
 wranjeon.xyz CNAME .
 wrapper.lemde.fr CNAME .
+wrdbknbczcf.com CNAME .
 wredmtmvkjbg.com CNAME .
 wregf.biz CNAME .
 wrfrxgft.com CNAME .
@@ -46340,6 +46405,7 @@ www.bid.run CNAME .
 www.bidadx.com CNAME .
 www.bidder.criteo.com CNAME .
 www.bidder.mdspinc.com CNAME .
+www.bidgear-syndication.com CNAME .
 www.bidgear.com CNAME .
 www.bidgewatr.com CNAME .
 www.bidhead.net CNAME .
@@ -56134,6 +56200,8 @@ www.pushbaddy.com CNAME .
 www.pushbasic.com CNAME .
 www.pushcentr.com CNAME .
 www.pushdusk.com CNAME .
+www.pushdy.com CNAME .
+www.pushdy.vn CNAME .
 www.pusheify.com CNAME .
 www.pushengage.im CNAME .
 www.pusherism.com CNAME .

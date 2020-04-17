@@ -1,8 +1,8 @@
 # Title: adguard-turkish-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/13.txt
-# Last Converted - 17.04.2020
-# Total Domains - 272
+# Last Converted - 18.04.2020
+# Total Domains - 273
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -31,6 +31,7 @@
 0.0.0.0 adfox.ru
 0.0.0.0 adgain-publisher.com
 0.0.0.0 adhood.com
+0.0.0.0 adhouse.cubecdn.net
 0.0.0.0 adimage.media
 0.0.0.0 adl.mynetreklam.com
 0.0.0.0 admatic.com.tr
