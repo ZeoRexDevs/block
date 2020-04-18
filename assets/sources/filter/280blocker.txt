@@ -1,8 +1,8 @@
 # Title: 280blocker Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_domain.txt
-# Last Converted - 18.04.2020
-# Total Domains - 969
+# Last Converted - 19.04.2020
+# Total Domains - 971
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -400,6 +400,7 @@
 0.0.0.0 d.image-ad.jp
 0.0.0.0 d.somewrite.jp
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
+0.0.0.0 d18g6t7whf8ejf.cloudfront.net
 0.0.0.0 d1miuq6afqay8u.cloudfront.net
 0.0.0.0 d28nwox1gdjlve.cloudfront.net
 0.0.0.0 d2c.ne.jp
@@ -802,6 +803,7 @@
 0.0.0.0 safe.urgent--alert.com
 0.0.0.0 san-ni-ichi.com
 0.0.0.0 sbs-ad.com
+0.0.0.0 sch.line.me
 0.0.0.0 schemouth.com
 0.0.0.0 sda.seesaa.jp
 0.0.0.0 sdk.adincube.com

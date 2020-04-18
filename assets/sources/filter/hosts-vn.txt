@@ -1,8 +1,8 @@
 # Title: hosts-vn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-# Last Converted - 18.04.2020
-# Total Domains - 1294
+# Last Converted - 19.04.2020
+# Total Domains - 1302
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -118,6 +118,7 @@
 0.0.0.0 ads.vietad.vn
 0.0.0.0 ads.vkool.info
 0.0.0.0 ads.xemphimso.com
+0.0.0.0 ads.zalo.me
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adsdemo.admicro.vn
@@ -175,6 +176,7 @@
 0.0.0.0 analytics.admicro.vn
 0.0.0.0 analytics.ambient-platform.com
 0.0.0.0 analytics.bkav.com
+0.0.0.0 analytics.donglogs.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.eclick.vn
 0.0.0.0 analytics.explus.vn
@@ -198,6 +200,7 @@
 0.0.0.0 api.autoads.asia
 0.0.0.0 api.cityads.com
 0.0.0.0 api.dable.io
+0.0.0.0 api.donglogs.com
 0.0.0.0 api.fuseplatform.net
 0.0.0.0 api.ladipage.com
 0.0.0.0 api.ladipage.vn
@@ -459,6 +462,7 @@
 0.0.0.0 dns.novaonx.com
 0.0.0.0 dnsbak.mediaz.vn
 0.0.0.0 doitac.ladipage.vn
+0.0.0.0 donglogs.com
 0.0.0.0 down.us2.mclick.mobi
 0.0.0.0 down140.mclick.mobi
 0.0.0.0 down141.mclick.mobi
@@ -872,6 +876,7 @@
 0.0.0.0 pushdi.com
 0.0.0.0 pushdy.com
 0.0.0.0 pushdy.vn
+0.0.0.0 px.za.zalo.me
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 qc-static.coccoc.com
 0.0.0.0 qc.coccoc.com
@@ -890,6 +895,7 @@
 0.0.0.0 ranking.younetmedia.com
 0.0.0.0 rd.ambientplatform.vn
 0.0.0.0 realclick.vn
+0.0.0.0 rec.donglogs.com
 0.0.0.0 recsys.aiservice.vn
 0.0.0.0 redirect.dable.io
 0.0.0.0 redmine.admicro.vn
@@ -933,6 +939,7 @@
 0.0.0.0 schemas.ants.vn
 0.0.0.0 script.mclick.mobi
 0.0.0.0 script.novanet.vn
+0.0.0.0 scripts.donglogs.com
 0.0.0.0 sdk.adflex.vn
 0.0.0.0 sdk.adsplay.xyz
 0.0.0.0 sdk.pushdi.com
@@ -1229,6 +1236,7 @@
 0.0.0.0 www.cokhach.com
 0.0.0.0 www.dable.io
 0.0.0.0 www.delecpuzz.com
+0.0.0.0 www.donglogs.com
 0.0.0.0 www.eclick.vn
 0.0.0.0 www.ezimar.com
 0.0.0.0 www.fff.com.vn
