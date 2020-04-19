@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.04.110
-; Release: 110
-; Entries: 65,655
+; Version: 20.04.111
+; Release: 111
+; Entries: 65,687
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 19 Apr 20 00:19:13
+; Updated: Mon, 20 Apr 20 00:18:21
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1413,6 +1413,7 @@ $TTL 2h
 5b5a93686577c13.com CNAME .
 5bbd5a5bdaa.com CNAME .
 5bc58da97b.com CNAME .
+5bd5e3203751.com CNAME .
 5bir9vuqcq.com CNAME .
 5c1deabe3202c11c1.com CNAME .
 5c577fc74618431b.com CNAME .
@@ -1713,6 +1714,7 @@ $TTL 2h
 753912c2e5560d428ba2.date CNAME .
 7540.com CNAME .
 754daf9cd396259.com CNAME .
+755431a59e7.com CNAME .
 755f8823d5ca4c7f07a.com CNAME .
 757a51ce62f.com CNAME .
 757g7g.cn CNAME .
@@ -1854,6 +1856,7 @@ $TTL 2h
 7x3mh.cn CNAME .
 7x4.fr CNAME .
 7x5.fr CNAME .
+7x7.fun CNAME .
 7xc4n.com CNAME .
 7xi9g1.com1.z0.glb.clouddn.com CNAME .
 7xz3.com CNAME .
@@ -2359,6 +2362,7 @@ a2ba3784cb354807d.com CNAME .
 a2c653c4d145fa5f96a.com CNAME .
 a2ccfe1f42c7.com CNAME .
 a2dfp.net CNAME .
+a2eeaee88e.com CNAME .
 a2fcb07a505c.com CNAME .
 a2g-secure.com CNAME .
 a2gw.com CNAME .
@@ -7693,6 +7697,7 @@ bgvfceqpqzx.com CNAME .
 bgwbqsmj.com CNAME .
 bgwucxto.com CNAME .
 bgxmq.com CNAME .
+bgzdrgliwew.com CNAME .
 bgzyppwk.com CNAME .
 bh3.net CNAME .
 bhaoea.cn CNAME .
@@ -8474,6 +8479,7 @@ browser-onelike.ru CNAME .
 browser-ru.site CNAME .
 browser-tvizor.ru CNAME .
 browser-tvlevel.ru CNAME .
+browser1.ru CNAME .
 browser2018-lite.ru CNAME .
 browser2018lite.ru CNAME .
 browserextensions.net CNAME .
@@ -8879,6 +8885,7 @@ c19f2.cn CNAME .
 c1f9b35b00f.com CNAME .
 c1hit.tut.by CNAME .
 c2.popads.net CNAME .
+c26e9ccd4e063b.com CNAME .
 c27c8283da6ada6253c4.date CNAME .
 c2hit.tut.by CNAME .
 c2i.startappnetwork.com CNAME .
@@ -13932,6 +13939,7 @@ ec.atdmt.com CNAME .
 ec.bankier.pl CNAME .
 ec.hub2.com.pl CNAME .
 ec2-44-233-143-239.us-west-2.compute.amazonaws.com CNAME .
+ec252f7027411.com CNAME .
 ec2f1xubcblb.ru CNAME .
 eca1d7792ad5de43.com CNAME .
 ecadikenaz.com CNAME .
@@ -14364,6 +14372,7 @@ emzxewhgjt.com CNAME .
 enaceanspection.info CNAME .
 enamadugib.com CNAME .
 enavtfdjjcmgy.com CNAME .
+enbvylulfg.com CNAME .
 encephalopat.ru CNAME .
 enclasmodifyt.info CNAME .
 enclosely.info CNAME .
@@ -14586,6 +14595,7 @@ erqimall.net CNAME .
 erqqhfsu.com CNAME .
 errnaphim.site CNAME .
 errtmotmw.pw CNAME .
+ersoncur.info CNAME .
 ersremarypiec.info CNAME .
 erssamplet.pro CNAME .
 erteesffesf.com CNAME .
@@ -14975,6 +14985,7 @@ extra.wavecdn.net CNAME .
 extra33.com CNAME .
 extract.zz.mu CNAME .
 extremecash.nl CNAME .
+extrementtgfa.site CNAME .
 extremereach.io CNAME .
 extremesoundmedium.com CNAME .
 extronext.ru CNAME .
@@ -19328,6 +19339,7 @@ hzcrhwmi.com CNAME .
 hzfcx.top CNAME .
 hzht666.com CNAME .
 hzhyhm.com CNAME .
+hzkachqd.com CNAME .
 hzlewuunwm.com CNAME .
 hzlm.cc CNAME .
 hzlsghfoqsvawe.com CNAME .
@@ -19499,6 +19511,7 @@ iclbkrgjdstqt.com CNAME .
 iclbodnew.pro CNAME .
 iclckk.com CNAME .
 iclwy.xyz CNAME .
+icmlfqdb.com CNAME .
 icolor8.com CNAME .
 icontent.us CNAME .
 icorpadro.hit.gemius.pl CNAME .
@@ -19959,6 +19972,7 @@ imgbum.net CNAME .
 imgbus.com CNAME .
 imgc.sythe.org CNAME .
 imgca.sythe.org CNAME .
+imgcac.sythe.org CNAME .
 imgcache.sythe.org CNAME .
 imgchr.com CNAME .
 imgdew.pw CNAME .
@@ -20834,6 +20848,7 @@ jazdoxthxiv.com CNAME .
 jazg97clb.ru CNAME .
 jb.dianshu119.com CNAME .
 jb.ecar168.cn CNAME .
+jb7hvckszone.com CNAME .
 jbam.info CNAME .
 jbanb.com CNAME .
 jbbath.cn CNAME .
@@ -20963,6 +20978,7 @@ jerotidv.com CNAME .
 jerrcotch.com CNAME .
 jerredsite.pro CNAME .
 jerwested.info CNAME .
+jeshnpdqy.com CNAME .
 jesuisalahauteur.com CNAME .
 jet.zbp.ru CNAME .
 jetm-tech.net CNAME .
@@ -21685,6 +21701,7 @@ jxrhjcb.biz CNAME .
 jxru2djgqm.com CNAME .
 jxseoruuv.com CNAME .
 jxsgxzx.com CNAME .
+jxswwvvejwzdd.com CNAME .
 jxusrymeeqyi.com CNAME .
 jxwlkssb.com CNAME .
 jxxcfd.com CNAME .
@@ -22051,6 +22068,7 @@ khedliyo.ru CNAME .
 khefhmgfwnnqgv.com CNAME .
 khesino.ru CNAME .
 khetopa.info CNAME .
+khewwakrywmgxr.com CNAME .
 khexythfkw.com CNAME .
 khgj.cn CNAME .
 khidhfrk.com CNAME .
@@ -32521,6 +32539,7 @@ qtywrdgxid.com CNAME .
 qtzjozseyxskxw.bid CNAME .
 quadasdata.cn CNAME .
 quadrinhoseroticos.net CNAME .
+quadrupleclick.com CNAME .
 quaelead.com CNAME .
 quaizzywzluk.com CNAME .
 qualigo.com CNAME .
@@ -33307,6 +33326,7 @@ remain.appcpi.net CNAME .
 remarketing.admicro.vn CNAME .
 remarketingextra.com CNAME .
 remarketingpixel.com CNAME .
+remarypolike.site CNAME .
 rembi.lv CNAME .
 remerciez.com CNAME .
 remintrex.com CNAME .
@@ -35420,6 +35440,7 @@ shtrafsud.ru CNAME .
 shtzrrr.biz CNAME .
 shuaixu.site CNAME .
 shucaihangjia.com CNAME .
+shuccn.com CNAME .
 shuffele.com CNAME .
 shuhahom.net CNAME .
 shuihulu.com CNAME .
@@ -37013,6 +37034,7 @@ sworatio.co CNAME .
 swpopynngk.com CNAME .
 swq48b.cn CNAME .
 swqlzufnbngw.com CNAME .
+swstkrihg.com CNAME .
 swtkc.cn CNAME .
 swtubbksgvg.com CNAME .
 swxhp.pw CNAME .
@@ -37560,6 +37582,7 @@ techcloudtrk.com CNAME .
 techhybrid.net CNAME .
 technic3d.biz CNAME .
 technicssurveys.info CNAME .
+techsidea.website CNAME .
 techsolutions.com.tw CNAME .
 tecontx.com CNAME .
 tedpasit.net CNAME .
@@ -38164,6 +38187,7 @@ tkekbn5sfk.com CNAME .
 tkewsaesxhf.com CNAME .
 tkhg70uymg.com CNAME .
 tkhoazslm.com CNAME .
+tkickhhylnvm.com CNAME .
 tkjdwcigpyazr.com CNAME .
 tkkfmqbisu.com CNAME .
 tkmedia-cache.aotter.net CNAME .
@@ -38885,6 +38909,7 @@ trafic-media.co CNAME .
 trafic-media.ru CNAME .
 traficmax.com CNAME .
 traficmax.fr CNAME .
+traficon.pro CNAME .
 trafidet.ru CNAME .
 trafikclix.com CNAME .
 trafjiz.com CNAME .
@@ -39785,6 +39810,7 @@ ultramailtausch.de CNAME .
 ultrapay.net CNAME .
 ultrapromo.eu CNAME .
 ulufyprtd.com CNAME .
+uluswozzel.info CNAME .
 ulyrpgnqeyo.com CNAME .
 ulzcieyihw.com CNAME .
 um-per.com CNAME .
@@ -41052,6 +41078,7 @@ vknrfwwxhxaxupqp.pro CNAME .
 vkoad.com CNAME .
 vkout.ru CNAME .
 vkrgljxqn.com CNAME .
+vksmmvykm.com CNAME .
 vktweaks.at.ua CNAME .
 vkuay.com CNAME .
 vkudpjuvg.com CNAME .
@@ -41271,6 +41298,7 @@ vprmnwbskk.com CNAME .
 vpscash.nl CNAME .
 vpsite.ru CNAME .
 vptbn.com CNAME .
+vptggenzv.com CNAME .
 vptgnqpknpdyq.com CNAME .
 vptkyunlzfy.com CNAME .
 vpvsy.com CNAME .
@@ -41371,6 +41399,7 @@ vtdoska.ru CNAME .
 vtds.info CNAME .
 vtemaaftwexu.com CNAME .
 vtexte.ru CNAME .
+vtfdfdldethe.com CNAME .
 vtgcvsmzxiyoz.com CNAME .
 vtgdjgtwl.com CNAME .
 vth05dse.com CNAME .
@@ -62966,6 +62995,7 @@ x7xirtzmot.com CNAME .
 x8ad.com CNAME .
 x8rxr.top CNAME .
 x9377a.com CNAME .
+x9b05t5jsqje.com CNAME .
 xa9t.com CNAME .
 xabaitai.com CNAME .
 xabmjr.com CNAME .
@@ -64777,6 +64807,7 @@ z4a.net CNAME .
 z501lpfg9x8v.com CNAME .
 z52jp0na9z.com CNAME .
 z5x.net CNAME .
+z65j.cn CNAME .
 z6naousb.com CNAME .
 z6uc8er1mzx8n2qd.pro CNAME .
 z6vmw.top CNAME .
@@ -65637,6 +65668,7 @@ zxwiejfbyr.com CNAME .
 zxwnolwaump.com CNAME .
 zxxds.net CNAME .
 zxxfoccanf.com CNAME .
+zxxtkrkzfyy3.com CNAME .
 zxxzqiqbchqkaw.com CNAME .
 zxzhengxin.com CNAME .
 zy16eoat1w.com CNAME .

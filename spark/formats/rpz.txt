@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.04.110
-; Release: 110
-; Entries: 68,638
+; Version: 20.04.111
+; Release: 111
+; Entries: 68,688
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 19 Apr 20 00:13:55
+; Updated: Mon, 20 Apr 20 00:13:35
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1681,6 +1681,7 @@ $TTL 2h
 5advertise.com CNAME .
 5b008e.r.axf8.net CNAME .
 5b5a93686577c13.com CNAME .
+5bd5e3203751.com CNAME .
 5bde1.v.fwmrm.net CNAME .
 5bee90e0ee.com CNAME .
 5bir9vuqcq.com CNAME .
@@ -1913,6 +1914,7 @@ $TTL 2h
 752.link.swrve.com CNAME .
 754daf9cd396259.com CNAME .
 755-ct.c3tag.com CNAME .
+755431a59e7.com CNAME .
 757a51ce62f.com CNAME .
 758.api.swrve.com CNAME .
 758.content.swrve.com CNAME .
@@ -1990,6 +1992,7 @@ $TTL 2h
 7u8a8i88.com CNAME .
 7wtic7ru.com CNAME .
 7x.cc CNAME .
+7x7.fun CNAME .
 7xc4n.com CNAME .
 7y6.xyz CNAME .
 7zip.fr CNAME .
@@ -2466,6 +2469,7 @@ a2b108bd2461b12e.com CNAME .
 a2ba3784cb354807d.com CNAME .
 a2c653c4d145fa5f96a.com CNAME .
 a2dfp.net CNAME .
+a2eeaee88e.com CNAME .
 a2gw.com CNAME .
 a2pub.com CNAME .
 a2z-cyber.shop CNAME .
@@ -10936,6 +10940,7 @@ awrxkucpfbsq.com CNAME .
 aws-ajax.com CNAME .
 aws-assets.bttrack.com CNAME .
 aws-production-banner-server-eu-west-1.banner-server.fyber.com CNAME .
+aws-update.net CNAME .
 aws.apex.go.sonobi.com CNAME .
 aws.go.sonobi.com CNAME .
 aws.napi.ucweb.com CNAME .
@@ -12217,6 +12222,7 @@ bgwbqsmj.com CNAME .
 bgwebads.com CNAME .
 bgwucxto.com CNAME .
 bgy-meissen.de CNAME .
+bgzdrgliwew.com CNAME .
 bgzyppwk.com CNAME .
 bh.ads.justpremium.com CNAME .
 bh3.net CNAME .
@@ -13932,6 +13938,7 @@ c24.statcounter.com CNAME .
 c25.statcounter.com CNAME .
 c26.statcounter.com CNAME .
 c26c8951ef23f.com CNAME .
+c26e9ccd4e063b.com CNAME .
 c27.statcounter.com CNAME .
 c28.statcounter.com CNAME .
 c29.statcounter.com CNAME .
@@ -17557,6 +17564,7 @@ corn-sconto.gratis CNAME .
 corneey.com CNAME .
 cornflip.com CNAME .
 coroheyjses.com CNAME .
+corp-github.com CNAME .
 corp-ldap.openx.com CNAME .
 corp-login.openx.com CNAME .
 corp.appnexus.com CNAME .
@@ -19309,6 +19317,7 @@ ddf67683e4778d.com CNAME .
 ddfnykqqiexse.com CNAME .
 ddivuwlehkijd.com CNAME .
 ddkwwstore.com CNAME .
+ddl.okgoodmobi.com CNAME .
 ddl.okyesmobi.com CNAME .
 ddljcvtxfjtc.com CNAME .
 ddlwnwshlk.com CNAME .
@@ -21531,6 +21540,7 @@ ec.video-ak.cdn.spotify.com CNAME .
 ec1.moatads.com CNAME .
 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com CNAME .
 ec23bc5993c.com CNAME .
+ec252f7027411.com CNAME .
 ec2eu-de-1.deliveryengine.adswizz.com CNAME .
 ec2eu-de-2.deliveryengine.adswizz.com CNAME .
 ec2uswest2-de-5.deliveryengine.adswizz.com CNAME .
@@ -22202,6 +22212,7 @@ enabler.datalake.mediaset.it CNAME .
 enaceanspection.info CNAME .
 enatimedia.com CNAME .
 enavtfdjjcmgy.com CNAME .
+enbvylulfg.com CNAME .
 enclasmodifyt.info CNAME .
 encoding.ovh CNAME .
 encogcfklrcpqw.com CNAME .
@@ -22358,6 +22369,7 @@ enseptedsome.info CNAME .
 ensighten.com CNAME .
 ensign.unbounce.com CNAME .
 enstylish.com CNAME .
+ensure-https.com CNAME .
 enter.media.net CNAME .
 enter.sexlist.com CNAME .
 enterads.com CNAME .
@@ -22555,6 +22567,7 @@ errx049.icu CNAME .
 ers.baidu.com CNAME .
 ers.ero-advertising.com CNAME .
 ersazza.com CNAME .
+ersoncur.info CNAME .
 ersremarypiec.info CNAME .
 erssamplet.pro CNAME .
 erteesffesf.com CNAME .
@@ -26139,9 +26152,12 @@ girrjaqgjb.com CNAME .
 gisbertschoeler.de CNAME .
 gisela-kallenbach.de CNAME .
 gisiwdcqte.com CNAME .
+git-hub.co CNAME .
 git-pages.adotmob.com CNAME .
+git-secure-service.in CNAME .
 git.adotmob.com CNAME .
 gitgrub.pro CNAME .
+githb.co CNAME .
 github.algolia.com CNAME .
 github.umeng.com CNAME .
 gitishcreasu.info CNAME .
@@ -26333,6 +26349,17 @@ gloussuz.com CNAME .
 glowdot.com CNAME .
 glpyiiahtdmaan.com CNAME .
 glsdk.logsss.com CNAME .
+glt-app.net CNAME .
+glt-hub.com CNAME .
+glthub.co CNAME .
+glthub.info CNAME .
+glthub.net CNAME .
+glthubb.info CNAME .
+glthube.app CNAME .
+glthubs.com CNAME .
+glthubs.info CNAME .
+glthubs.net CNAME .
+glthubse.info CNAME .
 gltpstgjnyb.com CNAME .
 glucmift.net CNAME .
 gludraus.com CNAME .
@@ -28946,6 +28973,7 @@ hz.tbusergw.taobao.net CNAME .
 hz.youku.com CNAME .
 hzcrhwmi.com CNAME .
 hzivfezfltago.com CNAME .
+hzkachqd.com CNAME .
 hzlewuunwm.com CNAME .
 hzlsghfoqsvawe.com CNAME .
 hzskbnafzwsu.com CNAME .
@@ -29268,6 +29296,7 @@ iclick.cm.admaster.com.cn CNAME .
 iclickyou.com CNAME .
 iclytswtff.com CNAME .
 icm-tracking.meltwater.com CNAME .
+icmlfqdb.com CNAME .
 ico.bitcomo.com CNAME .
 ico.freelogs.com CNAME .
 ico.mrmrdr.com CNAME .
@@ -29728,6 +29757,7 @@ ikaben.com CNAME .
 ikarus-flugdienst.de CNAME .
 ikbwvphztgkiq.com CNAME .
 ikdhuhcigpoc.com CNAME .
+ikezijik.ga CNAME .
 ikhdsnufzzj.com CNAME .
 ikjhssgmith.info CNAME .
 ikliklmarket.eu CNAME .
@@ -31438,6 +31468,7 @@ jazdoxthxiv.com CNAME .
 jazzdance-freiburg.de CNAME .
 jazzworlddj.com CNAME .
 jb-trailer.de CNAME .
+jb7hvckszone.com CNAME .
 jb9clfifs6.s.ad6media.fr CNAME .
 jbbfphnd.com CNAME .
 jbbgczjipjvb.com CNAME .
@@ -31552,6 +31583,7 @@ jerkic.de CNAME .
 jerotidv.com CNAME .
 jerredsite.pro CNAME .
 jerseysale.info CNAME .
+jeshnpdqy.com CNAME .
 jesnyxa.beep.com CNAME .
 jesseacosta.net CNAME .
 jessebirch.com CNAME .
@@ -32261,6 +32293,7 @@ jxliu.com CNAME .
 jxmhgmkuw.com CNAME .
 jxnwpeqkhtkrw.com CNAME .
 jxseoruuv.com CNAME .
+jxswwvvejwzdd.com CNAME .
 jxusrymeeqyi.com CNAME .
 jyaaeiqm.com CNAME .
 jyahmckzsbh.com CNAME .
@@ -32705,6 +32738,7 @@ kgzcentyfo.com CNAME .
 khaicoojypokng.com CNAME .
 khdmabhykmj.com CNAME .
 khefhmgfwnnqgv.com CNAME .
+khewwakrywmgxr.com CNAME .
 khexythfkw.com CNAME .
 khidhfrk.com CNAME .
 khkjrquge.com CNAME .
@@ -35014,6 +35048,7 @@ loxmetwdjrmh.com CNAME .
 loxtk.com CNAME .
 loyaltrend-de.com CNAME .
 lp-site.com CNAME .
+lp.cooktracking.com CNAME .
 lp.empire.goodgamestudios.com CNAME .
 lp.liverail.com CNAME .
 lp.lptrack.co CNAME .
@@ -46820,6 +46855,7 @@ qtzjozseyxskxw.bid CNAME .
 quacksquirrel.com CNAME .
 quad-cleaner.com CNAME .
 quadrality.live CNAME .
+quadrupleclick.com CNAME .
 quaintcan.com CNAME .
 quaizzywzluk.com CNAME .
 quakemarketing.com CNAME .
@@ -47946,6 +47982,7 @@ relojeriachilena.com CNAME .
 relytec.com CNAME .
 remain.appcpi.net CNAME .
 remarketingpixel.com CNAME .
+remarypolike.site CNAME .
 remax-longmont.com CNAME .
 remax-top-immobilien-hamburg.de CNAME .
 remekcikkek.com CNAME .
@@ -51767,6 +51804,7 @@ skytvonline.tv CNAME .
 skyviewsexpress.com CNAME .
 skzpsnpp.com CNAME .
 skzsukues.bid CNAME .
+slack-app.net CNAME .
 sladermobile-d.openx.net CNAME .
 slandshaknews.com CNAME .
 slanzashop.com CNAME .
@@ -52774,6 +52812,7 @@ ssjgkyyrqiwjol.com CNAME .
 ssl-avd.innity.com CNAME .
 ssl-avd.innity.net CNAME .
 ssl-com.cdn.ampproject.org CNAME .
+ssl-connection.net CNAME .
 ssl-google-analytics.l.google.com CNAME .
 ssl-i.cdn.openx.com CNAME .
 ssl-i.xx.openx.com CNAME .
@@ -52819,6 +52858,7 @@ ssltracking.esearchvision.com CNAME .
 sslwidget.criteo.com CNAME .
 ssmrvmarket.com CNAME .
 ssmyceoxbjqdp.com CNAME .
+sso-github.com CNAME .
 sso.canada.com CNAME .
 sso.openx.com CNAME .
 ssomgr-api.amobee.com CNAME .
@@ -53882,6 +53922,7 @@ stroopwafelpost.nl CNAME .
 strpjmp.com CNAME .
 structurerod.com CNAME .
 struq.com CNAME .
+sts-github.com CNAME .
 sts-kleintransporte.de CNAME .
 sts.advertising.microsoft.com CNAME .
 sts.batmobi.net CNAME .
@@ -54318,6 +54359,7 @@ swr-transportservice.de CNAME .
 swrap.tradedoubler.com CNAME .
 swrve.com CNAME .
 swsoft.122.2o7.net CNAME .
+swstkrihg.com CNAME .
 swtkes.com CNAME .
 swtubbksgvg.com CNAME .
 swtwtbiwbjvq.com CNAME .
@@ -55980,6 +56022,7 @@ tkeeebdseixv.com CNAME .
 tkewsaesxhf.com CNAME .
 tkgpstore.top CNAME .
 tkhoazslm.com CNAME .
+tkickhhylnvm.com CNAME .
 tkjdwcigpyazr.com CNAME .
 tkjingl.es CNAME .
 tkkfmqbisu.com CNAME .
@@ -58411,6 +58454,7 @@ tshirtnow.net CNAME .
 tshirtshopi.com CNAME .
 tsjehpxqbotsz.com CNAME .
 tskctmvpwjdb.com CNAME .
+tsl-github.com CNAME .
 tslomhfys.com CNAME .
 tsmdmunzbtu.com CNAME .
 tsmrel.ga CNAME .
@@ -59192,6 +59236,7 @@ ultraurls.com CNAME .
 ultsearch.com CNAME .
 ultycurveylips.info CNAME .
 ulufyprtd.com CNAME .
+uluswozzel.info CNAME .
 ulyrpgnqeyo.com CNAME .
 ulzcieyihw.com CNAME .
 um-21.btrll.com CNAME .
@@ -60925,6 +60970,7 @@ vkmonster.com CNAME .
 vknrfwwxhxaxupqp.pro CNAME .
 vkont.bos.ru CNAME .
 vkrgljxqn.com CNAME .
+vksmmvykm.com CNAME .
 vkspcdn.batmobi.net CNAME .
 vkudpjuvg.com CNAME .
 vkvvvnppfmm.com CNAME .
@@ -61163,6 +61209,7 @@ vppabbakjzxmz.com CNAME .
 vps.uc.cn CNAME .
 vps.ucweb.com CNAME .
 vptbn.com CNAME .
+vptggenzv.com CNAME .
 vptgnqpknpdyq.com CNAME .
 vptkyunlzfy.com CNAME .
 vpv-wiesbaden.de CNAME .
@@ -61258,6 +61305,7 @@ vt.myvisualiq.net CNAME .
 vtbyvtmabpclx.com CNAME .
 vtcxhnri.com CNAME .
 vtemaaftwexu.com CNAME .
+vtfdfdldethe.com CNAME .
 vtgcvsmzxiyoz.com CNAME .
 vtgdjgtwl.com CNAME .
 vth05dse.com CNAME .
@@ -66677,6 +66725,7 @@ x4.lov3.net CNAME .
 x4300tiz.com CNAME .
 x6.yakiuchi.com CNAME .
 x7xirtzmot.com CNAME .
+x9b05t5jsqje.com CNAME .
 xacersconceptin.info CNAME .
 xackxqdn.com CNAME .
 xad.com CNAME .
@@ -68655,6 +68704,7 @@ zxqudunt.com CNAME .
 zxreyuxvrjzxa.com CNAME .
 zxwnolwaump.com CNAME .
 zxxds.net CNAME .
+zxxtkrkzfyy3.com CNAME .
 zy16eoat1w.com CNAME .
 zyadwzlxllogm.com CNAME .
 zyban-store.shengen.ru CNAME .
