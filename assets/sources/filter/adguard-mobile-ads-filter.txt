@@ -1,8 +1,8 @@
 # Title: adguard-mobile-ads-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/11.txt
-# Last Converted - 20.04.2020
-# Total Domains - 840
+# Last Converted - 21.04.2020
+# Total Domains - 841
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -842,6 +842,7 @@
 0.0.0.0 youlamedia.com
 0.0.0.0 youmi.net
 0.0.0.0 youradexchange.com
+0.0.0.0 yovoads.com
 0.0.0.0 yuhuads.com
 0.0.0.0 zedo.com
 0.0.0.0 zhfosenghtr.com

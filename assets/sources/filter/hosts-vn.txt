@@ -1,8 +1,8 @@
 # Title: hosts-vn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-# Last Converted - 20.04.2020
-# Total Domains - 1302
+# Last Converted - 21.04.2020
+# Total Domains - 1308
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -116,6 +116,7 @@
 0.0.0.0 ads.tinmoi.vn
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.vietad.vn
+0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vkool.info
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads.zalo.me
@@ -135,6 +136,10 @@
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 adtima-video-te-vnso-pt-15.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-30.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-31.zadn.vn
+0.0.0.0 adtima-video-te-vnso-zn-4.zadn.vn
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtimes.admicro.vn
@@ -1124,6 +1129,7 @@
 0.0.0.0 tracking.meete.co
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.vht.com.vn
+0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vietnamnetad.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yomedia.vn
