@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.04.112
-# Release: 112
-# Entries: 68,716
+# Version: 20.04.113
+# Release: 113
+# Entries: 68,731
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 21 Apr 20 00:13:30
+# Updated: Wed, 22 Apr 20 00:15:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -6622,6 +6622,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertiseyourgame.com
 0.0.0.0 advertising-api.gumgum.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising-eu.amazon.com
 0.0.0.0 advertising.amazon.com
 0.0.0.0 advertising.amazon.de
@@ -7314,8 +7315,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aiprvqqnhm.com
 0.0.0.0 aiqua-sdk.c.appier.net
 0.0.0.0 airartapt.site
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
 0.0.0.0 airbrake.io
 0.0.0.0 airdauks.net
 0.0.0.0 airflow.maribacaberita.com
@@ -9170,7 +9169,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.advista.no
 0.0.0.0 api.affinesystems.com
 0.0.0.0 api.agoda.com.edgekey.net
-0.0.0.0 api.airbrake.io
 0.0.0.0 api.airpush.com
 0.0.0.0 api.akhbarak.uodoo.com
 0.0.0.0 api.allnews.uodoo.com
@@ -10758,6 +10756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 auremonlus.eu
 0.0.0.0 aurhgaees.com
+0.0.0.0 aurjueeh.com
 0.0.0.0 aurtooks.com
 0.0.0.0 aurynquest.de
 0.0.0.0 aus-mec-tracking.adalyser.com
@@ -12870,6 +12869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmi-shop.top
 0.0.0.0 bmichkohfqtnvq.com
 0.0.0.0 bmjpxyrpiyq.com
+0.0.0.0 bmkz57b79pxk.com
 0.0.0.0 bmmqsdyud.com
 0.0.0.0 bmnr.pw
 0.0.0.0 bmoshyiypks.com
@@ -26235,6 +26235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gk.loadmill.com
 0.0.0.0 gkaatcjxwa.com
 0.0.0.0 gkatquevzk.com
+0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gkhfahrtren.com
 0.0.0.0 gkhyhmtj.com
 0.0.0.0 gkiqfnjtwmj.bid
@@ -26262,7 +26263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 glargoun.uk
 0.0.0.0 glaserbau.at
 0.0.0.0 glasgro.com
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glasses-ebay.com
 0.0.0.0 glasses-sale.com
@@ -27121,6 +27121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gsdsccoo.com
 0.0.0.0 gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
+0.0.0.0 gseyriwpozfxf.com
 0.0.0.0 gsezbakx.com
 0.0.0.0 gsf-cf.softonic.com
 0.0.0.0 gsghbxydcyum.com
@@ -27735,6 +27736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hbopenbid66000nf.pubmatic.com
 0.0.0.0 hbopenbid88000nf.pubmatic.com
 0.0.0.0 hbsdk-config.log.smaato.net
+0.0.0.0 hbtzzlcxfijk.com
 0.0.0.0 hbx-lg.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 hbxlp.media.net
@@ -29209,6 +29211,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iadmoo.apple.com
 0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 iafjzbzqdgxq.com
 0.0.0.0 iafqqcsw.com
 0.0.0.0 iag37.bemobtrk.com
 0.0.0.0 iagsqudxpcfr.com
@@ -40181,6 +40184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 norcx.com
 0.0.0.0 nord-hardware.com
 0.0.0.0 nord.adr.com.ua
+0.0.0.0 nordfreevpn.com
 0.0.0.0 nordfriesenpower.de
 0.0.0.0 nordiccountry.cz
 0.0.0.0 nordichardware.se
@@ -41311,6 +41315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 old.publishers.adsterra.com
 0.0.0.0 oldenburger-inlinernacht.de
 0.0.0.0 oldgames.zp.ua
+0.0.0.0 oldqsuoemchpr.com
 0.0.0.0 oldsupport.kissmetrics.com
 0.0.0.0 oldtiger.net
 0.0.0.0 olejgcdzgb.bid
@@ -50725,6 +50730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 semireproji.pro
 0.0.0.0 semiyun.com
 0.0.0.0 semovice.com
+0.0.0.0 sempcxjajh.com
 0.0.0.0 sencelles.info
 0.0.0.0 send.microadinc.com
 0.0.0.0 senddroid.com
@@ -56080,6 +56086,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tlecwkrygjas.com
 0.0.0.0 tlg.mookie1.com
 0.0.0.0 tlgprhsl.com
+0.0.0.0 tlgvoeeuhxsd.com
 0.0.0.0 tlhadcbtntr.com
 0.0.0.0 tlhiatdhw.com
 0.0.0.0 tljikqcijttf.com
@@ -59085,6 +59092,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufc-mettmach.at
 0.0.0.0 ufelatujvbhtbo.com
 0.0.0.0 ufeuyyfoguo.com
+0.0.0.0 uffpsmfefu.com
 0.0.0.0 ufnd.hotchedmothe.club
 0.0.0.0 ufnozeotbqsn.com
 0.0.0.0 ufoukolt.com
@@ -59151,6 +59159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uilknldyynwm.com
 0.0.0.0 uimovil.com
 0.0.0.0 uimrmuoztkoia.com
+0.0.0.0 uimrnhpei.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
 0.0.0.0 uinelypresse.info
@@ -59225,6 +59234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ukvkloytfaw.bid
 0.0.0.0 ukwotnfnhk.com
 0.0.0.0 ukwoxufaepbhn.com
+0.0.0.0 ukyyjicbqdx.com
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ul.cdn946.net
 0.0.0.0 ulajilala.com
@@ -59470,6 +59480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uopayiycy.com
 0.0.0.0 uophrutbsb.com
 0.0.0.0 uopto.iqm.com
+0.0.0.0 uopvdbudoe.com
 0.0.0.0 uoqktpjfrctroa.com
 0.0.0.0 uorhedemxtni.com
 0.0.0.0 uowpygtwql.com
@@ -61230,6 +61241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.vibrantmedia.com
 0.0.0.0 vpn1.us
 0.0.0.0 vpn2.branch.io
+0.0.0.0 vpn4test.net
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vpndcpxavg.com
 0.0.0.0 vpnfaster.s.xoxknct.com
@@ -61737,6 +61749,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wcmcs.net
 0.0.0.0 wcobqyeqpckkzh.com
 0.0.0.0 wcomhost.com
+0.0.0.0 wcpkhkyuzp.com
 0.0.0.0 wcqlebpges.com
 0.0.0.0 wct.click
 0.0.0.0 wctrk.com
@@ -62800,6 +62813,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ws2.tapjoyads.com
 0.0.0.0 ws3.tapjoyads.com
 0.0.0.0 ws33.tapjoyads.com
+0.0.0.0 ws38.watashinonegai.ru
 0.0.0.0 ws4.tapjoyads.com
 0.0.0.0 wsback-apps.prod.cloud.ogury.io
 0.0.0.0 wsback-get-config.prod.cloud.ogury.io
@@ -67504,6 +67518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ydkhkjmefxy.com
 0.0.0.0 ydkrabhtgci.com
 0.0.0.0 ydlrdzlbgs.com
+0.0.0.0 ydlwrwbjosjycn.com
 0.0.0.0 ydoksieuml.com
 0.0.0.0 ydrinkletremem.site
 0.0.0.0 ydsnqaekjr.com

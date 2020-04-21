@@ -1,8 +1,8 @@
 # Title: sbc-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Converted - 21.04.2020
-# Total Domains - 859
+# Last Converted - 22.04.2020
+# Total Domains - 865
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -86,6 +86,7 @@
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adtekmedia.com
 0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 adw.ero-advertising.com
 0.0.0.0 adwpaces.ero-advertising.com
 0.0.0.0 adzerk.com
@@ -108,8 +109,10 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.ero-advertising.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.lk.api.ditto.com
 0.0.0.0 analytics.logsss.com
+0.0.0.0 analytics.modul.ac.at
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.xl.pt
@@ -395,6 +398,7 @@
 0.0.0.0 nl1.ero-advertising.com
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nners.ero-advertising.com
+0.0.0.0 nordfreevpn.com
 0.0.0.0 nyc.thor.rtk.io
 0.0.0.0 oata.ero-advertising.com
 0.0.0.0 opads.ero-advertising.com
@@ -544,6 +548,7 @@
 0.0.0.0 videoplayer.vice.technology
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
 0.0.0.0 vidutils.taboola.com
+0.0.0.0 vpn4test.net
 0.0.0.0 vvavesltd.servebeer.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wc-tracking.lavasoft.com
@@ -558,6 +563,7 @@
 0.0.0.0 wks.ero-advertising.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wow.ero-advertising.com
+0.0.0.0 ws38.watashinonegai.ru
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wsw.ero-advertising.com
 0.0.0.0 wta.ero-advertising.com
