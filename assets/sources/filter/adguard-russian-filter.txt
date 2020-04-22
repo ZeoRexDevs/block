@@ -1,8 +1,8 @@
 # Title: adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 22.04.2020
-# Total Domains - 3325
+# Last Converted - 23.04.2020
+# Total Domains - 3329
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -81,6 +81,7 @@
 0.0.0.0 7rtv.com
 0.0.0.0 7wwchtqe.ru
 0.0.0.0 89eb01f7f8503aef.com
+0.0.0.0 8c9cz5kp0o.com
 0.0.0.0 8coins.net
 0.0.0.0 8test.ru
 0.0.0.0 8testov.ru
@@ -145,6 +146,7 @@
 0.0.0.0 ad.topwar.ru
 0.0.0.0 ad.velomania.ru
 0.0.0.0 ad.vo-media.ru
+0.0.0.0 ad.zima.kg
 0.0.0.0 ad1game.ru
 0.0.0.0 ad2.rambler.ru
 0.0.0.0 ad2games.com
@@ -597,6 +599,7 @@
 0.0.0.0 brlxlpe8pmdgqv.ru
 0.0.0.0 brndrm.com
 0.0.0.0 brokeloy.com
+0.0.0.0 browser1.ru
 0.0.0.0 bs.commontools.net
 0.0.0.0 bseen2.biz
 0.0.0.0 bshjzxt3apcciws.ru
@@ -801,6 +804,7 @@
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d30gt5larl1k8h.cloudfront.net
+0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d9c47b2e6aec5c8dbdab.date
 0.0.0.0 da.realdmn.com
 0.0.0.0 da.rosrabota.ru
@@ -822,6 +826,7 @@
 0.0.0.0 dcplayf.com
 0.0.0.0 dcwacl.com
 0.0.0.0 dddevki4u.com
+0.0.0.0 ddxmgy.com
 0.0.0.0 debitcrebit669.com
 0.0.0.0 dejionsite.pro
 0.0.0.0 delightcash.com
@@ -1610,7 +1615,6 @@
 0.0.0.0 ljteas.com
 0.0.0.0 lnews.riafan.ru
 0.0.0.0 loader-tor.ru
-0.0.0.0 loader.adrelayer.com
 0.0.0.0 loadmoney.ru
 0.0.0.0 lobster.unionpeer.com
 0.0.0.0 loders.club

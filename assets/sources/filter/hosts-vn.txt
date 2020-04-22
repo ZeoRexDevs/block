@@ -1,8 +1,8 @@
 # Title: hosts-vn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-# Last Converted - 22.04.2020
-# Total Domains - 1308
+# Last Converted - 23.04.2020
+# Total Domains - 1326
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -112,6 +112,7 @@
 0.0.0.0 ads.novanet.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.sporttv.today
+0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads.tinmoi.vn
 0.0.0.0 ads.vidoomy.com
@@ -135,11 +136,8 @@
 0.0.0.0 adt.com.vn
 0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
+0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
-0.0.0.0 adtima-video-te-vnso-pt-15.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-30.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-31.zadn.vn
-0.0.0.0 adtima-video-te-vnso-zn-4.zadn.vn
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtimes.admicro.vn
@@ -235,7 +233,9 @@
 0.0.0.0 auth.cityads.com
 0.0.0.0 auth2.cityads.com
 0.0.0.0 autoads.asia
+0.0.0.0 b.123c.vn
 0.0.0.0 b.logging.admicro.vn
+0.0.0.0 b.staging.123c.vn
 0.0.0.0 babe.ants.vn
 0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
@@ -283,6 +283,7 @@
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 carpenter.mangoads.vn
 0.0.0.0 catalog.qc.coccoc.com
+0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn-media-m.ambient-platform.com
 0.0.0.0 cdn-media.ambient-platform.com
 0.0.0.0 cdn-media.m.ambient-platform.com
@@ -395,6 +396,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 crowd.novaon.asia
 0.0.0.0 customer.mangoads.vn
+0.0.0.0 d.123c.vn
 0.0.0.0 d.adsplay.net
 0.0.0.0 d.adsplay.xyz
 0.0.0.0 d.anthill.vn
@@ -450,6 +452,7 @@
 0.0.0.0 dev-desk.adasiaholdings.com
 0.0.0.0 dev-payment.rungrinh.vn
 0.0.0.0 dev.adflex.vn
+0.0.0.0 dev.d.123c.vn
 0.0.0.0 dev.email-analytics.admicro.vn
 0.0.0.0 dev.mangoads.vn
 0.0.0.0 dev.mobilead.vn
@@ -524,6 +527,7 @@
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebookid.younetmedia.com
 0.0.0.0 facefone.laydata.com
+0.0.0.0 failover.123c.vn
 0.0.0.0 fb.fff.com.vn
 0.0.0.0 fbg.mangoads.vn
 0.0.0.0 fcd.autoads.asia
@@ -571,6 +575,7 @@
 0.0.0.0 hd.admicro.vn
 0.0.0.0 healcheck.adpia.vn
 0.0.0.0 highlandscoffee.adsota.com
+0.0.0.0 hit.123c.vn
 0.0.0.0 hmt.fff.com.vn
 0.0.0.0 hostmaster.ohchat.net
 0.0.0.0 hotro.mediaz.vn
@@ -637,6 +642,7 @@
 0.0.0.0 kiemtien.adflex.vn
 0.0.0.0 klick.vn
 0.0.0.0 kpi.admicro.vn
+0.0.0.0 l.123c.vn
 0.0.0.0 l.a.eclick.vn
 0.0.0.0 l.d.eclick.vn
 0.0.0.0 la.eclick.vn
@@ -841,6 +847,7 @@
 0.0.0.0 phi.novaon.asia
 0.0.0.0 philacct.com
 0.0.0.0 phimmedia03.com
+0.0.0.0 photo-ads.zaloapp.com
 0.0.0.0 photo.mangoads.vn
 0.0.0.0 phuclong2.mangoads.vn
 0.0.0.0 phuclongcms.mangoads.vn
@@ -889,6 +896,8 @@
 0.0.0.0 qc.klick.vn
 0.0.0.0 qc.yan.vn
 0.0.0.0 qccoccocmedia.vn
+0.0.0.0 qos-talk.123c.vn
+0.0.0.0 qos-zdn.123c.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 quangcao.thanhnien.vn
@@ -1006,6 +1015,7 @@
 0.0.0.0 st-analytics.anthill.vn
 0.0.0.0 st-au.ants.vn
 0.0.0.0 st-vcdn.anthill.vn
+0.0.0.0 st.123c.vn
 0.0.0.0 st.a.anthill.vn
 0.0.0.0 st.a.eclick.vn
 0.0.0.0 st.admin.iad.eclick.vn
@@ -1055,6 +1065,7 @@
 0.0.0.0 static2.adflex.vn
 0.0.0.0 static2.adtimaserver.vn
 0.0.0.0 staticad.thethao247.vn
+0.0.0.0 stats.123c.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.cityadstrack.com
 0.0.0.0 stats.dongphim.net
@@ -1077,6 +1088,7 @@
 0.0.0.0 survey.vietnamnetad.vn
 0.0.0.0 system.yeah1media.vn
 0.0.0.0 systracking.admicro.vn
+0.0.0.0 t.123c.vn
 0.0.0.0 t.ants.vn
 0.0.0.0 t.d.ants.vn
 0.0.0.0 t.d.eclick.vn
@@ -1137,6 +1149,8 @@
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 trending.vn
+0.0.0.0 trk.123c.vn
+0.0.0.0 trk.staging.123c.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tt.mangoads.vn
 0.0.0.0 tuyendung.admicro.vn
@@ -1305,6 +1319,10 @@
 0.0.0.0 youyou.ezimar.com
 0.0.0.0 z.vietad.vn
 0.0.0.0 zabbix.bidgear.com
+0.0.0.0 zalo-ads-240-td.zadn.vn
+0.0.0.0 zalo-ads-240.zadn.vn
+0.0.0.0 zalo-ads-480-td.zadn.vn
+0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.mediaz.vn
 0.0.0.0 zalo-ads.zadn.vn

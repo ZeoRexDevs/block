@@ -1,8 +1,8 @@
 # Title: mobile-ad-trackers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
-# Last Converted - 22.04.2020
-# Total Domains - 11066
+# Last Converted - 23.04.2020
+# Total Domains - 11044
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1553,9 +1553,6 @@
 0.0.0.0 aimg.fc2.com
 0.0.0.0 aimg.media.net
 0.0.0.0 aiqua-sdk.c.appier.net
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
-0.0.0.0 airbrake.io
 0.0.0.0 airpush.com
 0.0.0.0 ais-api.applicaster.com
 0.0.0.0 ais.applicaster.com
@@ -1974,7 +1971,6 @@
 0.0.0.0 api.adtrade.com
 0.0.0.0 api.advista.no
 0.0.0.0 api.agoda.com.edgekey.net
-0.0.0.0 api.airbrake.io
 0.0.0.0 api.airpush.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.altamob.com
@@ -2070,7 +2066,6 @@
 0.0.0.0 api.inmoji.com
 0.0.0.0 api.inrix.com
 0.0.0.0 api.insmobi.com
-0.0.0.0 api.instabug.com
 0.0.0.0 api.instalatorhbogo.siroccomobile.com
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intentiq.com
@@ -2146,7 +2141,6 @@
 0.0.0.0 api.pushwoosh.com
 0.0.0.0 api.pxlad.io
 0.0.0.0 api.quantumgraph.com
-0.0.0.0 api.queryly.com
 0.0.0.0 api.radar.io
 0.0.0.0 api.rec.mob.com
 0.0.0.0 api.recorder.duapps.com
@@ -2804,7 +2798,6 @@
 0.0.0.0 beacon-sie.krxd.net
 0.0.0.0 beacon-streamer.prod.saymedia.com
 0.0.0.0 beacon-streamer.saymedia.com
-0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.clickequations.net.edgekey.net
 0.0.0.0 beacon.deepintent.com
@@ -2836,7 +2829,6 @@
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.zeroidtech.com
 0.0.0.0 beacon.ztgame.com
-0.0.0.0 beaconapi.helpscout.net
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 beacons-production.elasticbeanstalk.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
@@ -4142,7 +4134,6 @@
 0.0.0.0 dash.parrable.com
 0.0.0.0 dash.parsely.com
 0.0.0.0 dashapi.chartbeat.com
-0.0.0.0 dashboard.localytics.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-ipv6.flurry.com
 0.0.0.0 data-location.enhance.co
@@ -4325,7 +4316,6 @@
 0.0.0.0 delb5.cxense.com
 0.0.0.0 delb8.cxense.com
 0.0.0.0 deliver.mobvista.com
-0.0.0.0 deliveroo.com.sg
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery-s3.adswizz.com
 0.0.0.0 delivery.adnetwork.vn
@@ -4603,7 +4593,6 @@
 0.0.0.0 ebda-us-east.casalemedia.com
 0.0.0.0 ebda-us-west.casalemedia.com
 0.0.0.0 ebert-digital-d.openx.net
-0.0.0.0 ebooks.localytics.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebz.io
 0.0.0.0 ec.atdmt.com
@@ -4731,7 +4720,6 @@
 0.0.0.0 engine.sponsorpay.com
 0.0.0.0 engine.spotscenered.info
 0.0.0.0 engine.voodoo-ads.io
-0.0.0.0 engineering.wootric.com
 0.0.0.0 enhance-config.fgl.com
 0.0.0.0 enhance-d.openx.net
 0.0.0.0 enrichmentservices.fccinteractive.com
@@ -4813,7 +4801,6 @@
 0.0.0.0 eu.cdn5.onthe.io
 0.0.0.0 eu.event.cmp.advertising.com
 0.0.0.0 eu.y.atwola.com
-0.0.0.0 eu2.cleverreach.com
 0.0.0.0 eua.insight.adsrvr.org
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euapi.ibm.xtify.com
@@ -4947,7 +4934,6 @@
 0.0.0.0 famobi-01.firebaseio.com
 0.0.0.0 fancrew.jp
 0.0.0.0 fancymedia-cm.admaster.com.cn
-0.0.0.0 faq.revcontent.com
 0.0.0.0 fast.a.klaviyo.com
 0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 fastapi.net
@@ -5230,7 +5216,6 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 glance.inmobi.com
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glb-ads.nejm.adtechus.com
 0.0.0.0 glbg.logsss.com
@@ -5416,7 +5401,6 @@
 0.0.0.0 hbsdk-config.log.smaato.net
 0.0.0.0 hdj.baidu.com
 0.0.0.0 heartbeat.tv.kuyun.com
-0.0.0.0 heatmaprestapi-production.eu-west-1.elasticbeanstalk.com
 0.0.0.0 heavy-d.openx.net
 0.0.0.0 heliosiq.adtech.de
 0.0.0.0 helix.inmobi.com
@@ -5855,7 +5839,6 @@
 0.0.0.0 info.adspruce.com
 0.0.0.0 info.amplitude.com
 0.0.0.0 info.instartlogic.com
-0.0.0.0 info.localytics.com
 0.0.0.0 info.startappservice.com
 0.0.0.0 info.static.startappservice.com
 0.0.0.0 info.wootric.com
@@ -5901,7 +5884,6 @@
 0.0.0.0 insights.podium.com
 0.0.0.0 insights.swrve.com
 0.0.0.0 inspiredtaste-tagan.adlightning.com
-0.0.0.0 instabug.com
 0.0.0.0 installp.com
 0.0.0.0 installrevenue.com
 0.0.0.0 installtracker.com
@@ -6585,7 +6567,6 @@
 0.0.0.0 maytag.ecorebates.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mb-cdn.stocard.de
-0.0.0.0 mb.cision.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 mb.taboola.com
 0.0.0.0 mbe-cdn-staging.fyber.com
@@ -6912,7 +6893,6 @@
 0.0.0.0 mobiletheory.com
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 mobilityware-d.openx.net
-0.0.0.0 mobilityware.helpshift.com
 0.0.0.0 mobimagic-d.openx.net
 0.0.0.0 mobimagic.com
 0.0.0.0 mobioffers.ru
@@ -8662,7 +8642,6 @@
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk.apptentive.com
 0.0.0.0 sdk.apptimize.com
-0.0.0.0 sdk.arengu.com
 0.0.0.0 sdk.asapp.com
 0.0.0.0 sdk.atlasct.com
 0.0.0.0 sdk.brainhi.com
@@ -8967,7 +8946,6 @@
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
-0.0.0.0 seu2.cleverreach.com
 0.0.0.0 sezwho.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 sfera-d.openx.net
